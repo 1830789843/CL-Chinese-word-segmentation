@@ -1,0 +1,504 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>中华人民共和国和阿根廷共和国联合声明--国际--人民网 </title>
+<meta name="keywords" content="" />
+<meta name="description" content="　　一、应阿根廷共和国总统毛里西奥·马克里邀请，中华人民共和国主席习近平于2018年11月29日至12月2日出席二十国集团领导人布宜诺斯艾利斯峰会并对阿根廷进行国事访问。　　二、习近平主席向马克里总统" />
+<meta name="copyright" content="人民网版权所有" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="1002">
+<meta name="contentid" content="30437226">
+<meta name="publishdate" content="2018-12-03">
+<meta name="author" content="103977">
+<meta name="editor" content="">
+<meta name="source" content="来源：人民日报">
+<meta name="sourcetype" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="http://www.people.com.cn/img/2016wb/page2018.css" type="text/css" media="all"  charset="utf-8" />
+
+<script type="text/javascript" src='http://tools.people.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+
+<script src="http://dup.baidustatic.com/js/dm.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000_320 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 4px 0 3px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">网站首页</a><a href="http://politics.people.com.cn/" target="_blank">时政</a><a href="http://world.people.com.cn/" target="_blank">国际</a><a href="http://finance.people.com.cn/" target="_blank">财经</a><a href="http://tw.people.com.cn/" target="_blank">台湾</a><a href="http://military.people.com.cn/" target="_blank">军事</a><a href="http://opinion.people.com.cn/" target="_blank">观点</a><a href="http://leaders.people.com.cn/" target="_blank">领导</a><a href="http://renshi.people.com.cn/" target="_blank">人事</a><a href="http://theory.people.com.cn/" target="_blank">理论</a><a href="http://legal.people.com.cn/" target="_blank">法治</a><a href="http://society.people.com.cn/" target="_blank">社会</a><a href="http://industry.people.com.cn/" target="_blank">产经</a><a href="http://edu.people.com.cn/" target="_blank">教育</a><a href="http://kpzg.people.com.cn/" target="_blank">科普</a><a href="http://sports.people.com.cn/" target="_blank">体育</a><a href="http://culture.people.com.cn/" target="_blank">文化</a><a href="http://art.people.com.cn/" target="_blank">书画</a><a href="http://house.people.com.cn/" target="_blank">房产</a><a href="http://auto.people.com.cn/" target="_blank">汽车</a><a href="http://travel.people.com.cn/" target="_blank">旅游</a><a href="http://health.people.com.cn/" target="_blank">健康</a><a href="http://tv.people.com.cn/" target="_blank">视频</a><a href="http://ip.people.com.cn/" target="_blank">知识产权</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">注册</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">退出</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/2016wb/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--banner-->
+<div class="clearfix w1000_320 banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W1_banner&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437226' charset='gbk'></script></div>
+<!--banner end-->
+<!--path-->
+<div class="clearfix w1000_320 path path2 pos_re_search">
+   <div class="fl">
+   <span id="rwb_logo"><em><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo01.png" width="112" height="46" /></a></em><i><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo2.png" width="112" height="46" /></a></i></span>
+   <span id="rwb_navpath"><a href="http://www.people.com.cn/" class="clink">人民网</a>&gt;&gt;<a href="http://world.people.com.cn/" class="clink">国际</a></span>
+   </div>
+   <div class="fr"><img src="http://www.people.com.cn/img/2016wb/images/icon01.gif" width="29" height="29" id="search_button" /><span id="rwb_map"><a href="http://www.people.com.cn/GB/138812/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon02.gif" width="29" height="29" /></a></span></div>
+   <div class="p_search" id="p_search">
+            <form action="http://search.people.com.cn/cnpeople/peoplesearch.do" name="searchForm" method="post"  target="_blank">
+            <p><input class="people_input" name="keyword" Id="keyword" value="请输入检索内容" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" type="text" /></p>
+            <p class="tc"><input type="submit" name="" value="站内检索" class="people_button_sub"></p></form>
+       </div>
+</div>
+<!--path end-->
+
+<!--text_title-->
+<div class="clearfix w1000_320 text_title">
+	<h3 class="pre"></h3>
+	<h1>中华人民共和国和阿根廷共和国联合声明</h1>
+	<h4 class="sub"></h4>
+    <p class="author"></p>
+   <div class="box01">
+      <div class="fl">2018年12月03日06:34&nbsp;&nbsp;来源：<a href="http://paper.people.com.cn/rmrb/html/2018-12/03/nw.D110000renmrb_20181203_2-02.htm" target="_blank">人民网－人民日报</a></div>
+      <div class="fr">
+         <div class="fx">
+         <div id="ops_share"></div>
+		 <script src="http://www.people.com.cn/img/2016wb/share_qr.min.js" charset="utf-8"></script>
+         </div>
+         <div class="message" id="rwb_bbstop"><a href="http://bbs1.people.com.cn/postLink.do?nid=30437226" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+   </div>
+</div>
+<!--text_title end-->
+<!--text_con-->
+<div class="clearfix w1000_320 text_con">
+   <!--text left-->
+   <div class="fl text_con_left">
+      <div class="box_con" id="rwb_zw">
+        <div class="box_pic"></div>
+        <p>
+	　　一、应阿根廷共和国总统毛里西奥·马克里邀请，中华人民共和国主席习近平于2018年11月29日至12月2日出席二十国集团领导人布宜诺斯艾利斯峰会并对阿根廷进行国事访问。</p>
+<p>
+	　　二、习近平主席向马克里总统祝贺二十国集团领导人布宜诺斯艾利斯峰会成功举办，赞赏阿根廷作为主席国发挥的重要作用和为此所付出的巨大努力。</p>
+<p>
+	　　三、访问期间，两国元首举行了热情友好和富有成果的会谈，就双边关系、全球和地区问题广泛深入交换意见，一致认为当前国际形势深刻复杂变化，中阿同意本着相互尊重、平等互利、合作共赢的原则为中阿全面战略伙伴关系注入新动力，决定加强双边关系各领域交流与合作，实现两国共同发展。</p>
+<p>
+	　　四、双方高度评价两国元首自2016年以来五次会晤取得的积极成果，一致认为两国元首密切交往是双边关系高水平发展的重要标志。两国领导人将继续及时就双边关系及共同关心的国际和地区问题交换意见。</p>
+<p>
+	　　五、中方坚定支持阿方为维护国家经济金融稳定所作努力，阿方对此表示感谢。双方将继续深化包括本币互换在内的财政和金融领域合作，扩大在双边贸易和投资中使用本币结算，鼓励两国更多金融机构到对方国家设立分支机构，为双方合作项目提供融资支持和金融服务。</p>
+<p>
+	　　六、双方一致同意保持政府、立法机关、政党、地方等各层级交往，增进相互了解，巩固两国关系发展的基础。双方祝贺于2018年11月8日在布宜诺斯艾利斯举行的中阿议会政治对话委员会第三次会议取得成果。</p>
+<p>
+	　　七、双方重申将在涉及彼此核心利益问题上继续相互坚定支持。阿方重申坚持一个中国原则。中方重申支持阿方在马尔维纳斯群岛问题上的主权要求，以及根据联合国相关决议，通过重启对话谈判，寻求和平解决争端的立场。</p>
+<p>
+	　　八、双方积极评价两国政府间常设委员会、经济合作和协调战略对话在统筹推动双边合作方面发挥的重要作用，认为此次签署的中阿政府共同行动计划（2019—2023）是指导未来5年两国各领域交流合作的行动纲领。</p>
+<p>
+	　　九、双方回顾了马克里总统2017年5月出席“一带一路”国际合作高峰论坛有关情况并一致认为，“一带一路”倡议将为中阿合作注入动力，中阿全面战略伙伴关系可扩展至“一带一路”倡议。双方同意推动两国企业在第三方市场开展相关项目合作。</p>
+<p>
+	　　十、阿方祝贺首届中国国际进口博览会成功举行，中方感谢阿方的积极参与，欢迎阿方通过博览会这一平台积极推介本国优质特色产品。</p>
+<p>
+	　　十一、双方将加强质检合作，拓展电子商务合作和贸易便利化安排，共同致力于推动双边贸易均衡增长。</p>
+<p>
+	　　十二、双方对中国企业成功参与阿根廷交通基础设施领域的项目表示满意，肯定有关领域合作进展。</p>
+<p>
+	　　同时，双方一致同意，继续落实好水电、铁路、公路等现有重大合作项目，以及基础设施建设、核能、油气、清洁能源、农业、矿业、旅游、制造业等领域合作。</p>
+<p>
+	　　十三、双方将继续在文化、教育、旅游、环保、科技、媒体、体育等领域开展交流合作。中方将向阿方提供奖学金名额，双方将共同努力促进中阿双向留学，不断增进两国人民相互了解和友谊。双方将进一步寻求推进便利签证手续，促进双方人员往来。</p>
+<p>
+	　　十四、双方积极评价访问期间签署的中华人民共和国文化和旅游部与阿根廷共和国教育、文化、科技部2019—2023年文化合作执行计划。</p>
+<p>
+	　　十五、双方可探讨举办文化年事宜。</p>
+<p>
+	　　十六、双方将深化中国—阿根廷食品科学技术中心合作，开展联合研究和科研人员交流培训。</p>
+<p>
+	　　十七、双方同意在2017年5月25日签署的南极合作谅解备忘录的框架下，开展南极科学和后勤等方面交流与合作。</p>
+<p>
+	　　十八、双方将加强外交人员培训领域交流与合作。</p>
+<p>
+	　　十九、双方将在联合国、二十国集团、世界贸易组织、七十七国集团等国际组织和多边机制框架内，就全球治理、安理会改革、落实2030年可持续发展议程、应对气候变化等重大议题持续对话，捍卫多边主义和多边贸易体制，应对全球性挑战。</p>
+<p>
+	　　双方一致认为，应通过改革增强联合国安理会的作用和责任，使之更有效率和透明，通过充分、民主协商，凝聚共识，不强行推动各方尚存巨大分歧的改革方案。</p>
+<p>
+	　　二十、中方支持阿方于2019年3月在布宜诺斯艾利斯举行第二次联合国南南合作高级别会议。双方将继续加强南南合作，并推动三方合作取得进展，为可持续发展和多边主义作出贡献。</p>
+<p>
+	　　双方将推动开展环境保护、可持续发展、可持续城市等领域合作，共同应对气候变化问题。</p>
+<p>
+	　　二十一、中方积极评价阿方在地区事务中发挥的重要作用，赞赏阿方为推动地区一体化和拓展地区国家同域外合作所作努力。阿方愿推动南方共同市场同中国开展对话。双方强调了中拉论坛第二届部长级会议所达成的共识和成果，以及平等互利、共同发展的中拉全面合作伙伴关系。</p>
+<p>
+	　　二十二、访问期间，双方签署了政治、经贸、农业、动植物检验检疫、环境、文化、教育等领域合作文件。两国元首对此表示满意。</p>
+<p>
+	　　二十三、习近平主席对马克里总统及阿根廷政府和人民在访问期间给予的热情友好接待表示衷心感谢。</p>
+<p>
+	　　2018年12月2日于布宜诺斯艾利斯&nbsp;&nbsp;</p>
+<p>
+	　　（新华社布宜诺斯艾利斯12月2日电）&nbsp;&nbsp;</p>
+<br />
+<p>
+	<span id="paper_num">　　《 人民日报 》（ 2018年12月03日 02 版）</span></p>
+<div id='hl-HideRelation'> </div><div class="zdfy clearfix"></div><center><table border="0" align="center" width="40%"><tr></tr></table></center>
+        <div class="box_pic"></div>
+        <div class="edit clearfix">(责编：白宇、樊海旭)</div>
+      </div>
+      <script type="text/javascript">
+		picbig();//小图恢复原有宽度
+		function picbig(){	
+		if($(window).width() < 415){
+			  if($(".sub").text().length == 0){
+			  	$(".sub").css("padding-top","0px")
+			  }
+			  if($(".author").text().length == 0){
+			  	$(".author").css("padding-top","0px")
+			  }
+			  $(".box_con p").each(function(index, element) {
+				/*if ($(this).is(':has(img)')) {*/
+				if ($(this).find('img').length > 0) {
+					//console.log( $(".box_con p").index(this))
+					$(".box_con p").eq($(".box_con p").index(this)).css("text-align","center");
+				}
+			  });
+			  $(".box_con p img").each(function(index, element) {
+				  var img = new Image();
+				  img.src=$(this).attr("src");
+				  $(this).load(function(){//图片加载完成
+					 if(img.width < $(".text_con_left").width() && img.width > 0 ){						
+						$(this).css("width","auto")
+					  }
+				  });				  
+			  });  
+		  }	
+		}
+	  </script>
+      <!--left-banner-->
+      <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W4_diwen&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437226' charset='gbk'></script></div>
+      <!--left-banner end-->
+      <!--下载-->
+      <div class="box_down clearfix">
+        <div class="fl"><span id="rwb_khd"><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon06.png" width="40" height="40" />人民日报客户端下载</a></span><span id="rwb_sj"><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon07.png" width="40" height="40" />手机人民网</a></span></div>
+        <div class="fr" id="rwb_bbsbot"><a href="http://bbs1.people.com.cn/postLink.do?nid=30437226" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+       <!--下载 end-->
+       <!--相关专题-->
+       <div class="clearfix box_news box_newszt">
+          <h2>相关专题</h2>
+          <ul><li><a href='/GB/191609/196151/index.html' null>拉美问题</a></li></ul>
+	   </div>
+       <!--相关专题 end-->
+       <!--推荐阅读 -->
+       <div id="rwb_tjyd">
+       <div class="clearfix box_read">
+          <h2>深度阅读</h2><div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1128/c1002-30429972.html' target="_blank">中日韩FTA谈判应加速 以助推经济全球化</a></strong>　　<a href='/n1/2018/1128/c1002-30429972.html' target="_blank">当前，全球贸易保护主义、单边主义势力抬头，经济全球化和自由贸易体制受到冲击，全球经济风险挑战加剧，因此加快中日韩自贸区谈判的重要意义比以往更加凸显。中日韩三国一衣带水，是东亚地区非常重要的三个经济体。中日韩自贸区建设被看作是推动东亚乃至亚太…</a><i class="red"><a href="/n1/2018/1128/c1002-30429972.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">国际</h6>
+</div>
+<div class="hdNews clearfix"> <p><strong>新时代的中国提供全球经济发展新机遇</strong>
+全球瞩目、世界期许，首届中国国际进口博览会即将开幕，黄浦江畔正迎来“不一般”的历史性盛会。改革开放40年，中国发展剑及履及。值此改革开放40周年的历史节点，作为我国推动新一轮高水平对外开放作出的重大决策，首届进博会将进一步向世界昭示中国改革不停顿、开放不止步的坚定决心。<i class="red"><a href=" http://world.people.com.cn/n1/2018/1104/c1002-30380740.html" target="_blank">【详细】</a></i></p>
+<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" /><a href="http://world.people.com.cn/n1/2018/0223/c1002-29829243.html" target="_blank">国际</a>|<a href="http://world.people.com.cn/GB/1030/index.html" target="_blank">国际观察</a>|<a href="http://world.people.com.cn/GB/107182/index.html" target="_blank">外媒关注</a> </h6></div></div>
+       </div>
+       <!--推荐阅读 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位07 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953433',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+       <!--相关新闻-->
+       <div id="rwb_xgxw">
+       <div class="clearfix box_news">
+          <h2>相关新闻</h2>
+          <ul><li><a href="http://world.people.com.cn/n1/2018/1128/c1002-30429248.html" target="_blank">习近平抵达马德里开始对西班牙王国进行国事访问</a></li><li><a href="http://world.people.com.cn/n1/2018/0531/c1002-30025126.html" target="_blank">关于上合组织发展，习近平这些论述很重要！</a></li><li><a href="http://world.people.com.cn/n1/2018/0512/c1002-29984272.html" target="_blank">习近平主席同阿根廷总统互致信函</a></li><li><a href="http://world.people.com.cn/n1/2018/0308/c1002-29855926.html" target="_blank">王毅谈元首外交：习近平主席亲力亲为提升中国国际地位和影响</a></li><li><a href="http://world.people.com.cn/n1/2017/0509/c1002-29261715.html" target="_blank">可持续的共同繁荣方案（“一带一路”·高端访谈）</a></li><li><a href="http://world.people.com.cn/n1/2017/0322/c1002-29161987.html" target="_blank">王小龙：中方将继续助力金砖国家的可持续发展进程</a></li><li><a href="http://world.people.com.cn/n1/2016/1110/c1002-28849003.html" target="_blank">“一带一路”，全球治理的创新探索（国际论坛）</a></li><li><a href="http://world.people.com.cn/n/2015/0205/c1002-26511462.html" target="_blank">中国重申支持阿根廷对马岛主权 中阿签重要协议</a></li></ul>
+       </div>
+       </div>
+       <!--相关新闻 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位08 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953434',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+        <!--精彩图集-->
+       <div id="rwb_jctj">
+       <div class="clearfix box_piclist">
+          <h2><a href=" http://world.people.com.cn/GB/57505/index.html ">精彩图集</a>
+</h2>
+          <ul><li><a href="http://world.people.com.cn/n1/2018/1104/c1002-30380700.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051421418714489795890.jpg" width="214" height="143" border="0" alt="金正恩观看中朝文艺工作者联合演出"/></a><a href="http://world.people.com.cn/n1/2018/1104/c1002-30380700.html" target="_blank">金正恩观看中朝文艺工作者联合演出</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376021.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051421417892326768005.jpg" width="214" height="143" border="0" alt="航拍中企承建海外最高建筑"/></a><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376021.html" target="_blank">航拍中企承建海外最高建筑</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1102/c1002-30379445.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051421416725738977048.jpg" width="214" height="143" border="0" alt="首尔举办“越冬泡菜文化节”"/></a><a href="http://world.people.com.cn/n1/2018/1102/c1002-30379445.html" target="_blank">首尔举办“越冬泡菜文化节”</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1025/c1002-30362002.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051425304018302746898.jpg" width="214" height="143" border="0" alt="日本首相的16次访华足迹"/></a><a href="http://world.people.com.cn/n1/2018/1025/c1002-30362002.html" target="_blank">日本首相的16次访华足迹</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1026/c1002-30364359.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051421412583804805147.jpg" width="214" height="143" border="0" alt="韩朝共同警备区武装解除完毕"/></a><a href="http://world.people.com.cn/n1/2018/1026/c1002-30364359.html" target="_blank">韩朝共同警备区武装解除完毕</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376136.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051426351496910515469.jpg" width="214" height="143" border="0" alt="乌克兰举办“大码小姐”选美比赛"/></a><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376136.html" target="_blank">乌克兰举办“大码小姐”选美比赛</a></li>
+</ul>
+       </div>
+       </div>
+       <!--精彩图集 end-->
+   </div>
+   <!--text left end-->
+   <!--text right-->
+   <div class="fr text_con_right">
+	  <!--ercode-->
+      <div class="clearfix box_ewm">
+      	<div class="pic"><img src="http://www.people.com.cn/img/2016wb/images/code_wx.jpg" width="115" height="115" /><span>关注人民网微信</span></div>
+        <p class="a1"><a href="https://mp.weixin.qq.com/mp/homepage?__biz=MjM5NzI3NDg4MA==&hid=3&sn=0d109387f1949a8206a9d835fe544937#wechat_redirect" target="_blank">微信</a></p>
+        <p class="a2"><a href="https://weibo.com/p/1002062286908003/home" target="_blank">微博</a></p>
+        <p class="a3"><a href="http://m.people.cn/" target="_blank">手机人民网</a></p>
+        <p class="a4"><a href="http://leaders.people.com.cn/GB/178291/218130/414212/index.html" target="_blank">地方领导留言板</a></p>
+      </div>
+      <!--ercode end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W2_PIP&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437226' charset='gbk'></script></div>
+      <!--banner end-->
+      <!--right热点推荐-->
+      <div class="clearfix box_hot" id="rwb_rdtj" >
+         <h2><a href=" http://world.people.com.cn/GB/1031/index.html ">热点推荐</a></h2>
+         <ul>
+            <li><a href='/n1/2018/1201/c1002-30436401.html' target="_blank">回顾历次G20领导人峰会主题与成果</a></li>
+<li><a href='/n1/2018/1201/c1002-30436181.html' target="_blank">美国前总统老布什逝世享年94岁 对华友好</a></li>
+<li><a href='/n1/2018/1122/c1002-30416344.html' target="_blank">5G大幕已启 将如何改变社会？</a></li>
+<li><a href='/n1/2018/1108/c1002-30388465.html' target="_blank">防“车闹” 外国如何让公交司机好好开车</a></li>
+<li><a href='/n1/2018/1108/c1002-30389719.html' target="_blank">学者探讨安倍晋三访华后中日关系走向</a></li>
+
+         </ul>
+      </div>
+      <!--right热点推荐 end-->
+<div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W3_juxing&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437226' charset='gbk'></script>
+</div>
+      <!--banner-->
+
+      <div class="banner03 clearfix">
+<!-- 广告位：PC-内页-包版位01 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4952633',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+      <!--banner end-->
+      <!--right精彩推荐-->
+      <div class="clearfix box_pic02" id="rwb_jctjr" >
+         <h2><a href=" http://world.people.com.cn/GB/57505/index.html ">国际图片</a></h2>
+         <ul class="clearfix">
+            <li><a href="http://world.people.com.cn/n1/2018/1109/c1002-30391586.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271057546346010329938.jpg" width="130" height="90" border="0" alt="威廉王子夫妇出席颁奖礼"/></a><a href="http://world.people.com.cn/n1/2018/1109/c1002-30391586.html" target="_blank">威廉王子夫妇出席颁奖礼</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1117/c1002-30406168.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271058511620965305083.jpg" width="130" height="90" border="0" alt="火灾前美国加州这么美"/></a><a href="http://world.people.com.cn/n1/2018/1117/c1002-30406168.html" target="_blank">火灾前美国加州这么美</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1115/c1002-30402878.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271051588438808813044.jpg" width="130" height="90" border="0" alt="圣诞岛红蟹大迁徙"/></a><a href="http://world.people.com.cn/n1/2018/1115/c1002-30402878.html" target="_blank">圣诞岛红蟹大迁徙</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376021.html?tdsourcetag=s_pcqq_aiomsg" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271102109920344189882.jpg" width="130" height="90" border="0" alt="马来西亚&quot;新地标&quot;"/></a><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376021.html?tdsourcetag=s_pcqq_aiomsg" target="_blank">马来西亚"新地标"</a></li>
+
+         </ul>
+      </div>
+      <!--right精彩推荐 end-->
+      <!--right视频新闻-->
+      <div class="clearfix box_pic03" id="rwb_sptj">
+         <h2>视频新闻</h2>
+         <ul class="clearfix">
+            <li><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556370154308358381.jpg" width="125" height="95" border="0" alt="德云社首秀英伦"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />德云社首秀英伦</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556368515934810582.jpg" width="125" height="95" border="0" alt="洋女婿爱打太极"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />洋女婿爱打太极</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081531396068490569310.jpg" width="125" height="95" border="0" alt="如何10秒种一棵树"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />如何10秒种一棵树</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081528540500061713357.jpg" width="125" height="95" border="0" alt="首尔旅行攻略"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />首尔旅行攻略</p></a></li>
+
+          </ul>
+          <ol class="clearfix">
+             <li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424923.html' target="_blank">父母辅导孩子作业  数老虎数到发飙</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424929.html' target="_blank">研究表明  频发自拍照会加重自恋</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424947.html' target="_blank">"卿本佳人,奈何为贼"  高颜值女嫌犯走红 </a></li>
+
+          </ol>
+      </div>
+      <!--right视频新闻  end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位02 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953269',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位03 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953330',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+      <!--right热点排行-->
+      <div class="clearfix box_ol" id="rwb_rdph">
+         <h2>热点排行</h2>
+         <ol class="ph_list">
+            <li><!--1--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436489.html" target="_blank">习近平同特朗普开始举行中美元首会晤</a></li><li><!--2--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436905.html" title="习近平同特朗普会晤达成重要共识 停止加征新的关税" target="_blank">习近平同特朗普会晤达成重要共识&nbsp;停止加…</a></li><li><!--3--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30437041.html" target="_blank">习近平同美国总统特朗普举行会晤</a></li><li><!--4--><a href="http://politics.people.com.cn/n1/2018/1202/c1001-30436430.html" title="内蒙古自治区党委第五巡视组原组长杨静波被开除党籍、开除公职" target="_blank">内蒙古自治区党委第五巡视组原组长杨静波…</a></li><li><!--5--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436432.html" title="习近平继续出席二十国集团领导人第十三次峰会" target="_blank">习近平继续出席二十国集团领导人第十三次…</a></li>
+         </ol>
+      </div>
+      <!--right热点排行 end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位04 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953394',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位05 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953395',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位06 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953414',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+   </div>
+   <!--text right end-->
+</div>
+<!--text_con end-->
+
+
+<!--copyright-->
+<div class="copyright clearfix w1000_320">
+人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved
+</div>
+
+<!-- 微信分享 -->
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+var str="中华人民共和国和阿根廷共和国联合声明--国际--人民网 ";
+var str1="中华人民共和国和阿根廷共和国联合声明";
+str=str.replace(/&nbsp;/g," ")
+str=str.replace(/&quot;/g,'"')
+str=str.replace(/<br>/g,"")
+str1=str1.replace(/&nbsp;/g," ")
+str1=str1.replace(/&quot;/g,'"')
+str1=str1.replace(/<br>/g,"")
+var wxData = {
+	"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg", // 200x200
+	"link": window.location.href,
+	"desc": "" + str + "",
+	"title": "" + str1 + ""
+};
+</script>
+<script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+
+<img src="http://counter.people.cn:8000/c.gif?id=30437226" width=0 height=0 style="display:none;">
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--baidu cloud-->
+
+
+<script type='text/javascript' LANGUAGE="JavaScript">
+	if (window.screen.width > 1280){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W5_duilian&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437226' charset='gbk'></script"+">");
+	}
+</script>
+
+<!-- 广告位：PC-内页-弹窗广告 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953436',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+
+<!--2017统计代码文章-->
+<!--2017统计代码-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '69227']);
+_paq.push(['attr', 'itemid='+30437226]);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+
+</body>
+</html>

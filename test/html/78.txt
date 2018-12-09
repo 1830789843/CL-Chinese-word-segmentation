@@ -1,0 +1,665 @@
+<!doctype html>
+<html>
+<head>
+<title>【国家宪法日】大学生手绘讲述：宪法的修改如何改变你我生活？</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<meta name="description" content="
+12月4日，是第五个国家宪法日，也是第十八个全国法制宣传日，东华理工大学的大学生以手绘形式，讲述宪法历次修改是如何改变你我生活。回顾64年来，自1954年首"/>
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="2" />
+<meta name="pagetype" content="1" />
+<meta name="catalogs" content="bbs_1" />
+<meta name="contentid" content="170091391" />
+<meta name="publishdate" content="Mon Dec 03 13:23:50 CST 2018" />
+<meta name="author" content="2180">
+<meta name="editor" content="2180">
+<meta name="source" content="来源：人民网强国论坛 原创稿">
+<meta name="sourcetype" content="1">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link href="/css_bbs/qgbbs.css?v=20180420" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="http://bbs1.people.com.cn/css_bbs/jquery-ui-1.10.0.custom.css" />
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/base/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/base/qrcode.min.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/qgbbs/2013/qgBasePlugin.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/base/qgbbs_base.js?v=20170223"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/qgbbs/2013/faces.js"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/qgbbs/2013/qgDetail.js?v=20170601"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/qgbbs/2013/include/qgSearch.js?v=1"></script>
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/base/jquery.rmw.global.js?v=20151019"></script> 	
+<script type="text/javascript" src="http://bbs1.people.com.cn/js_library/plug/jquery-ui-1.10.0.custom.min.js"></script>
+<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="http://bbs1.people.com.cn/js_library/base/dialog.js?v=3" type="text/javascript" language="javascript"></script>
+
+<script type="text/javascript" src="/js_library/qgbbs/zan.js?v=20180528"></script> 	
+
+<script>
+	if(navigator.userAgent.indexOf('MicroMessenger') !== -1){
+          var src = "http://mblog.people.com.cn/weixinJS.action?url=" + encodeURIComponent(location.href.split('#')[0]);
+          document.write('<scr'+'ipt src="' + src + '"></scr'+'ipt>');
+	}
+</script>
+<script>
+if(/micromessenger/.test(navigator.userAgent.toLowerCase())){
+    var imgUrl = 'http://bbs1.people.com.cn/images/weixinlogo.jpg';
+    var lineLink = location.href.split('#')[0];
+  var shareTitle = "\u3010\u56fd\u5bb6\u5baa\u6cd5\u65e5\u3011\u5927\u5b66\u751f\u624b\u7ed8\u8bb2\u8ff0\uff1a\u5baa\u6cd5\u7684\u4fee\u6539\u5982\u4f55\u6539\u53d8\u4f60\u6211\u751f\u6d3b\uff1f";
+  var descContent = "\u3010\u56fd\u5bb6\u5baa\u6cd5\u65e5\u3011\u5927\u5b66\u751f\u624b\u7ed8\u8bb2\u8ff0\uff1a\u5baa\u6cd5\u7684\u4fee\u6539\u5982\u4f55\u6539\u53d8\u4f60\u6211\u751f\u6d3b\uff1f";
+  peopleWXConfig.jsApiList = ['onMenuShareTimeline','onMenuShareAppMessage','onMenuShareQQ','onMenuShareWeibo'];
+  wx.config(peopleWXConfig);
+  wx.ready(function() {
+      wx.onMenuShareAppMessage({
+          title: shareTitle,
+          desc:descContent,
+          link: lineLink,
+          imgUrl:imgUrl
+      });
+      wx.onMenuShareTimeline({
+          title: shareTitle,
+          link: lineLink,
+          imgUrl:imgUrl
+      });
+      wx.onMenuShareQQ({
+          title: shareTitle,
+          link: lineLink,
+          imgUrl:imgUrl
+      });
+      wx.onMenuShareWeibo({
+          title: shareTitle,
+          link: lineLink,
+          imgUrl:imgUrl
+      });
+  });
+}
+</script>
+<script type="text/javascript">
+var cdomain = "http://bbs1.people.com.cn";
+var mdomain = "http://bbs1.people.com.cn";
+	var officialPost = 1;
+var snsdomain="http://sns.people.com.cn";
+ $(document).ready(function(){
+	rmw.global.setSNSDomain("http://sns.people.com.cn") ;
+	RMWSSO.getUserData(function(guzzLoginUser){
+		if(guzzLoginUser && guzzLoginUser.userId > 0){
+		 	var displayName = guzzLoginUser.nickname;
+			var userNick = guzzLoginUser.nickname;
+			var userId = guzzLoginUser.userId;
+			$("#loginHeaderUserNick").html(displayName+"<i></i>") ;
+			$(".loginUserNick").show();
+			$(".guest").hide();
+			$(".forumEditorUserNick").html('<a href="/userInfo.do?userNick='+userNick+'" target="_blank">'+displayName+'</a>');
+			$("#formEditorPostListImg").attr("userNick",userNick);
+			$(".showWidth").attr("userId",userId);
+			var showWidth = getCookie("BBS_SHOW_WIDTH"+userId);
+			var showWidthClick = "#showWidth"+showWidth;
+			$(showWidthClick).click();
+			var _userName =  guzzLoginUser.username;
+			$("#tableView").attr("userName",_userName);
+			$("#treeView").attr("userName",_userName);
+			$(".notAuthorOnly").attr("userName",_userName);
+	    	loadNewsCount();
+		}else{
+		    var retUrl = encodeURI(top.location.href);
+			$(".msgTips").remove();
+			$(".userReg").attr("href",rmw.sns.regUserLink("bbs",true));
+		}
+	});
+	rmw.global.bindUserPortraits($("img.portrait", $(document))) ;
+  });
+</script>
+
+</head>
+<body style="overflow-x:hidden">
+	<div class="headerNavAd clearfix">
+	<center>  
+		<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|bbs1|topfullcolumn_tieziye&db=people&border=0&local=yes&js=ie' charset='gbk'></script>
+	</center>
+</div>	<div class="rel">
+	<div class="people_line">
+<div class="tempDiv clearfix">
+  		<div class="float_l floatTitle">
+        	<p class="FTtop">【国家宪法日】大学生手绘讲述：宪法的修改如何改变你我生活？</p>
+            <p class="clearfix FTbtm">
+            	<span class="float_l"><a target="_blank" href="http://bbs1.people.com.cn">强国社区</a><span class="SMArrow"></span><a target="_blank" href="http://bbs1.people.com.cn/board/1.html">强国论坛</a></span>
+                <span class="float_R"><a href="http://bbs1.people.com.cn/userInfo.do?userNick=强国论坛" target="_blank">强国论坛</a><span class="SMline"></span>2018-12-03</span>
+            </p>
+        </div>
+        <div class="float_R buttons">
+            <div class="DDWrap mR15 freadMode float_l">
+                <span class="showPart bold">阅读设置<i></i></span>
+                <div class="hidePart modeWrap">
+	                                  <p>跟帖显示为</p>
+                  <ul class="mode clearfix">
+                    <li boardId="1" postId="170091391"  view="2" userName="-1" class=" tableView"><strong>表状</strong></li>
+                    <li boardId="1" postId="170091391"  view="1" userName="-1" class="focus treeView"><strong>树状</strong></li>
+                  </ul>
+                   <p>跟帖内容</p>
+                  <ul class="mode clearfix">
+                    <li class="notAuthorOnly focus" boardId="1" postId="170091391"><strong>全部</strong></li>
+                    <li class="authorOnly " userId="8618" boardId="1" postId="170091391"><strong>楼主直播</strong></li>
+		          </ul>
+                </div>
+             </div>
+           <div class="DDWrap float_l">
+              <span class="showPart bold share">分享<i></i></span>
+              <div class="hidePart posts_tools shareWrap clearfix">
+                  <div class="bshare-custom"><div class="bsPromo bsPromo2"></div>
+                      <a href="javascript:void(0);" class="bshare-peoplemb" title="分享到人民微博"></a>
+                      <a href="javascript:void(0);" class="bshare-sinaminiblog" title="分享到新浪微博"></a>
+                      <a href="javascript:void(0);" class="bshare-weixin" title="分享到微信"></a>
+                      <a href="javascript:void(0);" class="bshare-qzone" title="分享到QQ空间"></a>
+                      <a href="javascript:void(0);" class="bshare-qqmb" title="分享到腾讯微博"></a>
+                      <a href="javascript:void(0);" class="bshare-renren" title="分享到人人网"></a>
+                      <a class="bshare-more bshare-more-icon more-style-addthis" title="更多平台"></a>
+               </div>
+            </div>
+         </div>
+                <span class="float_l supportBtn" postId="170091391" overscore="6">赞(6)</span>
+                <span class="float_l mainrRepBtn blueBtn">快速回复</span>
+         </div>
+  </div>
+</div>
+<div id="header">
+		<div class="headerNav clearfix">
+		<ul id="headerNavUl">
+			<li><a target="_blank" href="http://bbs1.people.com.cn">社区首页</a></li>
+			<li><a target="_blank" href="http://bbs1.people.com.cn/board/1.html">论坛</a></li>
+			<li><a target="_blank" href="http://bbs1.people.com.cn//">博客</a></li>
+			<li><a target="_blank" href="http://ezheng.people.com.cn/">E政</a></li>
+			<li><a target="_blank" href="http://ft.people.com.cn/">访谈</a></li>
+			<li><a target="_blank" href="http://t.people.com.cn/">微博</a></li>
+			<li><a target="_blank" href="http://vblog.people.com.cn/">微视频 </a></li>
+			<li><a target="_blank" href="http://sns.people.com.cn/">SNS </a></li>
+		</ul>
+		<div>
+			<a target="_blank" href="http://people.com.cn">人民网首页</a>
+		</div>
+	</div>
+		<div class='logo'>
+		<a href="http://bbs1.people.com.cn" target="_blank" style="display:inline-block;width:120px;height:49px;float:left;*display:inline; *zoom:1;"></a>
+    	<div class="searchWrap">
+        	<span class="search clearfix">
+        	<span class="inputTips"><a class="closeInputTips" href="javascript:void(0);"></a></span>
+        		<span class="float_l">
+				<form action="http://bbs1.people.com.cn/quickSearch.do" name="searchFrm1" id="searchFrm1" target="_blank" method="GET" class="float_l">
+    				<input type="hidden" value="title" name="field" id="field"/>
+					<input type="hidden" value="1" name="threadtype">
+					<input type="text" autocomplete="off"  name="content" id="searchTopic" value="输入标题/笔名查找感兴趣的话题..." /> <span id="searchBtn"></span>
+				 </form>
+				 <a href="/quickSearch.do" class="seniorLink" target='_blank'>高级检索</a>
+				 </span>
+				<ul class="userCenter">
+					<li class="pT10 last guest">
+						<a class="userReg" target="_blank" href="#">注册</a>
+					</li>
+					<li class="pT10 last loginBtn guest">
+						<a href="javascript:void(0);">登录</a>
+					</li>
+    				<li class="DDWrap userMsg userNewMsg loginUserNick" style="display:none;" id="userNewMsg">
+                        <span class="showPart _hover"><em>消息</em><span id="allNum" style="display: none;">0</span><i></i></span>
+                            <div class="message_list clearfix" style="display: none;" id="newstatList_div">
+	                            <ul class="message_nav">
+	                                <li class="active" id="newstat_replyNotify_nav" detailCount="0">回复提醒</li>
+	                                <li class="" id="newstat_shortMessage_nav" detailCount="0">私信</li>
+	                            </ul>
+	                            <div class='hide_message' id='rnList_1'>暂时没有新提醒</div><div class='show_page' id='rnList_2'>查看全部</div>
+                                <div class='hide_message' id='smsList_1'>暂时没有新私信</div><div class='show_page' id='smsList_2'>进入信箱</div>
+                            </div>   
+                    </li>
+    				<li class="DDWrap userMsg loginUserNick" style="display:none;" id="DDWrap_userInfo">
+    					<span class="showPart" id="loginHeaderUserNick"><i></i></span>
+    					<ul class="hidePart">
+                            <li><a href="/personInfo.do" target="_blank" id="personInfo">个人信息</a></li>
+                            <li><a href="http://sns.people.com.cn/usr/saveImage.do" target="_blank">修改头像</a></li>
+                            <li><a href="http://sns.people.com.cn/usr/userRegister.do" target="_blank">设置</a></li>
+                            <li class="keepGray"><a href="javascript:logout();">退出</a></li>
+    					</ul>
+    				</li>
+				</ul>
+				<ul class="tipList">
+					<li class="paper" search="userNick"></li>
+					<li class="user" search="title"></li>
+				</ul> 
+			</span>
+    	</div>
+	</div>
+	<div class='hotTopic'>
+		<div class='topicWrap clearfix'>
+			<div class="entrance float_l">
+					<!--<strong>强国论坛</strong>-->
+				<span class="subNav">
+			      	时政版块
+			      <ul class="navList clearfix">
+					<li><a href="http://bbs1.people.com.cn/board/1.html" target="_blank">强国论坛</a></li>
+			        <li><a href="http://bbs1.people.com.cn/board/2.html" target="_blank">深入讨论</a></li>
+			        <li><a href="http://bbs1.people.com.cn/board/7.html" target="_blank">军事论坛</a></li>
+			        <li><a href="http://bbs1.people.com.cn/board/71.html" target="_blank">百姓监督</a></li>
+			        <li><a href="http://bbs1.people.com.cn/board/60.html" target="_blank">煮酒论史</a></li>
+			      </ul>
+			      </span>
+			      <span class="subNav">
+			      	生活版块
+			      <ul class="navList clearfix">
+					<li><a href="http://bbs1.people.com.cn/board/1/29.html" target="_blank">贴图论坛</a></li>
+					<li><a href="http://bbs1.people.com.cn/board/1/27.html" target="_blank">娱乐时尚</a></li>
+					<li><a href="http://bbs1.people.com.cn/board/24.html" target="_blank">联谊会馆</a></li>
+					<li><a href="http://bbs1.people.com.cn/board/44.html" target="_blank">文化论坛</a></li>
+					<li><a href="http://bbs1.people.com.cn/board/80.html" target="_blank">青年论坛</a></li>
+			      </ul>
+			      </span>
+			      <span class="original">
+			      	原创栏目
+			      <ul class="originalNav clearfix">
+					<li><a target="_blank" href="http://ft.people.com.cn/">访谈</a></li>
+					<li><a href="http://www.people.com.cn/32306/359302/359317/index.html" target="_blank">一语惊坛</a></li>
+					<li><a href="http://www.people.com.cn/32306/391265/index.html" target="_blank">网友活动</a></li>
+					<li><a href="http://bbs1.people.com.cn/board/158.html" target="_blank">人民慕课</a></li>
+			      </ul>
+			      </span>
+			</div>
+			<div class="float_l nav_R" id="forumsTalkingAbout"></div>
+			<script type="text/javascript">
+				/******************
+        		jQuery.ajax({
+        			url : "http://bbs1.people.com.cn/api/config.do?action=getConfigurationVal&key=forumsTalkingAbout",
+        			type: "GET",
+        			dataType: "jsonp",
+        			success: function(text){
+        				jQuery("#forumsTalkingAbout").html(text);
+        			}
+        		});
+				******************/
+				
+        		function logout(){
+        		   RMWSSO.logout(function(){
+				       location.reload(true);
+			       });
+			    }
+    		</script>
+		</div>
+	</div>
+</div>
+	<div class="outer">
+		<div class='goTop'></div>
+		<div class='ad bannerTag' id="bannerTag"></div>
+<script language="javascript" type="text/javascript">
+	jQuery.ajax({
+		url : "http://bbs1.people.com.cn/api/config.do?action=getConfigurationVal&key=postTopAdv" ,
+		type: "GET",
+		dataType: "jsonp",
+		success: function(text){
+			jQuery(".bannerTag").html(text);
+		}	
+	});	 
+</script>
+<!--
+<div class="w980 clearfix">
+    <iframe marginheight="0" style="float:left;width:770px;" marginwidth="0" frameborder="0" width="770" height="90" scrolling="no" src="http://pmm.people.com.cn/main/s?user=people|post|bigbanner&amp;db=people&amp;border=0&amp;local=yes">
+    </iframe>
+</div>
+-->		<div class='navBar'>
+	<div class="wrapNavBar clearfix">
+		<a target="_blank" href="http://people.com.cn" class="peopleLogo"></a><span>&gt;</span>
+		<a target="_blank" href="http://bbs1.people.com.cn">强国社区</a><span>&gt;</span>
+					<a target="_blank" href="http://bbs1.people.com.cn/board/1.html">强国论坛</a>
+			</div>
+	<h2>
+			<img src="/images/bbs_2013/ding.jpg" />													【国家宪法日】大学生手绘讲述：宪法的修改如何改变你我生活？
+	</h2>
+	<div class="articleInfo clearfix">
+		<ul class="author float_l">
+			<li>
+								<a href="http://bbs1.people.com.cn/userInfo.do?userNick=%E5%BC%BA%E5%9B%BD%E8%AE%BA%E5%9D%9B" target="_blank">
+					<img class="portrait" userNick="强国论坛" width="50" border="0" />
+				</a>
+							</li>
+			<li><div class="clearfix" style="margin-bottom:2px;">
+									<a target="_blank" href="http://bbs1.people.com.cn/userInfo.do?userNick=%E5%BC%BA%E5%9B%BD%E8%AE%BA%E5%9D%9B" class="float_l userNick"><font color="">强国论坛</font></a>
+								</div>
+				<div class="focusOn">
+					<span toUser="强国论坛" userId="8618" loginUser="Guest" class="followBtn">关注</span>
+					<a target="_blank" isLogin="true" toUser="强国论坛" toUserName="qglt" href="javascript:void(0);" class='sendMsg mR10' title="发私信"></a>
+					<div class="DDWrap mR15 readMode float_l">
+		                <span class="showPart bold">阅读设置<i></i></span>
+		                <div class="hidePart modeWrap">
+		                			                  <p>跟帖显示为</p>
+		                  <ul class="mode clearfix">
+		                    <li id="tableView" boardId="1" postId="170091391"  view="2" userName="-1" class=" tableView"><strong>表状</strong></li>
+		                    <li id="treeView"  boardId="1" postId="170091391"  view="1" userName="-1" class="focus treeView"><strong>树状</strong></li>
+		                  </ul>
+		                   <p>跟帖内容</p>
+		                  <ul class="mode clearfix">
+		                    <li class="notAuthorOnly focus" boardId="1" postId="170091391"><strong>全部</strong></li>
+                 		    <li class="authorOnly " userId="8618" boardId="1" postId="170091391"><strong>楼主直播</strong></li>
+		                  </ul>
+		                </div>
+             		</div>
+    	           <style type="text/css">
+    				   .postContent .showPart{width:110px;}
+					   .postContent .showPart2{height:20px;}
+    				   .postContent .showPart span{float:left;}
+    				   .postContent .hidePart{width:132px;}
+    		   		</style>
+					<div class="DDWrap float_l postContent">
+                      	<div class="showPart showPart2 bold share">
+        	              <span>分享</span>
+        	              <div class="bdsharebuttonbox" style="float:right;margin-top:-3px;">
+        	              	  <a href="#" class="bds_people" data-cmd="people" title="分享到人民微博"></a>
+        		              <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+        		              <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+        	              </div>
+        					<i></i>
+        					 <script type="text/javascript">
+        						window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+        			   		</script>
+        			  	</div>
+                      	<div class="hidePart posts_tools shareWrap clearfix">
+                          <div class="bshare-custom">
+                          	  <div class="bsPromo bsPromo2"></div>
+                              <a href="javascript:void(0);" class="bshare-qzone" title="分享到QQ空间"></a>
+                              <a href="javascript:void(0);" class="bshare-qqmb" title="分享到腾讯微博"></a>
+                              <a href="javascript:void(0);" class="bshare-renren" title="分享到人人网"></a>
+                              <a class="bshare-more bshare-more-icon more-style-addthis" title="更多平台"></a>
+              				</div>
+                    	</div>
+        			</div>
+				</li>
+		</ul>
+		<p class="replayInfo">
+			<span class="float_l mT10">阅读(<span class="readNum">1043</span>)&nbsp;回复(<span class="replayNum">6</span>)&nbsp;&nbsp;2018-12-03 13:23:50</span>
+			       		<span class="float_l supportBtn" postId="170091391" overscore="6">赞(6)</span>
+       					<span class="blueBtn mainrRepBtn float_l">快速回复</span>
+		</p>
+	</div>
+</div>
+	<article>
+    	<div class="article scrollFlag" id="post_content_170091391" allowOutsideImage="true"   content_id="170091391" content_path="http://bbs1.people.com.cn/posts/Y0/0A/23/63/7F/content_html.txt"	>
+    		      
+    		    	</div>
+		         <p class="lianxi">本帖只代表<a target="_blank" href="http://sns.people.com.cn/home.do?uid=8618">强国论坛</a>的个人观点，不代表人民网观点。 如将本文用于其他媒体出版, 请与<a target="_blank" href="http://sns.people.com.cn/home.do?uid=8618">强国论坛</a>联系。<span class="jubao float_R" onclick="openComplaintDia(this, 170091391);">举报</span></p>
+	 		<div class="erweima erweima3" id="erweima1">
+              <div> 
+               <span class="close_erweima"></span>
+               <div class="img" id="erweima_1"></div>
+               <p>微信扫一扫<br />分享本帖到朋友圈</p>
+              </div>
+            </div>
+            <div class="erweima1 erweima3" id="erweima2"> 
+              <div>
+               <span class="close_erweima"></span>
+               <div class="img" id="erweima_2"></div>
+               <p>微信扫一扫<br />分享本帖到朋友圈</p>
+              </div>
+            </div>
+	</article>		<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|bbs1|tonglan01_tieziye&db=people&border=0&local=yes&js=ie' charset='gbk'></script>				<div>
+	<iframe width="795" scrolling="no" height="380" frameborder="0" style="margin-left: 92px; margin-top: 10px; text-align: left" src="http://www.people.cn/32306/348298/index.html"></iframe>
+</div>
+<script src="/js_library/buttonLite.js" charset="utf-8" type="text/javascript"></script>
+<script src="/js_library/bshareC0.js" charset="utf-8" type="text/javascript"></script>							<ul class="fReplay clearfix author">
+	<li>
+		<a href="/userInfo.do?userNick=Guest" target="_blank">			
+			<img id="formEditorPostListImg" width="50" height="50" class="portrait" userNick="Guest" imgWidth="50" border="0" />		
+		</a>
+	</li>
+	<li class="replayli nickName forumEditorUserNick">
+		<a class="loginBtn" href="javascript:void(0);">登录</a>
+		<a class="userReg" target="_blank" href="javascript:window.location.href=rmw.sns.regUserLink('bbs',true);">注册</a>
+	</li>
+	<li class="lastLi">
+		<form >
+		<input name='parentId' id="_parentId" type='hidden'  value='170091391'/>
+		<input name='bid' type='hidden'  value='1'/>
+		<input name='titleText' type='hidden'  value=''/>
+		<input type="hidden" name="pageNo" value="" />
+		<input type="hidden" name="view" value="true" />
+		<textarea class="subTextarea" name="message">添加内容</textarea>
+		<div>
+			<span id="advancedReply" class="button float_l">图文编辑模式</span>
+			<p class="fakeLogin">
+				<span class="blueBtn float_R" onclick="submitFormPost(this);">发表</span><span class="smile"></span>
+			</p>
+		</div>
+		<div class="faces">
+			<table class="faceTable">
+			</table>
+			<ul class="facePage clearfix">
+				<li class="focus">1</li>
+				<li>2</li>
+			</ul>
+		</div>
+		</form>
+	</li>
+</ul>			<a id="replyList" name="replyList"> </a>
+<div class="replayWrap">
+    <ul class="treeReplyList clearfix">
+																			 											<li class="treeReplyItem">
+							<p class="treeTitle">
+							<span class="showSubreply mainShowSub">[-]</span>
+										<a class="treeReply" target="_blank" href="http://bbs1.people.com.cn/post/1/1/2/170091391.html">
+						【国家宪法日】大学生手绘讲述：宪法的修改如何改变你我生活？					</a>
+											<span>(<a class="userNick" href="http://bbs1.people.com.cn/userInfo.do?userNick=%E5%BC%BA%E5%9B%BD%E8%AE%BA%E5%9D%9B" target="_blank">强国论坛</a> 
+												2018-12-03 13:23:50&nbsp;)</span>
+										<span class='nowrap'>1536字</span><span>(1043/6)</span></p>
+																													<ul class="subUL" a="1">
+																 											<li>
+							<p >
+																						<a class="userNick" href="http://bbs1.people.com.cn/userInfo.do?userNick=%E9%A3%8E%E6%B3%A2%E6%BD%AE" target="_blank">风波潮:</a></span>
+																	<a class="treeReply" target="_blank" href="http://bbs1.people.com.cn/post/1/1/2/170094178.html">
+						[赞]					</a>
+											<span>(2018-12-03 16:08:20)</span>
+										<span class='nowrap'>3字</span><span>(4/0)</span></p>
+																					 											<li>
+							<p >
+																						<a class="userNick" href="http://bbs1.people.com.cn/userInfo.do?userNick=%E5%BC%BA%E5%9B%BD%E7%A4%BE%E5%91%98925" target="_blank">强国社员925:</a></span>
+																	<a class="treeReply" target="_blank" href="http://bbs1.people.com.cn/post/1/1/2/170093028.html">
+						宪法修改是与时俱进的国家和人民利益的体现。					</a>
+											<span>(2018-12-03 15:08:22)</span>
+										<span class='nowrap'>0字</span><span>(1/0)</span></p>
+																					 											<li>
+							<p >
+																						<a class="userNick" href="http://bbs1.people.com.cn/userInfo.do?userNick=%E5%BC%BA%E5%9B%BD%E7%A4%BE%E5%91%98925" target="_blank">强国社员925:</a></span>
+																	<a class="treeReply" target="_blank" href="http://bbs1.people.com.cn/post/1/1/2/170092996.html">
+						宪法的修改始要以人民的权益和国家利益为中心。					</a>
+											<span>(2018-12-03 15:06:46)</span>
+										<span class='nowrap'>0字</span><span>(6/0)</span></p>
+																					 											<li>
+							<p >
+																						<a class="userNick" href="http://bbs1.people.com.cn/userInfo.do?userNick=%E6%88%91%E6%98%AF%E7%81%B0%E5%A4%AA%E7%8B%BC2" target="_blank">我是灰太狼2:</a></span>
+																	<a class="treeReply" target="_blank" href="http://bbs1.people.com.cn/post/1/1/2/170091556.html">
+						与时俱进，赞！					</a>
+											<span>(2018-12-03 13:39:55)</span>
+										<span class='nowrap'>7字</span><span>(2/0)</span></p>
+																					 											<li>
+							<p >
+																						<a class="userNick" href="http://bbs1.people.com.cn/userInfo.do?userNick=%E6%88%91%E6%98%AF%E6%B8%A9%E6%B8%A9" target="_blank">我是温温:</a></span>
+																	<a class="treeReply" target="_blank" href="http://bbs1.people.com.cn/post/1/1/2/170091504.html">
+						太赞！					</a>
+											<span>(2018-12-03 13:35:14)</span>
+										<span class='nowrap'>3字</span><span>(1/0)</span></p>
+																					 											<li>
+							<p >
+																						<a class="userNick" href="http://bbs1.people.com.cn/userInfo.do?userNick=%E8%A9%B9%E6%B1%82%E5%AE%9E" target="_blank">詹求实:</a></span>
+																	<a class="treeReply" target="_blank" href="http://bbs1.people.com.cn/post/1/1/2/170091426.html">
+						宪法修改与时俱进，不能倒退！					</a>
+											<span>(2018-12-03 13:28:08)</span>
+										<span class='nowrap'>14字</span><span>(2/0)</span></p>
+									    </ul>
+ </div>
+ 			<!-- we need propery PAGE_FLIP[$PAGE_FLIP.pageCount][$PAGE_FLIP.totalCount] -->
+			</div>
+	<div id="footer">
+		<ul id="footerNavUl">
+		<li><a target="_blank" href="http://bbs1.people.com.cn">强国社区</a>
+		</li>
+		<li><a target="_blank" href="http://bbs1.people.com.cn/post/1/0/1/135544954.html">意见反馈</a>
+		</li>
+		<li><a target="_blank" href="/gltl.do">管理条例</a>
+		</li>
+		<li><a target="_blank" href="http://kf.people.com.cn/GB/193845/index.html">如何删帖</a>
+        </li>
+		<li><a target="_blank" href="http://bbs1.people.com.cn/help.htm">帮助</a>
+		</li>
+	</ul>
+	©&nbsp;1997-2015&nbsp;by&nbsp;<a target="_blank" href="http://www.people.com.cn">www.people.com.cn</a>&nbsp;All&nbsp;Rights&nbsp;Reserved.
+</div>
+<script src="http://www.people.com.cn/css/2010tianrun/webdig_test.js" type="text/javascript"></script>
+
+	<div id='floatTips'><p class="tipTitle">提示</p><p class="tipsCont"></p><a href="javascript:;" class="closeTip"></a></div>
+
+<!-- 顶 踩 成功的弹出框-->
+<div  class="pop_box clearfix" id="dialog" title="" style="display:none;">
+	  		   <h1 id="textTitle"></h1>
+	   		   <h2 id="textShare">你的态度靠谱吗？发到你的主页让大家评一评！</h2>
+			   <div class="shear clearfix" style="display:none;">
+			   	<strong>分享到：</strong>
+				<div class="iocn" style="display:block;">
+					<div class="bshare-custom icon-medium-plus">
+						<div class="bsPromo bsPromo1"></div>
+						<a title="分享到人民微博" class="bshare-peoplemb"></a>
+						<a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+						<a title="分享到人人网" class="bshare-renren"></a>
+						<a title="分享到QQ空间" class="bshare-qzone"></a>
+						<a title="分享到豆瓣" class="bshare-douban"></a>
+						<a title="更多平台" class="bshare-more bshare-more-icon more-style-addthis"></a>
+						<span class="BSHARE_COUNT bshare-share-count">0</span>
+	  					<p style="display: none;" id="BSHARE_TEXT" class="BSHARE_TEXT" ></p>
+					</div>
+				</div>
+			</div>
+   			<div class="pop_sucees" style="display:none;padding-top: 20px;">恭喜您成为强国社区用户！
+   			 	<a href="javascript:void(0)" id="userPassword" target="_blank"><img src="http://bbs1.people.com.cn/2013lianghui/images/edit_password.png" border="0" alt="" /></a>
+   			 	<a href="http://sns.people.com.cn/usr/home.do" target="_blank"><img src="http://bbs1.people.com.cn/2013lianghui/images/login_index.png" border="0" alt="" /></a>
+   			</div><br />
+  			<h3 class="pop_sucees" style="display:none;">用户名：<span id="myUserName"></span>&nbsp;&nbsp;&nbsp;昵称：<span id="myUserNick"></span></h3>
+</div>
+<!-- 顶 踩 成功的弹出框-->
+
+<div class="mask">
+<div class="maskBg"></div>
+<div class="maskWrap">
+	<div class="followTips">请登录后继续操作....</div>
+    <div class="maskCont">
+    	<div class="loginCont">
+        	<div class="closeMask"></div>
+            <h3>强国社区-人民网</h3>
+            <form method="post" id="loginForm">
+		      <input type="hidden" value="1" name="rememberMe">
+		      <input type="hidden" value="" id="retUrl" name="retUrl">
+		      	<table class="loginTable">
+	           	 	<tr><td>英文或数字登录名</td><td colspan="2">密码</td></tr>
+	            	<tr><td><input type="text" id="userName" name="userName" class="input"/></td><td><input type="password" id="passWord" name="password"  class="input"/></td><td><span id="login_btn" class="button">登录</span></td></tr>
+	            	<tr><td><input type="checkbox" class="keepAlive"/>在本电脑一直保持登录状态</td><td colspan="2"><a class="losePassword" href="http://sso.people.com.cn/u/findpwd/phone">忘记密码</a></td></tr>
+	            	<tr>
+						<td colspan="3">
+							<div class="otherAccount">
+								<a href="javascript:window.location.href=rmw.sns.regUserLink('bbs',true);">注册新账号</a>
+								<!--
+								
+								或使用合作伙伴账号
+									<span class="otherLoginWrap">
+										<a href="http://open.denglu.cc/transfer/qzone?appid=11646denmMU7U45KpQ1WYz2J9lfOnA" class="loginIcon tengxun"></a>
+										<a href="http://open.denglu.cc/transfer/sina?appid=11646denmMU7U45KpQ1WYz2J9lfOnA" class="loginIcon weibo"></a>
+										<a href="http://open.denglu.cc/transfer/windowslive?appid=11646denmMU7U45KpQ1WYz2J9lfOnA" class="loginIcon MSN"></a>
+										<a href="http://open.denglu.cc/transfer/renren?appid=11646denmMU7U45KpQ1WYz2J9lfOnA" class="loginIcon renren"></a>
+										<a href="http://open.denglu.cc/transfer/baidu?appid=11646denmMU7U45KpQ1WYz2J9lfOnA" ><img style="vertical-align:inherit;" src="http://bbs1.people.com.cn/images/bbs_2012/baidu.gif"></a>
+									</span>
+									-->
+							</div>
+						</td>
+					</tr>
+                </table>
+		    </form>
+        </div>
+    </div>
+</div>
+</div>	<div id="readCountFrame" style="display:none">
+		<iframe frameborder="0" scrolling="no" src="http://bbs1.people.com.cn/postReadCount.do?id=170091391&threadId=170091391&fixed=true&userId=8618"></iframe>
+	</div>
+	<input type="hidden" id="page_flip_pageNo" value="${PAGE_FLIP.pageNo}" />
+</div>
+<script>
+$(function(){
+	new QRCode("erweima_1",{
+	    text: "http://bbs1.people.com.cn/postDetail.do?id=170091391&qrcode1",
+	    width: 110,
+	    height: 110,
+	    correctLevel : QRCode.CorrectLevel.L
+	});
+    $("#erweima_1").find("img").css("margin","auto");
+    $("#erweima_1").find("table").css("margin","auto");
+    $("#erweima_1").find("table").css("height","110px");
+    $("#erweima_1").find("table").css("width","110px");
+    
+	new QRCode("erweima_2",{
+        text: "http://bbs1.people.com.cn/postDetail.do?id=170091391&qrcode2",
+        width: 110,
+        height: 110,
+        correctLevel : QRCode.CorrectLevel.L
+    });
+    $("#erweima_2").find("img").css("margin","auto");
+    $("#erweima_2").find("table").css("margin","auto");
+    $("#erweima_2").find("table").css("height","110px");
+    $("#erweima_2").find("table").css("width","110px");
+    On = 0;
+    try{
+        var o = $(".navBar").offset();
+        var o1 = $(".article").offset();
+        var otop = o.top;
+        var oleft = o.left;
+        var otop1 = o1.top;
+        var oleft1 = o1.left;
+        var ob = $(".erweima");
+        var ob1 = $(".erweima1");
+        ob.css({left:-170,top:-75});
+        ob1.css({right:-170,top:-75});
+        var s = parseInt(2*Math.random());
+        var t = (s+1)%2;
+            $(".erweima3").eq(s).animate({
+             opacity:1
+             }, 1000);
+            $(".erweima3").eq(t).hide();
+        window.On = s;
+        $(".close_erweima").bind("click",function(){
+            $(".erweima3").hide();
+        });
+    }catch(e){
+    }
+    //滚动控制二维码显示位置
+    try{
+        var Oer = $(".erweima3").eq(On);
+        var Oe_top = Oer.offset().top;
+        var Oe_left = Oer.offset().left;
+        var OerId = $(".erweima3").eq(On).attr("id");
+        if(OerId == "erweima3"){
+            $(window).scroll(function(){
+               Oer.css({left:Oe_left,top:"716px",position:"fixed"})
+            })
+        }else{
+          $(window).scroll(function(){
+           Oer.css({left:Oe_left,top:Oe_top,position:"fixed"})
+          })
+        }
+        
+    }catch(error){}
+    
+    //窗口大小控制二维码显示与隐藏
+    try{
+        var Swidth = $(document).width();
+        
+        if(Swidth < 980){
+            Oer.css({display:"none"})
+        }
+   
+        $(window).resize(function(){
+             var Swidth_sub = document.body.clientWidth;
+             
+             if(Swidth_sub <= 980){
+                Oer.css({display:"none"})
+             }else{
+                Oer.css({display:"block"})
+             }
+        });
+    }catch(error){}
+});
+</script>
+</body>
+</html>

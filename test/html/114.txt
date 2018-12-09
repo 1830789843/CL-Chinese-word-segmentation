@@ -1,0 +1,225 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>人民网图解新闻--观点--人民网</title>
+<meta name="keywords" content="图解，图解新闻，人民图解，大数据图解，时政图解，社会图解，法治图解" />
+<meta name="description" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="364827" />
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="/img/MAIN/2015/05/115585/page.css" type="text/css" media="all"  charset="utf-8" />
+</head>
+<body>
+<!--top-->
+<div class="banner1"></div>
+<!--top end--> 
+  <div class="w1000 p8_content">
+    <ul>
+    <li><a href="http://politics.people.com.cn/n1/2018/1127/c1001-30427561.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271259008733669817173.jpg" width="433" height="548" border="0" alt="【图解】从吃穿看改革开放40年：农村吃蛋增10倍，城乡买衣服增40倍"/></a><em></em><span><a href="http://politics.people.com.cn/n1/2018/1127/c1001-30427561.html" target="_blank">【图解】从吃穿看改革开放40年：农村吃蛋增10倍，城乡买衣服增40倍</a></span></li>
+<li><a href="http://politics.people.com.cn/n1/2018/1126/c1001-30422827.html" target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261726264702401957609.jpg" width="433" height="548" border="0" alt="习近平出访欧洲拉美四国并出席2018年G20峰会前瞻"/></a><em></em><span><a href="http://politics.people.com.cn/n1/2018/1126/c1001-30422827.html" target="_blank">习近平出访欧洲拉美四国并出席2018年G20峰会前瞻</a></span></li>
+<li><a href="http://politics.people.com.cn/n1/2018/1122/c1001-30415804.html" target="_blank"><img src="/NMediaFile/2018/1122/MAIN201811221035136890773839238.jpg" width="433" height="548" border="0" alt="图解：习近平2018年11月亚太之行全纪录"/></a><em></em><span><a href="http://politics.people.com.cn/n1/2018/1122/c1001-30415804.html" target="_blank">图解：习近平2018年11月亚太之行全纪录</a></span></li>
+<li><a href="http://politics.people.com.cn/n1/2018/1115/c1001-30402800.html" target="_blank"><img src="/NMediaFile/2018/1115/MAIN201811151343257204507166134.jpg" width="433" height="548" border="0" alt="图解：习近平2018年11月亚太之行前瞻"/></a><em></em><span><a href="http://politics.people.com.cn/n1/2018/1115/c1001-30402800.html" target="_blank">图解：习近平2018年11月亚太之行前瞻</a></span></li>
+<li><a href="http://politics.people.com.cn/n1/2018/1114/c1001-30401048.html" target="_blank"><img src="/NMediaFile/2018/1114/MAIN201811141623021349344732915.jpg" width="433" height="548" border="0" alt="图解：这个民调数据，中国是83％，美国是38％"/></a><em></em><span><a href="http://politics.people.com.cn/n1/2018/1114/c1001-30401048.html" target="_blank">图解：这个民调数据，中国是83％，美国是38％</a></span></li>
+
+</ul> 
+    <div class="prev"></div>
+    <div class="next"></div>
+</div>
+<div class="p1_con w1000">
+  <div class="p1_left fl">
+    <h3>H5策划</h3>
+<div class="foucs3 o_h">
+      <ol class="jCarouselLite3">
+        <ul><li><a href="http://lianghui.people.com.cn/2018npc/n1/2018/0321/c417507-29880969.html" target="_blank"><img src="/NMediaFile/2018/0322/MAIN201803221451381241788012730.jpg" width="177" height="251" border="0"/></a><span><a href="http://lianghui.people.com.cn/2018npc/n1/2018/0321/c417507-29880969.html" target="_blank"><img src="/NMediaFile/2018/0322/MAIN201803221425303893227457730.png" alt="" /></a></span></li>
+<li><a href="http://edu.people.com.cn/GB/8216/415829/415870/index.html" target="_blank"><img src="/NMediaFile/2017/1214/MAIN201712141109213651795038791.jpg" width="177" height="251" border="0"/></a><span><a href="http://edu.people.com.cn/GB/8216/415829/415870/index.html" target="_blank"><img src="/NMediaFile/2017/1214/MAIN201712141109337755672899533.png" alt="" /></a></span></li>
+<li><img src="/NMediaFile/2017/0627/MAIN201706271552306990076341378.jpg" width="177" height="251" border="0"/><span><img src="/NMediaFile/2017/0627/MAIN201706271553225118018363906.png" alt="" /></span></li>
+<li><a href="http://politics.people.com.cn/GB/8198/410535/index.html" target="_blank"><img src="/NMediaFile/2018/0109/MAIN201801090959245485164669249.jpg" width="177" height="251" border="0"/></a><span><a href="http://politics.people.com.cn/GB/8198/410535/index.html" target="_blank"><img src="/NMediaFile/2018/0109/MAIN201801090959066815701463664.jpg" alt="" />
+
+</a></span></li>
+<li><img src="/NMediaFile/2017/0306/MAIN201703061623435269421554490.jpg" width="177" height="251" border="0"/><span><img src="/NMediaFile/2017/0306/MAIN201703061624367715225452328.png" alt="" /></span></li>
+<li><img src="/NMediaFile/2017/0306/MAIN201703061622386680406409377.png" width="177" height="251" border="0"/><span><img src="/NMediaFile/2017/0306/MAIN201703061623019531765947411.png" alt="" /></span></li>
+<li><img src="/NMediaFile/2017/0122/MAIN201701220938538018045616281.jpg" width="177" height="251" border="0"/><span><img src="/NMediaFile/2017/0122/MAIN201701220939170736582215953.png" alt="" /></span></li>
+<li><img src="/NMediaFile/2016/0425/MAIN201604250914080377264064497.jpg" width="177" height="251" border="0"/><span><img src="/NMediaFile/2016/0425/MAIN201604250917192436961171704.png" alt="" /></span></li>
+<li><img src="/NMediaFile/2016/0301/MAIN201603011343394685924735014.jpg" width="177" height="251" border="0"/><span><img src="/NMediaFile/2016/0301/MAIN201603011404088451254409012.png" alt="" /></span></li>
+<li><img src="/NMediaFile/2015/0904/MAIN201509040955021232396774286.jpg" width="177" height="251" border="0"/><span><img src="/NMediaFile/2015/0904/MAIN201509040956140641017465571.png" alt="" /></span></li>
+</ul>
+      </ol>
+      <div class="pre3"></div>
+      <div class="next3"></div>
+    </div>
+  </div>
+  <div class="p1_right fr">
+    <h3>交互图表</h3>
+    <div class="foucs4 o_h">
+      <ol class="jCarouselLite4">
+        <ul><li><a href="http://lianghui.people.com.cn/2018npc/GB/418205/index.html" target="_blank"><img src="/NMediaFile/2018/0302/MAIN201803021041161692516198615.jpg" width="306" height="204" border="0" alt="2017政府工作报告“对账单”"/></a><p><a href="http://lianghui.people.com.cn/2018npc/GB/418205/index.html" target="_blank">2017政府工作报告“对账单”</a></p></li>
+<li><a href="http://politics.people.com.cn/GB/8198/411852/411989/index.html" target="_blank"><img src="/NMediaFile/2017/0424/MAIN201704241059027970845112818.jpg" width="306" height="204" border="0" alt="探访海湖庄园-习近平特朗普庄园会晤"/></a><p><a href="http://politics.people.com.cn/GB/8198/411852/411989/index.html" target="_blank">探访海湖庄园-习近平特朗普庄园会晤</a></p></li>
+<li><a href="http://lianghui.people.com.cn/2016npc/GB/402742/index.html" target="_blank"><img src="/NMediaFile/2017/0307/MAIN201703071036565805899043979.jpg" width="306" height="204" border="0" alt="习近平两会下团组“要论”（2013-2017）"/></a><p><a href="http://lianghui.people.com.cn/2016npc/GB/402742/index.html" target="_blank">习近平两会下团组“要论”（2013-2017）</a></p></li>
+<li><a href="http://lianghui.people.com.cn/2017/GB/411358/index.html" target="_blank"><img src="/NMediaFile/2017/0307/MAIN201703071026459724898415589.jpg" width="306" height="204" border="0" alt="政府的2017年“每日工单”"/></a><p><a href="http://lianghui.people.com.cn/2017/GB/411358/index.html" target="_blank">政府的2017年“每日工单”</a></p></li>
+<li><a href="http://lianghui.people.com.cn/2017/GB/411207/index.html" target="_blank"><img src="/NMediaFile/2017/0307/MAIN201703071026466598034272154.jpg" width="306" height="204" border="0" alt="2016年政府工作报告“对账单”"/></a><p><a href="http://lianghui.people.com.cn/2017/GB/411207/index.html" target="_blank">2016年政府工作报告“对账单”</a></p></li>
+<li><a href="http://lianghui.people.com.cn/2017/GB/411187/index.html" target="_blank"><img src="/NMediaFile/2017/0307/MAIN201703071026464068382989618.jpg" width="306" height="204" border="0" alt="人民日报两会特刊“全息图”"/></a><p><a href="http://lianghui.people.com.cn/2017/GB/411187/index.html" target="_blank">人民日报两会特刊“全息图”</a></p></li>
+<li><a href="http://politics.people.com.cn/GB/8198/409167/409171/index.html" target="_blank"><img src="/NMediaFile/2017/0105/MAIN201701051642162216365689362.jpg" width="306" height="204" border="0"/></a><p>&nbsp;</p></li>
+<li><a href="http://lianghui.people.com.cn/2016npc/GB/402814/index.html" target="_blank"><img src="/NMediaFile/2017/0215/MAIN201702151402027554816311688.jpg" width="306" height="204" border="0"/></a><p>&nbsp;</p></li>
+</ul>
+      </ol>
+      <div class="pre4"></div>
+      <div class="next4"></div>
+    </div>
+  </div>
+</div>
+
+<a name="1" id="1"></a>
+<div class="p2_titile clearfix">
+  <div class="w1000 clearfix">
+     <ul class="fl title02">
+<li class="t01"><a href="http://opinion.people.com.cn/GB/364827/391447/index.html">全部</a></li>
+<li class="t02"><a href="http://opinion.people.com.cn/GB/364827/391448/index.html#1">时政</a></li>
+<li class="t03"><a href="http://opinion.people.com.cn/GB/364827/391449/index.html#1">社会</a></li>
+<li class="t04"><a href="http://opinion.people.com.cn/GB/364827/391450/index.html#1">国际</a></li>
+<li class="t05"><a href="http://opinion.people.com.cn/GB/364827/391451/index.html#1">军事</a></li>
+<li class="t06"><a href="http://opinion.people.com.cn/GB/364827/391452/index.html#1">交互</a></li>
+<li class="t07"><a href="http://opinion.people.com.cn/GB/364827/391453/index.html#1">百科</a></li>
+<li class="t08"><a href="http://opinion.people.com.cn/GB/364827/391454/index.html#1">人物</a></li>
+<li class="t09"><a href="http://opinion.people.com.cn/GB/364827/391455/index.html#1">数字</a></li>
+    </ul>
+    <div class="fr"><form action="http://search.people.com.cn/rmw/GB/rmwsearch/gj_search_pd.jsp" name="searchForm" method="post"  onsubmit="if(getParameter_DJ('要闻') == false) return false;" target="_blank">
+<input type="hidden" name="XMLLIST"><input name="names" Id="names" type="text" class="t01" /><input name="Submit3"  type="image" src="/img/MAIN/2015/05/115585/images/icon01.gif"   hspace="5" align="absmiddle" width="48" height="28" border="0" /></form></div>
+  </div>
+</div>
+<div class="p2_con clearfix w1000">
+   <ul class="clearfix"><li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1127/c1001-30427561.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271040000281804454442.jpg" /></a></span>
+         <div><p>【图解】从吃穿看改革开放40年：农村吃蛋增10倍，城乡买衣服增40倍</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1126/c1001-30422827.html" target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261733000115771631375.jpg" /></a></span>
+         <div><p>图解:习近平出访欧洲拉美四国并出席2018年G20峰会前瞻</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1122/c1001-30415804.html" target="_blank"><img src="/NMediaFile/2018/1122/MAIN201811221013000476748825984.jpg" /></a></span>
+         <div><p>图解：习近平2018年11月亚太之行全纪录</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1115/c1001-30402800.html" target="_blank"><img src="/NMediaFile/2018/1115/MAIN201811151300000098367686755.jpg" /></a></span>
+         <div><p>图解：习近平2018年11月亚太之行前瞻</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1114/c1001-30401048.html" target="_blank"><img src="/NMediaFile/2018/1114/MAIN201811141624000344530904492.jpg" /></a></span>
+         <div><p>图解：这个民调数据，中国是83％，美国是38％</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1112/c1001-30396176.html" target="_blank"><img src="/NMediaFile/2018/1112/MAIN201811121712000369053586392.jpg" /></a></span>
+         <div><p>图解：营商环境排名中国升至46位，5年提高50位</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1110/c1001-30393240.html" target="_blank"><img src="/NMediaFile/2018/1110/MAIN201811102035000518606886307.jpg" /></a></span>
+         <div><p>图解：习近平出席进博会开幕式并举行相关活动全纪录</p></div>
+      </li>
+<li><span><em></em><a href="http://society.people.com.cn/n1/2018/1102/c1008-30379558.html" target="_blank"><img src="/NMediaFile/2018/1102/MAIN201811022326000212899735665.gif" /></a></span>
+         <div><p>15条人命的教训！动画还原重庆公交车坠江全过程</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1102/c1001-30379440.html" target="_blank"><img src="/NMediaFile/2018/1102/MAIN201811021838000006713949106.jpg" /></a></span>
+         <div><p>图解：习近平总书记民营企业座谈会金句速览</p></div>
+      </li>
+<li><span><em></em><a href="http://finance.people.com.cn/n1/2018/1102/c1004-30379046.html" target="_blank"><img src="/NMediaFile/2018/1102/MAIN201811021431000578318269606.jpg" /></a></span>
+         <div><p>一图了解首届中国国际进口博览会</p></div>
+      </li>
+<li><span><em></em><a href="http://finance.people.com.cn/n1/2018/1031/c1004-30374313.html" target="_blank"><img src="/NMediaFile/2018/1031/MAIN201810311557000405293781659.jpg" /></a></span>
+         <div><p>图解：中国国际进口博览会有多么“不一般”？</p></div>
+      </li>
+<li><span><em></em><a href="http://edu.people.com.cn/n1/2018/1030/c1006-30371919.html" target="_blank"><img src="/NMediaFile/2018/1030/MAIN201810301637000383819882627.jpg" /></a></span>
+         <div><p>图解：如何培养时代新人，26位高校书记校长这样说</p></div>
+      </li>
+<li><span><em></em><a href="http://society.people.com.cn/n1/2018/1025/c1008-30363101.html" target="_blank"><img src="/NMediaFile/2018/1025/MAIN201810251713000587455649720.jpg" /></a></span>
+         <div><p>图解:北京积分落户公示名单分析,这3家单位的员工最多</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1024/c1001-30360680.html" target="_blank"><img src="/NMediaFile/2018/1024/MAIN201810241721000324670108431.jpg" /></a></span>
+         <div><p>图解：港珠澳大桥大事记</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1023/c1001-30358308.html" target="_blank"><img src="/NMediaFile/2018/1023/MAIN201810231723000091035367090.jpg" /></a></span>
+         <div><p>一图了解桥梁界的“珠峰”——港珠澳大桥</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1019/c1001-30350538.html" target="_blank"><img src="/NMediaFile/2018/1018/MAIN201810181707000380472841746.jpg" /></a></span>
+         <div><p>图解：153个贫困县已摘帽，西藏云南贵州最多(附名单)</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1018/c1001-30349635.html" target="_blank"><img src="/NMediaFile/2018/1018/MAIN201810181621000361620177054.jpg" /></a></span>
+         <div><p>图解：八句话帮你看清经济全球化的&quot;搅局者&quot;和&quot;捍卫者&quot;</p></div>
+      </li>
+<li><span><em></em><a href="http://politics.people.com.cn/n1/2018/1015/c1001-30341480.html" target="_blank"><img src="/NMediaFile/2018/1016/MAIN201810161039000045513390264.jpg" /></a></span>
+         <div><p>图解：40年前后的交通出行数据，哪个让你感触最深？</p></div>
+      </li>
+
+</ul>
+   <div class="page_n clearfix">&nbsp;&nbsp;<a class="common_current_page">1</a>&nbsp;<a href='index2.html'  >2</a>&nbsp;<a href='index3.html'  >3</a>&nbsp;<a href='index4.html'  >4</a>&nbsp;<a href='index5.html'  >5</a>&nbsp;<a href='index6.html'  >6</a>&nbsp;&nbsp;&nbsp;<a href='index2.html'  >下一页</a></div>
+   <div class="more clearfix"><img src="/img/MAIN/2015/05/115585/images/icon11.png" width="19" height="12" />点击加载更多</div><!--all page--><!--PageNo=54-->
+</div>
+
+
+
+<a title="返回顶部" class="go_top" href="#"></a>
+
+<style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved</div>
+
+<script src="/img/MAIN/2015/05/115585/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="/img/MAIN/2015/04/115491/js/jquery.jdt.js" type="text/javascript"></script>
+<script src="/img/MAIN/2015/04/115491/js/roundabout.js" type="text/javascript"></script>
+<script src="/img/MAIN/2015/04/115491/js/roundshapes.js" type="text/javascript"></script>
+<script src="/img/MAIN/2015/05/115585/jcarousellite_1.0.1.min.js" type="text/javascript"></script>
+
+<script src="/img/MAIN/2015/04/115491/js/lv_main.js" type="text/javascript"></script>
+<script language="JavaScript">
+$(document).ready(function(){
+try{
+  $(".jCarouselLite3").jCarouselLite({
+    btnNext: ".next3",
+    btnPrev: ".pre3",
+	auto: null,
+	visible:3,
+	circular:false
+    });
+}catch(e){}
+try{
+    $(".jCarouselLite4").jCarouselLite({
+    btnNext: ".next4",
+    btnPrev: ".pre4",
+    auto: null,
+    visible:1,
+    circular:false
+    });
+}catch(e){}
+});
+</script>
+<script language="javascript" type="text/javascript">
+$(document).ready(function() {
+  $(".banner1").animate({"background-image": "url(/img/MAIN/2015/05/115585/images/banner1.jpg) "},200, function() {
+   $(".banner1").animate({"background-image": "url(/img/MAIN/2015/05/115585/images/banner2.jpg) "},200, function() {
+    $(".banner1").animate({"background-image": "url(/img/MAIN/2015/05/115585/images/banner3.jpg) "},200);    
+   }); 
+  });
+});
+</script>
+<script>
+$(document).ready(function() {
+    /*$(".page_n").hide();
+	$(".p2_con ul li").each(function(index, element) {
+         if(index>=6){
+				$(".p2_con ul li").eq(index).hide()
+				}
+		//if(index%2==0){
+		//		$(".p2_con ul li").eq(index).addClass("a2")
+		//}
+        });
+	$(".more").click(function(){
+		$(".p2_con ul li").show();
+		$(".more").hide();
+		$(".page_n").show();
+		})	*/
+});
+</script>
+<script src="/css/search.js"></script> 
+
+<script src="/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"></script>
+</body>
+</html>

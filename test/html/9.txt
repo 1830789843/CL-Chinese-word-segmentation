@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<html>
+<head>
+<base target="_blank" />
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
+<meta content="all" name="robots" />
+<title>中华全国归国华侨联合会</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="419625" />
+<link rel="stylesheet" type="text/css" href="/img/zxresource/MAIN/2018/05/118420/css/idangerous.swiper.css"/>
+<link rel="stylesheet" type="text/css" href="/img/zxresource/MAIN/2018/05/118420/css/index.css"/>
+<script src="/img/zxresource/MAIN/2018/05/118420/js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/img/zxresource/MAIN/2018/05/118420/js/idangerous.swiper.min.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    /*focus*/
+    var swiperFocus = new Swiper('.swiper-container-focus', {
+        mode: 'horizontal',
+        autoplay: 3500,
+        autoplayDisableOnInteraction: false,
+        loop: true,
+        slidesPerView: 1,
+        pagination: '.swiper-pagination',
+        paginationClickable: true,
+        mousewheelControl: false
+    });
+    $(".swiper-container-focus").mouseenter(function () {//滑过悬停
+        swiperFocus.stopAutoplay();
+    }).mouseleave(function () {//离开开启
+        swiperFocus.startAutoplay();
+    });
+    $(document).on("click", ".swiper-button-prev", function () {
+        swiperFocus.swipePrev();
+    });
+    $(document).on("click", ".swiper-button-next", function () {
+        swiperFocus.swipeNext();
+    });
+	$(".swiper-container-focus span.swiper-pagination-switch").hover(function() {
+		$(this).click();
+		swiperFocus.stopAutoplay();
+	},function() {
+		swiperFocus.startAutoplay();
+	})
+});
+</script>
+<script src="/img/zxresource/MAIN/2018/05/118420/js/jquery.tab_2013.js" type="text/javascript" ></script>
+<script type="text/javascript">
+    $("document").ready(function(){
+        $(".qiehuan1 i").tab_2013({
+            $class_name:"one",
+            $clear_css:".qiehuan1 i",
+            $close_content:".qiehuan1_c",
+            $close_more:".qiehuan1_m"
+        });  
+    })
+</script>
+<script>
+    $(function () {
+        $(window).scroll(function(){
+            if ($(window).scrollTop()>100){
+                $("#settop").fadeIn(1500);
+            }
+            else
+            {
+                $("#settop").fadeOut(1500);
+            }
+        });
+        $("#settop").click(function(){
+            if ($('html').scrollTop()) {
+                    $('html').animate({ scrollTop: 0 }, 1000);
+                    return false;
+                }
+                $('body').animate({ scrollTop: 0 }, 1000);
+                        return false;            
+                });       
+    });
+    function showImg(){
+        $("#ewm").removeClass("hide");
+    }
+    function hideImg(){
+        $("#ewm").addClass("hide");
+    }        
+</script>
+</head>
+<body>
+<div class="body-contain">
+    <div class="top1">
+			<div class="top2">
+				<div class="t">
+					<div class="xl"></div>
+                                        <a class="sj" href="javascript:void(0)" onmouseout="hideImg()" onmouseover="showImg()"></a>
+					<div class="xl"></div>
+					<div class="lxfs"><a href="/GB/420356/index.html">联系我们</a></div>
+					<div class="xl"></div>
+    <div class="lxfs"><a href="http://old.chinaql.org/">旧版网站</a></div>
+					<div class="xl"></div>
+                                        <div id="ewm" class="hide">
+						<img src="/img/zxresource/MAIN/2018/05/118420/img/ewm.jpg" alt="">
+					</div>
+				</div>
+			</div>
+		</div>
+    <div class="title">
+        <div class="titlebox">
+            <div class="logo">
+				<span id="logo1"><a href="/GB/index.html" target=_blank><img src="/NMediaFile/2018/0717/MAIN201807171709345734621758663.png" width="369" height="52"/></a></span>
+
+            </div>
+            <div class="searchbox">
+                <form action="http://search.chinaql.org/chinaql/search.do" name="searchForm" method="post" target="_blank">
+                    <input type="hidden" name="pageNum" value="1">
+                    <input type="hidden" name="siteName" value="chinaql">
+                    <input type="hidden" name="facetFlag" value="true">
+                    <input type="hidden" name="nodeType" value="nodeRId">
+                    <input type="hidden" name="nodeId" value="419625">
+                    <input type="hidden" name="pageCode" id="pageCode" value="">
+                    <input type="hidden" name="nodeRId" value="">           
+                    <input name="keyword" type="text" id="keyword" value="">
+                    <span>
+                        <input name="SearchSubmit" value="submit" type="image" src="/img/zxresource/MAIN/2018/05/118420/img/ql_11.png">
+                    </span>
+                </form>
+            </div>
+            <div class="system"><a href="http://signup.chinaql.org/api/activity/index" target=_blank><img src="/NMediaFile/2018/0904/MAIN201809040104298271719117074.png" /></a>
+<a href="http://signup.chinaql.org/api/activity/index" target=_blank><img src="/NMediaFile/2018/0710/MAIN201807101500426460152111164.png" /></a>
+<div class="sl"></div><a href="https://mail.chinaql.org/" target=_blank><img src="/NMediaFile/2018/0904/MAIN201809040104397141763502652.png" /></a>
+<a href="https://mail.chinaql.org/" target=_blank><img src="/NMediaFile/2018/0710/MAIN201807101500428621264268183.png" /></a>
+</div>
+        </div>
+    </div>
+    <div class="nav">
+        <div class="navbox">
+            <ul class="navlist"><li class="active"><a href="/GB/index.html">首页</a></li>
+                <li><a href="/GB/419626/index.html">侨联概况</a></li>
+                <li><a href="/GB/419628/419641/index.html">今日时政</a></li>
+                <li><a href="/GB/419628/419643/index.html">侨联要闻</a></li>
+                <li><a href="/GB/419628/419645/index.html">地方快讯</a></li>
+                <li><a href="/GB/419631/419654/index.html">海外联谊</a></li>
+                <li><a href="/GB/419631/419657/index.html">经济科技</a></li>
+                <li><a href="/GB/419631/419658/index.html">文化交流</a></li>
+                <li><a href="/GB/419631/419659/index.html">维护侨益</a></li>
+                <li><a href="/GB/419631/419660/index.html">机关党建</a></li>
+                <li><a href="/GB/419631/419661/index.html">华侨华人研究</a></li>
+                <li><a href="/GB/419631/419662/index.html">博物馆</a></li>
+                <li><a  href ="javascript:return false;" onclick="return false;">华侨公益</a></li>
+                <li><a href="/GB/419628/419650/index.html">海外侨讯</a></li>
+                <li><a href="/GB/419628/419646/index.html">通知公告</a></li>
+                <li><a href="/GB/419632/index.html">品牌活动</a></li></ul>
+        </div>
+    </div>
+    
+    <div class="main-text clearfix">
+    	<h1></h1>
+        <p></p>
+    </div>
+    
+    <div class="imgbox clearfix">
+  
+        <div class="content-left">
+            <div class="content-left-top">
+                <h2>今日焦点</h2>
+                <span><a href='/n1/2018/0905/c419641-30272553.html' >人民日报评论员：守正创新推动宣传思想工作不断强起来</a>
+</span>
+            </div>
+            <div class="swiper-container-focus">
+                <div class="swiper-wrapper"><div class="swiper-slide"><div class="box"><a href="http://www.chinaql.org/n1/2018/1203/c419643-30439181.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812031409414980101211737.jpg" width="660" height="360" alt="“一带一路·侨爱心光明行”第5次走进缅甸"/><div class="bg"></div>
+                        <span>“一带一路·侨爱心光明行”第5次走进缅甸</span></a></div></div>
+<div class="swiper-slide"><div class="box"><a href="http://www.chinaql.org/n1/2018/1128/c419643-30430542.html" target=_blank><img src="/NMediaFile/2018/1128/MAIN201811281531075661500526605.jpg" width="660" height="360" alt="“华侨华人与改革开放”主题展开幕 万立骏致辞"/><div class="bg"></div>
+                        <span>“华侨华人与改革开放”主题展开幕 万立骏致辞</span></a></div></div>
+<div class="swiper-slide"><div class="box"><a href="http://www.chinaql.org/n1/2018/1203/c419643-30437982.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812030838236757851834123.jpg" width="660" height="360" alt="中国侨联“亲情中华·中医名家海外行”走进德国"/><div class="bg"></div>
+                        <span>中国侨联“亲情中华·中医名家海外行”走进德国</span></a></div></div>
+<div class="swiper-slide"><div class="box"><a href="http://www.chinaql.org/n1/2018/1203/c419643-30439422.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812031559358298727810169.jpg" width="660" height="360" alt="李卓彬副主席赴香港出席第十届国际潮青联谊年会"/><div class="bg"></div>
+                        <span>李卓彬副主席赴香港出席第十届国际潮青联谊年会</span></a></div></div>
+<div class="swiper-slide"><div class="box"><a href="http://www.chinaql.org/n1/2018/1116/c419643-30405136.html" target=_blank><img src="/NMediaFile/2018/1116/MAIN201811161323489331147108695.jpg" width="660" height="360" alt="齐全胜等一行走访中国新闻社"/><div class="bg"></div>
+                        <span>齐全胜等一行走访中国新闻社</span></a></div></div>
+</div>
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-next"><em></em><i></i></div>
+                <div class="swiper-button-prev"><em></em><i></i></div>
+            </div>
+        </div>
+        <div class="content-right">
+            <div class="content-right-list">
+                <h3 class="qiehuan1 clearfix"><i class="one"><a href="/GB/419628/419643/index.html" target="_blank">侨联要闻</a></i>
+<i><a href="/GB/419628/419641/index.html" target="_blank">今日时政</a></i>
+                    </h3>
+                <!--侨联要闻-->
+                <div class="qiehuan1_c clearfix" style="display:block">
+                    <p>
+                        <a href="http://www.chinaql.org/n1/2018/1128/c419643-30430542.html">“华侨华人与改革开放”主题展开幕 万立骏致辞</a>
+                    </p>
+                    <p><span>&nbsp;&nbsp;&nbsp;&nbsp;
+11月28日上午，“华侨华人与改革开放——庆祝改革开放40周年主题展”在中国华侨历史博物馆开幕。中国侨联党组书记、主席万立骏出席开幕式并致辞。</span>
+                    </p>
+<p>
+                        <a href="http://www.chinaql.org/n1/2018/1128/c419643-30430542.html">详细+ </a>
+                    </p>
+                    <p class="kong"></p>
+                    <ul class="listbottom"><li><a href='/n1/2018/1203/c419643-30439181.html' >“一带一路·侨爱心光明行”第5次走进缅甸</a></li>
+<li><a href='/n1/2018/1127/c419643-30427724.html' >讲政治推改革抓工作强作风 把十代会工作部署落到实处</a></li>
+<li><a href='/n1/2018/1203/c419643-30437982.html' >中国侨联“亲情中华·中医名家海外行”走进德国</a></li>
+<li><a href='/n1/2018/1130/c419643-30434767.html' >“华侨华人与改革开放四十周年”专题系列节目《四海共潮生》将于12月3日起在央视播出</a></li>
+</ul>
+                </div>
+                <!--今日时政-->
+                <div class="qiehuan1_c clearfix" style="display:none">
+                    <p>
+                        <a href="http://www.chinaql.org/n1/2018/1203/c419641-30437474.html
+">习近平同美国总统特朗普举行会晤
+</a>
+                    </p>
+                    <p><span>&nbsp;&nbsp;&nbsp;&nbsp;
+当地时间12月1日晚，国家主席习近平应邀同美国总统特朗普在布宜诺斯艾利斯共进晚餐并举行会晤。
+</span>
+                    </p>
+<p>
+                        <a href="http://www.chinaql.org/n1/2018/1203/c419641-30437474.html
+">详细+ </a>
+                    </p>
+                    <p class="kong"></p>
+                    <ul class="listbottom"><li><a href='/n1/2018/1203/c419641-30437475.html' >习近平同阿根廷总统马克里举行会谈</a></li>
+<li><a href='/n1/2018/1203/c419641-30437476.html' >习近平接受阿根廷“解放者圣马丁大项链级勋章”</a></li>
+<li><a href='/n1/2018/1203/c419641-30437513.html' >人民日报评论员：引领世界经济沿着正确轨道向前发展</a></li>
+<li><a href='/n1/2018/1203/c419641-30437541.html' >钟声：共同推动中美关系健康稳定发展</a></li>
+</ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="imgbox1"><a href="http://www.chinaql.org/GB/420997/index.html" target=_blank><img src="/NMediaFile/2018/0801/MAIN201808011057596520219758535.png" /></a>
+</div>
+    
+    <div class="reform">
+        <div class="overseas-list">
+            <div class="overseas-title"><h3>侨联动态</h3>	
+                <div><a href="/GB/419628/419644/index.html" target="_blank">更多&gt;&gt;</a></div></div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/1012/c419644-30336950.html" target=_blank><img src="/NMediaFile/2018/1012/MAIN201810120919080740639001617.jpg" width="151" height="98" alt="中国侨联携手海外侨胞讲述中国故事"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/1012/c419644-30336950.html" target=_blank>中国侨联携手海外侨胞讲述中国故事</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/1008/c419644-30328763.html' >黄晖副部长出席吉林省侨联“侨胞之家”创建活动经验交流会并在延边州调研</a></li>
+<li><a href='/n1/2018/0821/c420270-30241365.html' >“亲情中华·文化讲堂·张謇故事”走进美国旧金山</a></li>
+</ul>
+        </div>
+        <div class="overseas-list">
+            <div class="overseas-title"><h3>地方快讯</h3>	
+                <div><a href="/GB/419628/419645/index.html" target="_blank">更多&gt;&gt;</a></div></div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/1203/c419645-30439214.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812031414286728668245765.jpg" width="151" height="98" alt="王小玉出席澳门海南同乡总会庆祝澳门特区成立19周年庆典活动"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/1203/c419645-30439214.html" target=_blank>王小玉出席澳门海南同乡总会庆祝澳门特区成立19周年庆典活动</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/1203/c419645-30439224.html' >“中国华侨国际文化交流基地”在湖北襄阳举行揭牌仪式</a></li>
+<li><a href='/n1/2018/1129/c419645-30432400.html' >凝聚侨心 砥砺前行——各地侨联领导谈改革开放40周年</a></li>
+</ul>
+        </div>
+        <div class="overseas-list">
+            <div class="overseas-title"><h3>通知公告</h3>	
+                <div><a href="/GB/419628/419646/index.html">更多&gt;&gt;</a></div></div>
+            <ul class="notice_qiao"><li><a href='/n1/2018/1112/c419646-30395779.html' >中国侨联第6期青年干部培训班学员报名表</a></li>
+<li><a href='/n1/2018/1112/c419646-30395120.html' >中国侨联关于确认第六批“中国华侨国际文化交流基地”的通知</a></li>
+<li><a href='/n1/2018/1022/c419646-30355562.html' >中国侨联第23期干部培训班学员报名表</a></li>
+<li><a href='/n1/2018/1018/c419646-30349146.html' >中国侨联直属企业负责人2017年度薪酬及2015年至2017年任期激励发放信息披露</a></li>
+<li><a href='/n1/2018/0911/c419646-30286226.html' >赵乐际在第十次全国归侨侨眷代表大会上的致词</a></li>
+
+</ul>
+        </div>
+    </div>
+
+    <div class="imgbox1"><a href="http://www.chinaql.org/GB/419628/419647/420610/index.html" target=_blank><img src="/NMediaFile/2018/1116/MAIN201811160825185935080340923.jpg" /></a>
+</div>
+    
+    <div class="reform">
+        <div class="overseas-list">
+            <div class="overseas-title"><h3>海外侨讯</h3>	
+                <div><a href="/GB/419628/419650/index.html" target="_blank">更多&gt;&gt;</a></div></div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/1116/c419650-30404719.html" target=_blank><img src="/NMediaFile/2018/1116/MAIN201811161017272043579501154.jpg" width="151" height="98" alt="欧洲各界开展一战华工纪念活动"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/1116/c419650-30404719.html" target=_blank>欧洲各界开展一战华工纪念活动</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/1123/c419650-30417591.html' >“在青田，买世界”（侨界关注）</a></li>
+<li><a href='/n1/2018/1116/c419650-30404837.html' >巴新华人华侨热切期盼习近平主席到访</a></li>
+</ul>
+        </div>
+        <div class="overseas-list">
+            <div class="overseas-title"> 
+                <h3>侨界风采</h3>	
+                <div><a href="/GB/419628/419651/index.html">更多&gt;&gt;</a></div>
+          </div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/1130/c419651-30433506.html" target=_blank><img src="/NMediaFile/2018/1130/MAIN201811300837399981040616752.jpg" width="151" height="98" alt="郭占力：回报家乡成为海外侨胞的优良传统"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/1130/c419651-30433506.html" target=_blank>郭占力：回报家乡成为海外侨胞的优良传统</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/1126/c419651-30420622.html' >听他们讲“我爷爷”的故事</a></li>
+<li><a href='/n1/2018/1122/c419651-30415233.html' >我是中国改革开放见证者（商界传奇）</a></li>
+</ul>
+        </div>
+        <div class="overseas-list">
+            <div class="hrhq-title"> 
+                <h3>华侨华人研究</h3>	
+                <div><a href="/GB/419631/419661/index.html">更多&gt;&gt;</a></div>
+           </div>
+            <div class="overseas-img"><div class="overseas-left"><a href="/n1/2018/0921/c419644-30308577.html" target=_blank><img src="/NMediaFile/2018/0921/MAIN201809211756449650566182847.jpg" width="151" height="98" alt="侨研所调研组在黑龙江省进行侨情调研"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="/n1/2018/0921/c419644-30308577.html" target=_blank>侨研所调研组在黑龙江省进行侨情调研</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/0815/c419644-30229901.html' >中国华侨华人研究所副所长张秀明一行赴吉尔吉斯斯坦进行侨情调研</a></li>
+<li><a href='/n1/2018/0709/c420285-30135524.html' >【华人社团专题】从区域社会结构与在地文化系统视角看海外华人社团内部冲突——以美国为例</a></li>
+</ul>
+        </div>
+    </div>
+    <div class="imglist"><a href="/GB/419632/419665/index.html" ><img src="/NMediaFile/2018/0710/MAIN201807101520185561560355522.png" /></a>
+<a href="/GB/419632/419664/index.html" ><img src="/NMediaFile/2018/0710/MAIN201807101520183924426979259.png" /></a>
+<a href="/GB/419632/419666/index.html" ><img src="/NMediaFile/2018/0710/MAIN201807101520184954987140027.png" /></a>
+</div>
+    <div class="reform">
+        <div class="overseas-list">
+            <div class="overseas-title">
+                <h3>海外联谊</h3>	
+                <div><a href="/GB/419631/419654/index.html">更多&gt;&gt;</a></div>
+            </div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/1129/c419654-30432550.html" target=_blank><img src="/NMediaFile/2018/1129/MAIN201811291422595438876017993.jpg" width="151" height="98" alt="联谊联络部副部长朱柳会见德国湖北社团联合会代表团"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/1129/c419654-30432550.html" target=_blank>联谊联络部副部长朱柳会见德国湖北社团联合会代表团</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/1123/c419654-30417240.html' >联谊联络部副部长朱柳会见欧洲中华少数民族联谊总会代表团</a></li>
+<li><a href='/n1/2018/1119/c419654-30408950.html' >波士顿传统侨社应我会邀请访问北京、广东</a></li>
+</ul>
+        </div>
+        <div class="overseas-list">
+            <div class="overseas-title">
+                <h3>经济科技</h3>	
+                <div><a href="/GB/419631/419657/index.html">更多&gt;&gt;</a></div>
+         </div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/0921/c419643-30308433.html" target=_blank><img src="/NMediaFile/2018/0921/MAIN201809211644512205876591146.jpg" width="151" height="98" alt="第十八届海外侨界高层次人才为国服务活动成功举办"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/0921/c419643-30308433.html" target=_blank>第十八届海外侨界高层次人才为国服务活动成功举办</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/0906/c419752-30277025.html' >2018“侨智精英科博行”活动在四川绵阳举行</a></li>
+<li><a href='/n1/2018/0710/c419753-30137829.html' >中国侨商联合会代表团出席第二十四届兰洽会</a></li>
+</ul>
+        </div>
+        <div class="overseas-list">
+            <div class="overseas-title">
+                <h3>文化交流</h3>	
+                <div><a href="/GB/419631/419658/index.html">更多&gt;&gt;</a></div>
+           </div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/1203/c419643-30437982.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812031642326527987742890.jpg" width="151" height="98" alt="中国侨联“亲情中华·中医名家海外行”走进德国"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/1203/c419643-30437982.html" target=_blank>中国侨联“亲情中华·中医名家海外行”走进德国</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/1031/c420270-30373790.html' >APEC前夕“亲情中华”在巴新精彩呈现</a></li>
+<li><a href='/n1/2018/1027/c420237-30366422.html' >悉尼侨胞感谢“娘家人”送来精彩文化大餐</a></li>
+</ul>
+        </div>
+    </div>
+    <div class="reform">
+        <div class="overseas-list">
+            <div class="overseas-title">
+
+                <h3>维护侨益</h3>	
+                <div><a href="/GB/419631/419659/index.html">更多&gt;&gt;</a></div>
+          </div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/1112/c420274-30395791.html" target=_blank><img src="/NMediaFile/2018/1112/MAIN201811121509436744829726961.jpg" width="151" height="98" alt="中国侨联法顾委与最高人民法院司改办赴安徽开展联合调研"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/1112/c420274-30395791.html" target=_blank>中国侨联法顾委与最高人民法院司改办赴安徽开展联合调研</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/1112/c420879-30395804.html' >中国侨联在定点帮扶地江西上饶县举办“新形势下领导干部依法行政”专题讲座</a></li>
+<li><a href='/n1/2018/1031/c420274-30373987.html' >中国侨联权益保障部、法顾委与最高人民法院司改办联合赴吉林开展调研</a></li>
+</ul>
+        </div>
+        <div class="overseas-list">
+            <div class="overseas-title">
+                <h3>机关党建</h3>	
+                <div><a href="/GB/419631/419660/index.html">更多&gt;&gt;</a></div>
+          </div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/1127/c420294-30423480.html" target=_blank><img src="/NMediaFile/2018/1127/MAIN201811270835565070129693480.jpg" width="151" height="98" alt="权益保障部党支部参观“伟大的变革——庆祝改革开放40周年大型展览”"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/1127/c420294-30423480.html" target=_blank>权益保障部党支部参观“伟大的变革——庆祝改革开放40周年大型展览”</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/1107/c419660-30387352.html' >经济科技部党支部认真组织开展警示教育活动</a></li>
+<li><a href='/n1/2018/1107/c420294-30387507.html' >联谊联络部党支部赴毛主席纪念堂参观学习</a></li>
+</ul>
+        </div>
+        <div class="overseas-list">
+            <div class="bwg-title">
+
+                <h3>博物馆</h3>	
+                <div><a href="/GB/419631/419662/index.html">更多&gt;&gt;</a></div>
+            </div>
+            <div class="overseas-img"><div class="overseas-left"><a href="http://www.chinaql.org/n1/2018/0927/c419643-30317278.html" target=_blank><img src="/NMediaFile/2018/0927/MAIN201809271803140077107376906.jpg" width="151" height="98" alt="齐全胜副主席走访中国华侨历史博物馆"/></a></div>
+                <div class="overseas-right">
+                    <p><a href="http://www.chinaql.org/n1/2018/0927/c419643-30317278.html" target=_blank>齐全胜副主席走访中国华侨历史博物馆</a></p>
+                    
+                </div>
+</div>
+            <ul class="qiao"><li><a href='/n1/2018/0712/c419662-30143780.html' >“亲情中华·汉语桥”北京情思夏令营开营式在中国华侨历史博物馆举办</a></li>
+<li><a href='/n1/2018/0709/c419662-30135231.html' >中国梦·东城美2018年东城区美丽家园美术精品展 在中国华侨历史博物馆开幕</a></li>
+</ul>
+        </div>
+    </div>
+    
+    <!--华侨公益-->
+    <div class="welfare">
+        <div class="welfare-list">
+            <div class="welfare-title"><h3>华侨公益</h3>	
+          <div><a  href ="javascript:return false;" onclick="return false;">更多&gt;&gt;</a></div></div>
+            <div class="welfare-box">
+                <div class="welfare-img"><img src="/NMediaFile/2018/0716/MAIN201807161416448964546172294.png" width="491" height="180" alt="&#13;                    &#13;                圣彼得堡华人妇女联合会为俄孤儿院送礼物"/>
+</div>
+            </div>
+            <div class="welfare-right"><span>凝聚全球爱心力量</span>
+                    <span>搭建华侨公益平台</span>
+                    <a  href ="javascript:return false;" onclick="return false;">查看详情</a></div>
+        </div>
+        <div class="kan-list">
+            <div class="kan-title"><h3>侨刊乡讯</h3>	
+                <div><a href="/GB/419628/419652/index.html">更多&gt;&gt;</a></div></div>
+            <ul id="kan-bottom"><li><i></i><span>《中国侨联工作》</span><a href="/GB/419628/419652/420266/index.html">&gt;</a></li><li><i></i><span>《华侨华人历史研究》</span><a href="/GB/419628/419652/420265/index.html">&gt;</a></li><li><i></i><span>《海内与海外》</span><a href="/GB/419628/419652/420278/index.html">&gt;</a></li></ul>
+        </div>
+    </div>
+    <!-- 侨联文库 -->
+    <div class="library"><p><a  href ="javascript:return false;" onclick="return false;">侨联文库</a></p></div>
+
+    <div class="brand">
+        <!-- 侨联文件 -->
+        <div class="brand-list">
+            <div class="brand-title"><h3>侨联文件</h3>	
+            <div><a href="/GB/419633/419757/index.html">更多&gt;&gt;</a></div>
+</div>
+            <div class="brand-box">
+                <ul class="brand-qiao"><li><a href='/n1/2018/0911/c419646-30286226.html' >赵乐际在第十次全国归侨侨眷代表大会上的致词</a></li>
+<li><a href='/n1/2018/0911/c419646-30286212.html' >中华全国归国华侨联合会章程</a></li>
+<li><a href='/n1/2018/0911/c419646-30286181.html' >万立骏在第十次全国归侨侨眷代表大会上的报告</a></li>
+
+</ul>
+            </div>
+        </div>
+        <!-- 领导讲话 -->
+        <div class="brand-list">
+            <div class="brand-title"><h3>领导讲话</h3>	
+            <div><a href="/GB/419633/419758/index.html">更多&gt;&gt;</a></div></div>
+            <div class="brand-box">
+                <ul class="brand-qiao"><li><a href='/n1/2018/0621/c419758-30074002.html' >万立骏同志在中国侨联庆祝中华人民共和国成立68周年招待会上的讲话</a></li>
+<li><a href='/n1/2018/0621/c419758-30074001.html' >万立骏同志在全国侨联秘书长办公室工作会议上的讲话</a></li>
+<li><a href='/n1/2018/0621/c419758-30074000.html' >陈迈同志在全国侨联秘书长办公室工作会议上的讲话</a></li>
+
+</ul>
+            </div>
+        </div>
+        <!-- 侨史资料 -->
+        <div class="brand-list">
+            <div class="brand-title"><h3>侨史资料</h3>	
+            <div><a href="/GB/419633/419760/index.html">更多&gt;&gt;</a></div></div>
+            <div class="brand-box">
+                <ul class="brand-qiao"><li><a href='/n1/2018/0621/c419760-30073455.html' >《中国侨联60年纵览》第五章 全国侨联第五届委员会（1994年6月---1999年7月)第四节</a></li>
+<li><a href='/n1/2018/0621/c419760-30073454.html' >《中国侨联60年纵览》第五章 全国侨联第五届委员会（1994年6月---1999年7月)第三节</a></li>
+<li><a href='/n1/2018/0621/c419760-30073453.html' >《中国侨联60年纵览》第五章 全国侨联第五届委员会（1994年6月---1999年7月)第二节</a></li>
+
+</ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="brand">
+        <div class="brand-list">
+            <div class="brand-title"><h3>品牌资料</h3>	
+            <div><a href="/GB/419633/419761/index.html">更多&gt;&gt;</a></div></div>
+            <div class="brand-box">
+                <ul class="brand-qiao"><li><a href='/n1/2018/0621/c419761-30073464.html' >中国侨联形象识别规范（VIS）及应用指南</a></li>
+<li><a href='/n1/2018/0621/c419761-30073463.html' >亲情中华视觉识别规范VIS手册</a></li>
+<li><a href='/n1/2018/0621/c419761-30073462.html' >亲情中华标志矢量图</a></li>
+
+</ul>
+            </div>
+        </div>
+        <div class="brand-list">
+                <div class="brand-title"><h3>视频资料</h3>	
+            <div><a href="/GB/419633/419762/index.html">更多&gt;&gt;</a></div></div>
+            <div class="brand-box">
+                <ul class="brand-qiao"><li><a href='/n1/2018/0808/c419762-30216793.html' >中国侨联第七届新侨创新创业成果交流大会</a></li>
+<li><a href='/n1/2018/0624/c419762-30080345.html' >董志勇：特聘专家委员会将在经济建设上发挥智库作用</a></li>
+<li><a href='/n1/2018/0624/c419762-30080344.html' >高益槐： 一个人才会带来一个产业的发展</a></li>
+
+</ul>
+            </div>
+        </div>
+        <div class="brand-list">
+                <div class="brand-title"><h3>侨联表彰</h3>	
+            <div><a href="/GB/419633/419756/index.html">更多&gt;&gt;</a></div></div>
+            <div class="brand-box">
+                <ul class="brand-qiao"><li><a href='/n1/2018/0829/c421026-30259365.html' >中国侨联国务院侨务办公室关于表彰中国侨界杰出人物和全国归侨侨眷先进个人的决定</a></li>
+<li><a href='/n1/2018/0829/c421026-30259364.html' >人力资源社会保障部中国侨联关于表彰全国侨联系统先进集体和先进工作者的决定</a></li>
+<li><a href='/n1/2018/0829/c421026-30259363.html' >中国侨联关于表彰全国侨联系统先进组织和先进个人的决定</a></li>
+
+</ul>
+            </div>
+        </div>
+        <!--置顶-->
+        <div id="settop">
+           
+                <img src="/img/zxresource/MAIN/2018/05/118420/img/top.jpg"/>
+            </div>
+    </div>
+    <div class="bottom">
+        <div class="local">
+				<h3>直属单位</h3>
+			</div>
+			<div class="unit"><a href="http://www.chinaql.org/n1/2018/0621/c419640-30072688.html">中国侨联机关服务中心</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419640-30072687.html">中国华侨华人研究所</a>
+				<a href="http://www.ocmuseum.cn/index.html">中国华侨历史博物馆</a>
+				<a href="http://www.qlgy.org.cn/">中国华侨公益基金会</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419640-30072684.html">中国侨联干部培训中心</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419640-30072682.html">中国华侨出版社</a></div>
+        <div class="local">
+				<h3>社团组织</h3>
+			</div>
+			<div class="org"><a href="http://www.qiaoshang.org/">中国侨商联合会</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419639-30072753.html">中国华侨国际文化交流促进会</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419639-30072752.html">中国华侨摄影学会</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419639-30072751.html">中国华侨历史学会</a>
+				<a href="#">中国侨联青年委员会</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419639-30072749.html">中国侨联特聘专家委员会</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419639-30072748.html">中国侨联新侨创新创业联盟</a>
+				<a href="http://www.chinaql.org/n1/2018/0621/c419639-30072747.html">中国侨联法律顾问委员会</a></div>
+        <div class="local">
+            <h3>地方侨联</h3>
+        </div>
+        <div class="address">
+            <ul><li><a href="http://www.bjql.org.cn/">北京</a></li>
+                <li><a href="http://www.tjql.org.cn/">天津</a></li>
+                <li><a href="http://www.hebeiql.org/">河北</a></li>
+                <li><a href="http://www.shanxiql.com/">山西</a></li>
+                <li><a href="http://www.nmgql.org.cn/">内蒙古</a></li>
+                <li><a href="http://www.lnql.org.cn/">辽宁</a></li>
+                <li><a href="http://www.jlsql.org/">吉林</a></li>
+                <li><a href="http://www.hljsql.org">黑龙江</a></li>
+                <li><a href="http://www.shanghaiql.org/">上海</a></li>
+                <li><a href="http://www.jsql.cn/">江苏</a></li>
+                <li><a href="http://www.zjsql.com.cn/">浙江</a></li>
+                <li><a href="http://www.ahql.org.cn/">安徽</a></li>
+                <li><a href="http://fjsql.fqworld.org/">福建</a></li>
+                <li><a href="http://www.jxql.org/">江西</a></li>
+                <li><a href="http://www.sdql.org/">山东</a></li>
+                <li><a href="http://www.henanql.org/">河南</a></li>
+                <li><a href="http://www.hbql.gov.cn/">湖北</a></li>
+                <li><a href="http://www.hnsql.org/">湖南</a></li>
+                <li><a href="http://www.gdql.org/">广东</a></li>
+                <li><a href="http://www.gxql.cn/">广西</a></li>
+                <li><a href="http://www.hnql.org/">海南</a></li>
+                <li><a href="http://www.cqhsh.cn/">重庆</a></li>
+                <li><a href="http://www.scql.gov.cn/">四川</a></li>
+                <li><a href="http://www.gzql.org/">贵州</a></li>
+                <li><a href="http://www.ynql.org.cn/">云南</a></li>
+                <li>西藏</li>
+                <li><a href="http://www.sxql.org.cn/">陕西</a></li>
+                <li><a href="http://www.gsqlw.org">甘肃</a></li>
+                <li><a href="http://www.chinaql.org">青海</a></li>
+                <li><a href="http://www.nxql.org">宁夏</a></li>
+                <li style="width:52px;">新疆</li> 
+                <li style="width:156px;">新疆生产建设兵团</li>
+                <li>香港</li>
+                <li>澳门</li>
+                <li>台湾</li></ul>
+        </div>
+        <div class="local">
+            <h3>友情链接</h3>
+        </div>
+        <div class="you-link"><a href="http://www.npc.gov.cn/npc/bmzz/huaqiao/node_34380.htm">全国人大华侨委员会</a>
+                    <span>|</span>
+                    <a href="http://www.gqb.gov.cn/">国务院侨务办公室</a>
+                    <span>|</span>
+                    <a href="http://www.cppcc.gov.cn/zxww/newcppcc/gatqwyh/index.shtml">全国政协港澳台侨委员会</a>
+                    <span>|</span>
+                    <a href="http://www.zg.org.cn/">中国致公党</a>
+                    <span>|</span>
+                    <a href="http://www.gov.cn/">中国政府网</a>
+                    <span>|</span>
+                    <a href="http://www.mfa.gov.cn/web/">中华人民共和国外交部</a>
+                    <span>|</span>
+                    <a href="http://www.zytzb.gov.cn/html/index.html">中央统战部</a>  
+                   
+                    <a href="http://www.acftu.org/">中华全国总工会</a> <span>|</span>
+                   
+                    <a href="http://www.ccyl.org.cn/">中国共产主义青年团中央委员会</a>
+                    <span>|</span>
+                    <a href="http://www.women.org.cn/">中华全国妇女联合会</a>
+                    <span>|</span>
+                    <a href="http://www.cast.org.cn/">中国科学技术协会</a></div>
+    </div>
+    <footer>
+        <p><span>版权所有：中华全国归国华侨联合会　技术支持：人民网　京ICP备09065697号</span>
+            <span>京公网安备 11040102700008号</span></p>
+    </footer>
+</div>
+
+<!--二维码-->
+<div id="floatCode"></div>
+<script src="/img/zxresource/MAIN/2018/05/118420/js/floatCode.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="/img/zxresource/MAIN/2018/05/118420/css/floatCode.css"/>
+
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>  
+</body>
+</html>

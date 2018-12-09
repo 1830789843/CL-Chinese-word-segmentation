@@ -1,0 +1,599 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<base target="_blank" />
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>第十二届人民企业社会责任奖--人民网公益频道--人民网</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="415894" />
+<!-- style -->
+<link rel="stylesheet" href="/img/MAIN/2016/12/116938/page.css" type="text/css" media="all"  />
+<link rel="stylesheet" href="/img/MAIN/2016/12/116938/page161216.css" type="text/css" media="all"  />
+<!-- 2017hf -->
+<style type="text/css">
+.banner{ background:url(/img/MAIN/2017/12/117948/images/banner2017.jpg) no-repeat top center; height:609px;}
+h2{ background:url(/img/MAIN/2017/12/117948/images/titbg1.png) no-repeat right 12px; }
+h2 i{background:url(/img/MAIN/2017/12/117948/images/titbg2.png) no-repeat 0px 5px #fff;color:#0f88f2}
+.p4_box h2 i{background:url(/img/MAIN/2017/12/117948/images/titbg2.png) no-repeat 0px 5px #f4f4f4}
+.nav{background:#0f88f2;}
+.toupiao h2{background:url(/img/MAIN/2017/12/117948/images/titbg3.png) no-repeat center 13px;}
+.p2_content{ background:url(/img/MAIN/2016/12/116938/images/p2_bg2.png) 0 172px repeat-x #0f88f2; overflow:hidden; padding-bottom:70px; margin-top:50px;}
+.gy_hd span a.one{ background:url(/img/MAIN/2016/12/116938/images/icon1.png) no-repeat 30px 20px #0f88f2;}
+.gy_hd span a.two{ background:url(/img/MAIN/2016/12/116938/images/icon2.png) no-repeat 30px 20px #0f88f2;}
+.gy_hd span a.three{ background:url(/img/MAIN/2016/12/116938/images/icon3.png) no-repeat 30px 20px #0f88f2;}
+.qiehuan1{ background:#0f88f2; height:40px; overflow:hidden; }
+h4.qiehuan1 i{height:40px; line-height:40px; background:#0064bb; font-size:16px; width:150px;}
+.qiehuan1_c{padding-left:5px;}
+.qiehuan1_c ul li img{ display:block;  margin:0px 6px;border:1px solid #eee; }
+.qiehuan1_c ul li p{ height:28px; line-height:28px; margin:10px 5px;}
+.qiehuan1_c ul li p i{ float:left; margin-left:5px;}
+.qiehuan1_c ul li p img{ float:right; margin:0; border:none; margin-right:5px;}
+.p5_box h2{ background:url(/img/MAIN/2017/12/117948/images/titbg4.png) no-repeat center 10px;}
+.newsbox1{ height:auto}
+#box1{ margin-bottom:0px;}
+h4.qiehuan1 i:nth-child(4){background:#0064bb;}
+h4.qiehuan1 i:nth-child(5){background:#0064bb;}
+.newsbox1{ font-size:14px; line-height:24px;}
+.newsbox1 strong,.newsbox1 b{ font-size:18px; line-height:34px;}
+.newsbox1 p{ line-height:24px; margin-bottom:10px;}
+
+</style>
+<script src="http://tools.people.com.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="http://tools.people.cn/libs/jdt/jquery.jdt.js" type="text/javascript"></script>
+<script>
+$(function(){
+	$("#box1").Tab({
+		ChangeTime:3000,
+		Obutton : true
+	});
+})
+</script>
+<script type="text/javascript" src="/img/MAIN/2016/12/116938/js/jquery.tab_2013.js"></script>
+<script type="text/javascript">
+   $("document").ready(function(){
+      $(".qiehuan1 i").tab_2013({
+        $class_name:"one",
+        $clear_css:".qiehuan1 i",
+        $close_content:".qiehuan1_c",
+		$close_more:".qiehuan1_m"
+      });  
+   })
+</script>
+<script src="/img/MAIN/2016/12/116938/js/jcarousellite.js" type="text/javascript"></script>
+<script language="JavaScript">
+$(document).ready(function(){
+	$(".jCarouselLite2").jCarouselLite({
+    btnNext: ".prev2",
+    btnPrev: ".next2",
+	speed: 2000,
+	auto: 2000,	
+	visible:4
+    });
+	$(".jCarouselLite3").jCarouselLite({
+    btnNext: ".prev3",
+    btnPrev: ".next3",
+	speed: 2000,
+	auto: 2000,	
+	visible:4
+    });
+	$(".jCarouselLite21").jCarouselLite({
+    btnNext: ".prev21",
+    btnPrev: ".next21",
+	speed: 2000,
+	auto: 2000,	
+	visible:4
+    });
+	$(".jCarouselLite22").jCarouselLite({
+    btnNext: ".prev22",
+    btnPrev: ".next22",
+	speed: 2000,
+	auto: 2000,	
+	visible:4
+    });
+	$(".jCarouselLite23").jCarouselLite({
+    btnNext: ".prev23",
+    btnPrev: ".next23",
+	speed: 2000,
+	auto: 2000,	
+	visible:4
+    });
+	$(".jCarouselLite24").jCarouselLite({
+    btnNext: ".prev24",
+    btnPrev: ".next24",
+	speed: 2000,
+	auto: 2000,	
+	visible:4
+    });
+	$(".p6_content").jCarouselLite({
+    btnPrev: '.preva',
+    btnNext: '.nexta',
+	visible:1,
+	onMouse: true,
+	speed: 800,
+	auto: 3000,
+       bttLi:true
+  	});
+});
+</script>
+<script type="text/javascript">
+function live_load() {
+ var iframe_content = document.getElementById("p_live");
+ if (document.scrollt.checkbox.checked){
+    iframe_content.innerHTML = "<iframe name=rev width=640 height=400 frameBorder=0 align=top marginwidth=0 marginheight=0 scrolling=auto src=http://live01.people.com.cn/zhibo/Myapp/Html/Member/html/201801/100717_3330_5a558395503e4.html?"+(new Date()).getTime()+"></iframe>";
+  }
+ d=Math.round(document.scrollt.scrollt.value);
+  setTimeout("live_load()",d);
+}
+
+function l_load(){
+var iframe_content = document.getElementById("p_live");
+    iframe_content.innerHTML = "<iframe name=rev width=640 height=400 frameBorder=0 align=top marginwidth=0 marginheight=0 scrolling=auto src=http://live01.people.com.cn/zhibo/Myapp/Html/Member/html/201801/100717_3330_5a558395503e4.html?"+(new Date()).getTime()+"></iframe>";
+}
+function cst() {
+  live_load();
+}
+</script>
+<script type="text/javascript">   
+$(document).ready(function(){
+	$.getJSON("http://littlepoll1.people.com.cn/json.php?type=457&callback=?",function(data){//每一个投票对应一个type的
+		for(var i = 0; i < data.length; i++)
+			{
+                 $("#"+data[i].vid).html(data[i].bnum);
+			}
+    });  
+	$(".button1").click(function(){
+		var voteId = $(this).attr("voteId");
+		var a = parseInt($("#"+voteId).text()) ,b = 1;	
+		var num= a + b;	 
+
+		$.ajax({
+			type:"get",
+			voteId: voteId,
+			url: "http://littlepoll1.people.com.cn/button/index.php/cip/button/457/"+ voteId,//每一个投票对应一个type的值
+			dataType: "json",
+			data: "jsonCallback=?",   
+			cache: false,
+			success:function(data){
+				if(data.b==1)
+				{alert("投票成功，感谢您的支持！");
+				$("#"+voteId).text(num);}
+				else if(data.b==2)
+				{alert("一个IP一天只能投50票！");}
+				else if(data.b==3)
+				{alert("您已经投过此选项！");}
+				else if(data.b==8)
+				{alert("投票未开始！");}
+				else if(data.b==9)
+				{alert("投票已结束！");}
+				else if(data.b==0)
+				{alert("没有此投票！");}
+			}
+		});    
+	})
+})
+</script>
+</head>
+
+<body onload="cst();">
+<!--top nav-->
+<div class="w1000">
+  <div class="top_nav">
+  <a href="http://www.people.com.cn/" target="_blank"><img src="http://www.people.com.cn/img/MAIN/2014/06/114539/images/nav/logo_rmw.png" alt="人民网首页" /></a><span></span>
+  </div>
+</div>
+<div class="banner">&nbsp;</div>
+<div class="nav clear">
+	<div class="w1000"><a href="http://gongyi.people.com.cn/" class="this">公益频道</a>
+<a href="http://gongyi.people.com.cn/n1/2017/1208/c151132-29695429.html">活动介绍</a>
+<a href="http://gongyi.people.com.cn/GB/413802/415799/index.html">评选说明</a><a href="http://gongyi.people.com.cn/n1/2017/1208/c151132-29695497.html">往期回顾</a><a href="http://gongyi.people.com.cn/n1/2017/1208/c151132-29695399.html">奖项设置</a>
+
+</div>
+</div>
+<div class=" p1_content w1000 clear">
+  <div class="p1_left">
+    <!--焦点图-->
+    <div id="box1">
+      <ul>
+        <li><img src="/NMediaFile/2018/0111/MAIN201801112134567284331515380.jpg" width="660" height="372" alt="" alt="十一届全国人大常委会副委员长周铁农出席颁奖典礼"/><div></div><span><font color=white>十一届全国人大常委会副委员长周铁农出席颁奖典礼</font></span></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759722.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111526087619395519965.jpg" width="660" height="372" alt="" alt="人民日报社副总编辑、人民网董事长王一彪致辞"/></a><div></div><span><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759722.html" target="_blank"><font color=white>人民日报社副总编辑、人民网董事长王一彪致辞</font></a></span></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759699.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111532233634688313624.jpg" width="660" height="372" alt="" alt="全国人大教科文卫委员会主任委员柳斌杰致辞"/></a><div></div><span><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759699.html" target="_blank"><font color=white>全国人大教科文卫委员会主任委员柳斌杰致辞</font></a></span></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759855.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111551385148235035266.jpg" width="660" height="372" alt="" alt="国务院扶贫办副主任洪天云致辞"/></a><div></div><span><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759855.html" target="_blank"><font color=white>国务院扶贫办副主任洪天云致辞</font></a></span></li>
+<li><img src="/NMediaFile/2018/0112/MAIN201801121526095173801226323.jpg" width="660" height="372" alt="" alt="中华全国总工会书记处书记田辉出席颁奖典礼"/><div></div><span><font color=white>中华全国总工会书记处书记田辉出席颁奖典礼</font></span></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0112/c151132-29762335.html" target="_blank"><img src="/NMediaFile/2018/0112/MAIN201801121516566594883074113.jpg" width="660" height="372" alt="" alt="全国工商联原副主席、中国民营经济研究会会长庄聪生出席颁奖典礼"/></a><div></div><span><a href="http://gongyi.people.com.cn/n1/2018/0112/c151132-29762335.html" target="_blank"><font color=white>全国工商联原副主席、中国民营经济研究会会长庄聪生出席颁奖典礼</font></a></span></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759864.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111551296707953818211.jpg" width="660" height="372" alt="" alt="安监总局新闻宣传与信息公开领导小组办公室主任杨占科致辞"/></a><div></div><span><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759864.html" target="_blank"><font color=white>安监总局新闻宣传与信息公开领导小组办公室主任杨占科致辞</font></a></span></li>
+
+      </ul>
+    </div>
+    
+  </div>
+  <div class="p1_right">
+    <h2><i>要闻区</i></h2>
+    <!--新闻标题+摘要-->
+    <div class="newsbox1"><strong><a href='/n1/2018/0111/c151132-29759954.html' >12届人民企业社会责任奖颁奖典礼举行<br></a>
+<strong><a href='/n1/2018/0111/c151132-29759722.html' >王一彪：人民网将以更大的力量和热情投身公益慈善事业<br></a>
+<strong><a href='/n1/2018/0111/c151132-29759699.html' >柳斌杰：文化担当是企业应尽的责任<br></a>
+<strong><a href='/n1/2018/0111/c151132-29759855.html' >洪天云：全社会行动打赢脱贫攻坚战<br></a>
+<strong><a href='/n1/2018/0111/c151132-29759864.html' >杨占科：安全生产是企业的社会责任<br></a>
+<strong><a href='/n1/2018/0111/c151132-29759836.html' >王晓光：企业社会责任管理须创新升级<br></a>
+<strong><a href='/n1/2018/0111/c151132-29759921.html' >赵普：希望做公益的融通者</a>
+<a href="http://tv.people.com.cn/n1/2018/0112/c150722-29762184.html" target="_blank">【视频】</a></p><strong><a href='/n1/2018/0111/c151132-29759941.html' >"央企暖男"与108名抗战老兵</a>
+<a href="http://tv.people.com.cn/n1/2018/0112/c150722-29762184.html" target="_blank">【视频】</a></p></div>
+    <div class="gy_hd">
+     
+    </div>
+  </div>
+</div>
+
+<!--<div class="w1000 m10"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|event|csr02&db=people&border=0&local=yes&js=ie' charset='gbk'></script></div>-->
+<!--投票专区-->
+<div class="p2_content" style="display:none;">
+   <div class="w1000 toupiao">
+     <h2>展示专区</h2>
+    
+     <div class="touqiao_c">
+        <h4 class="qiehuan1">
+           
+        </h4>
+        <div class="qiehuan1_c" style="display:block;">
+          <ul>
+          <li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717070.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192054128253977467411.jpg" width="230" height="230" alt="" alt="国家开发银行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717070.html" target="_blank">国家开发银行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717096.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192207321246027809158.jpg" width="230" height="230" alt="" alt="东方航空"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717096.html" target="_blank">东方航空</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717128.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192312092949391303187.jpg" width="230" height="230" alt="" alt="安徽古井集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717128.html" target="_blank">安徽古井集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c415928-29717020.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192112252991970413187.jpg" width="230" height="230" alt="" alt="链家集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c415928-29717020.html" target="_blank">链家集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717087.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192129094176931298626.jpg" width="230" height="230" alt="" alt="中国工商银行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717087.html" target="_blank">中国工商银行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717089.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192135066934252412922.jpg" width="230" height="230" alt="" alt="贵州茅台集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717089.html" target="_blank">贵州茅台集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717077.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192115310543496558095.jpg" width="230" height="230" alt="" alt="京东集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717077.html" target="_blank">京东集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1221/c151132-29721584.html" target="_blank"><img src="/NMediaFile/2017/1221/MAIN201712211501106872981284310.jpg" width="230" height="230" alt="" alt="拜耳"/></a><a href="http://gongyi.people.com.cn/n1/2017/1221/c151132-29721584.html" target="_blank">拜耳</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1221/c151132-29721608.html" target="_blank"><img src="/NMediaFile/2017/1221/MAIN201712211450258699539971792.jpg" width="230" height="230" alt="" alt="恒大集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1221/c151132-29721608.html" target="_blank">恒大集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717111.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192222231557430087974.jpg" width="230" height="230" alt="" alt="伊利集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717111.html" target="_blank">伊利集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717110.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192343571091774894380.jpg" width="230" height="230" alt="" alt="丰田汽车（中国）"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717110.html" target="_blank">丰田汽车（中国）</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1222/c151132-29724472.html" target="_blank"><img src="/NMediaFile/2017/1222/MAIN201712221754328903093966247.jpg" width="230" height="230" alt="" alt="奥林巴斯"/></a><a href="http://gongyi.people.com.cn/n1/2017/1222/c151132-29724472.html" target="_blank">奥林巴斯</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717118.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192305451934686512301.jpg" width="230" height="230" alt="" alt="中国邮政储蓄银行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717118.html" target="_blank">中国邮政储蓄银行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717120.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192308156900151473273.jpg" width="230" height="230" alt="" alt="飞鹤乳业"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717120.html" target="_blank">飞鹤乳业</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1227/c415928-29731722.html" target="_blank"><img src="/NMediaFile/2017/1227/MAIN201712271109160723655261559.jpg" width="230" height="230" alt="" alt="呼和浩特石化公司"/></a><a href="http://gongyi.people.com.cn/n1/2017/1227/c415928-29731722.html" target="_blank">呼和浩特石化公司</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717109.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192220378255211711104.jpg" width="230" height="230" alt="" alt="中国民生投资集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717109.html" target="_blank">中国民生投资集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717103.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192213592572589543367.jpg" width="230" height="230" alt="" alt="波司登国际控股有限公司"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717103.html" target="_blank">波司登国际控股有限公司</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717107.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192219158882143538283.jpg" width="230" height="230" alt="" alt="中国三星"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717107.html" target="_blank">中国三星</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717095.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192206011981002411741.jpg" width="230" height="230" alt="" alt="光大银行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717095.html" target="_blank">光大银行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717115.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192300550686963651859.jpg" width="230" height="230" alt="" alt="维天运通"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717115.html" target="_blank">维天运通</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717114.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192257011661009748102.jpg" width="230" height="230" alt="" alt="华光国瓷"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717114.html" target="_blank">华光国瓷</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717113.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192253290529801601700.jpg" width="230" height="230" alt="" alt="金谷农商银行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717113.html" target="_blank">金谷农商银行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717079.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192342265291428084562.jpg" width="230" height="230" alt="" alt="东风日产"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717079.html" target="_blank">东风日产</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717104.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192216485864650966269.jpg" width="230" height="230" alt="" alt="内蒙古高原杏仁露"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717104.html" target="_blank">内蒙古高原杏仁露</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717116.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192302400452616904306.jpg" width="230" height="230" alt="" alt="湖北省交通投资集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717116.html" target="_blank">湖北省交通投资集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717074.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192056458176172504606.jpg" width="230" height="230" alt="" alt="中国泛海控股集团有限公司"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717074.html" target="_blank">中国泛海控股集团有限公司</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717101.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192211452661741837817.jpg" width="230" height="230" alt="" alt="卫材（中国）药业有限公司"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717101.html" target="_blank">卫材（中国）药业有限公司</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717099.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192209099011548769670.jpg" width="230" height="230" alt="" alt="红豆集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717099.html" target="_blank">红豆集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717092.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192204119233605322775.jpg" width="230" height="230" alt="" alt="洋河股份"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717092.html" target="_blank">洋河股份</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717076.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192137038529183221472.jpg" width="230" height="230" alt="" alt="苏宁控股集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717076.html" target="_blank">苏宁控股集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717084.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192125089659448582355.jpg" width="230" height="230" alt="" alt="扬子江药业集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717084.html" target="_blank">扬子江药业集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717081.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192121052079429220685.jpg" width="230" height="230" alt="" alt="中国人保健康"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717081.html" target="_blank">中国人保健康</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717078.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192118029509696742108.jpg" width="230" height="230" alt="" alt="神州优车集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717078.html" target="_blank">神州优车集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717123.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200442531441997562633.jpg" width="230" height="230" alt="" alt="西宁城通"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717123.html" target="_blank">西宁城通</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717073.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192109326106249360647.jpg" width="230" height="230" alt="" alt="如新（中国）"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717073.html" target="_blank">如新（中国）</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c415928-29716996.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192044066958755845513.jpg" width="230" height="230" alt="" alt="兴业银行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c415928-29716996.html" target="_blank">兴业银行</a></li>
+
+          </ul>
+        </div>        
+        <div class="qiehuan1_c" style="display:none;">
+          <ul>
+           <li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717138.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192349227073686088486.jpg" width="230" height="230" alt="" alt="习酒·我的大学"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717138.html" target="_blank">习酒·我的大学</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717242.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200100064448130935144.jpg" width="230" height="230" alt="" alt="亿滋希望厨房"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717242.html" target="_blank">亿滋希望厨房</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717241.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200057276792157078526.jpg" width="230" height="230" alt="" alt="2017年完美公益影像节"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717241.html" target="_blank">2017年完美公益影像节</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717238.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200051433538117189344.jpg" width="230" height="230" alt="" alt="机井通电惠民生"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717238.html" target="_blank">机井通电惠民生</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717239.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200053425300037603933.jpg" width="230" height="230" alt="" alt="希望在线教育公益平台"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717239.html" target="_blank">希望在线教育公益平台</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717235.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200043105523293856665.jpg" width="230" height="230" alt="" alt="飞越19国"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717235.html" target="_blank">飞越19国</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717236.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200044595540241783332.jpg" width="230" height="230" alt="" alt="关于为明天·一起善行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717236.html" target="_blank">关于为明天·一起善行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717142.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712201650525848266766300.jpg" width="230" height="230" alt="" alt="“天使之心”"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717142.html" target="_blank">“天使之心”</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717234.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200040597538975329578.jpg" width="230" height="230" alt="" alt="爱在华住滇西北宿改工程"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717234.html" target="_blank">爱在华住滇西北宿改工程</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717156.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200039067627498120914.jpg" width="230" height="230" alt="" alt="碧桂园沪苏一对一帮扶基金"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717156.html" target="_blank">碧桂园沪苏一对一帮扶基金</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717155.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200035382480345292003.jpg" width="230" height="230" alt="" alt="同心谷·赣商之家"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717155.html" target="_blank">同心谷·赣商之家</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717240.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200056184977780745362.jpg" width="230" height="230" alt="" alt="APP“我的公益”平台"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717240.html" target="_blank">APP“我的公益”平台</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415928-29719611.html" target="_blank"><img src="/NMediaFile/2018/0103/MAIN201801031626073383628091906.jpg" width="230" height="230" alt="" alt="快乐足球"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415928-29719611.html" target="_blank">快乐足球</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717152.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200032171057878268534.jpg" width="230" height="230" alt="" alt="善功夫营养爱心待餐"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717152.html" target="_blank">善功夫营养爱心待餐</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717243.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200103257607320117283.jpg" width="230" height="230" alt="" alt="熊猫电站"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717243.html" target="_blank">熊猫电站</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717151.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200029369313838412978.jpg" width="230" height="230" alt="" alt="诺华川西南林业碳汇"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717151.html" target="_blank">诺华川西南林业碳汇</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717245.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200116250704876685468.jpg" width="230" height="230" alt="" alt="互联网+农产品电商产业"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717245.html" target="_blank">互联网+农产品电商产业</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717143.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200028204034709729809.jpg" width="230" height="230" alt="" alt="国际甲状腺知识宣传周义诊"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717143.html" target="_blank">国际甲状腺知识宣传周义诊</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717140.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200024010955204977992.jpg" width="230" height="230" alt="" alt="免费送考"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717140.html" target="_blank">免费送考</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717139.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200022566552463038052.jpg" width="230" height="230" alt="" alt="高通二十一世纪课堂"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717139.html" target="_blank">高通二十一世纪课堂</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717134.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192347466893904997175.jpg" width="230" height="230" alt="" alt="国酒茅台·国之栋梁"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717134.html" target="_blank">国酒茅台·国之栋梁</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717132.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192346070892015189662.jpg" width="230" height="230" alt="" alt="我是创益人"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717132.html" target="_blank">我是创益人</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717126.html" target="_blank"><img src="/NMediaFile/2017/1219/MAIN201712192319540374845426976.jpg" width="230" height="230" alt="" alt="东风悦达起亚家园"/></a><a href="http://gongyi.people.com.cn/n1/2017/1219/c151132-29717126.html" target="_blank">东风悦达起亚家园</a></li>
+
+          </ul>
+        </div>        
+        <div class="qiehuan1_c" style="display:none;">
+          <ul>
+           <li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717272.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200301001896553557013.jpg" width="230" height="230" alt="" alt="鲍鑫毳"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717272.html" target="_blank">鲍鑫毳</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717277.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712201559201751958053885.jpg" width="230" height="230" alt="" alt="陈上元"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717277.html" target="_blank">陈上元</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717264.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200250303592761747910.jpg" width="230" height="230" alt="" alt="房平"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717264.html" target="_blank">房平</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717276.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200313374789611411484.jpg" width="230" height="230" alt="" alt="黄晓明"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717276.html" target="_blank">黄晓明</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717261.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200206141203073087720.jpg" width="230" height="230" alt="" alt="贺欣浩"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717261.html" target="_blank">贺欣浩</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717251.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200156436442884136379.jpg" width="230" height="230" alt="" alt="贾秀芳"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717251.html" target="_blank">贾秀芳</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717254.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200153082770666408994.jpg" width="230" height="230" alt="" alt="柯尊洪"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717254.html" target="_blank">柯尊洪</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717247.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200143296217866999019.jpg" width="230" height="230" alt="" alt="刘强东"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717247.html" target="_blank">刘强东</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717263.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712201639063913983176592.jpg" width="230" height="230" alt="" alt="李银珩"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717263.html" target="_blank">李银珩</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717267.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200255455583068219337.jpg" width="230" height="230" alt="" alt="卢文兵"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717267.html" target="_blank">卢文兵</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717259.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200201101738677444195.jpg" width="230" height="230" alt="" alt="黎昌仁"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717259.html" target="_blank">黎昌仁</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717271.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200259354453976380189.jpg" width="230" height="230" alt="" alt="李晓东"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717271.html" target="_blank">李晓东</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1227/c415930-29731573.html" target="_blank"><img src="/NMediaFile/2017/1227/MAIN201712271114119635726886760.jpg" width="230" height="230" alt="" alt="李云飞"/></a><a href="http://gongyi.people.com.cn/n1/2017/1227/c415930-29731573.html" target="_blank">李云飞</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717275.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200311010277482975611.jpg" width="230" height="230" alt="" alt="马韵升"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717275.html" target="_blank">马韵升</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717266.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200252163109324969810.jpg" width="230" height="230" alt="" alt="王晓光"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717266.html" target="_blank">王晓光</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717273.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200308292435775094928.jpg" width="230" height="230" alt="" alt="王宁"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717273.html" target="_blank">王宁</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717257.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200159106497766526520.jpg" width="230" height="230" alt="" alt="谢小青"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717257.html" target="_blank">谢小青</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717268.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200257181535959713975.jpg" width="230" height="230" alt="" alt="周勇"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717268.html" target="_blank">周勇</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717252.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200147410333817403993.jpg" width="230" height="230" alt="" alt="宗庆后"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717252.html" target="_blank">宗庆后</a></li>
+
+          </ul>
+        </div>        
+        <div class="qiehuan1_c" style="display:none;">
+          <ul>
+           <li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717325.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200434367027772946504.jpg" width="230" height="230" alt="" alt="苏宁控股集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717325.html" target="_blank">苏宁控股集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717322.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200433309463115479591.jpg" width="230" height="230" alt="" alt="东方航空"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717322.html" target="_blank">东方航空</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717302.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200419119328024919149.jpg" width="230" height="230" alt="" alt="百e国际"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717302.html" target="_blank">百e国际</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717301.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200416071020256303046.jpg" width="230" height="230" alt="" alt="光大银行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717301.html" target="_blank">光大银行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717299.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200414159365435330560.jpg" width="230" height="230" alt="" alt="金葫芦投资"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717299.html" target="_blank">金葫芦投资</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717298.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200413025251548154334.jpg" width="230" height="230" alt="" alt="中国三星"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717298.html" target="_blank">中国三星</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717293.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200411278555467051927.jpg" width="230" height="230" alt="" alt="东方证券"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717293.html" target="_blank">东方证券</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717294.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200409361274923730413.jpg" width="230" height="230" alt="" alt="唯品会"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717294.html" target="_blank">唯品会</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0102/c415932-29741132.html" target="_blank"><img src="/NMediaFile/2018/0102/MAIN201801021753140181201697236.jpg" width="230" height="230" alt="" alt="五粮液"/></a><a href="http://gongyi.people.com.cn/n1/2018/0102/c415932-29741132.html" target="_blank">五粮液</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717292.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200408162401064088989.jpg" width="230" height="230" alt="" alt="中国保险行业协会"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717292.html" target="_blank">中国保险行业协会</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717291.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200407016048348533620.jpg" width="230" height="230" alt="" alt="民丰种业"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717291.html" target="_blank">民丰种业</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717290.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200405439667575722116.jpg" width="230" height="230" alt="" alt="康师傅控股"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717290.html" target="_blank">康师傅控股</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1227/c415932-29732072.html" target="_blank"><img src="/NMediaFile/2017/1227/MAIN201712271459170780170305180.jpg" width="230" height="230" alt="" alt="农行内蒙古分行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1227/c415932-29732072.html" target="_blank">农行内蒙古分行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717289.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200404006894021981970.jpg" width="230" height="230" alt="" alt="泸州老窖"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717289.html" target="_blank">泸州老窖</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717288.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200402306564647157235.jpg" width="230" height="230" alt="" alt="羊羊牧业"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717288.html" target="_blank">羊羊牧业</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717287.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200400149250429532855.jpg" width="230" height="230" alt="" alt="吉利控股集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717287.html" target="_blank">吉利控股集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1222/c151132-29723943.html" target="_blank"><img src="/NMediaFile/2017/1222/MAIN201712221339197060460969964.jpg" width="230" height="230" alt="" alt="光大证券"/></a><a href="http://gongyi.people.com.cn/n1/2017/1222/c151132-29723943.html" target="_blank">光大证券</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717286.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200358083839518051955.jpg" width="230" height="230" alt="" alt="汉能控股集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717286.html" target="_blank">汉能控股集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717285.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200356588963969241995.jpg" width="230" height="230" alt="" alt="恒大集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717285.html" target="_blank">恒大集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717284.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200356036471653194011.jpg" width="230" height="230" alt="" alt="北京田觅密"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717284.html" target="_blank">北京田觅密</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717283.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200354200763632548028.jpg" width="230" height="230" alt="" alt="家乐福"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717283.html" target="_blank">家乐福</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717281.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200352177630663866671.jpg" width="230" height="230" alt="" alt="国际机遇"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717281.html" target="_blank">国际机遇</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717279.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200349448296350539315.jpg" width="230" height="230" alt="" alt="国家开发银行"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717279.html" target="_blank">国家开发银行</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717278.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200348402724217716478.jpg" width="230" height="230" alt="" alt="蒙牛乳业集团"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717278.html" target="_blank">蒙牛乳业集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717274.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200346041425158418114.jpg" width="230" height="230" alt="" alt="安利"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415932-29717274.html" target="_blank">安利</a></li>
+
+          </ul>
+        </div>        
+        <div class="qiehuan1_c" style="display:none;">
+          <ul>
+           <li><a href="http://gongyi.people.com.cn/n1/2018/0102/c415931-29740493.html" target="_blank"><img src="/NMediaFile/2018/0102/MAIN201801021129584381630491123.jpg" width="230" height="230" alt="" alt="亿利资源集团"/></a><a href="http://gongyi.people.com.cn/n1/2018/0102/c415931-29740493.html" target="_blank">亿利资源集团</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717256.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200335325290549993007.jpg" width="230" height="230" alt="" alt="中粮可口可乐辽宁公司"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717256.html" target="_blank">中粮可口可乐辽宁公司</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717237.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200331236528799353042.jpg" width="230" height="230" alt="" alt="国丰新能源有限公司"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c151132-29717237.html" target="_blank">国丰新能源有限公司</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717244.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200211142302221635562.jpg" width="230" height="230" alt="" alt="北京控股集团有限公司"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717244.html" target="_blank">北京控股集团有限公司</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717280.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200339228227484979224.jpg" width="230" height="230" alt="" alt="高能环境"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717280.html" target="_blank">高能环境</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1227/c415931-29731731.html" target="_blank"><img src="/NMediaFile/2017/1227/MAIN201712271116269382854766673.jpg" width="230" height="230" alt="" alt="呼和浩特石化公司"/></a><a href="http://gongyi.people.com.cn/n1/2017/1227/c415931-29731731.html" target="_blank">呼和浩特石化公司</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717269.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200337573500861067198.jpg" width="230" height="230" alt="" alt="四川郎酒"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717269.html" target="_blank">四川郎酒</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717265.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200336457069641093808.jpg" width="230" height="230" alt="" alt="中远海运"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717265.html" target="_blank">中远海运</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717255.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200333576602788432268.jpg" width="230" height="230" alt="" alt="沈阳世杰电器"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717255.html" target="_blank">沈阳世杰电器</a></li>
+<li><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717253.html" target="_blank"><img src="/NMediaFile/2017/1220/MAIN201712200213009418877393434.jpg" width="230" height="230" alt="" alt="蒙草生态"/></a><a href="http://gongyi.people.com.cn/n1/2017/1220/c415931-29717253.html" target="_blank">蒙草生态</a></li>
+
+          </ul>
+        </div>  
+     </div>
+   </div>
+</div>
+
+<!--直播专区-->
+<div class=" w1000 m40" style="display:block;">
+<h2><i>直播专区</i></h2>
+<div class="p3_content">
+  <div class="p3_left">
+     <div class="p3_1">
+        <script src="http://tv.people.com.cn/img/player/v.js"></script>
+<script>showPlayer({id:"/pvservice/xml/2018/1/10/52f1f35a-239c-4901-9922-6230278f13ea.xml",width:320,height:240});</script>
+        
+        <strong>时间：2018年1月11日14:30-17:00 </strong>
+        <strong>地点：人民日报社新媒体大厦 </strong>
+
+        <strong>2018年1月11日下午，由人民网主办的第十二届人民企业社会责任奖颁奖典礼在人民日报社新媒体大厦举行。本届评选以“新时代、新责任、新担当”为主题，评选出“年度企业奖”、“年度扶贫奖”、“年度人物奖”、“年度案例奖”和“年度环保奖”五大奖项，并发布了《2017年中国企业社会责任报告》。<strong>
+     </div>
+  </div>
+  <div class="p3_right">
+<form action="#" name="scrollt" method=post target="sqs"><input type=hidden name=step value=1>
+   <h2><i>直播文字</i><b>间隔
+        <select name="scrollt" onChange='cst()'>
+   		<option value="10000">10秒</option>
+   		<option value="15000" selected>15秒</option>
+   		<option value="30000">30秒</option>
+   		<option value="60000">1分钟</option>
+   		<option value="120000">2分钟</option>
+   		<option value="300000">5分钟</option>
+		</select>
+		<input type="checkbox" name="checkbox" value="checkbox" checked id="chkz"><label for="chkz">自动刷新</label>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:l_load()">手动刷新</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://live01.people.com.cn/zhibo/Myapp/Html/Member/html/201801/100717_3330_5a5583955043f_quan.html" target="_blank">全文实录</a></b></h2>
+		</form>
+        <div class="zbbox clear"><div id="p_live"></div></div>
+      </div>
+      </div>  
+</div>
+
+<!--圆桌论坛-->
+<div class="p4_content">
+  <div class="p4_box">
+   <h2><i>主旨发言</i></h2>
+   <div class="img_list3 img_list3">
+    <img src="/img/MAIN/2016/12/116938/images/left3.png" class="prev3 b_left3  " />
+    <img src="/img/MAIN/2016/12/116938/images/right3.png" class="next3 b_right3  " />
+    <div class="jCarouselLite3">
+    <ul><li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151650-29759918.html" target="_blank"><img src="/NMediaFile/2018/0112/MAIN201801122041043152167543413.jpg" width="250" height="250" alt="" alt="&#13;           单学刚&#13;           发布《2017中国企业社会责任报告》&#13;                     "/><span>
+           <b>单学刚</b>
+           <i>发布《2017中国企业社会责任报告》</i>
+         </span>            </li></a>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759836.html" target="_blank"><img src="/NMediaFile/2018/0112/MAIN201801121556528880246553559.jpg" width="250" height="250" alt="" alt="&#13;           王晓光&#13;           希望做一个民间公益和官方公益间的融通者&#13;                     "/><span>
+           <b>王晓光</b>
+           <i>希望做一个民间公益和官方公益间的融通者</i>
+         </span>            </li></a>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759890.html" target="_blank"><img src="/NMediaFile/2018/0112/MAIN201801121617347187991536927.jpg" width="250" height="250" alt="" alt="&#13;           蓝烨&#13;           饮水思源 京东创新公益贡献社会&#13;                     "/><span>
+           <b>蓝烨</b>
+           <i>饮水思源 京东创新公益贡献社会</i>
+         </span>            </li></a>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759885.html" target="_blank"><img src="/NMediaFile/2018/0112/MAIN201801121621379313587370637.jpg" width="250" height="250" alt="" alt="&#13;           黎昌仁&#13;           企业社会责任与企业发展能够形成良性互动与共赢&#13;                     "/><span>
+           <b>黎昌仁</b>
+           <i>企业社会责任与企业发展能够形成良性互动与共赢</i>
+         </span>            </li></a>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759921.html" target="_blank"><img src="/NMediaFile/2018/0112/MAIN201801121452183511557023089.jpg" width="250" height="250" alt="" alt="&#13;           赵普&#13;           希望做一个民间公益和官方公益间的融通者&#13;                        "/><span>
+           <b>赵普</b>
+           <i>希望做一个民间公益和官方公益间的融通者</i>
+         </span>               </li></a>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759941.html" target="_blank"><img src="/NMediaFile/2018/0112/MAIN201801121631017232012731295.jpg" width="250" height="250" alt="" alt="&#13;           陈上元&#13;           &quot;央企暖男&quot;与108名抗战老兵：向他们致以年轻一代的敬意&#13;                        "/><span>
+           <b>陈上元</b>
+           <i>"央企暖男"与108名抗战老兵：向他们致以年轻一代的敬意</i>
+         </span>               </li></a>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759942.html" target="_blank"><img src="/NMediaFile/2018/0112/MAIN201801121625103213091800829.jpg" width="250" height="250" alt="" alt="&#13;           贾生平&#13;           精准扶贫社区服务 链家公益11年脚步未歇&#13;                   "/><span>
+           <b>贾生平</b>
+           <i>精准扶贫社区服务 链家公益11年脚步未歇</i>
+         </span>          </li></a>
+</ul>
+    </div>
+   </div>
+ </div>
+</div>
+<!--年度优秀企业奖-->
+<div class="p5_content ">
+  <div class="p5_box">
+   <h2>年度企业奖</h2>
+   <div class="img_list2">
+    <img src="/img/MAIN/2016/12/116938/images/left1.png" class="prev2 b_left2  " />
+    <img src="/img/MAIN/2016/12/116938/images/right1.png" class="next2 b_right2  " />
+    <div class="jCarouselLite2">
+       <ul><li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759393.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111621245733359526013.jpg" width="230" height="230" alt="" alt="中国邮政储蓄银行"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759393.html" target="_blank">中国邮政储蓄银行</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759400.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111628263393126059725.jpg" width="230" height="230" alt="" alt="内蒙古伊利实业集团股份有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759400.html" target="_blank">内蒙古伊利实业集团股份有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759402.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111628262272622966592.jpg" width="230" height="230" alt="" alt="国家开发银行"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759402.html" target="_blank">国家开发银行</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759407.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111628264084445266758.jpg" width="230" height="230" alt="" alt="中国民生投资集团"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759407.html" target="_blank">中国民生投资集团</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759419.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111638588221763761844.jpg" width="230" height="230" alt="" alt="京东集团"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759419.html" target="_blank">京东集团</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759421.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111638590075003929513.jpg" width="230" height="230" alt="" alt="苏宁控股集团"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759421.html" target="_blank">苏宁控股集团</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759425.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111638590734841464579.jpg" width="230" height="230" alt="" alt="中国人民健康保险股份有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759425.html" target="_blank">中国人民健康保险股份有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759428.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111638589408990489321.jpg" width="230" height="230" alt="" alt="链家"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759428.html" target="_blank">链家</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759430.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111645556279163255153.jpg" width="230" height="230" alt="" alt="拜耳医药保健有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759430.html" target="_blank">拜耳医药保健有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759435.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111645557509345997796.jpg" width="230" height="230" alt="" alt="东风日产乘用车公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759435.html" target="_blank">东风日产乘用车公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759436.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111645558149826733100.jpg" width="230" height="230" alt="" alt="丰田汽车（中国）投资有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759436.html" target="_blank">丰田汽车（中国）投资有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759442.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111654180786979965835.jpg" width="230" height="230" alt="" alt="江苏洋河酒厂股份有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759442.html" target="_blank">江苏洋河酒厂股份有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759447.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111654178167826977905.jpg" width="230" height="230" alt="" alt="安徽古井集团有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759447.html" target="_blank">安徽古井集团有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759453.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111654180112373363165.jpg" width="230" height="230" alt="" alt="兴业银行"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759453.html" target="_blank">兴业银行</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759460.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111654179426007216809.jpg" width="230" height="230" alt="" alt="内蒙古呼和浩特金谷农村商业银行"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415928-29759460.html" target="_blank">内蒙古呼和浩特金谷农村商业银行</a></div></li>
+</ul>
+    </div>
+   </div>
+ </div>
+</div>
+<div class="p5_content ">
+  <div class="p5_box">
+   <h2>年度案例奖</h2>
+   <div class="img_list2">
+    <img src="/img/MAIN/2016/12/116938/images/left1.png" class="prev21 b_left2  " />
+    <img src="/img/MAIN/2016/12/116938/images/right1.png" class="next21 b_right2  " />
+    <div class="jCarouselLite21">
+       <ul><li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759492.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111708381972179562687.jpg" width="230" height="230" alt="" alt="飞越19国 往返3.5万公里 祖国接你回家"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759492.html" target="_blank">飞越19国 往返3.5万公里 祖国接你回家</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759537.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111708382722745498183.jpg" width="230" height="230" alt="" alt="泛海助学行动"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759537.html" target="_blank">泛海助学行动</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759542.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111708383924513907611.jpg" width="230" height="230" alt="" alt="国酒茅台·国之栋梁 希望工程圆梦行动"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759542.html" target="_blank">国酒茅台·国之栋梁 希望工程圆梦行动</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759546.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111708385929671082594.jpg" width="230" height="230" alt="" alt="希望在线教育公益平台"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759546.html" target="_blank">希望在线教育公益平台</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759549.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111708380412562143536.jpg" width="230" height="230" alt="" alt="东风悦达起亚家园"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759549.html" target="_blank">东风悦达起亚家园</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759554.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111708384727113478668.jpg" width="230" height="230" alt="" alt="“高考神助攻”爱心送考公益项目"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759554.html" target="_blank">“高考神助攻”爱心送考公益项目</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759561.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111719546186214282531.jpg" width="230" height="230" alt="" alt="高通二十一世纪课堂项目"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759561.html" target="_blank">高通二十一世纪课堂项目</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759563.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111711009582029473527.jpg" width="230" height="230" alt="" alt="完美公益影像节（2017）"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759563.html" target="_blank">完美公益影像节（2017）</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759572.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111720549261806379936.jpg" width="230" height="230" alt="" alt="习酒·我的大学"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759572.html" target="_blank">习酒·我的大学</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759585.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111711008838823019110.jpg" width="230" height="230" alt="" alt="新一轮农网改造升级之机井通电惠民生工程"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759585.html" target="_blank">新一轮农网改造升级之机井通电惠民生工程</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759589.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111711007795132741386.jpg" width="230" height="230" alt="" alt="第八届奥林巴斯“爱胃月”"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c415929-29759589.html" target="_blank">第八届奥林巴斯“爱胃月”</a></div></li>
+</ul>
+    </div>
+   </div>
+ </div>
+</div>
+<div class="p5_content ">
+  <div class="p5_box">
+   <h2>年度人物奖</h2>
+   <div class="img_list2">
+    <img src="/img/MAIN/2016/12/116938/images/left1.png" class="prev22 b_left2  " />
+    <img src="/img/MAIN/2016/12/116938/images/right1.png" class="next22 b_right2  " />
+    <div class="jCarouselLite22">
+       <ul><li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759543.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111741400881715877624.jpg" width="230" height="230" alt="" alt="宗庆后"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759543.html" target="_blank">宗庆后</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759752.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111750268173281862211.jpg" width="230" height="230" alt="" alt="陈上元"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759752.html" target="_blank">陈上元</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759753.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111753042431939954026.jpg" width="230" height="230" alt="" alt="柯尊洪"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759753.html" target="_blank">柯尊洪</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759754.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111754050710233682525.jpg" width="230" height="230" alt="" alt="谢小青"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759754.html" target="_blank">谢小青</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759756.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111755008529954389013.jpg" width="230" height="230" alt="" alt="贾秀芳"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759756.html" target="_blank">贾秀芳</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759757.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111756274587170308911.jpg" width="230" height="230" alt="" alt="马韵升"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759757.html" target="_blank">马韵升</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759758.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111758036844625324991.jpg" width="230" height="230" alt="" alt="李晓东"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759758.html" target="_blank">李晓东</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759759.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111759119223270404427.jpg" width="230" height="230" alt="" alt="李银珩"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759759.html" target="_blank">李银珩</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759760.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111800516577932608306.jpg" width="230" height="230" alt="" alt="黎昌仁"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759760.html" target="_blank">黎昌仁</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759761.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111801547688739308826.jpg" width="230" height="230" alt="" alt="房平"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759761.html" target="_blank">房平</a></div></li>
+</ul>
+    </div>
+   </div>
+ </div>
+</div>
+<div class="p5_content ">
+  <div class="p5_box">
+   <h2>年度扶贫奖</h2>
+   <div class="img_list2">
+    <img src="/img/MAIN/2016/12/116938/images/left1.png" class="prev23 b_left2  " />
+    <img src="/img/MAIN/2016/12/116938/images/right1.png" class="next23 b_right2  " />
+    <div class="jCarouselLite23">
+       <ul><li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759800.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111819023191342039738.jpg" width="230" height="230" alt="" alt="恒大集团有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759800.html" target="_blank">恒大集团有限公司</a></div></li>
+<li><a href="	 http://gongyi.people.com.cn/n1/2018/0111/c151132-29759801.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111820073444857320980.jpg" width="230" height="230" alt="" alt="内蒙古蒙牛乳业（集团）股份有限公司"/></a><div><a href="	 http://gongyi.people.com.cn/n1/2018/0111/c151132-29759801.html" target="_blank">内蒙古蒙牛乳业（集团）股份有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759802.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111820558768296420040.jpg" width="230" height="230" alt="" alt="浙江吉利控股集团有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759802.html" target="_blank">浙江吉利控股集团有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759804.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111823078400519590156.jpg" width="230" height="230" alt="" alt="中国三星"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759804.html" target="_blank">中国三星</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759805.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111824186557602460108.jpg" width="230" height="230" alt="" alt="康师傅控股有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759805.html" target="_blank">康师傅控股有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759806.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111825130633973398038.jpg" width="230" height="230" alt="" alt="中国保险行业协会"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759806.html" target="_blank">中国保险行业协会</a></div></li>
+<li><a href="	 http://gongyi.people.com.cn/n1/2018/0111/c151132-29759807.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111826115733038056718.jpg" width="230" height="230" alt="" alt="中国光大银行"/></a><div><a href="	 http://gongyi.people.com.cn/n1/2018/0111/c151132-29759807.html" target="_blank">中国光大银行</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759815.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111827107159838634596.jpg" width="230" height="230" alt="" alt="泸州老窖股份有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759815.html" target="_blank">泸州老窖股份有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759816.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111836294786488425498.jpg" width="230" height="230" alt="" alt="黑龙江飞鹤乳业有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759816.html" target="_blank">黑龙江飞鹤乳业有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759818.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111833274763890588159.jpg" width="230" height="230" alt="" alt="杭州微众电子商务有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759818.html" target="_blank">杭州微众电子商务有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759821.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111833575951820478248.png" width="230" height="230" alt="" alt="四川省宜宾五粮液集团有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759821.html" target="_blank">四川省宜宾五粮液集团有限公司</a></div></li>
+</ul>
+    </div>
+   </div>
+ </div>
+</div>
+<div class="p5_content ">
+  <div class="p5_box">
+   <h2>年度环保奖</h2>
+   <div class="img_list2">
+    <img src="/img/MAIN/2016/12/116938/images/left1.png" class="prev24 b_left2  " />
+    <img src="/img/MAIN/2016/12/116938/images/right1.png" class="next24 b_right2  " />
+    <div class="jCarouselLite24">
+       <ul><li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759926.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111904264250870217054.jpg" width="230" height="230" alt="" alt="亿利资源集团"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759926.html" target="_blank">亿利资源集团</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759927.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111855321480554710004.jpg" width="230" height="230" alt="" alt="北京高能时代环境技术股份有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759927.html" target="_blank">北京高能时代环境技术股份有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759928.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111856427624896456141.jpg" width="230" height="230" alt="" alt="内蒙古蒙草生态环境（集团）股份有限公司 "/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759928.html" target="_blank">内蒙古蒙草生态环境（集团）股份有限公司 </a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759929.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111857441572187045399.jpg" width="230" height="230" alt="" alt="中远海运能源运输股份有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759929.html" target="_blank">中远海运能源运输股份有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759930.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111859079665250171597.jpg" width="230" height="230" alt="" alt="北京控股集团有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759930.html" target="_blank">北京控股集团有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759931.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111900168699848882765.jpg" width="230" height="230" alt="" alt="四川郎酒股份有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759931.html" target="_blank">四川郎酒股份有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759932.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111900565530688337249.jpg" width="230" height="230" alt="" alt="国丰新能源有限公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759932.html" target="_blank">国丰新能源有限公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759933.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111907096904776289600.jpg" width="230" height="230" alt="" alt="中国石油呼和浩特石化公司"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759933.html" target="_blank">中国石油呼和浩特石化公司</a></div></li>
+<li><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759934.html" target="_blank"><img src="/NMediaFile/2018/0111/MAIN201801111909263850894647364.jpg" width="230" height="230" alt="" alt="波司登集团"/></a><div><a href="http://gongyi.people.com.cn/n1/2018/0111/c151132-29759934.html" target="_blank">波司登集团</a></div></li>
+</ul>
+    </div>
+   </div>
+ </div>
+</div>
+<!--颁奖花絮-->
+<div class="p6_content  ">
+<div class="jCarouselLite">
+   <h2 class="m40"><i>颁奖集锦</i></h2>
+    <img src="/img/MAIN/2016/12/116938/images/an_left.png" class="preva " /> 
+    <img src="/img/MAIN/2016/12/116938/images/an_right.png" class="nexta " />
+      <ul class="clearfix"><li><img src="/NMediaFile/2018/0111/MAIN201801112001270237647017553.jpg" width="1000" height="550" alt="" alt="中国民营经济研究会会长庄聪生(左八）、中华全国总工会书记处书记田辉（左九）为年度企业奖颁奖"/><span><em>中国民营经济研究会会长庄聪生(左八）、中华全国总工会书记处书记田辉（左九）为年度企业奖颁奖</em></span> </li>
+<li><img src="/NMediaFile/2018/0111/MAIN201801112000171454024157425.jpg" width="1000" height="550" alt="" alt="中华慈善总会秘书长边志伟（左五）、人民网副总裁宋丽云（右六）为年度扶贫奖颁奖"/><span><em>中华慈善总会秘书长边志伟（左五）、人民网副总裁宋丽云（右六）为年度扶贫奖颁奖</em></span> </li>
+<li><img src="/NMediaFile/2018/0111/MAIN201801111957313545469333459.jpg" width="1000" height="550" alt="" alt="中国慈善联合会副会长刘福清（左一），人民网副总编辑罗华（右一）为年度人物奖颁奖"/><span><em>中国慈善联合会副会长刘福清（左一），人民网副总编辑罗华（右一）为年度人物奖颁奖</em></span> </li>
+<li><img src="/NMediaFile/2018/0111/MAIN201801111959090507409743557.jpg" width="1000" height="550" alt="" alt="国家安全监管总局杨占科（左六）、民政部社会福利和慈善事业促进司副司长孟志强（右一）为年度案例奖颁奖"/><span><em>国家安全监管总局杨占科（左六）、民政部社会福利和慈善事业促进司副司长孟志强（右一）为年度案例奖颁奖</em></span> </li>
+<li><img src="/NMediaFile/2018/0111/MAIN201801111955283369071505237.jpg" width="1000" height="550" alt="" alt="环保部宣传教育司巡视员刘友宾（右一）、水利部宣教中心副主任孙平国（左一）为年度环保奖颁奖"/><span><em>环保部宣传教育司巡视员刘友宾（右一）、水利部宣教中心副主任孙平国（左一）为年度环保奖颁奖</em></span> </li>
+</ul>
+</div>
+</div>
+<!--link-->
+
+<div id="copyright" class="copyright clearfix">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved</div>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+</body>
+</html>

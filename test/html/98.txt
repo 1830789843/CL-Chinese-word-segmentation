@@ -1,0 +1,330 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312">
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>中国帆船出征奥运&nbsp;八骁将能否风顺--体育--人民网 </title>
+<meta name="keywords" content="" />
+<meta name="description" content="&nbsp;　　从1900年首度进入奥运殿堂，到1908年成为奥运正式项目，帆船项目已经是奥运历史上的老面孔。尽管中国开展帆船运动的时间不长，但越来越多的人正在参与并爱上这项“中流击水、浪遏飞舟”的运" />
+<meta name="copyright" content="人民网版权所有" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="14820">
+<meta name="contentid" content="28575143">
+<meta name="publishdate" content="2016-07-22">
+<meta name="author" content="544">
+<meta name="editor" content="">
+<meta name="source" content="来源：人民日报海外版">
+<meta name="sourcetype" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="http://www.people.com.cn/img/2016wb/page.css" type="text/css" media="all"  charset="utf-8" />
+<script type="text/javascript" src="http://www.people.com.cn/css/search.js"></script>
+<script type="text/javascript" src='http://tools.people.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000_320 white pos_re_login">
+      <div class="fl" id="rwb_nav"><a href="http://politics.people.com.cn/" target="_blank">时政</a><a href="http://world.people.com.cn/" target="_blank">国际</a><a href="http://finance.people.com.cn/" target="_blank">财经</a><a href="http://tw.people.com.cn/" target="_blank">台湾</a><a href="http://military.people.com.cn/" target="_blank">军事</a><a href="http://opinion.people.com.cn/" target="_blank">观点</a><a href="http://leaders.people.com.cn/" target="_blank">领导</a><a href="http://renshi.people.com.cn/" target="_blank">人事</a><a href="http://theory.people.com.cn/" target="_blank">理论</a><a href="http://legal.people.com.cn/" target="_blank">法治</a><a href="http://society.people.com.cn/" target="_blank">社会</a><a href="http://edu.people.com.cn/" target="_blank">教育</a><a href="http://kpzg.people.com.cn/" target="_blank">科普</a><a href="http://sports.people.com.cn/" target="_blank">体育</a><a href="http://culture.people.com.cn/" target="_blank">文化</a><a href="http://art.people.com.cn/" target="_blank">书画</a><a href="http://house.people.com.cn/" target="_blank">房产</a><a href="http://auto.people.com.cn/" target="_blank">汽车</a><a href="http://travel.people.com.cn/" target="_blank">旅游</a><a href="http://health.people.com.cn/" target="_blank">健康</a><a href="http://tv.people.com.cn/" target="_blank">视频</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">注册</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">退出</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script>
+//SSO Loader [v 1.1.0]
+(function(){var s="http://sso.people.com.cn/resource/js/sso.js";function e(b){return function(){RMWSSO.cache.push({n:b,a:arguments})}}function d(b,c){var a=document.createElement("script");a.type="text/javascript";a.onreadystatechange=a.onload=function(){this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(c&&c(),a.onreadystatechange=a.onload=null,a.parentNode.removeChild(a))};a.src=b;document.getElementsByTagName("head")[0].appendChild(a)}if(!window.RMWSSO){var c=["login","logout","getUsername","getUserData","crossDomainLogin","ready"];window.RMWSSO={type:"loader",cache:[]};for(var b=0;b<c.length;b++)RMWSSO[c[b]]=e(c[b]);var f=setTimeout(function(){d(s)},5E3);d(s,function(){clearTimeout(f)})}})();
+</script>
+<script type="text/javascript">
+RMWSSO.getUserData(function(user){
+	if(!user.userId){
+		$("#txz_dlq").show();
+		$("#txz_dlh").hide();
+		//alert('未登录');
+	}else{
+		$("#txz_dlq").hide();
+		$("#txz_dlh").show();
+		var loginMsg = user.nickname + "，欢迎您"  ; 
+		$("#loginMsg").html(loginMsg);
+	}
+});
+
+function loginSuccess(){
+	$("#txz_dlq").hide();
+	$("#txz_dlh").show();
+	RMWSSO.getUserData(function(user){
+		if(user.userId){
+		var loginMsg = user.nickname + "，欢迎您"  ; 
+		$("#loginMsg").html(loginMsg);
+		}
+	})
+	$("#p_login").css({"display":"none"})
+}
+
+$("#logout").bind('click', function(event){
+	RMWSSO.logout(function(){
+		//alert('退出成功！')
+		$("#txz_dlq").show();
+		$("#txz_dlh").hide();
+	});
+})
+</script>
+<!--top end-->
+<!--banner-->
+<div class="clearfix w1000_320 banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W1_banner&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+<!--banner end-->
+<!--path-->
+<div class=" clearfix w1000_320 path pos_re_search">
+   <div class="fl"><span id="rwb_logo"><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo01.gif" width="112" height="46" /></a></span><span id="rwb_navpath"><a href="http://www.people.com.cn/" class="clink">人民网</a>&gt;&gt;<a href="http://sports.people.com.cn/" class="clink">体育</a></span></div>
+   <div class="fr"><img src="http://www.people.com.cn/img/2016wb/images/icon01.gif" width="29" height="29" id="search_button" /><span id="rwb_map"><a href="http://www.people.com.cn/GB/138812/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon02.gif" width="29" height="29" /></a></span></div>
+   <div class="p_search" id="p_search">
+            <form action="http://search.people.com.cn/rmw/GB/rmwsearch/gj_search_pd.jsp" name="searchForm" method="post"  onsubmit="if(getParameter_DJ('ALL') == false) return false;" target="_blank"><input type="hidden" name="XMLLIST">
+            <p><input class="people_input" name="names" Id="names" value="请输入检索内容" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" type="text" /></p>
+            <p class="tc"><input type="submit" name="" value="站内检索" class="people_button_sub"></p></form>
+       </div>
+</div>
+<!--path end-->
+
+<!--text_title-->
+<div class="clearfix w1000_320 text_title">
+	<h3 class="pre"></h3>
+	<h1>中国帆船出征奥运&nbsp;八骁将能否风顺</h1>
+	<h4 class="sub"></h4>
+    <p class="author">本报记者&nbsp;&nbsp;刘&nbsp;&nbsp;峣</p>
+   <div class="box01">
+      <div class="fl">2016年07月22日08:00&nbsp;&nbsp;来源：<a href="http://paper.people.com.cn/rmrbhwb/html/2016-07/22/content_1697422.htm" target="_blank">人民网－人民日报海外版</a></div>
+      <div class="fr">
+         <div class="fx">
+         <div id="ops_share"></div>
+		 <script src="http://www.people.com.cn/img/2016wb/share_qr.min.js" charset="utf-8"></script>
+         </div>
+         <div class="message" id="rwb_bbstop"><a href="http://bbs1.people.com.cn/postLink.do?nid=28575143" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+   </div>
+</div>
+<!--text_title end-->
+<!--text_con-->
+<div class="clearfix w1000_320 text_con">
+   <!--text left-->
+   <div class="fl text_con_left">
+      <div class="box_con" id="rwb_zw">
+        <div class="box_pic"></div>
+        <table class="pci_c" width="400">
+	<tbody>
+		<tr>
+			<td align="center">
+				<img src="http://paper.people.com.cn/rmrbhwb/res/1/20160722/1469123706089_1.jpg" /></td>
+		</tr>
+		<tr>
+			<td>
+				<p>
+					&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	　　从1900年首度进入奥运殿堂，到1908年成为奥运正式项目，帆船项目已经是奥运历史上的老面孔。尽管中国开展帆船运动的时间不长，但越来越多的人正在参与并爱上这项“中流击水、浪遏飞舟”的运动。尤其是自2008年收获首枚奥运金牌以来，帆船热正在席卷中国各大沿海城市。</p>
+<p>
+	　　近日，随着中国奥运代表团成立，中国帆船队征战里约奥运的运动员名单也随之出炉。此次里约奥运，中国将有8名帆船选手出战。</p>
+<p>
+	　　徐莉佳迎复出战</p>
+<p>
+	　　奥运阵容中，徐莉佳无疑是最具夺金希望的一人。2008年，在青岛举行的奥运会帆船比赛，徐莉佳获得一枚宝贵的铜牌。而在2012年伦敦奥运会，徐莉佳更是凭借强大的心理素质和技术能力赢得冠军。</p>
+<p>
+	　　奥运夺冠后，徐莉佳因伤选择退役。不过，为了里约奥运，徐莉佳选择复出。她说，相对于伦敦的状态来说，自己差不多恢复了七八成。</p>
+<p>
+	　　“体能方面不及4年前，而且对手也越来越多，比如上一届奥运大概前五的选手有争夺奖牌实力，这一届就增加到前十。”徐莉佳坦诚，里约奥运卫冕将面临更大的挑战。</p>
+<p>
+	　　“跟对手相比，中小风和启航是我比较拿手的两个环节。”徐莉佳说，而在劣势方面，因为受到体能限制，到了中大风时船控制不住，压不平，在直线速度上略逊色。“当然我会通过其他方式尽可能弥补体能不足。心理是我的优势之一，我比较擅长在赛场上超水平发挥。”</p>
+<p>
+	　　位于瓜纳巴拉湾的奥运会帆船场地共有6个，其中内海3个、外海3个，这些场地对帆船选手的全面性提出了不小的要求。徐莉佳认为，里约奥运会的场地不确定因素很多，“就看前十名的选手谁发挥得更稳定一些，不要大起大落。”</p>
+<p>
+	　　对参加了3届奥运会的徐莉佳而言，成绩已经不仅仅是唯一的追求。受到伤病困扰的她希望通过比赛经验的积累，来延长自己的运动寿命。“我不会因为伤病而轻言放弃，我会把治疗伤病当作学习、了解自己身体的过程。怎么通过更加科学的训练方式减少伤病，尽可能延长自己的运动寿命，是我当前的目标之一。”</p>
+<p>
+	　　老将有望造惊喜</p>
+<p>
+	　　同样值得关注的还有女子帆板的陈佩娜。她在2015年世锦赛一鸣惊人获得冠军，在2016年世界杯荷兰站获得第二，今年是她第一次参加奥运会的比赛。</p>
+<p>
+	　　尽管从2005年就进入国家队，但陈佩娜因为成绩、伤病等原因一直无缘奥运资格。如今，十年磨一剑的机会终于到来。“每天我都会告诉自己要耐心一点，因为我始终觉得我在帆板这个项目是有潜力的。不管是遇到伤病或者是其它的挫折，我都不舍得退役。因为我认为自己的潜力还没有被完全发掘。”由于饱受伤病困扰，陈佩娜屡屡在职业生涯的关键时刻错失机会，但是她始终没有放弃帆船运动，没有放弃奥运梦想。</p>
+<p>
+	　　“对我来说，当站在奥运会赛场的那一刻，表现出最好的自己，把自己的水平发挥出来就可以了。”谈到奥运，陈佩娜说。</p>
+<p>
+	　　而在出征奥运的男选手中，32岁的王爱忱与徐莉佳一样，也是连续第三次征战奥运。此前两届未夺奖牌的他，去年异军突起，在世界帆板锦标赛上获得亚军，为中国男子帆船项目取得了历史性突破。</p>
+<p>
+	　　据王爱忱的启蒙教练王洪军分析，王爱忱有借助风力打比赛的技术优势，加上他有参加两届奥运会的实战经验，因此有望在里约冲击奖牌。</p>
+<div class="zdfy clearfix"></div><center><table border="0" align="center" width="40%"><tr></tr></table></center>
+        <div class="box_pic"></div>
+        <div class="edit clearfix">(责编：胡雪蓉、杨磊)</div>
+      </div>
+      <!--left-banner-->
+      <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W4_diwen&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+      <!--left-banner end-->
+      <!--下载-->
+      <div class="box_down clearfix">
+        <div class="fl"><span id="rwb_khd"><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon06.gif" width="37" height="37" />人民日报客户端下载</a></span><span id="rwb_sj"><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon07.gif" width="37" height="37" />手机人民网</a></span></div>
+        <div class="fr" id="rwb_bbsbot"><a href="http://bbs1.people.com.cn/postLink.do?nid=28575143" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+       <!--下载 end-->
+       <!--推荐阅读 -->
+       <div id="rwb_tjyd">
+       <div class="clearfix box_read">
+          <h2>推荐阅读</h2><div class="hdNews clearfix">
+<p><a href="http://sports.people.com.cn/GB/404583/index.html" target="_blank"><img src="/NMediaFile/2016/0711/MAIN201607110903458760172233203.jpg" width="215" height="145" border="0" alt="2016年欧洲杯&#13;　　2016欧洲杯于北京时间2016年6月11日至7月11日在法国举行，24支球队角逐欧洲足球最高荣誉。最终，葡萄牙队1-0击败东道主法国队，成为第10个欧洲杯冠军，这也是葡萄牙队获得的首个大赛冠军。【详细】&#13;欧洲杯|赛程|直播|葡萄牙|足球|体育"/></a><strong>2016年欧洲杯</strong>
+　　2016欧洲杯于北京时间2016年6月11日至7月11日在法国举行，24支球队角逐欧洲足球最高荣誉。最终，葡萄牙队1-0击败东道主法国队，成为第10个欧洲杯冠军，这也是葡萄牙队获得的首个大赛冠军。<i class="red"><a href="http://sports.people.com.cn/GB/404583/index.html" target="_blank">【详细】</a></i></p>
+<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" /><a href="http://sports.people.com.cn/GB/404583/index.html">欧洲杯</a>|<a href="http://data.sports.people.com.cn/eurocup16/sc16.php">赛程</a>|<a href="http://sports.people.com.cn/GB/404583/404871/index.html">直播</a>|<a href="http://sports.people.com.cn/GB/22141/150872/index.html">葡萄牙</a>|<a href="http://sports.people.com.cn/GB/22141/index.html">足球</a>|<a href="http://sports.people.com.cn/">体育</a></h6></div>
+<div class="hdNews clearfix">
+<p><a href="http://sports.people.com.cn/GB/31928/404743/index.html" target="_blank"><img src="/NMediaFile/2016/0630/MAIN201606300903112192400175612.jpg" width="215" height="145" border="0" alt="世界女排大奖赛中国队获第五名&#13;　　2016年世界女排大奖赛于北京时间6月3日至7月10日进行。中国女排作为第一档球队，分别参加宁波北仑站、澳门站和香港站的预赛。中国女排取得了前两站冠军和香港站亚军，在总决赛中，中国队小组赛两战皆负，最终3-0战胜泰国队，获得第五名。【详细】&#13;中国女排|大奖赛|奥运|体育"/></a><strong>世界女排大奖赛中国队获第五名</strong>
+　　2016年世界女排大奖赛于北京时间6月3日至7月10日进行。中国女排作为第一档球队，分别参加宁波北仑站、澳门站和香港站的预赛。中国女排取得了前两站冠军和香港站亚军，在总决赛中，中国队小组赛两战皆负，最终3-0战胜泰国队，获得第五名。<i class="red"><a href="http://sports.people.com.cn/GB/31928/404743/index.html" target="_blank">【详细】</a></i></p>
+<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" /><a href="http://sports.people.com.cn/GB/22155/22157/48286/index.html">中国女排</a>|<a href="http://sports.people.com.cn/GB/31928/404743/index.html">大奖赛</a>|<a href="http://sports.people.com.cn/GB/31928/403623/index.html">奥运</a>|<a href="http://sports.people.com.cn/">体育</a></h6></div>
+</div>
+       </div>
+       <!--推荐阅读 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|B8&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+       <!--left-banner end-->
+       <!--相关新闻-->
+       <div id="rwb_xgxw">
+       <div class="clearfix box_news">
+          <h2>相关新闻</h2>
+          <ul><li><a href="http://fj.people.com.cn/n2/2016/0727/c363313-28739398.html" target="_blank">里约奥运门票滞销 目前待售门票超170万</a></li><li><a href="http://sports.people.com.cn/n1/2016/0726/c22165-28586725.html" target="_blank">“奥运新秀”亮相上海 亚帆联杯等你来看</a></li><li><a href="http://sports.people.com.cn/n1/2016/0725/c22165-28581280.html" target="_blank">中国环渤海帆船拉力赛招商发布会在京举行</a></li><li><a href="http://sz.people.com.cn/n2/2016/0725/c202846-28721473.html" target="_blank">中国大学生帆船锦标赛大鹏启航</a></li><li><a href="http://sports.people.com.cn/n1/2016/0721/c22149-28571634.html" target="_blank">低调出征奥运：男篮飞赴美国热身 月底前往里约</a></li><li><a href="http://sd.people.com.cn/n2/2016/0720/c364532-28701512.html" target="_blank">2016青岛国际帆船周海洋节8月5日启幕</a></li><li><a href="http://hi.people.com.cn/n2/2016/0719/c231190-28694988.html" target="_blank">三亚天涯区将率先在海南开设帆板帆船体育课</a></li><li><a href="http://sd.people.com.cn/n2/2016/0711/c172832-28646720.html" target="_blank">青岛奥帆博物馆：打造独具风采的奥帆文化</a></li></ul>
+       </div>
+       </div>
+       <!--相关新闻 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|B9&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+       <!--left-banner end-->
+        <!--精彩图集-->
+       <div id="rwb_jctj">
+       <div class="clearfix box_piclist">
+          <h2>精彩图集</h2>
+          <ul><li><a href="http://sports.people.com.cn/n1/2016/0726/c22155-28584249-2.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261501302707652789626.jpg" width="214" height="143" border="0" alt="国羽结束奥运前集训返京"/></a><a href="http://sports.people.com.cn/n1/2016/0726/c22155-28584249-2.html" target="_blank">国羽结束奥运前集训返京</a></li>
+<li><a href="http://sports.people.com.cn/n1/2016/0726/c22141-28584702.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261459515271800119807.jpg" width="214" height="143" border="0" alt="巴西国奥队积极备战"/></a><a href="http://sports.people.com.cn/n1/2016/0726/c22141-28584702.html" target="_blank">巴西国奥队积极备战</a></li>
+<li><a href="http://sports.people.com.cn/n1/2016/0725/c46493-28582020.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261456330987097372721.jpg" width="214" height="143" border="0" alt="环法赛弗洛姆夺冠"/></a><a href="http://sports.people.com.cn/n1/2016/0725/c46493-28582020.html" target="_blank">环法赛弗洛姆夺冠</a></li>
+<li><a href="http://sports.people.com.cn/n1/2016/0725/c22137-28580681-2.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261425141986623417581.jpg" width="214" height="143" border="0" alt="苏宁4-1大胜建业"/></a><a href="http://sports.people.com.cn/n1/2016/0725/c22137-28580681-2.html" target="_blank">苏宁4-1大胜建业</a></li>
+<li><a href="http://sports.people.com.cn/n1/2016/0725/c22137-28581086-2.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261423260762191392521.jpg" width="214" height="143" border="0" alt="申花客场胜鲁能"/></a><a href="http://sports.people.com.cn/n1/2016/0725/c22137-28581086-2.html" target="_blank">申花客场胜鲁能</a></li>
+<li><a href="http://sports.people.com.cn/n1/2016/0725/c22134-28581600-3.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261421469435336586789.jpg" width="214" height="143" border="0" alt="国青1-1平皇马U19队"/></a><a href="http://sports.people.com.cn/n1/2016/0725/c22134-28581600-3.html" target="_blank">国青1-1平皇马U19队</a></li>
+</ul>
+       </div>
+       </div>
+       <!--精彩图集 end-->
+   </div>
+   <!--text left end-->
+   <!--text right-->
+   <div class="fr text_con_right">
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W2_PIP&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+      <!--banner end-->
+      <!--right热点推荐-->
+      <div class="clearfix box_hot" id="rwb_rdtj" >
+         <h2>体育要闻</h2>
+         <ul>
+            <li><a href='/n1/2016/0727/c22149-28589317.html' target="_blank">阿联缺阵周琦复苏 中国男篮50分差…</a></li>
+<li><a href='/n1/2016/0727/c22149-28589196.html' target="_blank">中美男篮热身赛第二场 中国队24-…</a></li>
+<li><a href='/n1/2016/0727/c399822-28589064.html' target="_blank">中文观潮:世间没有完美</a></li>
+<li><a href='/n1/2016/0727/c22155-28589036.html' target="_blank">邹市明：70岁仍希望站在拳击赛场 …</a></li>
+<li><a href='/n1/2016/0727/c22155-28589035.html' target="_blank">敢想敢拼的邹市明：用奥运精神助推青…</a></li>
+
+
+         </ul>
+      </div>
+      <!--right热点推荐 end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W3_juxing&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script>
+</div>
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|B1&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script>
+</div>
+      <!--banner end-->
+      <!--right精彩推荐-->
+      <div class="clearfix box_pic02" id="rwb_jctjr" >
+         <h2>体坛热点</h2>
+         <ul class="clearfix">
+            <li><a href="http://sports.people.com.cn/n1/2016/0706/c22153-28527688.html" target="_blank"><img src="/NMediaFile/2016/0708/MAIN201607081054194862234630578.jpg" width="130" height="90" border="0" alt="男篮三大中锋聚首"/></a><a href="http://sports.people.com.cn/n1/2016/0706/c22153-28527688.html" target="_blank">男篮三大中锋聚首</a></li>
+<li><a href="http://sports.people.com.cn/GB/31928/395768/index.html" target="_blank"><img src="/NMediaFile/2016/0630/MAIN201606300933161665804796246.jpg" width="130" height="90" border="0" alt="国足征战世预12强赛"/></a><a href="http://sports.people.com.cn/GB/31928/395768/index.html" target="_blank">国足征战世预12强赛</a></li>
+<li><a href="http://sports.people.com.cn/GB/31928/400217/index.html" target="_blank"><img src="/NMediaFile/2016/0630/MAIN201606300930487273828727307.jpg" width="130" height="90" border="0" alt="2022冬奥会筹备进行时"/></a><a href="http://sports.people.com.cn/GB/31928/400217/index.html" target="_blank">2022冬奥会筹备进行时</a></li>
+<li><a href="http://sports.people.com.cn/GB/402040/402441/index.html" target="_blank"><img src="/NMediaFile/2016/0630/MAIN201606300928476270884631964.jpg" width="130" height="90" border="0" alt="中国体育产业风云榜"/></a><a href="http://sports.people.com.cn/GB/402040/402441/index.html" target="_blank">中国体育产业风云榜</a></li>
+
+         </ul>
+      </div>
+      <!--right精彩推荐 end-->
+      <!--right视频新闻-->
+      <div class="clearfix box_pic03" id="rwb_sptj">
+         <h2>视频新闻</h2>
+         <ul class="clearfix">
+            <li><a href="http://tv.people.com.cn/n1/2016/0726/c222296-28584286.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261104495178269385409.jpg" width="125" height="95" border="0" alt="奥运村开村迎客"/></a><i></i><a href="http://tv.people.com.cn/n1/2016/0726/c222296-28584286.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />奥运村开村迎客</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2016/0726/c356168-28584356.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261104491661979541577.jpg" width="125" height="95" border="0" alt="动物避暑尽显萌态"/></a><i></i><a href="http://tv.people.com.cn/n1/2016/0726/c356168-28584356.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />动物避暑尽显萌态</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2016/0725/c239891-28583022.html" target="_blank"><img src="/NMediaFile/2016/0726/MAIN201607261104489973934747287.jpg" width="125" height="95" border="0" alt="海豚岛之沙滩探险"/></a><i></i><a href="http://tv.people.com.cn/n1/2016/0725/c239891-28583022.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />海豚岛之沙滩探险</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2016/0724/c356168-28580236.html" target="_blank"><img src="/NMediaFile/2016/0725/MAIN201607251558316155383405364.jpg" width="125" height="95" border="0" alt="重庆“面人老谭”"/></a><i></i><a href="http://tv.people.com.cn/n1/2016/0724/c356168-28580236.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />重庆“面人老谭”</p></a></li>
+
+          </ul>
+          <ol class="clearfix">
+             <li><a href='http://tv.people.com.cn/n1/2016/0722/c356174-28578386.html' target="_blank">街采：成都市民眼中的“G20成都会议”</a></li>
+<li><a href='http://tv.people.com.cn/n1/2016/0723/c356175-28579508.html' target="_blank">人民网广东首部城市微电影《清溪恋画》</a></li>
+<li><a href='http://tv.people.com.cn/n1/2016/0721/c201599-28572727.html' target="_blank">河南新乡消防成功护卫98名被困人员脱险</a></li>
+
+          </ol>
+      </div>
+      <!--right视频新闻  end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|B2&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|B3&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+      <!--banner end-->
+      <!--right热点排行-->
+      <div class="clearfix box_ol" id="rwb_rdph">
+         <h2></h2>
+         <ol class="ph_list">
+            <li><!--1--><a href="http://leaders.people.com.cn/n1/2016/0726/c58278-28583961.html" title="[网连中国]5地社保费率降低后工资条看变化 职工：只少交几块钱" target="_blank">[网连中国]5地社保费率降低后工资条看…</a></li><li><!--2--><a href="http://kpzg.people.com.cn/n1/2016/0726/c404390-28584704.html" target="_blank">暴雨预报有多难？&nbsp;专家为您来解密</a></li><li><!--3--><a href="http://renshi.people.com.cn/n1/2016/0726/c139617-28584125.html" title="李仲彬任成都市委副书记 王川红任成都市纪委书记" target="_blank">李仲彬任成都市委副书记&nbsp;王川红任成都市…</a></li><li><!--4--><a href="http://pic.people.com.cn/n1/2016/0727/c1016-28587343.html" title="四川九寨沟发生特大泥石流 冲毁民房、省道205线被埋" target="_blank">四川九寨沟发生特大泥石流&nbsp;冲毁民房、省…</a></li><li><!--5--><a href="http://renshi.people.com.cn/n1/2016/0726/c139617-28584040.html" target="_blank">杨岳被提请任命为江苏省政府副省长</a></li>
+         </ol>
+      </div>
+      <!--right热点排行 end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|B4&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|B5&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|B6&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script></div>
+      <!--banner end-->
+   </div>
+   <!--text right end-->
+</div>
+<!--text_con end-->
+
+
+<!--copyright-->
+<div class="copyright clearfix w1000_320">
+人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2016 by www.people.com.cn. all rights reserved
+</div>
+
+
+<img src="http://58.68.146.44:8000/c.gif?id=28575143" width=0 height=0>
+<script type="text/javascript" src="http://www.people.com.cn/css/2010tianrun/webdig_test.js"></script>
+
+<!--baidu cloud-->
+
+
+<script type='text/javascript' LANGUAGE="JavaScript">
+	if (window.screen.width >= 1024){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W5_duilian&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script"+">");
+	}
+</script>
+
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|tanchuang&db=people&border=0&local=yes&js=ie&kv=people|sports;third|69264;fourth|;newsid|28575143' charset='gbk'></script>
+</body>
+</html>

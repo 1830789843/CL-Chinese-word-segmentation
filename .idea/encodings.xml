@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/spiders/data/channel.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/date.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/keywords.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0000.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0001.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0002.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0005.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0006.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0007.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0070.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0071.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0072.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0094.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0095.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0096.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0097.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0098.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/raw/0144.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/spiders/data/source.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/test/html/0.txt" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

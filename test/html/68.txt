@@ -1,0 +1,298 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>壮阔东方潮 奋进新时代--时政--人民网</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="419587" />
+<script type="text/javascript" src="http://tools.people.com.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/img/MAIN/2018/05/118384/focus_small_right.js" charset="utf-8"></script>
+<script src="/img/MAIN/2018/05/118384/jcarousellite_1.0.1.min.js" type="text/javascript"></script>
+<script language="JavaScript">
+$(document).ready(function(){
+	$(".jCarouselLite3").jCarouselLite({
+    btnNext: ".next3",
+    btnPrev: ".pre3",
+	speed: 1000,
+	auto: null,
+	visible:1,
+	circular:false
+    });	
+	$(".jCarouselLite3 li").each(function(index, element) {
+       $(".jCarouselLite3 li").find("p .allp").html($(".jCarouselLite3 li").length)
+       $(this).find("p .thisp").html($(this).index()+1)
+    });
+});
+</script>
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="/img/MAIN/2018/05/118384/page.css" type="text/css" media="all"  charset="utf-8" />
+<style type="text/css">
+.videoBox{ width:100%; height:100vh; overflow:hidden; position:relative; text-align:center;}
+.videoBox .cloudVideo{ width:100%; position:absolute; top:0px; left:50%; transform:translateX(-50%);}
+</style>
+</head>
+<body>
+<!--video-->
+<div class="videoBox">
+	<video class="cloudVideo" id="cloudVideo" autoplay muted="muted">
+		<source type="video/mp4" src="http://flv4.people.com.cn/videofile3//pvmsvideo/2018/5/21/WangZiHan_b47c834774fc9f9be9c7144ffa15868f.mp4">
+	</video>
+</div>
+<script type="text/javascript">
+var videoScale = 1920/1080;
+var videoHeight = $(window).height();
+var videoWidth = videoHeight*videoScale;
+$(".videoBox").css({
+	"height" : videoHeight
+})
+$(".cloudVideo").css({
+	"width" : videoWidth
+})
+
+function videoEnd() {
+	$(".videoBox").animate({
+		height:"0px"
+	},1500);
+	setTimeout(function () {
+		$(".videoBox").remove();
+	}, 1500);
+	$(".fmBox").show();
+};
+$("#cloudVideo")[0].onended = function() {videoEnd()};
+
+$(document).ready(function(){
+	var userAgent = navigator.userAgent.toLowerCase();
+    // Figure out what browser is being used 
+    jQuery.browser = {
+		version: (userAgent.match(/.+(?:rv|it|ra|ie)[\/: ]([\d.]+)/) || [])[1],
+		safari: /webkit/.test(userAgent),
+		opera: /opera/.test(userAgent),
+		msie: /msie/.test(userAgent) && !/opera/.test(userAgent),
+		mozilla: /mozilla/.test(userAgent) && !/(compatible|webkit)/.test(userAgent)
+    }; 
+	//console.log(jQuery.browser,$.browser.safari);
+	//console.log(userAgent,jQuery.browser.version);
+	var judgeIe = $.browser.msie&&($.browser.version <= "8.0");
+	//console.log(judgeIe);
+	if(judgeIe){
+		$(".videoBox").hide();
+		$(".fmBox").show();
+	}
+})
+</script>
+<!--top-->
+<div class="fmBox" style="background:url(/img/MAIN/2018/05/118384/images/top.jpg) top center no-repeat; height:900px; overflow:hidden; display:none;"></div>
+<div class="clearfix top01_bg">
+  <div class="w1000 clearfix white"><p>　“今年是改革开放40周年，我们要总结经验、乘势而上，在新起点上推动改革开放实现新突破。”“中国进行改革开放，顺应了中国人民要发展、要创新、要美好生活的历史要求，契合了世界各国人民要发展、要合作、要和平生活的时代潮流。”……习近平总书记近期在海南发表的一系列重要讲话高瞻远瞩、总揽全局，为推进新时代中国改革开放作出了重要部署，指明了前进方向。各地各部门以扩大开放促进深化改革，以深化改革促进扩大开放，改革开放“双引擎”动力更加澎湃。</p></div>
+</div>
+<div class="clearfix top02_bg">
+   <div class="w1000"><h1 class="red"><img src="/img/MAIN/2018/05/118384/images/icon02.png" width="52" height="39" /><a href='/n1/2018/1126/c1001-30420269.html' target=_blank>改革开放杰出贡献拟表彰对象公示</a></p>
+</div>
+</div>
+<!--top end-->
+<!--p1-->
+<div class="p1_con clearfix w1000">
+   <div class="fl">      
+    <div id="box">
+    <ul id="pic_list"><li><img src="/NMediaFile/2018/1106/MAIN201811061526041828135471264.jpg" width="535" height="356"/><i>首届中国国际进口博览会正式拉开帷幕</i></li>
+<li><img src="/NMediaFile/2018/1106/MAIN201811061532304852731491380.jpg" width="535" height="356"/><i>广州：打造全方位开放国际化大都市</i></li>
+<li><img src="/NMediaFile/2018/1017/MAIN201810170917359469437161207.png" width="535" height="356"/><i>全球最长跨海大桥——港珠澳大桥</i></li>
+<li><img src="/NMediaFile/2018/1024/MAIN201810241359060045931432441.jpg" width="535" height="356"/><i>醉美秋色 我国人工林规模居世界之首</i></li>
+<li><img src="/NMediaFile/2018/1106/MAIN201811061612506540066202307.jpg" width="535" height="356"/><i>让绿水青山成为未来世界的模样</i></li>
+<li><img src="/NMediaFile/2018/1009/MAIN201810091651281076266267271.jpg" width="535" height="356"/><i>江西余江：“宅改”让旧貌变新颜</i></li>
+</ul>
+    <div id="num_list">
+    <div class="up"><img src="/img/MAIN/2018/05/118384/images/left01.png" width="40" height="40" /></div>
+    <div class="pic_list"><ul></ul></div>
+    <div class="down"><img src="/img/MAIN/2018/05/118384/images/right01.png" width="40" height="40" /></div>
+    </div>
+</div>      
+   </div>
+   <div class="fr">
+      <h1 class="red"><a href='/n1/2018/1105/c1001-30382664.html' target=_blank>习近平进博会主旨演讲52次谈“开放”</a></h1>
+         <p>&nbsp;&nbsp;&nbsp;&nbsp;首届中国国际进口博览会正式拉开帷幕。习近平主席出席开幕式并发表主旨演讲。演讲提出对全球化大势的中国判断，展示中国主动开放的鲜明立场，阐明中国进一步开放的坚定举措。“开放”一词共出现52次。
+
+<a href='/n1/2018/1105/c1001-30382664.html' target=_blank>[详细]</a></p>
+
+      <ul class="clearfix"><li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1120/c1001-30409676.html' target="_blank">改革开放四十周年展览 展览办负责人答记者问</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1120/c1001-30409705.html' target="_blank">百城百县百企调研:满洲里 开放的道路越走越宽行</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1122/c1001-30414929.html' target="_blank">一带一路5年间:西安丝路征程再出发</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1122/c1001-30414464.html' target="_blank">40年·40个“第一”：辅助生殖技术不断升级</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1117/c1001-30406027.html' target="_blank">40年·40个“第一”:微众银行 第一家民营银行</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1119/c1001-30407146.html' target="_blank">40年·40个“第一”:上海证券交易所</a></li>
+</ul>
+   </div>
+</div>
+<!--p1 end-->
+<div class="clearfix w1000" style="margin:15px auto"><a href="http://politics.people.com.cn/GB/8198/419587/421446/index.html" ><img src="/NMediaFile/2018/0930/MAIN201809301601081938179802313.jpg" /></a>
+<a href="http://pic.people.com.cn/GB/422421/index.html" ><img src="/NMediaFile/2018/1129/MAIN201811290950371760101319304.jpg"  alt=""/></a>
+<a href="http://politics.people.com.cn/GB/8198/419587/421789/index.html" ><img src="/NMediaFile/2018/1113/MAIN201811131611490765119919517.jpg" /></a>
+<img src="/NMediaFile/2018/1112/MAIN201811120745425653542642772.jpg" />
+</div>
+<!--p2-->
+<div class="clearfix w1000 title01">40年·改革印记</div>
+<div class="p2_con clearfix w1000">
+   <div class="fl">
+      <h1 class="red"><a href='http://opinion.people.com.cn/n1/2018/1024/c1003-30358600.html' target=_blank>人民日报：敞开胸襟拥抱更大的世界</a></h1>
+         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 日前，《中国（海南）自由贸易试验区总体方案》正式对外公布。这份总体方案，“全域性”“大尺度”的特色让人眼前一亮，彰显“中国开放的大门不会关闭，只会越开越大”的坚定决心，为海南全面深化改革开放注入了强劲动力。
+<p>&nbsp; &nbsp;&nbsp; &nbsp;连日来，总体方案引发各界广泛关注，人们开始研究离岛免税人均购物3万元放开后，有哪些新款商品不出国门就可以“买买买”；取消新能源汽车制造外资准入限制后，如何花更少的钱买到更多新款车型；有的则为海南假期经济出谋划策，提出“能多些航线，旺季机票便宜点，坐上游艇，体会琼港澳自由行，就更好”。
+<p>&nbsp; &nbsp;&nbsp; &nbsp;与此前其他11个自贸试验区方案不同，海南是全岛建设自贸试验区，面积达3.54万平方公里，是其他11个自贸区面积总和的27倍；发展目标则从自贸区延伸到自贸港。这就要求海南以“全省一盘棋”的理念，推动形成新的理念、新的管理方法，在体制机制创新上取得新的突破。<a href='http://opinion.people.com.cn/n1/2018/1024/c1003-30358600.html' target=_blank>[详细]</a></p>
+
+   </div>
+   <div class="fr">
+      <p><a href="http://zj.people.com.cn/GB/187016/386490/index.html" target="_blank"><img src="/NMediaFile/2018/1106/MAIN201811061108247067890462612.jpg" width="270" height="180"/></a><a href="http://zj.people.com.cn/GB/187016/386490/index.html" target="_blank">改革印记·浙江篇</a></p>
+<p><a href="http://fj.people.com.cn/GB/339045/340945/386349/index.html" target="_blank"><img src="/NMediaFile/2018/1106/MAIN201811061105559395985170189.jpg" width="270" height="180"/></a><a href="http://fj.people.com.cn/GB/339045/340945/386349/index.html" target="_blank">改革印记·福建篇</a></p>
+
+   </div>
+</div>
+<!--p2 end-->
+<div class="clearfix w1000" style="margin:15px auto"><a href="http://politics.people.com.cn/GB/8198/419587/421730/index.html" ><img src="/NMediaFile/2018/1015/MAIN201810150900541544901649834.jpg"  alt="心声"/></a>
+<a href="http://politics.people.com.cn/GB/8198/419587/421729/index.html" ><img src="/NMediaFile/2018/1015/MAIN201810150900545500160302220.jpg"  alt="40人对话40年"/></a>
+<a href="http://edu.people.com.cn/GB/8216/420648/index.html" ><img src="/NMediaFile/2018/0904/MAIN201809040959451363163978821.png"  alt="2018首都大学生采访团"/></a>
+</div>
+<style type="text/css">
+.p5_con{position:relative;}
+.jCarouselLite1 li i,.jCarouselLite1 li p{ margin:0 auto;}
+.jCarouselLite1 li b{font-size:16px; display:block;font-weight:normal;padding-top:10px;}
+.jCarouselLite1 li i{color:#999999;border-bottom:1px solid #999;margin:0 17px;display:block;padding:5px 0;}
+.jCarouselLite1 li p{color:#999999;margin:0 17px;display:block;padding:10px 0;}
+.p5_bt{ position:absolute;top:0;left:0;width:1000px;}
+.b_left1{ position:absolute; left:0px;top:120px; z-index:100}
+.b_right1{ position:absolute; right:0px;top:120px; z-index:100}
+.jCarouselLite1 li{width:182px;height:287px;background:#fff;position:relative;float:left;margin-right:7px}
+.jCarouselLite1 li img{position:absolute;top:0;left:0px; width:182px; height:137px;}
+.jCarouselLite1 li .p5_box{position:absolute;height:130px;padding:5px 15px;top:137px;}
+.jCarouselLite1 li .p5_box h4{font-size:14px;border-bottom:1px solid #cccccc;padding-bottom:6px;margin-bottom:10px; color:#999999; text-align:center;}
+.jCarouselLite1 li .p5_box h4 a{color:#999999;}
+.jCarouselLite1 li .p5_box h4 b{font:normal 16px/24px "\5FAE\8F6F\96C5\9ED1"; color:#fff; display:block;}
+.jCarouselLite1 li .p5_box h4 b a{color:#fff;}
+.jCarouselLite1 li .p5_box p{color:#999999;line-height:190%; text-align:left;}
+.jCarouselLite1 li .p5_box p a{color:#999999}
+.jCarouselLite1 li.t2{background:#424242;}
+.jCarouselLite1 li.t2 img{top:150px}
+.jCarouselLite1 li.t2 .p5_box{top:0px;color:#999999}
+.jCarouselLite1 li.t2 .p5_box a{color:#999999}
+.jCarouselLite1 li.t2 .p5_box h4{color:#999999}
+.jCarouselLite1 li.t2 .p5_box h4 a{color:#999999}
+.jCarouselLite1 li.t2 .p5_box b{color:#fff}
+.jCarouselLite1 li.t2 .p5_box b a{color:#fff}
+.jCarouselLite1 li.t2 .p5_box p{color:#999999}
+.jCarouselLite1 li.t2 .p5_box p a{color:#999999}
+.jCarouselLite1 li i,.jCarouselLite1 li p{ margin:0 auto;}
+</style>
+<script>
+$(function(){	
+	try{
+		$(".jCarouselLite1 li").each(function(index, el) {
+			  if (index%2==0) {
+				$(this).addClass('t2');
+			  }
+		});
+	}catch(err){}
+	try{
+	$(".jCarouselLite1").jCarouselLite({
+	    btnNext: ".next",
+	    btnPrev: ".prev",
+		visible:5,
+		onMouse: true,
+		btCtrlVisible:1,
+		auto:3000
+		
+	});
+	}catch(e){}
+})
+</script>
+<div class="clearfix w1000 title01">国际人士亲历</div>
+<div class="w1000 p5_con">
+<div class="jCarouselLite1 w1000">
+<ul class="clearfix"><li><a href="/n1/2018/1114/c422281-30399664.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141435539252371155354.PNG" width="182" height="138"/></a><div class="p5_box"><b>郭仲谊：改革开放成就了中国奇迹</b><i></i><p><a href="/n1/2018/1114/c422281-30399664.html" target="_blank">在过去的40年里，中国一直在大胆尝试各种改革性举措。</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399664.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141434072862344990105.PNG" width="182" height="138"/></a><div class="p5_box"><b>杜瓦托：我们将继续植根中国</b><i></i><p><a href="/n1/2018/1114/c422281-30399664.html" target="_blank">改革开放以来，中国整体研发环境不断改善，中国对制药创新给予数据保护期</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399664.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141432109846498164538.PNG" width="182" height="138"/></a><div class="p5_box"><b>玛格丽特·路易达孚：很荣幸我们能够一路同行</b><i></i><p><a href="/n1/2018/1114/c422281-30399664.html" target="_blank">我们将一如既往地与中国伙伴共同努力推动食品安全</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399664.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141430430126884031790.PNG" width="182" height="138"/></a><div class="p5_box"><b>杉山龙雄：中国探索出了一条适合本国国情的发展道路</b><i></i><p><a href="/n1/2018/1114/c422281-30399664.html" target="_blank">作为一家物流企业，我们积极参与“一带一路”建设</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399663.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141426180508584047734.PNG" width="182" height="138"/></a><div class="p5_box"><b>埃万德罗·卡瓦略：向世界介绍全面真实的中国”</b><i></i><p><a href="/n1/2018/1114/c422281-30399663.html" target="_blank">中国非常重视加强与周边国家和地区的紧密联系</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399663.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141425005902578703192.PNG" width="182" height="138"/></a><div class="p5_box"><b>阿利里奥·波尔斯布鲁克：与世界共同见证“中国奇迹”</b><i></i><p><a href="/n1/2018/1114/c422281-30399663.html" target="_blank">过去12年里，我访问了中国5次，见证了中国日新月异。</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399663.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141422423112391658843.PNG" width="182" height="138"/></a><div class="p5_box"><b>马佳丽·席尔瓦：分享中国改革开放的宝贵机遇</b><i></i><p><a href="/n1/2018/1114/c422281-30399663.html" target="_blank">经济特区不仅名字是中国首创，而且涵盖多种形式</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399666.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141417599971209775665.jpg" width="182" height="138"/></a><div class="p5_box"><b>兹·古拉尔赤克：根本性地改善了十几亿中国人民的生活</b><i></i><p><a href="/n1/2018/1114/c422281-30399662.html" target="_blank">中国在经济发展的各个方面都取得了世人瞩目的成就。</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399662.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141404153968064143408.jpg" width="182" height="138"/></a><div class="p5_box"><b>多米尼克·德海耶：中国正日益走近世界舞台中央</b><i></i><p><a href="/n1/2018/1114/c422281-30399662.html" target="_blank">这种一日千里的飞速发展恐怕在人类历史上都十分罕见</a></p></div></li>
+<li><a href="/n1/2018/1114/c422281-30399662.html" target=_blank><img src="/NMediaFile/2018/1114/MAIN201811141402091727356026947.jpg" width="182" height="138"/></a><div class="p5_box"><b>雅·冈巴特尔：中国改革开放给蒙古国带来了机遇</b><i></i><p><a href="/n1/2018/1114/c422281-30399662.html" target="_blank">蒙中两国人文交流得到了长足发展</a></p></div></li>
+</ul>
+</div>
+<div class="p5_bt">
+<div class="prev b_left1" ><img src="/img/MAIN/2015/04/115430/images/l_bt.gif"  /></div>
+<div class="next b_right1" ><img src="/img/MAIN/2015/04/115430/images/r_bt.gif" /></div>
+</div>
+</div>
+<!--p3-->
+<div class="clearfix w1000 title01">精彩图集</div>
+<div class="p3_con clearfix w1000">
+
+      
+     <div class="foucs3">
+      <ol class="jCarouselLite3">
+        <ul><li><a href="/n1/2018/1023/c1001-30356164.html" target="_blank"><img src="/NMediaFile/2018/1024/MAIN201810241437479112720077406.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="/n1/2018/1023/c1001-30356164.html" target="_blank">桂林：让产业和山水相得益彰</a></span></li>
+<li><a href="/n1/2018/1020/c1001-30352316.html" target="_blank"><img src="/NMediaFile/2018/1024/MAIN201810241441242680897579711.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="/n1/2018/1020/c1001-30352316.html" target="_blank">武汉：创新释放发展新动能</a></span></li>
+<li><a href="/n1/2018/1019/c1001-30349964.html" target="_blank"><img src="/NMediaFile/2018/1024/MAIN201810241443490443682006837.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="/n1/2018/1019/c1001-30349964.html" target="_blank">郑州：面向全球谋发展</a></span></li>
+<li><a href="/n1/2018/1022/c1001-30353741.html" target="_blank"><img src="/NMediaFile/2018/1024/MAIN201810241444501906025844164.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="/n1/2018/1022/c1001-30353741.html" target="_blank">长沙：城市发展处处见“人”</a></span></li>
+<li><a href="http://nx.people.com.cn/n2/2018/1015/c192493-32156915.html" target="_blank"><img src="/NMediaFile/2018/1016/MAIN201810161456092731428820022.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="http://nx.people.com.cn/n2/2018/1015/c192493-32156915.html" target="_blank">宁夏银川：湖城初染金黄 邂逅“醉”美秋色</a></span></li>
+<li><a href="http://politics.people.com.cn/n1/2018/0929/c1001-30320223.html" target="_blank"><img src="/NMediaFile/2018/1016/MAIN201810161418450324477322413.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="http://politics.people.com.cn/n1/2018/0929/c1001-30320223.html" target="_blank">福建三明 清流滋养金山银山</a></span></li>
+<li><a href="http://pic.people.com.cn/n1/2018/1015/c1016-30342106.html" target="_blank"><img src="/NMediaFile/2018/1016/MAIN201810161358291473171901347.JPG" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="http://pic.people.com.cn/n1/2018/1015/c1016-30342106.html" target="_blank">甘肃高台：辣椒丰收 晾晒场如铺红色地毯</a></span></li>
+<li><a href="/n1/2018/1009/c1001-30330550.html" target="_blank"><img src="/NMediaFile/2018/1016/MAIN201810161454506736103429103.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="/n1/2018/1009/c1001-30330550.html" target="_blank">丰收吉林：农业机械化背后的“时代变迁”</a></span></li>
+<li><a href="http://politics.people.com.cn/n1/2018/1012/c1001-30337796.html" target="_blank"><img src="/NMediaFile/2018/1016/MAIN201810161125213374293226157.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="http://politics.people.com.cn/n1/2018/1012/c1001-30337796.html" target="_blank">塞罕坝机械林场：昔日荒漠地 今朝变林海</a></span></li>
+<li><a href="http://politics.people.com.cn/n1/2018/1015/c1001-30341479.html" target="_blank"><img src="/NMediaFile/2018/1016/MAIN201810161118514492450959685.jpg" width="1000" height="580"/></a><em></em><p><i class="thisp">123</i>/<i class="allp">123</i></p><span><a href="http://politics.people.com.cn/n1/2018/1015/c1001-30341479.html" target="_blank">厦门：海防前哨变身国际化城市</a></span></li>
+</ul>
+      </ol>
+      <div class="pre3"></div>
+      <div class="next3"></div>
+    </div>
+
+</div>
+<!--p3 end-->
+
+<!--视频报道-->
+<iframe name="" width=1000 height=615 align=top frameborder=0 marginwidth=0 marginheight=0 scrolling=no src="http://tv.people.com.cn/GB/61600/419817/index.html"></iframe>
+
+<!--视频报道 end-->
+<!--p4-->
+<div class="clearfix w1000 title01">聚焦新闻</div>
+<div class="clearfix p4_con">
+  <ul class="clearfix"><li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1113/c1001-30398228.html' target="_blank">改革开放40年成功的“中国密码”</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1108/c1001-30388486.html' target="_blank">中国减贫，为世界提供有益借鉴</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1110/c1001-30392761.html' target="_blank">开放是当代中国的鲜明标识</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1113/c1001-30398267.html' target="_blank">改革开放40年人民政协性质定位的“四次飞跃”</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1113/c1001-30396697.html' target="_blank">内蒙古：打好脱贫仗，牧民生活变了样</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1113/c1001-30398201.html' target="_blank">改革开放40年 民生领域成绩单亮点满满</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1113/c1001-30397933.html' target="_blank">从壮乡巨变看中国发展的力量</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1113/c1001-30398233.html' target="_blank">改革开放40年：北京市消费市场跨4级台阶</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1113/c1001-30398241.html' target="_blank">改革开放40年：一个工农兵学员的求学历程</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1113/c1001-30398045.html' target="_blank">广州：大潮起珠江，敢为天下先</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1008/c1001-30326723.html' target="_blank">多规合一 博鳌更美</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1008/c1001-30328671.html' target="_blank">改革开放之光照亮百姓梦想</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1009/c1001-30329185.html' target="_blank">深化改革开放，加快东北全面振兴</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1010/c1001-30331231.html' target="_blank">中国改革发展述评：坚定不移将改革进行到底</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1014/c1001-30339443.html' target="_blank">改革开放再出发：以制度筑牢生态文明之基</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/0917/c1001-30298788.html' target="_blank">改革开放40年 我国生态保护与生态建设显成效</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1006/c1001-30326187.html' target="_blank">改革开放以来我国形成四通八达的综合运输网络</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1008/c1001-30328671.html' target="_blank">改革开放之光照亮百姓梦想</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1009/c1001-30328934.html' target="_blank">关注改革最后一公里：政策落地，怎样精细配套</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='http://opinion.people.com.cn/n1/2018/1009/c1003-30328949.html' target="_blank">改革开放与中国特色社会主义同向共进</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1009/c1001-30330642.html' target="_blank">滨海新区：盐碱荒滩到改革前沿</a></li>
+<li><img src="/img/MAIN/2018/05/118384/images/icon03.png" width="12" height="12" /><a href='/n1/2018/1008/c1001-30328672.html' target="_blank">小岗村40年：在改革中走向“不惑”</a></li>
+</ul>
+</div>
+<!--p4 end-->
+
+<div class="copyright white clearfix"><style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved</div></div>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+</body>
+</html>

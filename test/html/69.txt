@@ -1,0 +1,463 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>让洱海清水永驻（壮阔东方潮&nbsp;奋进新时代——庆祝改革开放40年）--财经--人民网 </title>
+<meta name="keywords" content="" />
+<meta name="description" content="　　“人努力，天帮忙”，生态环境部中国环境监测总站近日反馈，2018年11月洱海湖心断面水质为Ⅱ类。据悉，这是自2015年以来洱海首次实现11月份水质为Ⅱ类，今年Ⅱ类水质已有6个月。　　每隔一两天，大" />
+<meta name="copyright" content="人民网版权所有" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="1004">
+<meta name="contentid" content="30437224">
+<meta name="publishdate" content="2018-12-03">
+<meta name="author" content="103977">
+<meta name="editor" content="">
+<meta name="source" content="来源：人民日报">
+<meta name="sourcetype" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="http://www.people.com.cn/img/2016wb/page2018.css" type="text/css" media="all"  charset="utf-8" />
+
+<script type="text/javascript" src='http://tools.people.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+
+<script src="http://dup.baidustatic.com/js/dm.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000_320 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 4px 0 3px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">网站首页</a><a href="http://politics.people.com.cn/" target="_blank">时政</a><a href="http://world.people.com.cn/" target="_blank">国际</a><a href="http://finance.people.com.cn/" target="_blank">财经</a><a href="http://tw.people.com.cn/" target="_blank">台湾</a><a href="http://military.people.com.cn/" target="_blank">军事</a><a href="http://opinion.people.com.cn/" target="_blank">观点</a><a href="http://leaders.people.com.cn/" target="_blank">领导</a><a href="http://renshi.people.com.cn/" target="_blank">人事</a><a href="http://theory.people.com.cn/" target="_blank">理论</a><a href="http://legal.people.com.cn/" target="_blank">法治</a><a href="http://society.people.com.cn/" target="_blank">社会</a><a href="http://industry.people.com.cn/" target="_blank">产经</a><a href="http://edu.people.com.cn/" target="_blank">教育</a><a href="http://kpzg.people.com.cn/" target="_blank">科普</a><a href="http://sports.people.com.cn/" target="_blank">体育</a><a href="http://culture.people.com.cn/" target="_blank">文化</a><a href="http://art.people.com.cn/" target="_blank">书画</a><a href="http://house.people.com.cn/" target="_blank">房产</a><a href="http://auto.people.com.cn/" target="_blank">汽车</a><a href="http://travel.people.com.cn/" target="_blank">旅游</a><a href="http://health.people.com.cn/" target="_blank">健康</a><a href="http://tv.people.com.cn/" target="_blank">视频</a><a href="http://ip.people.com.cn/" target="_blank">知识产权</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">注册</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">退出</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/2016wb/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--banner-->
+<div class="clearfix w1000_320 banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W1_banner&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437224' charset='gbk'></script></div>
+<!--banner end-->
+<!--path-->
+<div class="clearfix w1000_320 path path2 pos_re_search">
+   <div class="fl">
+   <span id="rwb_logo"><em><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo01.png" width="112" height="46" /></a></em><i><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo2.png" width="112" height="46" /></a></i></span>
+   <span id="rwb_navpath"><a href="http://www.people.com.cn/" class="clink">人民网</a>&gt;&gt;<a href="http://finance.people.com.cn/" class="clink">财经</a></span>
+   </div>
+   <div class="fr"><img src="http://www.people.com.cn/img/2016wb/images/icon01.gif" width="29" height="29" id="search_button" /><span id="rwb_map"><a href="http://www.people.com.cn/GB/138812/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon02.gif" width="29" height="29" /></a></span></div>
+   <div class="p_search" id="p_search">
+            <form action="http://search.people.com.cn/cnpeople/peoplesearch.do" name="searchForm" method="post"  target="_blank">
+            <p><input class="people_input" name="keyword" Id="keyword" value="请输入检索内容" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" type="text" /></p>
+            <p class="tc"><input type="submit" name="" value="站内检索" class="people_button_sub"></p></form>
+       </div>
+</div>
+<!--path end-->
+
+<!--text_title-->
+<div class="clearfix w1000_320 text_title">
+	<h3 class="pre">治污染纳入考核&nbsp;河长制延伸到村</h3>
+	<h1>让洱海清水永驻（壮阔东方潮&nbsp;奋进新时代——庆祝改革开放40年）</h1>
+	<h4 class="sub"></h4>
+    <p class="author">本报记者&nbsp;&nbsp;张&nbsp;&nbsp;帆&nbsp;&nbsp;杨文明</p>
+   <div class="box01">
+      <div class="fl">2018年12月03日06:34&nbsp;&nbsp;来源：<a href="http://paper.people.com.cn/rmrb/html/2018-12/03/nw.D110000renmrb_20181203_4-02.htm" target="_blank">人民网－人民日报</a></div>
+      <div class="fr">
+         <div class="fx">
+         <div id="ops_share"></div>
+		 <script src="http://www.people.com.cn/img/2016wb/share_qr.min.js" charset="utf-8"></script>
+         </div>
+         <div class="message" id="rwb_bbstop"><a href="http://bbs1.people.com.cn/postLink.do?nid=30437224" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+   </div>
+</div>
+<!--text_title end-->
+<!--text_con-->
+<div class="clearfix w1000_320 text_con">
+   <!--text left-->
+   <div class="fl text_con_left">
+      <div class="box_con" id="rwb_zw">
+        <div class="box_pic"></div>
+        <P>　　“人努力，天帮忙”，生态环境部中国环境监测总站近日反馈，2018年11月洱海湖心断面水质为Ⅱ类。据悉，这是自2015年以来洱海首次实现11月份水质为Ⅱ类，今年Ⅱ类水质已有6个月。</P><P>　　每隔一两天，大理市银桥镇新邑村委会主任杨宏就要到灵泉溪转转。这是他从去年开始担任灵泉溪新邑村段河长后养成的习惯。随着河长制的推行，云南省大理洱海流域的村小组长同时成为沟渠长，每条流入洱海的河道都有了看护人，洱海及流域水质下滑趋势得到遏制，洱海保护治理工作取得阶段性成效。</P><P>　　2015年1月，习近平总书记在云南考察时强调，经济要发展，但不能以破坏生态环境为代价。生态环境保护是一个长期任务，要久久为功。一定要把洱海保护好，让“苍山不墨千秋画，洱海无弦万古琴”的自然美景永驻人间。</P><P>　　此后，大理白族自治州对洱海的保护工作不断深化、细化。2017年4月，又开启抢救模式。“要像保护眼睛一样保护洱海。”大理州委书记陈坚说。</P><P>　　分级河长，条条河沟有人管</P><P>　　杨宏的“转转”并不轻松。</P><P>　　“村级河长要及时发现问题，看垃圾是否打捞、有没有单位偷排污水……”杨宏介绍，整条灵泉溪的河长是大理市委常委、宣传部部长杨文广，想找大理州市领导联系方式，最简单的办法就是找其担任河长的公示牌。“如果我没发现的问题被捅给领导，不仅面子上不好看，而且要被追责。”</P><P>　　在距离洱海几十公里的茈碧湖，环湖50米范围内，如今已被划定为洱海流域水生态保护区核心区，不仅苍山十八溪这样的入洱海河道有了具体责任人，整个洱海流域都受到了更加严格的保护。</P><P>　　上世纪90年代，洱海开始出现蓝藻，倒逼大理探索治湖之策。本世纪初，大理州实行洱海流域网格化管理。“网格化管理责任更多体现在河道保洁上，河长制则要求对整个流域水质、水生态综合治理。”大理市河长办专职副主任赵石磊介绍，当时的公开力度不够，追责也不如现在严厉，但不少举措为当下的河长制积累了经验。</P><P>　　目前，大理市建立了市、镇、村、组四级河长体系。通过编制大理市洱海环湖岸线河长责任制手册、大理市河长制河流（沟渠）水库责任制手册、市级河长“一河一策”，在29条洱海主要河道的入湖口设立水质考核监测点的基础上，按镇、村行政区划增设141个河道断面水质监测点，实现了河道管理主体全包含、河道管理制度全覆盖、河道管理责任全落实的治水新格局。放眼全省，目前云南六大水系、牛栏江和九大高原湖泊河长全部由省级领导担任。今年11月初，云南省省长阮成发担任洱海省级湖长以来第四次前往洱海调研，要求提高政治站位、增强紧迫感，从“就洱海抓洱海保护治理”等误区中走出来，以保护洱海统领大理州经济社会发展全局。</P><P>　　“河长制落实得好不好，苍山十八溪随便看。”杨宏带着记者来到灵泉溪与洱海交汇处。“你看，洱海又能看到湖底沙滩了，过去好些地方看不到湖底，更别说沙滩了。”</P><P>　　责任落实，件件事情有人干</P><P>　　灵泉溪入湖水质一般稳定在Ⅱ、Ⅲ类，可过去两年每到二三月份，都会因为pH值超标变为劣Ⅴ类。杨宏讲起跟随杨文广沿河寻找污染源的事情。</P><P>　　今年2月，之前还是Ⅱ类的灵泉溪入湖水，又成了劣Ⅴ类。杨文广拿到指标，喊上大理市环保局、水务局和镇上领导，沿着河道逆流而上查找原因。最终，石头上的白色水垢消失在一家饮料厂排水口。“以前村里也找过饮料厂，可人家根本不理；如今市领导带队找上门，饮料厂立马整改。”杨宏说。</P><P>　　“要做到问题第一时间发现、第一时间整治。”大理市委书记高志宏说。</P><P>　　问题出在水里，根子却在岸上。以前水利和环保部门能管水，却很难管岸上产业。不少地方牺牲环境，单纯追求经济发展。“河长制实施前，定了水质保护目标，都不知道找谁落实。”洱源县河长办专职副主任赵鸿程说，河湖保护的法律法规以前就有，但很难落地，为啥？“责任没具体到人。有了河长制，工作就有了抓手。”</P><P>　　以河长制考核评价体系为例，大理市对洱海主要入湖河道按乡镇、村行政范围划分行政断面，设立分级分段水质监测点，通过公开招标引入第三方参与河道水质监测，按月发布水质监测数据。对245条洱海主要入湖沟渠中水量较大、水质较差的沟渠，有针对性地进行水质监测，倒逼河湖治理和河长制落实。</P><P>　　对地方领导来说，如果经济增长数字很好，但河湖被污染了，不仅提拔不了，可能还要“摘帽”。针对中央第六环境保护督察组指出的问题，大理州各级纪检监察机关共对34个单位、236名干部进行责任追究，其中通报问责24人、诫勉问责39人、组织处理4人，党纪政务处分44人，提醒谈话或批评教育127人，重点查处大理市瑞泽建材厂等企业违法生产经营，洱海流域农业面源污染防治工作推进不力，洱海保护“三线”划定落实慢等一批失职失责案件。</P><P>　　产业转型，精心破题促发展</P><P>　　“防治水污染，不仅意味着治水，更需要治产。不改变生产生活方式，洱海水质改善遥遥无期。”云南省环境科学院副院长杨逢乐说。针对督察反馈意见，大理州全力推进洱海生态环境保护“三线”划定生态搬迁，预计年内完成环湖1806户搬迁工作，同步实施环湖5847.44亩生态湿地和缓冲带建设。</P><P>　　转变不只发生在洱海沿岸。以前苍山群众分散取水，使用清水却向洱海排出污水。如今，大理市禁止从苍山十八溪直接取水，改为将洱海作为水源地集中供水，确保一溪清水“洗”洱海。</P><P>　　农田大水漫灌，进的是清水，出来全成了劣Ⅴ类。大理市通过严格取用水许可审批，2016年，全市农业用水控制指标总量近1.6亿立方米，今年截至7月25日，全市农业灌溉用水量不到1677万立方米，其中河道取水仅650多万立方米。而随着“三禁四推”工作全面铺开，农业高效节水减排、生态循环农业示范等项目建设加快推进。</P><P>　　“不管是修堤坝还是退房还湿，没资金投入难以推进”。赵石磊表示，河长办经上级领导协调，目前已完成流域截污治污工程投资55.7亿元，新建城镇污水处理厂7座，日处理规模6.4万立方米。</P><P>　　对标整改，成效初显。今年1至9月，洱海输入污染负荷总量比2017年同期减少17.5%，近岸水质观感和湖内水生态明显好于往年。</P><P>　　让大理更美、让江湖更绿，最深刻的变化是群众意识的转变。为安装截污管道设施，大理市喜洲镇仁里邑村村民段杰家才铺好的地板被切开，好好的厨房多了个刺眼的“疤”。虽然脚踩“伤疤”，但段杰语气平和：“为了保护洱海，割开地板算个啥？”</P><P>　　去年冬季，洱海小范围出现蓝藻。大理一度暂停洱海周边所有客栈，验收合格一家开放一家。今年夏天，已看不到丝带状蓝藻。双廊客栈协会副会长赵一海说，若蓝藻暴发，游客谁来？别说赚钱，水都没得喝。经过整治，如今洱海水质好转很明显。</P>
+<br><span id='paper_num'>　　《 人民日报 》（ 2018年12月03日   02 版）</span>
+        <div class="box_pic"></div>
+        <div class="edit clearfix">(责编：白宇)</div>
+      </div>
+      <script type="text/javascript">
+		picbig();//小图恢复原有宽度
+		function picbig(){	
+		if($(window).width() < 415){
+			  if($(".sub").text().length == 0){
+			  	$(".sub").css("padding-top","0px")
+			  }
+			  if($(".author").text().length == 0){
+			  	$(".author").css("padding-top","0px")
+			  }
+			  $(".box_con p").each(function(index, element) {
+				/*if ($(this).is(':has(img)')) {*/
+				if ($(this).find('img').length > 0) {
+					//console.log( $(".box_con p").index(this))
+					$(".box_con p").eq($(".box_con p").index(this)).css("text-align","center");
+				}
+			  });
+			  $(".box_con p img").each(function(index, element) {
+				  var img = new Image();
+				  img.src=$(this).attr("src");
+				  $(this).load(function(){//图片加载完成
+					 if(img.width < $(".text_con_left").width() && img.width > 0 ){						
+						$(this).css("width","auto")
+					  }
+				  });				  
+			  });  
+		  }	
+		}
+	  </script>
+      <!--left-banner-->
+      <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W4_diwen&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437224' charset='gbk'></script></div>
+      <!--left-banner end-->
+      <!--下载-->
+      <div class="box_down clearfix">
+        <div class="fl"><span id="rwb_khd"><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon06.png" width="40" height="40" />人民日报客户端下载</a></span><span id="rwb_sj"><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon07.png" width="40" height="40" />手机人民网</a></span></div>
+        <div class="fr" id="rwb_bbsbot"><a href="http://bbs1.people.com.cn/postLink.do?nid=30437224" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+       <!--下载 end-->
+       <!--相关专题-->
+       
+       <!--相关专题 end-->
+       <!--推荐阅读 -->
+       <div id="rwb_tjyd">
+       <div class="clearfix box_read">
+          <h2>推荐阅读</h2><div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423691.html' target="_blank">国际油价连跌七周 供求关系逆转</a></strong>　　<a href='/n1/2018/1127/c1004-30423691.html' target="_blank">　上周，受到多重利空因素的打压，国际油价大幅下跌，美原油大跌11.64%，录得2014年11月底以来最大单周跌幅，也是周线连续第七周下跌，最低触及50.15美元/桶，为2017年10月12日以来最低，距离10月初触及的近四年来高点76.…</a><i class="red"><a href="/n1/2018/1127/c1004-30423691.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+<div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423645.html' target="_blank">山西违法倾倒钢渣事件21人被问责</a></strong>　　<a href='/n1/2018/1127/c1004-30423645.html' target="_blank">据生态环境部官方微博11月21日通报，中央第二生态环境保护督察组11月6日进驻山西开展“回头看”工作，督察组发现，山西高义钢铁有限公司（以下简称“高义钢铁”）长期将大量钢渣违法倾倒。	11月26日，山西省运城市新闻中心就此事通报…</a><i class="red"><a href="/n1/2018/1127/c1004-30423645.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+<div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423631.html' target="_blank">工行、农行昨日公告 四大行均拟成立理财子公司</a></strong>　　<a href='/n1/2018/1127/c1004-30423631.html' target="_blank">本报讯（记者&nbsp;程婕）昨日晚间，工行和农行发布关于设立全资理财子公司的公告。至此，四大国有银行已全部宣布发起设立理财子公司，在全国范围内，至少有20家商业银行作出了同样的决定。业内人士预计，待银行理财子公司管理办法正式出台后，银行设立子公…</a><i class="red"><a href="/n1/2018/1127/c1004-30423631.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+<div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423647.html' target="_blank">基本养老金首份年报出炉 去年收益率5.23%</a></strong>　　<a href='/n1/2018/1127/c1004-30423647.html' target="_blank">《全国社会保障基金理事会基本养老保险基金受托运营年度报告（2017年度）》11月26日发布。报告显示，2017年，基本养老保险基金投资收益额87.83亿元，投资收益率5.23%。这是基本养老保险基金首次披露年度投资收益。截至2017年年…</a><i class="red"><a href="/n1/2018/1127/c1004-30423647.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+<div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423735.html' target="_blank">年底信用贷开打价格战  银行员工称“征信打印纸都不够用了”</a></strong>　　<a href='/n1/2018/1127/c1004-30423735.html' target="_blank">每年年底是贷款、融资的高峰期，也是银行、贷款中介冲业绩的“最后一小时”。	《证券日报》记者近日调查发现，多家银行通过降低利率揽客，并通过电话、短信等方式广泛招揽客户。与此同时，有贷款中介“免服务费”帮助银行完成任务，还有贷款中介…</a><i class="red"><a href="/n1/2018/1127/c1004-30423735.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+</div>
+       </div>
+       <!--推荐阅读 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位07 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953433',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+       <!--相关新闻-->
+       <div id="rwb_xgxw">
+       
+       </div>
+       <!--相关新闻 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位08 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953434',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+        <!--精彩图集-->
+       <div id="rwb_jctj">
+       <div class="clearfix box_piclist">
+          <h2>图说财经</h2>
+          <ul><li><a href="http://finance.people.com.cn/n1/2018/0727/c1004-30173107.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010850048196926344279.jpg" width="214" height="143" border="0" alt="区块链：开启信任之门的钥匙？"/></a><a href="http://finance.people.com.cn/n1/2018/0727/c1004-30173107.html" target="_blank">区块链：开启信任之门的钥匙？</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0731/c1004-30179737.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010843126377101684594.jpg" width="214" height="143" border="0" alt="北京积分落户初核结果今起可查"/></a><a href="http://finance.people.com.cn/n1/2018/0731/c1004-30179737.html" target="_blank">北京积分落户初核结果今起可查</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182019.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010839226460202914589.jpg" width="214" height="143" border="0" alt="信用卡还款还有哪些通道能免费"/></a><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182019.html" target="_blank">信用卡还款还有哪些通道能免费</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182175.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010837275327714802978.jpg" width="214" height="143" border="0" alt="二手物品交易平台藏陷阱"/></a><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182175.html" target="_blank">二手物品交易平台藏陷阱</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182237.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010832266483799574450.jpg" width="214" height="143" border="0" alt="拼多多山寨路线能走多远？"/></a><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182237.html" target="_blank">拼多多山寨路线能走多远？</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182525.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010829577042735911168.jpg" width="214" height="143" border="0" alt="济南启用无人机抓拍开车玩手机"/></a><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182525.html" target="_blank">济南启用无人机抓拍开车玩手机</a></li>
+</ul>
+       </div>
+       </div>
+       <!--精彩图集 end-->
+   </div>
+   <!--text left end-->
+   <!--text right-->
+   <div class="fr text_con_right">
+	  <!--ercode-->
+      <div class="clearfix box_ewm">
+      	<div class="pic"><img src="http://www.people.com.cn/img/2016wb/images/code_wx.jpg" width="115" height="115" /><span>关注人民网微信</span></div>
+        <p class="a1"><a href="https://mp.weixin.qq.com/mp/homepage?__biz=MjM5NzI3NDg4MA==&hid=3&sn=0d109387f1949a8206a9d835fe544937#wechat_redirect" target="_blank">微信</a></p>
+        <p class="a2"><a href="https://weibo.com/p/1002062286908003/home" target="_blank">微博</a></p>
+        <p class="a3"><a href="http://m.people.cn/" target="_blank">手机人民网</a></p>
+        <p class="a4"><a href="http://leaders.people.com.cn/GB/178291/218130/414212/index.html" target="_blank">地方领导留言板</a></p>
+      </div>
+      <!--ercode end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W2_PIP&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437224' charset='gbk'></script></div>
+      <!--banner end-->
+      <!--right热点推荐-->
+      <div class="clearfix box_hot" id="rwb_rdtj" >
+         <h2>财经要闻</h2>
+         <ul>
+            <li><a href='/n1/2018/1203/c1004-30437274.html' target="_blank">警惕“套现贷”的套路（理财参谋）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437273.html' target="_blank">对违规担保说“不”（金海观潮）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437272.html' target="_blank">让电子钱包更安全（热点聚焦）</a></li>
+<li><a href='#' target="_blank">与改革开放携手前行（每月经济观察）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437270.html' target="_blank">企业融资，新鲜血液不可少（经济热点）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437261.html' target="_blank">诚信建设让路政执法更规范（诚信建设…</a></li>
+<li><a href='/n1/2018/1203/c1004-30437257.html' target="_blank">成都双流：一杯咖啡暖民企</a></li>
+<li><a href='/n1/2018/1203/c1004-30437256.html' target="_blank">柳州：“酸雨之都”变身花园城市（辉…</a></li>
+<li><a href='/n1/2018/1203/c1004-30437255.html' target="_blank">变化的是房 不变的是家（改革开放4…</a></li>
+<li><a href='/n1/2018/1203/c1004-30437254.html' target="_blank">中环集团 扬帆踏浪敢弄潮（庆祝改革…</a></li>
+
+
+         </ul>
+      </div>
+      <!--right热点推荐 end-->
+<div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W3_juxing&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437224' charset='gbk'></script>
+</div>
+      <!--banner-->
+
+      <div class="banner03 clearfix">
+<!-- 广告位：PC-内页-包版位01 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4952633',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+      <!--banner end-->
+      <!--right精彩推荐-->
+      <div class="clearfix box_pic02" id="rwb_jctjr" >
+         <h2>精彩推荐</h2>
+         <ul class="clearfix">
+            <li><a href="http://finance.people.com.cn/n1/2018/1012/c1004-30337050.html" target="_blank"><img src="/NMediaFile/2018/1012/MAIN201810121004510008716317788.jpg" width="130" height="90" border="0" alt="还记得牡丹牌电视机吗"/></a><a href="http://finance.people.com.cn/n1/2018/1012/c1004-30337050.html" target="_blank">还记得牡丹牌电视机吗</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0906/c1004-30276951.html" target="_blank"><img src="/NMediaFile/2018/1012/MAIN201810121013225968427310504.jpg" width="130" height="90" border="0" alt="清华学霸的无人驾驶梦"/></a><a href="http://finance.people.com.cn/n1/2018/0906/c1004-30276951.html" target="_blank">清华学霸的无人驾驶梦</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0907/c1004-30279175.html" target="_blank"><img src="/NMediaFile/2018/0907/MAIN201809071428524520377602149.jpg" width="130" height="90" border="0" alt="6日24H内比特币暴跌14%"/></a><a href="http://finance.people.com.cn/n1/2018/0907/c1004-30279175.html" target="_blank">6日24H内比特币暴跌14%</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0907/c1004-30279604.html" target="_blank"><img src="/NMediaFile/2018/0907/MAIN201809071428523219273008618.jpg" width="130" height="90" border="0" alt="揭秘长租公寓装修内幕"/></a><a href="http://finance.people.com.cn/n1/2018/0907/c1004-30279604.html" target="_blank">揭秘长租公寓装修内幕</a></li>
+
+         </ul>
+      </div>
+      <!--right精彩推荐 end-->
+      <!--right视频新闻-->
+      <div class="clearfix box_pic03" id="rwb_sptj">
+         <h2>视频新闻</h2>
+         <ul class="clearfix">
+            <li><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556370154308358381.jpg" width="125" height="95" border="0" alt="德云社首秀英伦"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />德云社首秀英伦</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556368515934810582.jpg" width="125" height="95" border="0" alt="洋女婿爱打太极"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />洋女婿爱打太极</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081531396068490569310.jpg" width="125" height="95" border="0" alt="如何10秒种一棵树"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />如何10秒种一棵树</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081528540500061713357.jpg" width="125" height="95" border="0" alt="首尔旅行攻略"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />首尔旅行攻略</p></a></li>
+
+          </ul>
+          <ol class="clearfix">
+             <li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424923.html' target="_blank">父母辅导孩子作业  数老虎数到发飙</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424929.html' target="_blank">研究表明  频发自拍照会加重自恋</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424947.html' target="_blank">"卿本佳人,奈何为贼"  高颜值女嫌犯走红 </a></li>
+
+          </ol>
+      </div>
+      <!--right视频新闻  end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位02 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953269',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位03 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953330',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+      <!--right热点排行-->
+      <div class="clearfix box_ol" id="rwb_rdph">
+         <h2>热点排行</h2>
+         <ol class="ph_list">
+            <li><!--1--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436489.html" target="_blank">习近平同特朗普开始举行中美元首会晤</a></li><li><!--2--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436905.html" title="习近平同特朗普会晤达成重要共识 停止加征新的关税" target="_blank">习近平同特朗普会晤达成重要共识&nbsp;停止加…</a></li><li><!--3--><a href="http://politics.people.com.cn/n1/2018/1202/c1001-30436430.html" title="内蒙古自治区党委第五巡视组原组长杨静波被开除党籍、开除公职" target="_blank">内蒙古自治区党委第五巡视组原组长杨静波…</a></li><li><!--4--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30437041.html" target="_blank">习近平同美国总统特朗普举行会晤</a></li><li><!--5--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436432.html" title="习近平继续出席二十国集团领导人第十三次峰会" target="_blank">习近平继续出席二十国集团领导人第十三次…</a></li>
+         </ol>
+      </div>
+      <!--right热点排行 end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位04 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953394',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位05 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953395',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位06 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953414',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+   </div>
+   <!--text right end-->
+</div>
+<!--text_con end-->
+
+
+<!--copyright-->
+<div class="copyright clearfix w1000_320">
+人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved
+</div>
+
+<!-- 微信分享 -->
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+var str="让洱海清水永驻（壮阔东方潮&nbsp;奋进新时代——庆祝改革开放40年）--财经--人民网 ";
+var str1="让洱海清水永驻（壮阔东方潮&nbsp;奋进新时代——庆祝改革开放40年）";
+str=str.replace(/&nbsp;/g," ")
+str=str.replace(/&quot;/g,'"')
+str=str.replace(/<br>/g,"")
+str1=str1.replace(/&nbsp;/g," ")
+str1=str1.replace(/&quot;/g,'"')
+str1=str1.replace(/<br>/g,"")
+var wxData = {
+	"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg", // 200x200
+	"link": window.location.href,
+	"desc": "" + str + "",
+	"title": "" + str1 + ""
+};
+</script>
+<script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+
+<img src="http://counter.people.cn:8000/c.gif?id=30437224" width=0 height=0 style="display:none;">
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--baidu cloud-->
+
+
+<script type='text/javascript' LANGUAGE="JavaScript">
+	if (window.screen.width > 1280){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W5_duilian&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437224' charset='gbk'></script"+">");
+	}
+</script>
+
+<!-- 广告位：PC-内页-弹窗广告 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953436',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+
+<!--2017统计代码文章-->
+<!--2017统计代码-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '69230']);
+_paq.push(['attr', 'itemid='+30437224]);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+
+</body>
+</html>

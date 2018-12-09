@@ -1,0 +1,508 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>企业融资，新鲜血液不可少（经济热点）--财经--人民网 </title>
+<meta name="keywords" content="" />
+<meta name="description" content="　　数据来源：中国人民银行、银保监会等　　待遇不一样，偏见要纠正　　“到现在还有一些投资人搞‘入围名单’，不管你经营状况如何，反正民企不准入围，这种偏见应当纠正。”　　“借钱变贵了。”在某省一家新能源" />
+<meta name="copyright" content="人民网版权所有" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="1004">
+<meta name="contentid" content="30437270">
+<meta name="publishdate" content="2018-12-03">
+<meta name="author" content="103977">
+<meta name="editor" content="">
+<meta name="source" content="来源：人民日报">
+<meta name="sourcetype" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="http://www.people.com.cn/img/2016wb/page2018.css" type="text/css" media="all"  charset="utf-8" />
+
+<script type="text/javascript" src='http://tools.people.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+
+<script src="http://dup.baidustatic.com/js/dm.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000_320 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 4px 0 3px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">网站首页</a><a href="http://politics.people.com.cn/" target="_blank">时政</a><a href="http://world.people.com.cn/" target="_blank">国际</a><a href="http://finance.people.com.cn/" target="_blank">财经</a><a href="http://tw.people.com.cn/" target="_blank">台湾</a><a href="http://military.people.com.cn/" target="_blank">军事</a><a href="http://opinion.people.com.cn/" target="_blank">观点</a><a href="http://leaders.people.com.cn/" target="_blank">领导</a><a href="http://renshi.people.com.cn/" target="_blank">人事</a><a href="http://theory.people.com.cn/" target="_blank">理论</a><a href="http://legal.people.com.cn/" target="_blank">法治</a><a href="http://society.people.com.cn/" target="_blank">社会</a><a href="http://industry.people.com.cn/" target="_blank">产经</a><a href="http://edu.people.com.cn/" target="_blank">教育</a><a href="http://kpzg.people.com.cn/" target="_blank">科普</a><a href="http://sports.people.com.cn/" target="_blank">体育</a><a href="http://culture.people.com.cn/" target="_blank">文化</a><a href="http://art.people.com.cn/" target="_blank">书画</a><a href="http://house.people.com.cn/" target="_blank">房产</a><a href="http://auto.people.com.cn/" target="_blank">汽车</a><a href="http://travel.people.com.cn/" target="_blank">旅游</a><a href="http://health.people.com.cn/" target="_blank">健康</a><a href="http://tv.people.com.cn/" target="_blank">视频</a><a href="http://ip.people.com.cn/" target="_blank">知识产权</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">注册</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">退出</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/2016wb/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--banner-->
+<div class="clearfix w1000_320 banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W1_banner&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437270' charset='gbk'></script></div>
+<!--banner end-->
+<!--path-->
+<div class="clearfix w1000_320 path path2 pos_re_search">
+   <div class="fl">
+   <span id="rwb_logo"><em><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo01.png" width="112" height="46" /></a></em><i><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo2.png" width="112" height="46" /></a></i></span>
+   <span id="rwb_navpath"><a href="http://www.people.com.cn/" class="clink">人民网</a>&gt;&gt;<a href="http://finance.people.com.cn/" class="clink">财经</a></span>
+   </div>
+   <div class="fr"><img src="http://www.people.com.cn/img/2016wb/images/icon01.gif" width="29" height="29" id="search_button" /><span id="rwb_map"><a href="http://www.people.com.cn/GB/138812/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon02.gif" width="29" height="29" /></a></span></div>
+   <div class="p_search" id="p_search">
+            <form action="http://search.people.com.cn/cnpeople/peoplesearch.do" name="searchForm" method="post"  target="_blank">
+            <p><input class="people_input" name="keyword" Id="keyword" value="请输入检索内容" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" type="text" /></p>
+            <p class="tc"><input type="submit" name="" value="站内检索" class="people_button_sub"></p></form>
+       </div>
+</div>
+<!--path end-->
+
+<!--text_title-->
+<div class="clearfix w1000_320 text_title">
+	<h3 class="pre"></h3>
+	<h1>企业融资，新鲜血液不可少（经济热点）</h1>
+	<h4 class="sub">——对近百家民营企业发展环境的调查（下）</h4>
+    <p class="author">本报记者&nbsp;欧阳洁&nbsp;邱超奕&nbsp;葛孟超</p>
+   <div class="box01">
+      <div class="fl">2018年12月03日06:38&nbsp;&nbsp;来源：<a href="http://paper.people.com.cn/rmrb/html/2018-12/03/nw.D110000renmrb_20181203_1-17.htm" target="_blank">人民网－人民日报</a></div>
+      <div class="fr">
+         <div class="fx">
+         <div id="ops_share"></div>
+		 <script src="http://www.people.com.cn/img/2016wb/share_qr.min.js" charset="utf-8"></script>
+         </div>
+         <div class="message" id="rwb_bbstop"><a href="http://bbs1.people.com.cn/postLink.do?nid=30437270" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+   </div>
+</div>
+<!--text_title end-->
+<!--text_con-->
+<div class="clearfix w1000_320 text_con">
+   <!--text left-->
+   <div class="fl text_con_left">
+      <div class="box_con" id="rwb_zw">
+        <div class="box_pic"></div>
+        <TABLE class="pci_c" width="400"><TBODY><TR><TD align="center"><IMG src="http://paper.people.com.cn/rmrb/res/1/20181203/1543775485372_1.jpg"></TD></TR> <TR><TD><p>　　数据来源：中国人民银行、银保监会等</p></TD></TR></TBODY></TABLE><P>　　待遇不一样，偏见要纠正</P>
+<P>　　“到现在还有一些投资人搞‘入围名单’，不管你经营状况如何，反正民企不准入围，这种偏见应当纠正。”</P>
+<P>　　“借钱变贵了。”在某省一家新能源公司做财务的李英，明显感觉到这几年企业融资成本在上涨。“2016年以前，银行贷款利率在基准利率上打九折，2017年还能打九五折，今年则回到基准利率。”</P>
+<P>　　像李英这样能以基准利率贷款的民营企业还算“幸运儿”。“虽然近段时间银行贷款利率稍微稳定下来了，但前阵子一直在涨。”另一省份某医药公司董事长刘成贵说，他们公司主要通过银行贷款进行融资，“以前企业效益好，找银行贷款多少还给点优惠，今年可能是整个社会资金吃紧，各家贷款银行利率普遍上浮了5到10个百分点。”</P>
+<P>　　相比明面上贷款利率的上升，获取资金难度加大是目前不少民营企业更大的痛点。去年下半年以来，受债券违约、股权质押平仓风险等影响，金融市场和金融机构对民企的风险偏好下降，民企整体融资出现困难，影响了企业流动性。</P>
+<P>　　“民企和国企在直接融资上存在明显的差别待遇。”某大型零售商金融部门负责人李锴说，不论是银行间短期融资，还是在交易所发债，在相当条件下，投资人给民企和给国企的是两种价格。“差别对待增加了民企的融资难度，情况最严重的是今年4月，投资人甚至看都不看民企发的债，这对一些当时急需资金的民企来说会面临不小风险。”</P>
+<P>　　“我觉得包括银行、险资、基金在内的各方，在评估上不应简单将国企、民企区别对待。到现在还有一些投资人搞‘入围名单’，不管你经营状况如何，反正民企不准入围，这种偏见应当纠正。”李锴说。</P>
+<P>　　民营企业从银行获得贷款也不容易。“银行能给我们的贷款额度在收紧。”某文旅企业负责人周珊彤说，“我们找银行贷款，额度上就会打折扣，放款也不能一次到位，而是要分几批发放，银行的解释是上级行对规模管理得较严。”</P>
+<P>　　“银行的贷款利率大约在5.6%，这个利率我们能接受，对企业来说，能贷到钱、解燃眉之急才是最要紧的，但现在银行给的贷款额度都比较低。”某汽车设备厂负责人顾继宏有些发愁，他们今年和一家大客户签了1亿多元的订单，为了尽快投产，经多方筹款后，还想找银行垫资300万元，结果银行回复没有额度。</P>
+<P>　　“银行说是上级行卡了规模，另外也觉得这笔贷款有风险。我向银行解释过，这家大企业信誉良好，回款及时，不会拖欠我们的款项，而且我自己企业的回款账户可以放在银行，还有什么担心的呢？但银行还是说不行。我觉得银行在风险评估手段上可以更灵活一些，仔细调研，不要一觉得有风险就干脆不做贷款了。”顾继宏说。</P>
+<P>　　大型民企借钱越来越难，中小民企更是难上加难。“我们公司规模小，除了用土地、厂房、设备等做抵押担保以外，银行还要求我用家庭资产甚至个人财产做担保，才能批给我贷款，‘有限责任’变成了‘无限责任’。”某农业设备公司负责人何森说。</P>
+<P>　　记者在调查中发现，除了银行贷款之外，其他融资渠道也不好“走”，高企的费用抬升了民企整体融资成本。</P>
+<P>　　某机械制造企业董秘付余敏介绍，他们找商业保理公司贷款，获得了一笔融资。“商业保理公司贷款年化利率为12.5%，是银行贷款利率的2倍，而且找这类公司贷款还有很高的手续费。”付余敏说。</P>
+<P>　　融资工具不少，但达标的企业并不多，众多民企在银行之外融资无门。某智能装备制造企业财务部门负责人万霖介绍，有些下游企业实力不强，也没有足够的流动资金，希望通过融资租赁的方式购买他们的设备。“这原本是帮助制造企业提升销售业绩的好事，也能让小企业尽早提升制造能力，但有些机构就只做发达地区的业务，不做欠发达地区的，因为他们觉得那些地方的公司回款难、报表不漂亮、资质不足。但实际上，民企的情况千差万别，欠发达地区也有好企业。”</P>
+<P>　　账款难收回，负担要减轻</P>
+<P>　　“现在因为回款周期普遍延长一个月以上，公司必须贷款才能维持正常运转，这给企业带来不小的负担。”</P>
+<P>　　张华管理着一家从事汽摩配件加工的中型企业，谈起资金周转状况，他表示压力很大：“我们厂2016年以前从未贷过款，但现在因为回款周期普遍延长一个月以上，公司必须贷款才能维持正常运转，这给公司带来不小的负担，融资成本提高，利润就被挤掉了。”</P>
+<P>　　“我们的策略就是熬，有风险的产品不敢碰，高投入的行业都不做。”张华说，公司处于半停半开的状态，有了流动资金才敢考虑开工投入下一批项目。</P>
+<P>　　针对应收款账期变长的问题，某建材公司董事长葛卫立说：“我们公司货款到年底基本也就能收回六七成，而且经常名义上账期是3个月，实际如果给我一张6个月期限的银行承兑汇票，账期就变成了9个月。”</P>
+<P>　　一些民企经营规模不大，在付款周期方面较少有讨价还价的余地。“园林企业给政府做的项目都是通过垫资形式，以前首付款比例能到40%，后来只能付到30%，现在降到20%，付款周期也大大拉长。”某环保公司董事长隋月告诉记者，地方政府偿债能力减弱了，就把这部分压力转嫁给上游供应商，房地产客户也出现业绩下滑，中小企业因此陷入债务链。</P>
+<P>　　“我们给地方政府部门做了许多高效节水项目，但全额垫资做完项目后，地方政府部门往往回款很慢，钱大半年都回不来，经营压力很大。”何森说。</P>
+<P>　　这样的民企不在少数。某科技企业创始人吕欣说，公司的主营业务是建筑检测仪器，客户都是一些大型国企。“资金周转确实不灵活，应收款经常一拖就是半年到8个月。”</P>
+<P>　　为了缓解资金链紧张问题，很多中小企业迫切希望银行提供流动资金贷款。某食品公司总经理黄兴告诉记者，如果没有银行支持，中小企业流动资金不足，就会缩减原材料采购，减少产品供应，市场占有率会迅速下降，企业经营规模不断萎缩，慢慢被市场淘汰。</P>
+<P>　　解决融资难，信息要共享</P>
+<P>　　“银行机构存款组织能力有所下降，在一定程度上会影响未来信贷投放规模的可持续增长。”</P>
+<P>　　民营企业面临融资难融资贵，而银行也受制于资本约束和负债约束，放贷能力有限。资金面紧张、获取存款难度加大、负债成本上升、运营成本高企等，是此次调研中各家银行反映的共性问题。</P>
+<P>　　“受多重因素影响，辖内银行机构存款组织能力有所下降，在一定程度上会影响未来信贷投放规模的可持续增长。”江苏常州银监分局局长陈惠莲介绍，当地银行存款的增长多以高成本的存款为主。“存款成本上升导致银行利差收窄，个别银行存贷款利率持平甚至倒挂，也在一定程度上影响了企业的融资成本。”陈惠莲说。</P>
+<P>　　某股份制商业银行分行行长侯磊说，2017年起，该行存款只有210亿元，贷款却高达252亿元，除去准备金后，借差高达100多亿元，利率3%以上，这块资金成本非常高。另一家股份制银行分行负责人说，2017年起，银行业资金流动性普遍趋紧、利率市场化竞争激烈，银行自身的资金成本压力加大，间接抬高了企业融资成本。</P>
+<P>　　“在吸收存款上，小银行一直是有困难的，对公存款、招标入围都比不过大银行，尤其是吸收对公存款，这是业内长期存在的现象。”某农商行副行长闫丝雨说，地方小银行产品单一、规模小、评级相对低，大部分存款都被大银行拿走了。</P>
+<P>　　某股份制商业银行对公部门副总经理金三成说：“目前银行很难拉到存款，流动性紧张，受资本充足率和负债约束很大。有的规模不大但前些年表外业务做得比较多的城商行，存贷比非常高，已经达到90%左右了。”</P>
+<P>　　银行内部的绩效考核和激励机制也在一定程度上造成银行不敢贷、不愿贷。陈惠莲说，从基层银行的现状看，一些银行在综合收益率等指标考核上没有对民营企业贷款予以倾斜，银行内部资金转移价格未及时调整，专项激励费用未安排到位，同时尽职免责尚难落实。“虽然监管部门对从业人员有尽职免责的规定，但在实际操作上，很难划清尽职免责和从业道德风险的边界。更重要的是管理机制未完全跟上，现在基层行放款，如果没有上级行在管理模式、工作方式、服务创新、产品设计、风险定价等方面的配套创新，基层信贷机构和人员难有更大的作为。”</P>
+<P>　　多地银行信贷部门负责人向记者反映，企业在政府部门的工商、税务、信用信息等，对贷款审批具有十分重要的参考价值，现在调取企业信息需要额外付费，这增加了银行放贷成本。</P>
+<P>　　“让银行真实、全面地掌握民企信息，是为它们提供融资服务的前提。”某大型商业银行分行副行长吴先屏介绍，企业信息散落在工商、税务等多个单位和部门，信息不共享，导致银行获得的客户信息不完全，往往出现企业多头贷款、过度融资等问题。</P>
+<P>　　“我们想大力支持中小企业，但最大的担心来自银企信息不对称。”某股份制银行分行中小企业部总经理石斌杰说，“做贷款，当然要摸清企业的情况，比如税收、社保缴纳、公司产值、老板资金状况、贷款去向等，但这些问题靠目前的征信系统解答不了，增加了办理贷款的难度。另外，我们很希望有担保公司来做中小企业的担保，现在很多企业想贷款，既没有担保也不愿给抵押物，这不利于银行控制风险。”</P>
+<P>　　环境在改善，资金渐宽裕</P>
+<P>　　“以前抵押物评估费用、银行人员差旅费用都要由我们企业来承担，现在全部由银行自己承担，这在以前是难以想象的。”</P>
+<P>　　记者了解到，今年10月份以来，民营企业的经营情况和融资状况受到各方关注，财政部、人民银行、银保监会等多个部门密集出台扶持政策，金融业加大对民企有效的金融支持，解决民企融资难融资贵问题，帮助民企纾困解难，一些企业也切身感受到变化。</P>
+<P>　　“今年下半年，我们的贷款利率没有继续上升。”某纺织企业总经理何文说，银行贷款手续费高的现象最近也发生了转变，“我找华夏银行贷款，以前抵押物评估费用、银行人员差旅费用都要由我们企业来承担，现在全部由银行自己承担，这在以前是难以想象的。”</P>
+<P>　　政策效应持续释放。“虽说拉存款有困难，但并未影响银行正常经营，央行降准后，我们也释放出几亿元的流动性。”沈阳农商行副行长杨旭说，“资金充裕了，给企业的贷款利率也下来了。从6月份起，我们给小微企业的贷款利率开始下降，以前都是7%以上，现在降到了7%以下。”</P>
+<P>　　“从今年8月起，总行对新发生普惠型小微企业贷款给予15个基点的内部资金转移定价优惠。”兴业银行重庆分行中小企业部副总经理樊玉霞介绍，在激励机制上，银行也已经出台具体办法，为鼓励员工开展小微企业贷款业务，单笔落地将有1000—2000元的奖金。“在产品上，我们还开发了‘无还本续贷’产品，帮助一批资质好的企业客户缓解现金流困难，减轻还贷压力。”</P>
+<P>　　完善银行考核激励机制，是破解不敢贷、不愿贷的关键。“这是系统工程，要解决人员配置、机制保障、审批权限、产品创新等一系列制约因素。”陈惠莲建议，配备专职人员和队伍，同时解决目前授信审批权限主要集中于省级以上机构的现状，给予基层经营管理机构更多权限，并做好清晰、合理的权责划分。加强针对民营企业的金融产品创新，提高金融科技水平，特别是增强银行除信贷以外的提供直接融资工具的能力。</P>
+<P>　　对于防控风险，银行还应认识到，不发展才是最大的风险。陈惠莲认为，防控信贷风险最根本的是要发挥金融政策和其他政策的协同性，加强区域经济联动效应，稳定宏观经济环境，实现产业链上下游整体复苏。在信贷投放上要稳定融资支持、坚定放贷信心，建立和民营企业更紧密的伙伴关系，为民企争取化解风险的时间和空间。</P>
+<P>　　各地金融监管部门正在积极行动，引导金融机构加大对民营企业的金融支持力度。</P>
+<P>　　在辽宁，监管部门要求银行将“公平信贷”原则贯穿信贷管理全程，从业务受理、客户评级、放款约束、贷后管理等方面，检查是否存在可能影响公平信贷的政策，取消不合理的条款、要求和做法。在重庆，监管部门划分机构、片区，组织机构负责人和一线客户经理，对全市6000余家民营工业企业进行全覆盖式走访、回访，对民企广泛关注的困难和问题拿出切实举措，目前已现场为民企解决各类融资问题30个，落实资金24.6亿元。在浙江，监管部门组织银行对全省授信10亿元以上企业进行筛选，探索建立优质企业“白名单”，对暂时遇到困难但仍有发展前景的企业，主动开展帮扶，助力企业提前做好债券兑付安排，推动市场化法治化债转股落地。</P>
+<P>　　“社会各界越来越关注民营企业的经营状况，我相信随着相关政策陆续落地，民企的生存环境会大大改善。”江苏常州东奥服装有限公司总经理周斌说，现在企业营商环境逐步好转，金融部门对民企的大力扶持也在见效。最近东奥公司的还贷压力减轻不少，现金流相对充裕一些了，正跟外企展开深入合作。</P>
+<P>　　制图：蔡华伟</P>
+<br><span id='paper_num'>　　《 人民日报 》（ 2018年12月03日   17 版）</span>
+        <div class="box_pic"></div>
+        <div class="edit clearfix">(责编：白宇)</div>
+      </div>
+      <script type="text/javascript">
+		picbig();//小图恢复原有宽度
+		function picbig(){	
+		if($(window).width() < 415){
+			  if($(".sub").text().length == 0){
+			  	$(".sub").css("padding-top","0px")
+			  }
+			  if($(".author").text().length == 0){
+			  	$(".author").css("padding-top","0px")
+			  }
+			  $(".box_con p").each(function(index, element) {
+				/*if ($(this).is(':has(img)')) {*/
+				if ($(this).find('img').length > 0) {
+					//console.log( $(".box_con p").index(this))
+					$(".box_con p").eq($(".box_con p").index(this)).css("text-align","center");
+				}
+			  });
+			  $(".box_con p img").each(function(index, element) {
+				  var img = new Image();
+				  img.src=$(this).attr("src");
+				  $(this).load(function(){//图片加载完成
+					 if(img.width < $(".text_con_left").width() && img.width > 0 ){						
+						$(this).css("width","auto")
+					  }
+				  });				  
+			  });  
+		  }	
+		}
+	  </script>
+      <!--left-banner-->
+      <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W4_diwen&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437270' charset='gbk'></script></div>
+      <!--left-banner end-->
+      <!--下载-->
+      <div class="box_down clearfix">
+        <div class="fl"><span id="rwb_khd"><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon06.png" width="40" height="40" />人民日报客户端下载</a></span><span id="rwb_sj"><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon07.png" width="40" height="40" />手机人民网</a></span></div>
+        <div class="fr" id="rwb_bbsbot"><a href="http://bbs1.people.com.cn/postLink.do?nid=30437270" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+       <!--下载 end-->
+       <!--相关专题-->
+       
+       <!--相关专题 end-->
+       <!--推荐阅读 -->
+       <div id="rwb_tjyd">
+       <div class="clearfix box_read">
+          <h2>推荐阅读</h2><div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423691.html' target="_blank">国际油价连跌七周 供求关系逆转</a></strong>　　<a href='/n1/2018/1127/c1004-30423691.html' target="_blank">　上周，受到多重利空因素的打压，国际油价大幅下跌，美原油大跌11.64%，录得2014年11月底以来最大单周跌幅，也是周线连续第七周下跌，最低触及50.15美元/桶，为2017年10月12日以来最低，距离10月初触及的近四年来高点76.…</a><i class="red"><a href="/n1/2018/1127/c1004-30423691.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+<div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423645.html' target="_blank">山西违法倾倒钢渣事件21人被问责</a></strong>　　<a href='/n1/2018/1127/c1004-30423645.html' target="_blank">据生态环境部官方微博11月21日通报，中央第二生态环境保护督察组11月6日进驻山西开展“回头看”工作，督察组发现，山西高义钢铁有限公司（以下简称“高义钢铁”）长期将大量钢渣违法倾倒。	11月26日，山西省运城市新闻中心就此事通报…</a><i class="red"><a href="/n1/2018/1127/c1004-30423645.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+<div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423631.html' target="_blank">工行、农行昨日公告 四大行均拟成立理财子公司</a></strong>　　<a href='/n1/2018/1127/c1004-30423631.html' target="_blank">本报讯（记者&nbsp;程婕）昨日晚间，工行和农行发布关于设立全资理财子公司的公告。至此，四大国有银行已全部宣布发起设立理财子公司，在全国范围内，至少有20家商业银行作出了同样的决定。业内人士预计，待银行理财子公司管理办法正式出台后，银行设立子公…</a><i class="red"><a href="/n1/2018/1127/c1004-30423631.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+<div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423647.html' target="_blank">基本养老金首份年报出炉 去年收益率5.23%</a></strong>　　<a href='/n1/2018/1127/c1004-30423647.html' target="_blank">《全国社会保障基金理事会基本养老保险基金受托运营年度报告（2017年度）》11月26日发布。报告显示，2017年，基本养老保险基金投资收益额87.83亿元，投资收益率5.23%。这是基本养老保险基金首次披露年度投资收益。截至2017年年…</a><i class="red"><a href="/n1/2018/1127/c1004-30423647.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+<div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1127/c1004-30423735.html' target="_blank">年底信用贷开打价格战  银行员工称“征信打印纸都不够用了”</a></strong>　　<a href='/n1/2018/1127/c1004-30423735.html' target="_blank">每年年底是贷款、融资的高峰期，也是银行、贷款中介冲业绩的“最后一小时”。	《证券日报》记者近日调查发现，多家银行通过降低利率揽客，并通过电话、短信等方式广泛招揽客户。与此同时，有贷款中介“免服务费”帮助银行完成任务，还有贷款中介…</a><i class="red"><a href="/n1/2018/1127/c1004-30423735.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">财经</h6>
+</div>
+</div>
+       </div>
+       <!--推荐阅读 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位07 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953433',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+       <!--相关新闻-->
+       <div id="rwb_xgxw">
+       
+       </div>
+       <!--相关新闻 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位08 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953434',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+        <!--精彩图集-->
+       <div id="rwb_jctj">
+       <div class="clearfix box_piclist">
+          <h2>图说财经</h2>
+          <ul><li><a href="http://finance.people.com.cn/n1/2018/0727/c1004-30173107.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010850048196926344279.jpg" width="214" height="143" border="0" alt="区块链：开启信任之门的钥匙？"/></a><a href="http://finance.people.com.cn/n1/2018/0727/c1004-30173107.html" target="_blank">区块链：开启信任之门的钥匙？</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0731/c1004-30179737.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010843126377101684594.jpg" width="214" height="143" border="0" alt="北京积分落户初核结果今起可查"/></a><a href="http://finance.people.com.cn/n1/2018/0731/c1004-30179737.html" target="_blank">北京积分落户初核结果今起可查</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182019.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010839226460202914589.jpg" width="214" height="143" border="0" alt="信用卡还款还有哪些通道能免费"/></a><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182019.html" target="_blank">信用卡还款还有哪些通道能免费</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182175.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010837275327714802978.jpg" width="214" height="143" border="0" alt="二手物品交易平台藏陷阱"/></a><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182175.html" target="_blank">二手物品交易平台藏陷阱</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182237.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010832266483799574450.jpg" width="214" height="143" border="0" alt="拼多多山寨路线能走多远？"/></a><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182237.html" target="_blank">拼多多山寨路线能走多远？</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182525.html" target="_blank"><img src="/NMediaFile/2018/0801/MAIN201808010829577042735911168.jpg" width="214" height="143" border="0" alt="济南启用无人机抓拍开车玩手机"/></a><a href="http://finance.people.com.cn/n1/2018/0801/c1004-30182525.html" target="_blank">济南启用无人机抓拍开车玩手机</a></li>
+</ul>
+       </div>
+       </div>
+       <!--精彩图集 end-->
+   </div>
+   <!--text left end-->
+   <!--text right-->
+   <div class="fr text_con_right">
+	  <!--ercode-->
+      <div class="clearfix box_ewm">
+      	<div class="pic"><img src="http://www.people.com.cn/img/2016wb/images/code_wx.jpg" width="115" height="115" /><span>关注人民网微信</span></div>
+        <p class="a1"><a href="https://mp.weixin.qq.com/mp/homepage?__biz=MjM5NzI3NDg4MA==&hid=3&sn=0d109387f1949a8206a9d835fe544937#wechat_redirect" target="_blank">微信</a></p>
+        <p class="a2"><a href="https://weibo.com/p/1002062286908003/home" target="_blank">微博</a></p>
+        <p class="a3"><a href="http://m.people.cn/" target="_blank">手机人民网</a></p>
+        <p class="a4"><a href="http://leaders.people.com.cn/GB/178291/218130/414212/index.html" target="_blank">地方领导留言板</a></p>
+      </div>
+      <!--ercode end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W2_PIP&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437270' charset='gbk'></script></div>
+      <!--banner end-->
+      <!--right热点推荐-->
+      <div class="clearfix box_hot" id="rwb_rdtj" >
+         <h2>财经要闻</h2>
+         <ul>
+            <li><a href='#' target="_blank">警惕“套现贷”的套路（理财参谋）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437273.html' target="_blank">对违规担保说“不”（金海观潮）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437272.html' target="_blank">让电子钱包更安全（热点聚焦）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437271.html' target="_blank">与改革开放携手前行（每月经济观察）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437270.html' target="_blank">企业融资，新鲜血液不可少（经济热点）</a></li>
+<li><a href='/n1/2018/1203/c1004-30437261.html' target="_blank">诚信建设让路政执法更规范（诚信建设…</a></li>
+<li><a href='/n1/2018/1203/c1004-30437257.html' target="_blank">成都双流：一杯咖啡暖民企</a></li>
+<li><a href='/n1/2018/1203/c1004-30437256.html' target="_blank">柳州：“酸雨之都”变身花园城市（辉…</a></li>
+<li><a href='#' target="_blank">变化的是房 不变的是家（改革开放4…</a></li>
+<li><a href='/n1/2018/1203/c1004-30437254.html' target="_blank">中环集团 扬帆踏浪敢弄潮（庆祝改革…</a></li>
+
+
+         </ul>
+      </div>
+      <!--right热点推荐 end-->
+<div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W3_juxing&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437270' charset='gbk'></script>
+</div>
+      <!--banner-->
+
+      <div class="banner03 clearfix">
+<!-- 广告位：PC-内页-包版位01 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4952633',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+      <!--banner end-->
+      <!--right精彩推荐-->
+      <div class="clearfix box_pic02" id="rwb_jctjr" >
+         <h2>精彩推荐</h2>
+         <ul class="clearfix">
+            <li><a href="http://finance.people.com.cn/n1/2018/1012/c1004-30337050.html" target="_blank"><img src="/NMediaFile/2018/1012/MAIN201810121004510008716317788.jpg" width="130" height="90" border="0" alt="还记得牡丹牌电视机吗"/></a><a href="http://finance.people.com.cn/n1/2018/1012/c1004-30337050.html" target="_blank">还记得牡丹牌电视机吗</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0906/c1004-30276951.html" target="_blank"><img src="/NMediaFile/2018/1012/MAIN201810121013225968427310504.jpg" width="130" height="90" border="0" alt="清华学霸的无人驾驶梦"/></a><a href="http://finance.people.com.cn/n1/2018/0906/c1004-30276951.html" target="_blank">清华学霸的无人驾驶梦</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0907/c1004-30279175.html" target="_blank"><img src="/NMediaFile/2018/0907/MAIN201809071428524520377602149.jpg" width="130" height="90" border="0" alt="6日24H内比特币暴跌14%"/></a><a href="http://finance.people.com.cn/n1/2018/0907/c1004-30279175.html" target="_blank">6日24H内比特币暴跌14%</a></li>
+<li><a href="http://finance.people.com.cn/n1/2018/0907/c1004-30279604.html" target="_blank"><img src="/NMediaFile/2018/0907/MAIN201809071428523219273008618.jpg" width="130" height="90" border="0" alt="揭秘长租公寓装修内幕"/></a><a href="http://finance.people.com.cn/n1/2018/0907/c1004-30279604.html" target="_blank">揭秘长租公寓装修内幕</a></li>
+
+         </ul>
+      </div>
+      <!--right精彩推荐 end-->
+      <!--right视频新闻-->
+      <div class="clearfix box_pic03" id="rwb_sptj">
+         <h2>视频新闻</h2>
+         <ul class="clearfix">
+            <li><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556370154308358381.jpg" width="125" height="95" border="0" alt="德云社首秀英伦"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />德云社首秀英伦</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556368515934810582.jpg" width="125" height="95" border="0" alt="洋女婿爱打太极"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />洋女婿爱打太极</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081531396068490569310.jpg" width="125" height="95" border="0" alt="如何10秒种一棵树"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />如何10秒种一棵树</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081528540500061713357.jpg" width="125" height="95" border="0" alt="首尔旅行攻略"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />首尔旅行攻略</p></a></li>
+
+          </ul>
+          <ol class="clearfix">
+             <li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424923.html' target="_blank">父母辅导孩子作业  数老虎数到发飙</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424929.html' target="_blank">研究表明  频发自拍照会加重自恋</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424947.html' target="_blank">"卿本佳人,奈何为贼"  高颜值女嫌犯走红 </a></li>
+
+          </ol>
+      </div>
+      <!--right视频新闻  end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位02 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953269',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位03 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953330',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+      <!--right热点排行-->
+      <div class="clearfix box_ol" id="rwb_rdph">
+         <h2>热点排行</h2>
+         <ol class="ph_list">
+            <li><!--1--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436489.html" target="_blank">习近平同特朗普开始举行中美元首会晤</a></li><li><!--2--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436905.html" title="习近平同特朗普会晤达成重要共识 停止加征新的关税" target="_blank">习近平同特朗普会晤达成重要共识&nbsp;停止加…</a></li><li><!--3--><a href="http://politics.people.com.cn/n1/2018/1202/c1001-30436430.html" title="内蒙古自治区党委第五巡视组原组长杨静波被开除党籍、开除公职" target="_blank">内蒙古自治区党委第五巡视组原组长杨静波…</a></li><li><!--4--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30437041.html" target="_blank">习近平同美国总统特朗普举行会晤</a></li><li><!--5--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436432.html" title="习近平继续出席二十国集团领导人第十三次峰会" target="_blank">习近平继续出席二十国集团领导人第十三次…</a></li>
+         </ol>
+      </div>
+      <!--right热点排行 end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位04 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953394',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位05 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953395',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位06 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953414',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+   </div>
+   <!--text right end-->
+</div>
+<!--text_con end-->
+
+
+<!--copyright-->
+<div class="copyright clearfix w1000_320">
+人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved
+</div>
+
+<!-- 微信分享 -->
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+var str="企业融资，新鲜血液不可少（经济热点）--财经--人民网 ";
+var str1="企业融资，新鲜血液不可少（经济热点）";
+str=str.replace(/&nbsp;/g," ")
+str=str.replace(/&quot;/g,'"')
+str=str.replace(/<br>/g,"")
+str1=str1.replace(/&nbsp;/g," ")
+str1=str1.replace(/&quot;/g,'"')
+str1=str1.replace(/<br>/g,"")
+var wxData = {
+	"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg", // 200x200
+	"link": window.location.href,
+	"desc": "" + str + "",
+	"title": "" + str1 + ""
+};
+</script>
+<script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+
+<img src="http://counter.people.cn:8000/c.gif?id=30437270" width=0 height=0 style="display:none;">
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--baidu cloud-->
+
+
+<script type='text/javascript' LANGUAGE="JavaScript">
+	if (window.screen.width > 1280){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W5_duilian&db=people&border=0&local=yes&js=ie&kv=people|finance;third|69230;fourth|;newsid|30437270' charset='gbk'></script"+">");
+	}
+</script>
+
+<!-- 广告位：PC-内页-弹窗广告 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953436',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+
+<!--2017统计代码文章-->
+<!--2017统计代码-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '69230']);
+_paq.push(['attr', 'itemid='+30437270]);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312">
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>对话国家体育总局副局长高志丹--体育--人民网</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="406075" />
+<link href="/img/MAIN/2015/11/115994/page.css" type="text/css" rel="stylesheet" media="all" />
+</head>
+<body>
+<!--header-->
+<div class="header">
+    <div class="w980"><span><a href="http://www.people.com.cn" target="_blank"><img src="/img/MAIN/2015/11/115994/images/logo.png" alt="人民网首页" /></a></span><em><a href="http://www.people.com.cn/" target="_blank">人民网首页</a>|<a href="http://sports.people.com.cn/" target="_blank">体育首页</a>|<a href="http://www.people.com.cn/GB/138812/index.html" target="_blank">网站地图</a></em></div>
+</div>
+<!--p1-->
+<div class="p1bg clearfix">
+	<div class="top">
+    
+    </div>
+	<div class="h1_txt"><h1>对话国家体育总局副局长高志丹</h1></div>
+	<div class="w982 p1_content clearfix">
+		<div class="fl">
+			<script src="http://tv.people.com.cn/img/player/v.js"></script>
+<script>showPlayer({id:"/pvservice/xml//2016/7/22/72b498db-38f0-46ce-9018-98ee3a2e60f3.xml",width:622,height:395});</script>
+			<div class="p1_1 clearfix"><b>访谈介绍</b>
+				&nbsp;&nbsp;&nbsp;&nbsp;7月19日，国家体育总局副局长高志丹做客人民体育时表示，2016年里约奥运会中国体育代表团的目标是实现运动成绩和精神文明的双丰收，要以优异成绩向繁荣发展的伟大的祖国献礼。<a href="http://tv.people.com.cn/n1/2016/0722/c150724-28577070.html" target="_blank">[详细]</a></div>
+		</div>
+		<div class="fr">
+			<div class="p1_2"><img src="/NMediaFile/2016/0722/MAIN201607221045230384976493249.jpg" width="137" height="166" border="0"/><br /><br /><span>嘉宾介绍：</span>
+				<b>高志丹</b>
+				
+<p>国家体育总局党组成员、副局长；里约奥运中国代表团副团长兼秘书长</p>				
+</div>
+			<div class="p1_2 p1_3"><img src="/NMediaFile/2016/0722/MAIN201607221059342563665579203.jpg" width="137" height="102" border="0"/><br /><br /><span>主持人：</span>
+				<b>吴靖</b>
+				
+</div>
+		</div>
+	</div>
+</div>
+<!--p2-->
+<div class="p2bg clearfix">
+	<div class="w982 p2_content clearfix">
+		<div class="fl">
+			<span>相关新闻</span>
+			<ul class="list_18"><li><a href='/n1/2016/0722/c22155-28576673.html' target=_blank>里约奥运变化与机遇并存 充分准备迎接挑战</a></li>
+<li><a href='/n1/2016/0721/c22157-28574175.html' target=_blank>中国女排不能有多余想法 摆正位置冲击奥运佳绩</a></li>
+<li><a href='/n1/2016/0722/c14820-28575090.html' target=_blank>尽力打好每一场球（奥运大点兵·男篮） </a></li>
+<li><a href='/n1/2016/0722/c14820-28575144.html' target=_blank>中国跳水：“梦之队”有望包揽里约奥运8金</a></li>
+<li><a href='/n1/2016/0722/c22149-28575485.html' target=_blank>奥运对手阵容强大 中国男篮征途艰难</a></li>
+<li><a href='/n1/2016/0722/c22161-28577062.html' target=_blank>中国射击队“老枪”群像 岁月如梭准星不老</a></li>
+</ul>
+		</div>
+		<div class="fr">
+			<span>相关新闻</span>
+			<ul class="list_18"><li><a href='/n1/2016/0721/c22170-28574315.html' target=_blank>孙杨、宁泽涛扛起中国游泳大旗</a></li>
+<li><a href='/n1/2016/0722/c14820-28575143.html' target=_blank>中国帆船出征奥运 八骁将能否风顺</a></li>
+<li><a href='/n1/2016/0722/c14820-28575142.html' target=_blank>新人能挑起奥运大梁吗？</a></li>
+<li><a href='/n1/2016/0722/c22162-28575227.html' target=_blank>张继科状态低迷 刘国梁倍感压力</a></li>
+<li><a href='/n1/2016/0722/c22164-28575433.html' target=_blank>李永波：伦敦“黄金一代”里约迎挑战</a></li>
+<li><a href='/n1/2016/0722/c22139-28575468.html' target=_blank>里约号角已经吹响 中国女足能走多远？</a></li>
+</ul>
+		</div>
+	</div>
+</div>
+<!--p3-->
+<div class="p3bg clearfix">
+	
+	<!--copyright-->
+	<div class="copyright">
+	  <style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2016 by www.people.com.cn. all rights reserved</div>
+	</div>
+</div>
+<script src="/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"></script>
+</body>
+</html>

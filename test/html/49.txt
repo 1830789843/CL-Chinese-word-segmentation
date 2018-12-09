@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>只要有诚意&nbsp;中美之间没有解决不了的问题！--国际--人民网 </title>
+<meta name="keywords" content="" />
+<meta name="description" content="　　新华社布宜诺斯艾利斯12月1日电&nbsp;&nbsp;（记者韩洁、王沛）这是全球瞩目的焦点时刻——当地时间1日晚，中美两国元首在阿根廷布宜诺斯艾利斯举行会晤，就有关经贸问题达成共识，决定停止升级" />
+<meta name="copyright" content="人民网版权所有" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="1002">
+<meta name="contentid" content="30437234">
+<meta name="publishdate" content="2018-12-03">
+<meta name="author" content="103977">
+<meta name="editor" content="">
+<meta name="source" content="来源：人民日报">
+<meta name="sourcetype" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="http://www.people.com.cn/img/2016wb/page2018.css" type="text/css" media="all"  charset="utf-8" />
+
+<script type="text/javascript" src='http://tools.people.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+
+<script src="http://dup.baidustatic.com/js/dm.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000_320 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 4px 0 3px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">网站首页</a><a href="http://politics.people.com.cn/" target="_blank">时政</a><a href="http://world.people.com.cn/" target="_blank">国际</a><a href="http://finance.people.com.cn/" target="_blank">财经</a><a href="http://tw.people.com.cn/" target="_blank">台湾</a><a href="http://military.people.com.cn/" target="_blank">军事</a><a href="http://opinion.people.com.cn/" target="_blank">观点</a><a href="http://leaders.people.com.cn/" target="_blank">领导</a><a href="http://renshi.people.com.cn/" target="_blank">人事</a><a href="http://theory.people.com.cn/" target="_blank">理论</a><a href="http://legal.people.com.cn/" target="_blank">法治</a><a href="http://society.people.com.cn/" target="_blank">社会</a><a href="http://industry.people.com.cn/" target="_blank">产经</a><a href="http://edu.people.com.cn/" target="_blank">教育</a><a href="http://kpzg.people.com.cn/" target="_blank">科普</a><a href="http://sports.people.com.cn/" target="_blank">体育</a><a href="http://culture.people.com.cn/" target="_blank">文化</a><a href="http://art.people.com.cn/" target="_blank">书画</a><a href="http://house.people.com.cn/" target="_blank">房产</a><a href="http://auto.people.com.cn/" target="_blank">汽车</a><a href="http://travel.people.com.cn/" target="_blank">旅游</a><a href="http://health.people.com.cn/" target="_blank">健康</a><a href="http://tv.people.com.cn/" target="_blank">视频</a><a href="http://ip.people.com.cn/" target="_blank">知识产权</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">注册</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">退出</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/2016wb/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--banner-->
+<div class="clearfix w1000_320 banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W1_banner&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437234' charset='gbk'></script></div>
+<!--banner end-->
+<!--path-->
+<div class="clearfix w1000_320 path path2 pos_re_search">
+   <div class="fl">
+   <span id="rwb_logo"><em><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo01.png" width="112" height="46" /></a></em><i><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo2.png" width="112" height="46" /></a></i></span>
+   <span id="rwb_navpath"><a href="http://www.people.com.cn/" class="clink">人民网</a>&gt;&gt;<a href="http://world.people.com.cn/" class="clink">国际</a></span>
+   </div>
+   <div class="fr"><img src="http://www.people.com.cn/img/2016wb/images/icon01.gif" width="29" height="29" id="search_button" /><span id="rwb_map"><a href="http://www.people.com.cn/GB/138812/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon02.gif" width="29" height="29" /></a></span></div>
+   <div class="p_search" id="p_search">
+            <form action="http://search.people.com.cn/cnpeople/peoplesearch.do" name="searchForm" method="post"  target="_blank">
+            <p><input class="people_input" name="keyword" Id="keyword" value="请输入检索内容" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" type="text" /></p>
+            <p class="tc"><input type="submit" name="" value="站内检索" class="people_button_sub"></p></form>
+       </div>
+</div>
+<!--path end-->
+
+<!--text_title-->
+<div class="clearfix w1000_320 text_title">
+	<h3 class="pre"></h3>
+	<h1>只要有诚意&nbsp;中美之间没有解决不了的问题！</h1>
+	<h4 class="sub"></h4>
+    <p class="author"></p>
+   <div class="box01">
+      <div class="fl">2018年12月03日06:34&nbsp;&nbsp;来源：<a href="http://paper.people.com.cn/rmrb/html/2018-12/03/nw.D110000renmrb_20181203_7-03.htm" target="_blank">人民网－人民日报</a></div>
+      <div class="fr">
+         <div class="fx">
+         <div id="ops_share"></div>
+		 <script src="http://www.people.com.cn/img/2016wb/share_qr.min.js" charset="utf-8"></script>
+         </div>
+         <div class="message" id="rwb_bbstop"><a href="http://bbs1.people.com.cn/postLink.do?nid=30437234" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+   </div>
+</div>
+<!--text_title end-->
+<!--text_con-->
+<div class="clearfix w1000_320 text_con">
+   <!--text left-->
+   <div class="fl text_con_left">
+      <div class="box_con" id="rwb_zw">
+        <div class="box_pic"></div>
+        <p>
+	　　新华社布宜诺斯艾利斯12月1日电&nbsp;&nbsp;（记者韩洁、王沛）这是全球瞩目的焦点时刻——当地时间1日晚，中美两国元首在阿根廷布宜诺斯艾利斯举行会晤，就有关经贸问题达成共识，决定停止升级关税等贸易限制措施。这无疑让全世界关心中美问题的人暂时松了一口气，也让人们坚信：只要双方抱有解决问题的诚意，就没有解决不了的问题！</p>
+<p>
+	　　中美关系正处在重要关头，此次会晤是自今年3月双边经贸摩擦不断升级以来，两国元首继两次通话后首次面对面沟通。双方决定停止升级关税等贸易限制措施，意味着双方将不再提高现有的加征关税税率，也不再针对其他产品采取加征关税措施。这一积极信号为下一阶段中美经贸关系发展指明方向、注入动力。</p>
+<p>
+	　　解决中美经贸问题，心态最重要。从今年春天到冬天，本轮中美经贸摩擦已持续8个多月，其间达成共识又遭美方撕毁，尤其近期美方发出的不同声音，引发外界对中美经贸合作前景的担忧。此次中美双方选择在布宜诺斯艾利斯进行会晤，积极的心态让外界看到了尽早解决问题的曙光。</p>
+<p>
+	　　解决中美经贸问题，关键看行动。从太平洋到大西洋，历经前期三次磋商，中美双方在过招中对彼此更熟悉，也积累了更多经验。中方在应对分歧中以守为攻、以静制动，在坚持捍卫国家核心利益和人民群众根本利益底线的基础上适时出台反制措施，同时继续深化改革扩大开放，这种从容淡定的应对智慧赢得国际社会认可。</p>
+<p>
+	　　一个时代有一个时代的问题。问题本身并不可怕，关键是采取正确的方法来解决问题。此次会晤踩下了中美经贸摩擦进一步升级的“刹车”，但考虑到中美经济的体量和关系的复杂性，要想实质性解决问题注定任重道远。中美双方要珍视这来之不易的重要一步，以更从容淡定理性的心态积极应对。当前两国经贸团队要落实好两国元首指示，立即着手解决彼此关切问题，加紧磋商，达成协议，取消今年以来加征的关税，推动双边经贸关系尽快回到正常轨道，实现双赢。</p>
+<p>
+	　　对中国而言，无论外部风云如何变幻，关键还要按照既定节奏办好自己的事情，以不变应万变。中方不断释放从包括美国在内的世界各国扩大进口信号，回应了美方部分贸易关切，更多则为了满足中国人民日益增长的美好生活需要和促进高质量经济发展，并与世界各国共享中国红利。</p>
+<p>
+	　　登高望远天地阔，纵横捭阖自从容。“中美作为两个大国，都有重要影响，在促进世界和平和繁荣方面共同肩负着重要责任，合作是双方最好的选择。”透过习近平主席在会晤开场白的话，我们相信，站在中美建交即将40周年的历史关口，只要双方共同努力，排除干扰，积累互信，相向而行，就有足够的智慧和时间妥处分歧，推动新时期的中美经贸合作破浪前行。</p>
+<br />
+<p>
+	<span id="paper_num">　　《 人民日报 》（ 2018年12月03日 03 版）</span></p>
+<div id='hl-HideRelation'> </div><div class="zdfy clearfix"></div><center><table border="0" align="center" width="40%"><tr></tr></table></center>
+        <div class="box_pic"></div>
+        <div class="edit clearfix">(责编：白宇、樊海旭)</div>
+      </div>
+      <script type="text/javascript">
+		picbig();//小图恢复原有宽度
+		function picbig(){	
+		if($(window).width() < 415){
+			  if($(".sub").text().length == 0){
+			  	$(".sub").css("padding-top","0px")
+			  }
+			  if($(".author").text().length == 0){
+			  	$(".author").css("padding-top","0px")
+			  }
+			  $(".box_con p").each(function(index, element) {
+				/*if ($(this).is(':has(img)')) {*/
+				if ($(this).find('img').length > 0) {
+					//console.log( $(".box_con p").index(this))
+					$(".box_con p").eq($(".box_con p").index(this)).css("text-align","center");
+				}
+			  });
+			  $(".box_con p img").each(function(index, element) {
+				  var img = new Image();
+				  img.src=$(this).attr("src");
+				  $(this).load(function(){//图片加载完成
+					 if(img.width < $(".text_con_left").width() && img.width > 0 ){						
+						$(this).css("width","auto")
+					  }
+				  });				  
+			  });  
+		  }	
+		}
+	  </script>
+      <!--left-banner-->
+      <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W4_diwen&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437234' charset='gbk'></script></div>
+      <!--left-banner end-->
+      <!--下载-->
+      <div class="box_down clearfix">
+        <div class="fl"><span id="rwb_khd"><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon06.png" width="40" height="40" />人民日报客户端下载</a></span><span id="rwb_sj"><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon07.png" width="40" height="40" />手机人民网</a></span></div>
+        <div class="fr" id="rwb_bbsbot"><a href="http://bbs1.people.com.cn/postLink.do?nid=30437234" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+       <!--下载 end-->
+       <!--相关专题-->
+       <div class="clearfix box_news box_newszt">
+          <h2>相关专题</h2>
+          <ul><li><a href='/GB/191609/28277/index.html' null>美国内政外交</a></li></ul>
+	   </div>
+       <!--相关专题 end-->
+       <!--推荐阅读 -->
+       <div id="rwb_tjyd">
+       <div class="clearfix box_read">
+          <h2>深度阅读</h2><div class="hdNews clearfix">
+	<p>
+	<strong><a href='/n1/2018/1128/c1002-30429972.html' target="_blank">中日韩FTA谈判应加速 以助推经济全球化</a></strong>　　<a href='/n1/2018/1128/c1002-30429972.html' target="_blank">当前，全球贸易保护主义、单边主义势力抬头，经济全球化和自由贸易体制受到冲击，全球经济风险挑战加剧，因此加快中日韩自贸区谈判的重要意义比以往更加凸显。中日韩三国一衣带水，是东亚地区非常重要的三个经济体。中日韩自贸区建设被看作是推动东亚乃至亚太…</a><i class="red"><a href="/n1/2018/1128/c1002-30429972.html" target="_blank">【详细】</a></i></p>
+	<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" width="19" height="20">国际</h6>
+</div>
+<div class="hdNews clearfix"> <p><strong>新时代的中国提供全球经济发展新机遇</strong>
+全球瞩目、世界期许，首届中国国际进口博览会即将开幕，黄浦江畔正迎来“不一般”的历史性盛会。改革开放40年，中国发展剑及履及。值此改革开放40周年的历史节点，作为我国推动新一轮高水平对外开放作出的重大决策，首届进博会将进一步向世界昭示中国改革不停顿、开放不止步的坚定决心。<i class="red"><a href=" http://world.people.com.cn/n1/2018/1104/c1002-30380740.html" target="_blank">【详细】</a></i></p>
+<h6 class="gray"><img src="http://www.people.com.cn/img/2016wb/images/icon09.gif" /><a href="http://world.people.com.cn/n1/2018/0223/c1002-29829243.html" target="_blank">国际</a>|<a href="http://world.people.com.cn/GB/1030/index.html" target="_blank">国际观察</a>|<a href="http://world.people.com.cn/GB/107182/index.html" target="_blank">外媒关注</a> </h6></div></div>
+       </div>
+       <!--推荐阅读 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位07 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953433',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+       <!--相关新闻-->
+       <div id="rwb_xgxw">
+       <div class="clearfix box_news">
+          <h2>相关新闻</h2>
+          <ul><li><a href="http://world.people.com.cn/n1/2018/1203/c1002-30437231.html" target="_blank">中美就经贸问题达成共识决定停止升级关税等贸易限制措施</a></li><li><a href="http://world.people.com.cn/n1/2018/1202/c1002-30436968.html" target="_blank">王毅：中美停止相互加征新的关税</a></li><li><a href="http://world.people.com.cn/n1/2018/1128/c1002-30430247.html" target="_blank">外交部发言人：希望中美元首会晤取得积极成果</a></li><li><a href="http://world.people.com.cn/n1/2018/1104/c1002-30380385.html" target="_blank">综合消息：国际舆论认为中美元首通话富有建设性</a></li><li><a href="http://world.people.com.cn/n1/2018/1101/c1002-30375007.html" target="_blank">中国代表敦促通过对话协商寻求乌克兰问题持久、平衡的解决方案</a></li><li><a href="http://world.people.com.cn/n1/2018/0926/c1002-30315271.html" target="_blank">务实化解矛盾方为中美经贸摩擦解决之道</a></li><li><a href="http://world.people.com.cn/n1/2018/0925/c1002-30310967.html" target="_blank">合作是处理中美经贸摩擦唯一正确选择</a></li><li><a href="http://world.people.com.cn/n1/2018/0924/c1002-30310357.html" target="_blank">白皮书：中美经贸合作是双赢而非零和博弈</a></li></ul>
+       </div>
+       </div>
+       <!--相关新闻 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位08 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953434',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+        <!--精彩图集-->
+       <div id="rwb_jctj">
+       <div class="clearfix box_piclist">
+          <h2><a href=" http://world.people.com.cn/GB/57505/index.html ">精彩图集</a>
+</h2>
+          <ul><li><a href="http://world.people.com.cn/n1/2018/1104/c1002-30380700.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051421418714489795890.jpg" width="214" height="143" border="0" alt="金正恩观看中朝文艺工作者联合演出"/></a><a href="http://world.people.com.cn/n1/2018/1104/c1002-30380700.html" target="_blank">金正恩观看中朝文艺工作者联合演出</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376021.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051421417892326768005.jpg" width="214" height="143" border="0" alt="航拍中企承建海外最高建筑"/></a><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376021.html" target="_blank">航拍中企承建海外最高建筑</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1102/c1002-30379445.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051421416725738977048.jpg" width="214" height="143" border="0" alt="首尔举办“越冬泡菜文化节”"/></a><a href="http://world.people.com.cn/n1/2018/1102/c1002-30379445.html" target="_blank">首尔举办“越冬泡菜文化节”</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1025/c1002-30362002.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051425304018302746898.jpg" width="214" height="143" border="0" alt="日本首相的16次访华足迹"/></a><a href="http://world.people.com.cn/n1/2018/1025/c1002-30362002.html" target="_blank">日本首相的16次访华足迹</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1026/c1002-30364359.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051421412583804805147.jpg" width="214" height="143" border="0" alt="韩朝共同警备区武装解除完毕"/></a><a href="http://world.people.com.cn/n1/2018/1026/c1002-30364359.html" target="_blank">韩朝共同警备区武装解除完毕</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376136.html" target="_blank"><img src="/NMediaFile/2018/1105/MAIN201811051426351496910515469.jpg" width="214" height="143" border="0" alt="乌克兰举办“大码小姐”选美比赛"/></a><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376136.html" target="_blank">乌克兰举办“大码小姐”选美比赛</a></li>
+</ul>
+       </div>
+       </div>
+       <!--精彩图集 end-->
+   </div>
+   <!--text left end-->
+   <!--text right-->
+   <div class="fr text_con_right">
+	  <!--ercode-->
+      <div class="clearfix box_ewm">
+      	<div class="pic"><img src="http://www.people.com.cn/img/2016wb/images/code_wx.jpg" width="115" height="115" /><span>关注人民网微信</span></div>
+        <p class="a1"><a href="https://mp.weixin.qq.com/mp/homepage?__biz=MjM5NzI3NDg4MA==&hid=3&sn=0d109387f1949a8206a9d835fe544937#wechat_redirect" target="_blank">微信</a></p>
+        <p class="a2"><a href="https://weibo.com/p/1002062286908003/home" target="_blank">微博</a></p>
+        <p class="a3"><a href="http://m.people.cn/" target="_blank">手机人民网</a></p>
+        <p class="a4"><a href="http://leaders.people.com.cn/GB/178291/218130/414212/index.html" target="_blank">地方领导留言板</a></p>
+      </div>
+      <!--ercode end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W2_PIP&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437234' charset='gbk'></script></div>
+      <!--banner end-->
+      <!--right热点推荐-->
+      <div class="clearfix box_hot" id="rwb_rdtj" >
+         <h2><a href=" http://world.people.com.cn/GB/1031/index.html ">热点推荐</a></h2>
+         <ul>
+            <li><a href='/n1/2018/1201/c1002-30436401.html' target="_blank">回顾历次G20领导人峰会主题与成果</a></li>
+<li><a href='/n1/2018/1201/c1002-30436181.html' target="_blank">美国前总统老布什逝世享年94岁 对华友好</a></li>
+<li><a href='/n1/2018/1122/c1002-30416344.html' target="_blank">5G大幕已启 将如何改变社会？</a></li>
+<li><a href='/n1/2018/1108/c1002-30388465.html' target="_blank">防“车闹” 外国如何让公交司机好好开车</a></li>
+<li><a href='/n1/2018/1108/c1002-30389719.html' target="_blank">学者探讨安倍晋三访华后中日关系走向</a></li>
+
+         </ul>
+      </div>
+      <!--right热点推荐 end-->
+<div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W3_juxing&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437234' charset='gbk'></script>
+</div>
+      <!--banner-->
+
+      <div class="banner03 clearfix">
+<!-- 广告位：PC-内页-包版位01 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4952633',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+      <!--banner end-->
+      <!--right精彩推荐-->
+      <div class="clearfix box_pic02" id="rwb_jctjr" >
+         <h2><a href=" http://world.people.com.cn/GB/57505/index.html ">国际图片</a></h2>
+         <ul class="clearfix">
+            <li><a href="http://world.people.com.cn/n1/2018/1109/c1002-30391586.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271057546346010329938.jpg" width="130" height="90" border="0" alt="威廉王子夫妇出席颁奖礼"/></a><a href="http://world.people.com.cn/n1/2018/1109/c1002-30391586.html" target="_blank">威廉王子夫妇出席颁奖礼</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1117/c1002-30406168.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271058511620965305083.jpg" width="130" height="90" border="0" alt="火灾前美国加州这么美"/></a><a href="http://world.people.com.cn/n1/2018/1117/c1002-30406168.html" target="_blank">火灾前美国加州这么美</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1115/c1002-30402878.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271051588438808813044.jpg" width="130" height="90" border="0" alt="圣诞岛红蟹大迁徙"/></a><a href="http://world.people.com.cn/n1/2018/1115/c1002-30402878.html" target="_blank">圣诞岛红蟹大迁徙</a></li>
+<li><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376021.html?tdsourcetag=s_pcqq_aiomsg" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271102109920344189882.jpg" width="130" height="90" border="0" alt="马来西亚&quot;新地标&quot;"/></a><a href="http://world.people.com.cn/n1/2018/1101/c1002-30376021.html?tdsourcetag=s_pcqq_aiomsg" target="_blank">马来西亚"新地标"</a></li>
+
+         </ul>
+      </div>
+      <!--right精彩推荐 end-->
+      <!--right视频新闻-->
+      <div class="clearfix box_pic03" id="rwb_sptj">
+         <h2>视频新闻</h2>
+         <ul class="clearfix">
+            <li><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556370154308358381.jpg" width="125" height="95" border="0" alt="德云社首秀英伦"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />德云社首秀英伦</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556368515934810582.jpg" width="125" height="95" border="0" alt="洋女婿爱打太极"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />洋女婿爱打太极</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081531396068490569310.jpg" width="125" height="95" border="0" alt="如何10秒种一棵树"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />如何10秒种一棵树</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081528540500061713357.jpg" width="125" height="95" border="0" alt="首尔旅行攻略"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />首尔旅行攻略</p></a></li>
+
+          </ul>
+          <ol class="clearfix">
+             <li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424923.html' target="_blank">父母辅导孩子作业  数老虎数到发飙</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424929.html' target="_blank">研究表明  频发自拍照会加重自恋</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424947.html' target="_blank">"卿本佳人,奈何为贼"  高颜值女嫌犯走红 </a></li>
+
+          </ol>
+      </div>
+      <!--right视频新闻  end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位02 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953269',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位03 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953330',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+      <!--right热点排行-->
+      <div class="clearfix box_ol" id="rwb_rdph">
+         <h2>热点排行</h2>
+         <ol class="ph_list">
+            <li><!--1--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436489.html" target="_blank">习近平同特朗普开始举行中美元首会晤</a></li><li><!--2--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436905.html" title="习近平同特朗普会晤达成重要共识 停止加征新的关税" target="_blank">习近平同特朗普会晤达成重要共识&nbsp;停止加…</a></li><li><!--3--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30437041.html" target="_blank">习近平同美国总统特朗普举行会晤</a></li><li><!--4--><a href="http://politics.people.com.cn/n1/2018/1202/c1001-30436430.html" title="内蒙古自治区党委第五巡视组原组长杨静波被开除党籍、开除公职" target="_blank">内蒙古自治区党委第五巡视组原组长杨静波…</a></li><li><!--5--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436432.html" title="习近平继续出席二十国集团领导人第十三次峰会" target="_blank">习近平继续出席二十国集团领导人第十三次…</a></li>
+         </ol>
+      </div>
+      <!--right热点排行 end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位04 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953394',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位05 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953395',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位06 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953414',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+   </div>
+   <!--text right end-->
+</div>
+<!--text_con end-->
+
+
+<!--copyright-->
+<div class="copyright clearfix w1000_320">
+人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved
+</div>
+
+<!-- 微信分享 -->
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+var str="只要有诚意&nbsp;中美之间没有解决不了的问题！--国际--人民网 ";
+var str1="只要有诚意&nbsp;中美之间没有解决不了的问题！";
+str=str.replace(/&nbsp;/g," ")
+str=str.replace(/&quot;/g,'"')
+str=str.replace(/<br>/g,"")
+str1=str1.replace(/&nbsp;/g," ")
+str1=str1.replace(/&quot;/g,'"')
+str1=str1.replace(/<br>/g,"")
+var wxData = {
+	"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg", // 200x200
+	"link": window.location.href,
+	"desc": "" + str + "",
+	"title": "" + str1 + ""
+};
+</script>
+<script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+
+<img src="http://counter.people.cn:8000/c.gif?id=30437234" width=0 height=0 style="display:none;">
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--baidu cloud-->
+
+
+<script type='text/javascript' LANGUAGE="JavaScript">
+	if (window.screen.width > 1280){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W5_duilian&db=people&border=0&local=yes&js=ie&kv=people|world;third|69227;fourth|;newsid|30437234' charset='gbk'></script"+">");
+	}
+</script>
+
+<!-- 广告位：PC-内页-弹窗广告 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953436',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+
+<!--2017统计代码文章-->
+<!--2017统计代码-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '69227']);
+_paq.push(['attr', 'itemid='+30437234]);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+
+</body>
+</html>

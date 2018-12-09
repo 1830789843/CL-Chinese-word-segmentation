@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>人民网评--观点--人民网</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="223228" />
+
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="/img/MAIN/2014/06/114590/page.css" type="text/css" media="all"  />
+<link rel="stylesheet"  href="http://www.people.com.cn/img/MAIN/2016/11/116906/page_nav.css" type="text/css" media="all"  />
+
+
+<script type="text/javascript" src='http://tools.people.com.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+<script type="text/javascript" src="http://www.people.com.cn/css/search.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 4px 0 3px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">网站首页</a><a href="http://politics.people.com.cn/" target="_blank">时政</a><a href="http://world.people.com.cn/" target="_blank">国际</a><a href="http://finance.people.com.cn/" target="_blank">财经</a><a href="http://tw.people.com.cn/" target="_blank">台湾</a><a href="http://military.people.com.cn/" target="_blank">军事</a><a href="http://opinion.people.com.cn/" target="_blank">观点</a><a href="http://leaders.people.com.cn/" target="_blank">领导</a><a href="http://renshi.people.com.cn/" target="_blank">人事</a><a href="http://theory.people.com.cn/" target="_blank">理论</a><a href="http://legal.people.com.cn/" target="_blank">法治</a><a href="http://society.people.com.cn/" target="_blank">社会</a><a href="http://industry.people.com.cn/" target="_blank">产经</a><a href="http://edu.people.com.cn/" target="_blank">教育</a><a href="http://kpzg.people.com.cn/" target="_blank">科普</a><a href="http://sports.people.com.cn/" target="_blank">体育</a><a href="http://culture.people.com.cn/" target="_blank">文化</a><a href="http://art.people.com.cn/" target="_blank">书画</a><a href="http://house.people.com.cn/" target="_blank">房产</a><a href="http://auto.people.com.cn/" target="_blank">汽车</a><a href="http://travel.people.com.cn/" target="_blank">旅游</a><a href="http://health.people.com.cn/" target="_blank">健康</a><a href="http://tv.people.com.cn/" target="_blank">视频</a><a href="http://ip.people.com.cn/" target="_blank">知识产权</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">注册</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">退出</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/MAIN/2016/11/116906/js/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--通栏广告-->
+<div class="w1000 ad_column_1 clear">
+<script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016channel|dingbutonglan&db=people&border=0&local=yes&js=ie&kv=people|opinion;third|223228;fourth|;newsid|0' charset='gbk'></script>
+</div>
+<!--pd_logo-->
+<div class="w1000 clear logo_line mt15 o_h">
+    <div class="fl"><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/MAIN/2016/11/116906/images/logo_rmw.png" width="120" height="46" alt="人民网" /></a><span>观点</span></div>  
+  <div class="fr">
+    <form action="http://search.people.com.cn/cnpeople/searchForChannel.do" name="searchForm" method="post" target="_blank">
+<input type="hidden" name="siteName" value="people" />
+<input type="hidden" name="pageNum" value="1" />
+<input type="hidden" name="totalPage" value="0" />
+<input type="hidden" name="channelName" value="opinion" />
+    <input type="image" src="http://www.people.com.cn/img/MAIN/2016/11/116906/images/icon2.gif" />
+    <input type="text" name="keyword" Id="keyword" value="新闻检索"  onblur="if(this.value=='') this.value='新闻检索';this.style.color='#ccc';" onfocus="if(this.value=='新闻检索') this.value='';this.style.color='#000';" class="jianso_t"/>
+	</form> 
+	</div>
+</div>
+<!--导航-->
+<div class="pd_nav w1000 white mt15"><a href="http://opinion.people.com.cn/" target="_blank">观点频道</a><a href="http://opinion.people.com.cn/GB/223228/index.html" target="_blank">人民网评</a><a href="http://opinion.people.com.cn/GB/8213/420650/index.html" target="_blank">三评</a><a href="http://opinion.people.com.cn/GB/364597/index.html" target="_blank">原创快评</a><a href="http://opinion.people.com.cn/GB/363824/index.html" target="_blank">洞鉴专栏</a><a href="http://opinion.people.com.cn/GB/1036/index.html" target="_blank">网友来论</a><a href="http://opinion.people.com.cn/GB/40604/index.html" target="_blank">报系言论</a><a href="http://opinion.people.com.cn/GB/159301/index.html" target="_blank">每日新评</a><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target="_blank">观点1＋1</a>
+&nbsp;<a href="mailto:opinion@people.cn" target="_blank">投稿信箱</a></div>
+<div class="quan_nav w1000"><a href="http://opinion.people.com.cn/GB/8213/49160/index.html" target="_blank">人民日报要论</a><a href="http://opinion.people.com.cn/GB/8213/49160/49179/index.html" target="_blank">人民日报社论</a><a href="http://opinion.people.com.cn/GB/8213/49160/49205/index.html" target="_blank">任仲平</a><a href="http://opinion.people.com.cn/GB/8213/49160/49217/index.html" target="_blank">评论员</a><a href="http://opinion.people.com.cn/GB/8213/49160/49221/index.html" target="_blank">今日谈</a><a href="http://opinion.people.com.cn/GB/8213/353915/353917/index.html" target="_blank">人民观点</a><a href="http://opinion.people.com.cn/GB/8213/49160/49220/index.html" target="_blank">人民论坛</a><a href="http://opinion.people.com.cn/GB/8213/353915/353916/index.html" target="_blank">人民时评</a><a href="http://opinion.people.com.cn/GB/8213/49160/54773/index.html" target="_blank">望海楼</a><a href="http://opinion.people.com.cn/GB/8213/49160/69963/index.html" target="_blank">国纪平</a><a href="http://opinion.people.com.cn/GB/8213/408448/index.html" target="_blank">漫评</a></div>
+<!--即时新闻 检索-->
+
+
+<!--list-->
+<div class="path w1000_320 clearfix red"><a href="http://www.people.com.cn/">人民网</a> &gt;&gt; <a href="http://opinion.people.com.cn/">观点</a> &gt;&gt; <a href="http://opinion.people.com.cn/GB/223228/index.html">人民网评</a></div>
+<div class="clearfix w1000_320">
+  <div class="fl p2j_list">
+     <h2 class="red">评论精选</h2>
+     <ul class="imp_list clearfix"><li><a href='/n1/2018/1130/c1003-30433182.html' target=_blank>人民要论：全面贯彻新时代党的组织路线</a></li>
+<li><a href='/n1/2018/1129/c1003-30430948.html' target=_blank>人民日报人民论坛：砥砺笃定自若的心境</a></li>
+<li><a href='/n1/2018/1130/c1003-30433414.html' target=_blank>请给“隐形好人”应有的尊重</a></li>
+<li><a href='/n1/2018/1130/c1003-30433408.html' target=_blank>“身份证照可重拍”凸显服务理念大转变</a></li>
+<li><a href='/n1/2018/1130/c1003-30433438.html' target=_blank>黄牛买卖学籍，毛坦厂中学难辞其咎</a></li>
+<li><a href='/n1/2018/1130/c1003-30433443.html' target=_blank>是谁让“吹哨人”黯然神伤</a></li>
+<li><a href='/n1/2018/1130/c1003-30433458.html' target=_blank>商业保险捆绑“新农合”的“自愿”悖论</a></li>
+<li><a href='/n1/2018/1130/c1003-30433466.html' target=_blank>“蕾特坑”你究竟毁了多少好妹妹</a></li>
+<li><a href='/n1/2018/1130/c1003-30433472.html' target=_blank>品牌“落水”，再打捞就难了</a></li>
+<li><a href='/n1/2018/1130/c1003-30433486.html' target=_blank>泄露隐私的APP，何以一直野蛮生长</a></li>
+</ul>
+    <div class="bor">
+     <ul class="list_14 clearfix"><li><a href='/n1/2018/1123/c1003-30418731.html' target=_blank>人民网评D＆G辱华：中国，才是我们最珍视的奢侈品</a> <i class="gray">2018-11-23 17:41</i></li>
+<li><a href='/n1/2018/1120/c1003-30411619.html' target=_blank>人民网评：让亚太地区人民搭上数字经济发展快车</a> <i class="gray">2018-11-20 14:55</i></li>
+<li><a href='/n1/2018/1117/c1003-30406262.html' target=_blank>人民网评：在“同舟共济”中驶向更美好彼岸</a> <i class="gray">2018-11-17 16:38</i></li>
+<li><a href='/n1/2018/1117/c1003-30406046.html' target=_blank>人民网评：共同谱写中国同太平洋岛国关系的新篇章</a> <i class="gray">2018-11-17 10:25</i></li>
+<li><a href='/n1/2018/1116/c1003-30405658.html' target=_blank>人民网评：为推动新疆地区文化繁荣注入强劲动力</a> <i class="gray">2018-11-16 19:41</i></li>
+<li><a href='/n1/2018/1113/c1003-30397910.html' target=_blank>人民网评：自媒体绝不是法外之地</a> <i class="gray">2018-11-13 10:04</i></li>
+<li><a href='/n1/2018/1110/c1003-30393214.html' target=_blank>人民网评：进博永不落幕，发展永无止境</a> <i class="gray">2018-11-10 18:00</i></li>
+<li><a href='/n1/2018/1109/c1003-30392577.html' target=_blank>人民网评：为主动“加戏”的这位司机、警察点赞！</a> <i class="gray">2018-11-09 22:03</i></li>
+<li><a href='/n1/2018/1109/c1003-30392484.html' target=_blank>人民网评：累累硕果凸显互联网大会蓬勃的生命力</a> <i class="gray">2018-11-09 18:42</i></li>
+<li><a href='/n1/2018/1109/c1003-30391914.html' target=_blank>人民网评：进博会上的这项工作，赢得广泛点赞</a> <i class="gray">2018-11-09 11:33</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2018/1108/c1003-30389597.html' target=_blank>人民网评：打开中国馆，发现全世界</a> <i class="gray">2018-11-08 12:15</i></li>
+<li><a href='/n1/2018/1107/c1003-30386327.html' target=_blank>人民网评：倡导互信共治，乌镇大会将大展作为</a> <i class="gray">2018-11-07 08:29</i></li>
+<li><a href='/n1/2018/1107/c1003-30386009.html' target=_blank>人民网评：进博会，向世界学习的机会</a> <i class="gray">2018-11-07 08:08</i></li>
+<li><a href='/n1/2018/1105/c1003-30383307.html' target=_blank>人民网评：进博会，中国引领世界开放潮流</a> <i class="gray">2018-11-05 20:45</i></li>
+<li><a href='/n1/2018/1104/c1003-30380795.html' target=_blank>人民网评：上海此刻成为“世界的会客厅”</a> <i class="gray">2018-11-04 14:49</i></li>
+<li><a href='/n1/2018/1103/c1003-30379569.html' target=_blank>人民网评：“上海！上海！” 与各国携手“招财进宝”</a> <i class="gray">2018-11-03 00:01</i></li>
+<li><a href='/n1/2018/1103/c1003-30379568.html' target=_blank>人民网评：搬走“三座大山”，实现民营经济更大发展</a> <i class="gray">2018-11-03 00:00</i></li>
+<li><a href='/n1/2018/1102/c1003-30379328.html' target=_blank>人民网评：把城乡区域发展短板变成“潜力板”</a> <i class="gray">2018-11-02 16:38</i></li>
+<li><a href='/n1/2018/1102/c1003-30379189.html' target=_blank>人民网评：“三个没有变”，看衰民营经济论可休矣</a> <i class="gray">2018-11-02 15:28</i></li>
+<li><a href='/n1/2018/1102/c1003-30378156.html' target=_blank>人民网评：担当使命，勇做合格的时代新人</a> <i class="gray">2018-11-02 08:58</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2018/1101/c1003-30377121.html' target=_blank>人民网评：吃下定心丸，一心谋发展</a> <i class="gray">2018-11-01 20:58</i></li>
+<li><a href='/n1/2018/1101/c1003-30376415.html' target=_blank>人民网评：激扬自主创新的志气和骨气</a> <i class="gray">2018-11-01 11:07</i></li>
+<li><a href='/n1/2018/1101/c1003-30376120.html' target=_blank>人民网评：心中有爱，方能遇见更好的自己</a> <i class="gray">2018-11-01 09:51</i></li>
+<li><a href='/n1/2018/1031/c1003-30373873.html' target=_blank>人民网评：追本溯源，奋斗才是青春的最好选择</a> <i class="gray">2018-10-31 11:09</i></li>
+<li><a href='/n1/2018/1030/c1003-30372006.html' target=_blank>人民网评：让城市留下记忆，让人们记住乡愁</a> <i class="gray">2018-10-30 17:19</i></li>
+<li><a href='/n1/2018/1030/c1003-30370908.html' target=_blank>人民网评：民营运载火箭终将一飞冲天</a> <i class="gray">2018-10-30 09:18</i></li>
+<li><a href='/n1/2018/1029/c1003-30369514.html' target=_blank>人民网评：中国民营企业前途不可限量</a> <i class="gray">2018-10-29 16:38</i></li>
+<li><a href='/n1/2018/1027/c1003-30366501.html' target=_blank>人民网评：一天不脱贫，一天放不下心来</a> <i class="gray">2018-10-27 17:28</i></li>
+<li><a href='/n1/2018/1026/c1003-30365069.html' target=_blank>人民网评：让自媒体空间回归健康有序</a> <i class="gray">2018-10-26 12:17</i></li>
+<li><a href='/n1/2018/1025/c1003-30363383.html' target=_blank>人民网评：先行先试，打造改革开放“新高地”</a> <i class="gray">2018-10-25 22:41</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2018/1025/c1003-30363145.html' target=_blank>人民网评：集智聚力，实现高等教育内涵式发展</a> <i class="gray">2018-10-25 17:04</i></li>
+<li><a href='/n1/2018/1025/c1003-30362522.html' target=_blank>人民网评：唯利是图的自媒体可以休矣</a> <i class="gray">2018-10-25 12:35</i></li>
+<li><a href='/n1/2018/1024/c1003-30360865.html' target=_blank>人民网评：社会主义是干出来的，新时代也是干出来的</a> <i class="gray">2018-10-24 21:25</i></li>
+<li><a href='/n1/2018/1024/c1003-30360315.html' target=_blank>人民网评：让“没底线”的谣言无法蛊惑人心</a> <i class="gray">2018-10-24 14:28</i></li>
+<li><a href='/n1/2018/1023/c1003-30358352.html' target=_blank>人民网评：让“臭脏黑”的套路再也没市场</a> <i class="gray">2018-10-23 17:44</i></li>
+<li><a href='/n1/2018/1021/c1003-30353646.html' target=_blank>人民网评：推动中国影视创作从“高原”迈向“高峰”</a> <i class="gray">2018-10-21 20:39</i></li>
+<li><a href='/n1/2018/1017/c1003-30347564.html' target=_blank>人民网评：以“两个健康”助力民营经济做优做强</a> <i class="gray">2018-10-17 23:18</i></li>
+<li><a href='/n1/2018/1017/c1003-30345239.html' target=_blank>人民网评：重阳，于己、于家、于国</a> <i class="gray">2018-10-17 00:10</i></li>
+<li><a href='/n1/2018/1017/c1003-30345238.html' target=_blank>人民网评：乘势而上坚决打赢脱贫攻坚战</a> <i class="gray">2018-10-17 00:08</i></li>
+<li><a href='/n1/2018/1012/c1003-30338114.html' target=_blank>人民网评：防治自然灾害要抓紧抓实</a> <i class="gray">2018-10-12 15:17</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2018/1009/c1003-30331158.html' target=_blank>人民网评：“你欠西湖一个道歉”，法律要向你亮剑</a> <i class="gray">2018-10-09 20:43</i></li>
+<li><a href='/n1/2018/1009/c1003-30330448.html' target=_blank>人民网评：从“平‘语’近人”中读懂总书记深沉情怀</a> <i class="gray">2018-10-09 10:30</i></li>
+<li><a href='/n1/2018/1003/c1003-30325033.html' target=_blank>人民网评：以爱国情感凝聚前进伟力</a> <i class="gray">2018-10-03 09:16</i></li>
+<li><a href='/n1/2018/0930/c1003-30323361.html' target=_blank>人民网评：让尊崇英烈化作社会共识、行动自觉</a> <i class="gray">2018-09-30 10:26</i></li>
+<li><a href='/n1/2018/0930/c1003-30323201.html' target=_blank>人民网评：合约长达99年，“靓号”附加条件逆天了</a> <i class="gray">2018-09-30 09:40</i></li>
+<li><a href='/n1/2018/0929/c1003-30322090.html' target=_blank>人民网评：越是节假日，越要敲响警钟</a> <i class="gray">2018-09-30 00:01</i></li>
+<li><a href='/n1/2018/0929/c1003-30322089.html' target=_blank>人民网评：奋斗路上，请别忘记勤俭节约</a> <i class="gray">2018-09-30 00:01</i></li>
+<li><a href='/n1/2018/0928/c1003-30319764.html' target=_blank>人民网评：叶挺家属起诉侵权者案宣判的重大意义</a> <i class="gray">2018-09-28 17:51</i></li>
+<li><a href='/n1/2018/0928/c1003-30318777.html' target=_blank>人民网评：让乡村振兴规划愿景成为美丽现实</a> <i class="gray">2018-09-28 09:36</i></li>
+<li><a href='/n1/2018/0928/c1003-30318515.html' target=_blank>人民网评：国企民企相得益彰，中国经济更有前景</a> <i class="gray">2018-09-28 09:00</i></li>
+</ul>
+     <ul class="list_14 clearfix"><li><a href='/n1/2018/0927/c1003-30316866.html' target=_blank>人民网评：“这不是坏事”，因为最终还是靠自己</a> <i class="gray">2018-09-27 13:30</i></li>
+<li><a href='/n1/2018/0926/c223228-30314539.html' target=_blank>人民网评：把办好学视为天大的事</a> <i class="gray">2018-09-26 11:32</i></li>
+<li><a href='/n1/2018/0926/c1003-30314531.html' target=_blank>人民网评：没有爱就没有教育</a> <i class="gray">2018-09-26 11:25</i></li>
+<li><a href='/n1/2018/0923/c1003-30309368.html' target=_blank>人民网评:“中国农民丰收节”,让全社会共享丰收快乐</a> <i class="gray">2018-09-23 00:01</i></li>
+<li><a href='/n1/2018/0922/c1003-30308816.html' target=_blank>人民网评：中秋，放下手机听听祖先的叮咛</a> <i class="gray">2018-09-22 07:31</i></li>
+</ul>
+     <div class="page_n clearfix"><a class="common_current_page">1</a>&nbsp;<a href='index2.html'  >2</a>&nbsp;<a href='index3.html'  >3</a>&nbsp;<a href='index2.html'  >下一页</a>
+</div><!--all page--><!--PageNo=3-->
+</div>
+  </div>
+  <div class="fr p2_right">
+     <div class="bor mb10">
+  <h2 class="red"><a href="http://opinion.people.com.cn/GB/8213/119388/index.html">观点1＋1</a> </h2><div class="pic01"><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target=_blank><img src="/NMediaFile/2014/0623/MAIN201406231127385513410079937.jpg" width="100" height="100" alt="开栏语：大家好，我是小蒋。国事，家事，天下事，天天都有新鲜事。你评，我评，众人评，百花齐放任君品。"/></a><a href="http://opinion.people.com.cn/GB/8213/119388/index.html" target=_blank><p><font color="#0000FF"><b>开栏语</b></font><b><font color="#0000FF">：</font></b>大家好，我是小蒋。国事，家事，天下事，天天都有新鲜事。你评，我评，众人评，百花齐放任君品。</p></a></div>
+        <ul class="list_14 clearfix">
+</ul>
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/GB/364827/index.html" target="_blank">专题图集</a>
+</h2>
+        <div class="pic02"><a href="http://opinion.people.com.cn/GB/155936/155939/373228/index.html" target=_blank><img src="/NMediaFile/2014/0624/MAIN201406241358265483716082187.jpg" width="268" height="180" alt="习近平总书记治国理政思维"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/373228/index.html" target=_blank>习近平总书记治国理政思维</a>
+<a href="http://opinion.people.com.cn/GB/155936/155939/364256/index.html" target=_blank><img src="/NMediaFile/2014/0624/MAIN201406241358267100213240938.jpg" width="268" height="180" alt="习近平主席开启中国新外交"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/364256/index.html" target=_blank>习近平主席开启中国新外交</a>
+<a href="http://opinion.people.com.cn/GB/155936/155939/155963/index.html" target=_blank><img src="/NMediaFile/2014/0623/MAIN201406231226110541753759981.jpg" width="268" height="180" alt="公务员涨工资须迈过“三道坎”"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/155963/index.html" target=_blank>公务员涨工资须迈过“三道坎”</a>
+<a href="http://opinion.people.com.cn/GB/155936/155939/155962/index.html" target=_blank><img src="/NMediaFile/2014/0623/MAIN201406231226108505671084190.jpg" width="268" height="180" alt="反腐抓了多少“老虎”“苍蝇”"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/155962/index.html" target=_blank>反腐抓了多少“老虎”“苍蝇”</a>
+<a href="http://opinion.people.com.cn/GB/155936/155939/365349/index.html" target=_blank><img src="/NMediaFile/2014/0623/MAIN201406231234279846138836627.jpg" width="268" height="180" alt="八项规定严管公款吃喝等四风问题"/></a><a href="http://opinion.people.com.cn/GB/155936/155939/365349/index.html" target=_blank>八项规定严管公款吃喝等四风问题</a>
+</div> 
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/" target="_blank">24小时点击排行</a>
+</h2>
+        <ol><!--1--><li><a href="/n1/2018/1129/c1003-30430971.html" title="人民日报评论员观察：问责见实效，关键在精准">人民日报评论员观察：问责见实效，关…</a></li><!--2--><li><a href="/n1/2018/1129/c1003-30430970.html" title="人民日报评论员观察：让有为者有位，为担当者担当">人民日报评论员观察：让有为者有位，…</a></li><!--3--><li><a href="/n1/2018/1129/c1003-30430974.html" title="人民日报人民时评：防范“指尖政务”中的“四风”变种">人民日报人民时评：防范“指尖政务”…</a></li><!--4--><li><a href="/n1/2018/1129/c1003-30431150.html" title="中青报：介绍对象可以 “扶贫送老婆”变味了">中青报：介绍对象可以&nbsp;“扶贫送老婆…</a></li><!--5--><li><a href="/n1/2018/1129/c1003-30431174.html">北青报：“最美”凋零再敲艺人涉毒警钟</a></li><!--6--><li><a href="/n1/2018/1129/c1003-30431773.html" title="燕赵晚报：“行人闯红灯被撞获刑”警示陋习">燕赵晚报：“行人闯红灯被撞获刑”警…</a></li><!--7--><li><a href="/n1/2018/1129/c1003-30431154.html" title="中青报：强迫员工“燃烧卡路里”伤害了企业精神">中青报：强迫员工“燃烧卡路里”伤害…</a></li><!--8--><li><a href="/n1/2018/1129/c1003-30430948.html">人民日报人民论坛：砥砺笃定自若的心境</a></li><!--9--><li><a href="/n1/2018/1129/c1003-30430968.html">乱解汉字现象应引起重视（有的放矢）</a></li><!--10--><li><a href="/n1/2018/1129/c1003-30430965.html">人民日报：大力弘扬伟大奋斗精神</a></li></ol>
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/GB/155936/index.html" target="_blank">观点热词库</a>
+</h2>
+        <ul class="list"><li><i class="red"><a href="http://opinion.people.com.cn/GB/51854/index.html">热点|</a></i><a href="http://opinion.people.com.cn/GB/155936/155939/370842/index.html
+">治国理政|</a><a href="http://opinion.people.com.cn/GB/155936/155939/368020/index.html
+">日本右倾|</a><a href="http://opinion.people.com.cn/GB/155936/155938/364563/index.html">城镇化|</a><a href="http://opinion.people.com.cn/GB/155936/155939/234592/index.html">网络治理</a></li> <li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/385834/index.html">制度|</a></i><a href="http://opinion.people.com.cn/GB/155936/155938/362687/362688/index.html">中国梦|</a><a href="http://opinion.people.com.cn/GB/155936/155939/364267/index.html">价值观|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/366481/index.html">特色理论|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/364266/index.html">诚信|</a><a href="http://opinion.people.com.cn/GB/155936/155939/364257/index.html
+">国家形象</a></li><li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/370842/index.html">改革|</a></i><a href="http://opinion.people.com.cn/GB/155936/155939/155950/index.html">政改|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157878/index.html">经改|</a><a href="http://opinion.people.com.cn/GB/155936/155939/158733/index.html">法治|</a><a href="http://opinion.people.com.cn/GB/155936/155939/202617/index.html">三公|</a><a href="http://opinion.people.com.cn/GB/155936/155939/155963/index.html">公务员|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157876/index.html">干部|</a><a href="http://opinion.people.com.cn/GB/155936/155939/364256/index.html">外交</a></li> <li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/157881/index.html">民生|</a></i><a href="http://opinion.people.com.cn/GB/155936/155939/372574/index.html">两孩|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157312/index.html">户籍|</a><a href="http://opinion.people.com.cn/GB/155936/155939/156297/index.html">教育|</a><a href="http://opinion.people.com.cn/GB/155936/155939/155960/index.html">就业|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157879/index.html">食药|</a><a href="http://opinion.people.com.cn/GB/155936/155939/155961/index.html">医疗|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157882/index.html">养老</a></li><li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/155962/index.html">反腐|</a></i><a href="http://opinion.people.com.cn/GB/8213/368023/index.html">治谣|</a><a href="http://opinion.people.com.cn/GB/155936/155939/365349/index.html">八项规定|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/156115/index.html">问责|</a><a href="http://opinion.people.com.cn/GB/155936/155939/193813/index.html">扫黄|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/366088/index.html">反恐</a></li><li><i class="red"><a href="http://opinion.people.com.cn/GB/155936/155939/214528/index.html">治理|</a></i><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/191808/index.html">人才|</a><a href="http://opinion.people.com.cn/GB/155936/155939/155959/index.html">环保|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/157872/index.html">城管|</a><a href="http://opinion.people.com.cn/GB/155936/155939/158819/index.html">事故|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/202619/index.html">物价|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/158732/index.html">卫生|</a><a 
+
+href="http://opinion.people.com.cn/GB/155936/155939/155949/index.html">房产</a></li><li><i class="red"><a href="http://opinion.people.com.cn/GB/51854/index.html">教育|</a></i><a href="http://opinion.people.com.cn/GB/155936/155939/165128/index.html
+">基教|</a><a href="http://opinion.people.com.cn/GB/155936/155939/156297/index.html">教改|</a><a href="http://opinion.people.com.cn/GB/155936/155939/157122/index.html">高考|</a><a href="http://opinion.people.com.cn/GB/155936/155939/158695/index.html">大学|</a><a href="http://opinion.people.com.cn/GB/155936/155939/158679/index.html">学风|</a><a href="http://opinion.people.com.cn/GB/155936/155939/364245/index.html">科技创新</a></li> <br><img src='/mediafile/201112/20/P201112201407491308319178.gif' width="18" height="22" border='0'><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235151/index.html" scrolling="no" frameborder="0"></iframe><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235152/index.html" scrolling="no" frameborder="0"></iframe><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235154/index.html" scrolling="no" frameborder="0"></iframe><br><img src='/mediafile/201112/20/P201112201407491308319178.gif' width="18" height="22" border='0'><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235153/index.html" scrolling="no" frameborder="0"></iframe><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235155/index.html" scrolling="no" frameborder="0"></iframe><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235156/index.html" scrolling="no" frameborder="0"></iframe><br><img src='/mediafile/201112/20/P201112201407491308319178.gif' width="18" height="22" border='0'><iframe width="80" height="22" 
+
+src="http://opinion.people.com.cn/GB/69229/235159/index.html" scrolling="no" frameborder="0"></iframe></ul>
+     </div> <div class="bor mb10">
+        <h2 class="red"><a href="http://opinion.people.com.cn/GB/41891/index.html" target="_blank">评论员专栏</a></h2>
+        <ul class="list"><li><a href="http://opinion.people.com.cn/GB/41891/64065/index.html" target='_blank'>卢新宁</a>|<a href="http://opinion.people.com.cn/GB/41891/386217/index.html" target='_blank'>吴焰</a>|<a href="http://opinion.people.com.cn/GB/other7081/index.html" target='_blank'>陈家兴</a>|<a href="http://opinion.people.com.cn/GB/41891/137555/index.html" target='_blank'>张铁</a>|<a href="http://opinion.people.com.cn/GB/41891/124689/index.html" target='_blank'>范正伟</a><li><a href="http://opinion.people.com.cn/GB/41891/55311/index.html" target='_blank'>李泓冰</a>|<a href="http://opinion.people.com.cn/GB/41891/391068/391069/index.html" target='_blank'>姜赟</a>|<a href="http://opinion.people.com.cn/GB/41891/365686/index.html" target='_blank'>白龙</a>|<a href="http://opinion.people.com.cn/GB/41891/352874/index.html" target='_blank'>李拯</a>|<a href="http://opinion.people.com.cn/GB/41891/175391/index.html" target='_blank'>郝洪</a>|<a href="http://opinion.people.com.cn/GB/41891/367679/index.html" target='_blank'>李斌</a>|<a href="http://opinion.people.com.cn/GB/41891/390789/index.html" target='_blank'>林亦辰</a></li><li><a href="http://opinion.people.com.cn/GB/41891/51829/index.html" target='_blank'>唐维红</a>|<a href="http://opinion.people.com.cn/GB/41891/391070/index.html" target='_blank'>洪乐风</a>|<a href="http://opinion.people.com.cn/GB/41891/136841/index.html" target='_blank'>鲁刃</a>|<a href="http://opinion.people.com.cn/GB/41891/58185/58186/index.html" target='_blank'>王石川</a>|<a href="http://opinion.people.com.cn/GB/41891/385732/index.html" target='_blank'>孤松</a>|<a href="http://opinion.people.com.cn/GB/41891/44158/index.html" target='_blank'>蒋萌</a></li><li><a href="http://opinion.people.com.cn/GB/41891/177910/index.html" target='_blank'>姜泓冰</a>|<a href="http://opinion.people.com.cn/GB/41891/34854/index.html" target='_blank'>斯雄</a>|<a href="http://opinion.people.com.cn/GB/41891/146394/index.html" target='_blank'>汪晓东</a>|<a href="http://opinion.people.com.cn/GB/other7083/index.html" target='_blank'>士心</a>|<a href="http://opinion.people.com.cn/GB/41891/170184/index.html" target='_blank'>袁亚平</a>|<a href="http://opinion.people.com.cn/GB/41891/139751/index.html" target='_blank'>吕绍刚</a></li><li><a href="http://opinion.people.com.cn/GB/41891/48593/index.html" target='_blank'>李德民</a>|<a href="http://opinion.people.com.cn/GB/other5504/index.html" target='_blank'>王义堂</a>|<a href="http://opinion.people.com.cn/GB/41891/32593/index.html" target='_blank'>丁刚</a>|<a href="http://opinion.people.com.cn/GB/other6345/index.html" target='_blank'>建达</a>|<a href="http://opinion.people.com.cn/GB/other5494/index.html" target='_blank'>林治波</a>|<a href="http://opinion.people.com.cn/GB/other6993/index.html" target='_blank'>王比学</a></li></ul>
+     </div>
+  </div>
+</div>
+<!--list end-->
+
+<!--copyright-->
+<div class="copyright red">
+<style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved</div></div>
+<style type="text/css">
+<!--
+.copyright{ text-align:center; padding:30px 0;}
+-->
+</style>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--2017统计代码频道-->
+<!--2017统计代码-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '223228']);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+</body>
+</html>

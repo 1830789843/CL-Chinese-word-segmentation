@@ -1,0 +1,477 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>中国在G20的角色非常独特且日益重要——解读二十国集团（G20）领导人第十三次峰会--强国社区--人民网 </title>
+<meta name="keywords" content="" />
+<meta name="description" content="人民网北京12月3日电（记者黄玉琦）11月30日至12月1日，二十国集团（G20）领导人第十三次峰会在阿根廷首都布宜诺斯艾利斯举行。G20成员、嘉宾国领导人和国际组织负责人围绕世界经济重大问题进行讨论" />
+<meta name="copyright" content="人民网版权所有" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="32306">
+<meta name="contentid" content="30439284">
+<meta name="publishdate" content="2018-12-03">
+<meta name="author" content="2184">
+<meta name="editor" content="2184">
+<meta name="source" content="来源：人民网-强国论坛 原创稿">
+<meta name="sourcetype" content="1">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="http://www.people.com.cn/img/2016wb/page2018.css" type="text/css" media="all"  charset="utf-8" />
+
+<script type="text/javascript" src='http://tools.people.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+
+<script src="http://dup.baidustatic.com/js/dm.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000_320 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 4px 0 3px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">网站首页</a><a href="http://politics.people.com.cn/" target="_blank">时政</a><a href="http://world.people.com.cn/" target="_blank">国际</a><a href="http://finance.people.com.cn/" target="_blank">财经</a><a href="http://tw.people.com.cn/" target="_blank">台湾</a><a href="http://military.people.com.cn/" target="_blank">军事</a><a href="http://opinion.people.com.cn/" target="_blank">观点</a><a href="http://leaders.people.com.cn/" target="_blank">领导</a><a href="http://renshi.people.com.cn/" target="_blank">人事</a><a href="http://theory.people.com.cn/" target="_blank">理论</a><a href="http://legal.people.com.cn/" target="_blank">法治</a><a href="http://society.people.com.cn/" target="_blank">社会</a><a href="http://industry.people.com.cn/" target="_blank">产经</a><a href="http://edu.people.com.cn/" target="_blank">教育</a><a href="http://kpzg.people.com.cn/" target="_blank">科普</a><a href="http://sports.people.com.cn/" target="_blank">体育</a><a href="http://culture.people.com.cn/" target="_blank">文化</a><a href="http://art.people.com.cn/" target="_blank">书画</a><a href="http://house.people.com.cn/" target="_blank">房产</a><a href="http://auto.people.com.cn/" target="_blank">汽车</a><a href="http://travel.people.com.cn/" target="_blank">旅游</a><a href="http://health.people.com.cn/" target="_blank">健康</a><a href="http://tv.people.com.cn/" target="_blank">视频</a><a href="http://ip.people.com.cn/" target="_blank">知识产权</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">注册</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">退出</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/2016wb/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--banner-->
+<div class="clearfix w1000_320 banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W1_banner&db=people&border=0&local=yes&js=ie&kv=people|;third|69270;fourth|;newsid|30439284' charset='gbk'></script></div>
+<!--banner end-->
+<!--path-->
+<div class="clearfix w1000_320 path path2 pos_re_search">
+   <div class="fl">
+   <span id="rwb_logo"><em><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo01.png" width="112" height="46" /></a></em><i><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo2.png" width="112" height="46" /></a></i></span>
+   <span id="rwb_navpath"><a href="http://www.people.com.cn/" class="clink">人民网</a>&gt;&gt;<a href="http://www.people.com.cn/32306/" class="clink">强国社区</a></span>
+   </div>
+   <div class="fr"><img src="http://www.people.com.cn/img/2016wb/images/icon01.gif" width="29" height="29" id="search_button" /><span id="rwb_map"><a href="http://www.people.com.cn/GB/138812/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon02.gif" width="29" height="29" /></a></span></div>
+   <div class="p_search" id="p_search">
+            <form action="http://search.people.com.cn/cnpeople/peoplesearch.do" name="searchForm" method="post"  target="_blank">
+            <p><input class="people_input" name="keyword" Id="keyword" value="请输入检索内容" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" type="text" /></p>
+            <p class="tc"><input type="submit" name="" value="站内检索" class="people_button_sub"></p></form>
+       </div>
+</div>
+<!--path end-->
+
+<!--text_title-->
+<div class="clearfix w1000_320 text_title">
+	<h3 class="pre"></h3>
+	<h1>中国在G20的角色非常独特且日益重要<br>——解读二十国集团（G20）领导人第十三次峰会</h1>
+	<h4 class="sub"></h4>
+    <p class="author"></p>
+   <div class="box01">
+      <div class="fl">2018年12月03日14:17&nbsp;&nbsp;来源：<a href="http://bbs1.people.com.cn/boardList.do?action=postList&boardId=1" target="_blank">人民网-强国论坛</a></div>
+      <div class="fr">
+         <div class="fx">
+         <div id="ops_share"></div>
+		 <script src="http://www.people.com.cn/img/2016wb/share_qr.min.js" charset="utf-8"></script>
+         </div>
+         <div class="message" id="rwb_bbstop"><a href="http://bbs1.people.com.cn/postLink.do?nid=30439284" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+   </div>
+</div>
+<!--text_title end-->
+<!--text_con-->
+<div class="clearfix w1000_320 text_con">
+   <!--text left-->
+   <div class="fl text_con_left">
+      <div class="box_con" id="rwb_zw">
+        <div class="box_pic"></div>
+        <p style="text-indent: 2em;">
+	人民网北京12月3日电（记者 黄玉琦）11月30日至12月1日，二十国集团（G20）领导人第十三次峰会在阿根廷首都布宜诺斯艾利斯举行。G20成员、嘉宾国领导人和国际组织负责人围绕世界经济重大问题进行讨论，通过了《G20领导人布宜诺斯艾利斯峰会宣言》，向国际社会和市场释放出积极信号，保持了G20作为国际经济合作主要论坛的合作势头。本次峰会取得了哪些成果？全球经济未来如何发展？人民网强国论坛邀请上海国际问题研究院院长陈东晓进行解读。<strong><a href="http://ft.people.com.cn/fangtanDetail.do?pid=16805" target="_blank">进入访谈页面观看原文</a></strong></p>
+<p style="text-indent: 2em;">
+	<strong>G20峰会四项成果显著 向外界释放积极信号</strong></p>
+<p style="text-indent: 2em;">
+	强国论坛：二十国集团（G20）领导人第十三次峰会有哪些看点？取得了哪些成果？</p>
+<p style="text-indent: 2em;">
+	陈东晓：此次峰会主题是“为公平与可持续发展凝聚共识”，除剑拔弩张的贸易议题外，议程还包括宏观经济政策协调、数字经济和新工业革命、基础设施融资、粮食安全、教育和就业中的性别平等议题，主要成果有：</p>
+<p style="text-indent: 2em;">
+	一是沟通贸易投资体系改革议题，努力遏制保护主义和单边主义泛滥。G20领导人支持对WTO做必要改革并在明年峰会上审议相关进展。</p>
+<p style="text-indent: 2em;">
+	二是提出数字经济合作的政策方案，塑造未来世界经济创新和包容性发展议程。会议通过了《工作的未来》报告及《政策选项菜单》，为各国就自动化时代如何及早加强就业引导提供了指导性原则和相关政策路径选择。</p>
+<p style="text-indent: 2em;">
+	三是推进全球基础设施融资议题，促进发展中国家的平衡发展。会议通过了《基建项目准备阶段的G20原则》等报告。在基础设施投资工作组及世界银行、经合组织等的支持下，今年G20进一步就如何促进基础设施融资的差异化监管、项目准备、基础设施资产的证券化等具体议题提出了原则建议和路线图，以更有效地动员私人部门参与基础设施融资，有利于发展中国家缓解经济增长瓶颈。</p>
+<p style="text-indent: 2em;">
+	四是继续加强全球金融系统建设和宏观经济政策协调，防范世界经济风险。今年G20推动IMF与世行加强低收入国家债务监测和能力建设，并要求金融稳定委员会（FSB）探讨加密资产风险监管，敦促IMF于2019年年会前完成第15次份额总审查，并就达成新的份额公式，以促进新兴市场和发展中国家份额继续提升。</p>
+<p style="text-indent: 2em;">
+	<strong>“四大主张”体现世界经济发展的四个基本导向</strong></p>
+<p style="text-indent: 2em;">
+	强国论坛：在二十国集团领导人第十三次峰会第一阶段会议上，国家主席习近平发表题为《登高望远，牢牢把握世界经济正确方向》的重要讲话，强调二十国集团要坚持开放合作、伙伴精神、创新引领、普惠共赢，以负责任态度把握世界经济大方向。对此，您如何解读？</p>
+<p style="text-indent: 2em;">
+	陈东晓：习近平主席在G20峰会上的引导性发言，从世界经济发展大势和人类社会发展的大局出发，提出了坚持开放合作、伙伴关系、创新引领、普惠共赢四大主张，体现了世界经济发展的四个基本导向，是对完善全球经济治理，推动经济全球化健康发展的又一重要思想贡献。</p>
+<p style="text-indent: 2em;">
+	开放发展的导向，强调维护一个开放、基于规则的多边贸易体制是开放型世界经济的机制保障；协调发展的导向，强调世界经济体中的各主要成员要提高相互之间宏观政策的协调意识、要求国际经济治理机制要提升协调各国宏观政策的能力建设；创新发展的导向，明确了技术创新、知识创新、制度创新是世界经济发展的根本动力，同时加强国际社会合作，共同对技术创新的综合社会影响开展政策引导和社会管理；包容发展的导向，强调发展失衡和分配失公是阻碍世界经济可持续发展的最大障碍之一，呼吁国际社会携手合作，把推动落实联合国2030可持续发展议程作为推进包容发展的主要抓手。</p>
+<p style="text-indent: 2em;">
+	<strong>多边贸易体系建设和WTO改革须坚持与时俱进</strong></p>
+<p style="text-indent: 2em;">
+	强国论坛：Ｇ２０峰会通过了《二十国集团领导人布宜诺斯艾利斯峰会宣言》，强调国际贸易和投资是增长、创新、就业和发展的重要引擎，支持世界贸易组织(WTO)进行必要改革以提升其运行效果。对于多边贸易体系建设和未来WTO改革，您的理解和建议是什么？</p>
+<p style="text-indent: 2em;">
+	陈东晓：在本次峰会上，与会各方对世贸组织改革达成共识。中方展现了建设性姿态，支持世贸组织进行必要的改革，以使世贸组织更好发挥作用。同时，中方还强调改革的前提是维护多边贸易体制，维护世贸组织的核心价值和基本原则，维护发展中国家发展空间。我认为：</p>
+<p style="text-indent: 2em;">
+	一是坚持多边贸易体系建设和WTO改革的基本原则，包括维护开放、包容、非歧视、保障发展中国家发展权益和政策空间、协商一致等。无论WTO怎么改，这些基本原则必须坚持。</p>
+<p style="text-indent: 2em;">
+	二是必须不断与时俱进，包括WTO在内的多边贸易体系必须要很好地处理经济全球化出现的一些新经贸问题，包括数字经济发展、全球价值链及其贸易价值计算、服务贸易、政府采购、可持续发展问题和国营企业的市场主体性质等。</p>
+<p style="text-indent: 2em;">
+	三是必须加强协调，统筹推进各层面的贸易体系和贸易谈判。国际社会应该推动全球层面的多边贸易体系建设、地区和次区域自贸协议、多边和双边自贸协议谈判进程等的良性竞争，从而促进更加开放型的世界经济和全球贸易格局，防止和减少排他性的贸易小集团对国际多边贸易投资体系建设的负面冲击。</p>
+<p style="text-indent: 2em;">
+	<strong>中国在G20的角色非常独特且日益重要</strong></p>
+<p style="text-indent: 2em;">
+	强国论坛：中国一贯重视并积极参与Ｇ２０合作。中国领导人出席了历次Ｇ２０峰会，为完善全球经济治理贡献了中国智慧和中国方案，您如何看待中国在Ｇ２０峰会机制下发挥的作用？</p>
+<p style="text-indent: 2em;">
+	陈东晓：中国是世界第二大经济体，又是最大的发展中国家，国际金融危机发生以来，中国经济对世界经济增长贡献率超过30%，是对全球经济增长和国际金融体系稳定具有“重要体系性影响”的经济体。这些身份使得中国在G20的角色非常独特且日益重要，主要体现在以下几个方面：一是在推动世界经济恢复和增长中发挥重要加速器作用；二是协调主要经济体的宏观经济政策、帮助稳定全球金融市场发挥重要协调器作用；三是帮助构建更加公正合理的世界经济治理体系、提高新型经济体和发展中国家的话语权，发挥重要的助推器作用；四是在倡导全球经济治理新理念、新机制方面发挥重要传播器作用。</p>
+<p style="text-indent: 2em;">
+	强国论坛：今年是G20峰会机制启动10周年，如何看待它对推动世界经济复苏和经济全球化发挥的作用？</p>
+<p style="text-indent: 2em;">
+	陈东晓：G20峰会机制启动10年来，它对推动世界经济复苏和经济全球化发挥了积极的推动作用：</p>
+<p style="text-indent: 2em;">
+	一是为全球经济复苏和增长提供动力。G20成员都是世界主要经济体，占世界经济总量的近90%，G20成员如果能够增加协调、相互合作、将为世界经济增长和稳定奠定基础、提供根本动力。</p>
+<p style="text-indent: 2em;">
+	二是为维护公正合理的多边主义的国际经济治理体系提供机制。G20成员不仅包括传统西方发达经济体，也包括中国、印度、南非、巴西等新兴经济体和发展中国家，地域上不仅包括欧美地区，还涵盖亚非拉的各大洲，是目前全球层面最具代表性的、聚焦世界经济治理的论坛，其发表的宣言也代表了当今世界主流的话语和基本共识。同时，G20每年还会邀请其他一些有代表性的地区国家特别是发展中国家参与，这进一步加强了G20机制的代表性。</p>
+<p style="text-indent: 2em;">
+	三是为推动构建更加包容、创新的全球经济治理机制汇聚智慧和凝聚共识。G20机制不仅包括各主要经济体领导人和政府部长的会晤协商，还包括了诸如B20（共商）、W20（妇女）、Y20(青年)、C20(市民社会)、T20(智库)等等配套活动，形成全球型的协商网络和论坛，共同为推动全球化、以及应对全球化的各种挑战出谋划策。</p>
+<div class="zdfy clearfix"></div><center><table border="0" align="center" width="40%"><tr></tr></table></center>
+        <div class="box_pic"></div>
+        <div class="edit clearfix">(责编：黄玉琦、王喆)</div>
+      </div>
+      <script type="text/javascript">
+		picbig();//小图恢复原有宽度
+		function picbig(){	
+		if($(window).width() < 415){
+			  if($(".sub").text().length == 0){
+			  	$(".sub").css("padding-top","0px")
+			  }
+			  if($(".author").text().length == 0){
+			  	$(".author").css("padding-top","0px")
+			  }
+			  $(".box_con p").each(function(index, element) {
+				/*if ($(this).is(':has(img)')) {*/
+				if ($(this).find('img').length > 0) {
+					//console.log( $(".box_con p").index(this))
+					$(".box_con p").eq($(".box_con p").index(this)).css("text-align","center");
+				}
+			  });
+			  $(".box_con p img").each(function(index, element) {
+				  var img = new Image();
+				  img.src=$(this).attr("src");
+				  $(this).load(function(){//图片加载完成
+					 if(img.width < $(".text_con_left").width() && img.width > 0 ){						
+						$(this).css("width","auto")
+					  }
+				  });				  
+			  });  
+		  }	
+		}
+	  </script>
+      <!--left-banner-->
+      <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W4_diwen&db=people&border=0&local=yes&js=ie&kv=people|;third|69270;fourth|;newsid|30439284' charset='gbk'></script></div>
+      <!--left-banner end-->
+      <!--下载-->
+      <div class="box_down clearfix">
+        <div class="fl"><span id="rwb_khd"><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon06.png" width="40" height="40" />人民日报客户端下载</a></span><span id="rwb_sj"><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon07.png" width="40" height="40" />手机人民网</a></span></div>
+        <div class="fr" id="rwb_bbsbot"><a href="http://bbs1.people.com.cn/postLink.do?nid=30439284" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+       <!--下载 end-->
+       <!--相关专题-->
+       
+       <!--相关专题 end-->
+       <!--推荐阅读 -->
+       <div id="rwb_tjyd">
+       
+       </div>
+       <!--推荐阅读 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位07 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953433',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+       <!--相关新闻-->
+       <div id="rwb_xgxw">
+       
+       </div>
+       <!--相关新闻 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位08 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953434',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+        <!--精彩图集-->
+       <div id="rwb_jctj">
+       
+       </div>
+       <!--精彩图集 end-->
+   </div>
+   <!--text left end-->
+   <!--text right-->
+   <div class="fr text_con_right">
+	  <!--ercode-->
+      <div class="clearfix box_ewm">
+      	<div class="pic"><img src="http://www.people.com.cn/img/2016wb/images/code_wx.jpg" width="115" height="115" /><span>关注人民网微信</span></div>
+        <p class="a1"><a href="https://mp.weixin.qq.com/mp/homepage?__biz=MjM5NzI3NDg4MA==&hid=3&sn=0d109387f1949a8206a9d835fe544937#wechat_redirect" target="_blank">微信</a></p>
+        <p class="a2"><a href="https://weibo.com/p/1002062286908003/home" target="_blank">微博</a></p>
+        <p class="a3"><a href="http://m.people.cn/" target="_blank">手机人民网</a></p>
+        <p class="a4"><a href="http://leaders.people.com.cn/GB/178291/218130/414212/index.html" target="_blank">地方领导留言板</a></p>
+      </div>
+      <!--ercode end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W2_PIP&db=people&border=0&local=yes&js=ie&kv=people|;third|69270;fourth|;newsid|30439284' charset='gbk'></script></div>
+      <!--banner end-->
+      <!--right热点推荐-->
+      <div class="clearfix box_hot" id="rwb_rdtj" style="display:none">
+         <h2>热点推荐</h2>
+         <ul>
+            <li><a 
+href="http://t.people.com.cn/14917928/151717181" target='_blank'>985、211成历史？教育部回应</a></li><li><a 
+href="http://t.people.com.cn/10105522/151717941" target='_blank'>“世纪工程”港珠澳大桥主体合龙</a></li><li><a 
+href="http://t.people.com.cn/527612/151709900" target='_blank'>“照镜子”:百位共产党员人物小传</a></li><li><a 
+href="http://t.people.com.cn/14316856/151718900" target='_blank'>北京妈妈和两个内蒙儿女的“情缘”</a></li><li><a 
+href="http://t.people.com.cn/people/151709804" target='_blank'>全球免费电子图书馆名单</a></li>
+         </ul>
+      </div>
+      <!--right热点推荐 end-->
+<div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W3_juxing&db=people&border=0&local=yes&js=ie&kv=people|;third|69270;fourth|;newsid|30439284' charset='gbk'></script>
+</div>
+      <!--banner-->
+
+      <div class="banner03 clearfix">
+<!-- 广告位：PC-内页-包版位01 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4952633',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+      <!--banner end-->
+      <!--right精彩推荐-->
+      <div class="clearfix box_pic02" id="rwb_jctjr" >
+         <h2>精彩推荐</h2>
+         <ul class="clearfix">
+            <li><a href="http://bbs1.people.com.cn/post/1/1/1/169176904.html" target="_blank"><img src="/NMediaFile/2018/0921/MAIN201809211506118201443869826.jpg" width="130" height="90" border="0" alt="海峡两岸中秋灯会亮灯"/></a><a href="http://bbs1.people.com.cn/post/1/1/1/169176904.html" target="_blank"><a 
+href="http://bbs1.people.com.cn/post/1/1/1/169176904.html" target='_blank'>海峡两岸中秋灯会亮灯</a></a></li>
+<li><a href="http://bbs1.people.com.cn/post/29/1/2/169185523.html" target="_blank"><img src="/NMediaFile/2018/0921/MAIN201809211506532781868748250.jpg" width="130" height="90" border="0" alt="夕阳西下白鹭急匆匆"/></a><a href="http://bbs1.people.com.cn/post/29/1/2/169185523.html" target="_blank"><a 
+href="http://bbs1.people.com.cn/post/29/1/2/169185523.html" target='_blank'>夕阳西下白鹭急匆匆</a></a></li>
+<li><a href="http://bbs1.people.com.cn/post/29/1/2/169169701.html" target="_blank"><img src="/NMediaFile/2018/0921/MAIN201809211507314602123072267.jpg" width="130" height="90" border="0" alt="宇宙到底有多大？"/></a><a href="http://bbs1.people.com.cn/post/29/1/2/169169701.html" target="_blank"><a 
+href="http://bbs1.people.com.cn/post/29/1/2/169169701.html" target='_blank'>宇宙到底有多大？</a></a></li>
+<li><a href="http://bbs1.people.com.cn/post/29/1/2/169065794.html" target="_blank"><img src="/NMediaFile/2018/0921/MAIN201809211508122595955642034.jpg" width="130" height="90" border="0" alt="世外桃源的桃子熟了"/></a><a href="http://bbs1.people.com.cn/post/29/1/2/169065794.html" target="_blank"><a 
+href="http://bbs1.people.com.cn/post/29/1/2/169065794.html" target='_blank'>世外桃源的桃子熟了</a></a></li>
+
+         </ul>
+      </div>
+      <!--right精彩推荐 end-->
+      <!--right视频新闻-->
+      <div class="clearfix box_pic03" id="rwb_sptj">
+         <h2>视频新闻</h2>
+         <ul class="clearfix">
+            <li><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556370154308358381.jpg" width="125" height="95" border="0" alt="德云社首秀英伦"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />德云社首秀英伦</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556368515934810582.jpg" width="125" height="95" border="0" alt="洋女婿爱打太极"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />洋女婿爱打太极</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081531396068490569310.jpg" width="125" height="95" border="0" alt="如何10秒种一棵树"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />如何10秒种一棵树</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081528540500061713357.jpg" width="125" height="95" border="0" alt="首尔旅行攻略"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />首尔旅行攻略</p></a></li>
+
+          </ul>
+          <ol class="clearfix">
+             <li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424923.html' target="_blank">父母辅导孩子作业  数老虎数到发飙</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424929.html' target="_blank">研究表明  频发自拍照会加重自恋</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424947.html' target="_blank">"卿本佳人,奈何为贼"  高颜值女嫌犯走红 </a></li>
+
+          </ol>
+      </div>
+      <!--right视频新闻  end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位02 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953269',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位03 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953330',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+      <!--right热点排行-->
+      <div class="clearfix box_ol" id="rwb_rdph">
+         <h2>热点排行</h2>
+         <ol class="ph_list">
+            <li><!--1--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436905.html" title="习近平同特朗普会晤达成重要共识 停止加征新的关税" target="_blank">习近平同特朗普会晤达成重要共识&nbsp;停止加…</a></li><li><!--2--><a href="http://politics.people.com.cn/n1/2018/1203/c1001-30437258.html" title="2019年度中央机关公开遴选和公开选调公务员公告" target="_blank">2019年度中央机关公开遴选和公开选调…</a></li><li><!--3--><a href="http://cpc.people.com.cn/n1/2018/1203/c419242-30437358.html" title="2019年度中央机关公开遴选和公开选调公务员公告" target="_blank">2019年度中央机关公开遴选和公开选调…</a></li><li><!--4--><a href="http://finance.people.com.cn/n1/2018/1203/c1004-30438662.html" title="多家航企组团安新家 北京大兴国际机场再添新地标" target="_blank">多家航企组团安新家&nbsp;北京大兴国际机场再…</a></li><li><!--5--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436489.html" target="_blank">习近平同特朗普开始举行中美元首会晤</a></li>
+         </ol>
+      </div>
+      <!--right热点排行 end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位04 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953394',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位05 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953395',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位06 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953414',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+   </div>
+   <!--text right end-->
+</div>
+<!--text_con end-->
+
+
+<!--copyright-->
+<div class="copyright clearfix w1000_320">
+人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved
+</div>
+
+<!-- 微信分享 -->
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+var str="中国在G20的角色非常独特且日益重要——解读二十国集团（G20）领导人第十三次峰会--强国社区--人民网 ";
+var str1="中国在G20的角色非常独特且日益重要<br>——解读二十国集团（G20）领导人第十三次峰会";
+str=str.replace(/&nbsp;/g," ")
+str=str.replace(/&quot;/g,'"')
+str=str.replace(/<br>/g,"")
+str1=str1.replace(/&nbsp;/g," ")
+str1=str1.replace(/&quot;/g,'"')
+str1=str1.replace(/<br>/g,"")
+var wxData = {
+	"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg", // 200x200
+	"link": window.location.href,
+	"desc": "" + str + "",
+	"title": "" + str1 + ""
+};
+</script>
+<script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+
+<img src="http://counter.people.cn:8000/c.gif?id=30439284" width=0 height=0 style="display:none;">
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--baidu cloud-->
+
+
+<script type='text/javascript' LANGUAGE="JavaScript">
+	if (window.screen.width > 1280){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W5_duilian&db=people&border=0&local=yes&js=ie&kv=people|;third|69270;fourth|;newsid|30439284' charset='gbk'></script"+">");
+	}
+</script>
+
+<!-- 广告位：PC-内页-弹窗广告 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953436',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+
+<!--2017统计代码文章-->
+<!--2017统计代码-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '69270']);
+_paq.push(['attr', 'itemid='+30439284]);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+
+</body>
+</html>

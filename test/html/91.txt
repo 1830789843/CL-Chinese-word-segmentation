@@ -1,0 +1,443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>在长兴，探访“河长”（新时代之光）--文化--人民网 </title>
+<meta name="keywords" content="" />
+<meta name="description" content="　　曾经探寻过神秘的三江源，游览过美丽的珠江源，还梦想着走向母亲河黄河之源……没想到，最近却有机会探访了中国独有的“河长”之源。　　记得第一次听到“河长”这个称谓的时候，我正在广西境内的湘江源头采访。" />
+<meta name="copyright" content="人民网版权所有" />
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<meta name="catalogs" content="1013">
+<meta name="contentid" content="30439038">
+<meta name="publishdate" content="2018-12-03">
+<meta name="author" content="104140">
+<meta name="editor" content="">
+<meta name="source" content="来源：人民日报">
+<meta name="sourcetype" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+<!-- 调用样式表 -->
+<link rel="stylesheet"  href="http://www.people.com.cn/img/2016wb/page2018.css" type="text/css" media="all"  charset="utf-8" />
+
+<script type="text/javascript" src='http://tools.people.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js'></script>
+<script type="text/javascript" src='http://www.people.com.cn/img/2016wb/main.js' charset='utf-8'></script>
+
+<script src="http://dup.baidustatic.com/js/dm.js"></script>
+</head>
+<body>
+<!--top-->
+<div class="top_nav clearfix">
+   <div class="w1000_320 white pos_re_login">
+      <div class="fl" id="rwb_nav"><style type="text/css">
+.top_nav div a{ padding:0 4px 0 3px;}
+</style>
+<a href="http://www.people.com.cn/" target="_blank">网站首页</a><a href="http://politics.people.com.cn/" target="_blank">时政</a><a href="http://world.people.com.cn/" target="_blank">国际</a><a href="http://finance.people.com.cn/" target="_blank">财经</a><a href="http://tw.people.com.cn/" target="_blank">台湾</a><a href="http://military.people.com.cn/" target="_blank">军事</a><a href="http://opinion.people.com.cn/" target="_blank">观点</a><a href="http://leaders.people.com.cn/" target="_blank">领导</a><a href="http://renshi.people.com.cn/" target="_blank">人事</a><a href="http://theory.people.com.cn/" target="_blank">理论</a><a href="http://legal.people.com.cn/" target="_blank">法治</a><a href="http://society.people.com.cn/" target="_blank">社会</a><a href="http://industry.people.com.cn/" target="_blank">产经</a><a href="http://edu.people.com.cn/" target="_blank">教育</a><a href="http://kpzg.people.com.cn/" target="_blank">科普</a><a href="http://sports.people.com.cn/" target="_blank">体育</a><a href="http://culture.people.com.cn/" target="_blank">文化</a><a href="http://art.people.com.cn/" target="_blank">书画</a><a href="http://house.people.com.cn/" target="_blank">房产</a><a href="http://auto.people.com.cn/" target="_blank">汽车</a><a href="http://travel.people.com.cn/" target="_blank">旅游</a><a href="http://health.people.com.cn/" target="_blank">健康</a><a href="http://tv.people.com.cn/" target="_blank">视频</a><a href="http://ip.people.com.cn/" target="_blank">知识产权</a></div>
+      <div class="fr">
+      	<div id="txz_dlq"><a id="login_button">登录</a><a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" target="_blank">注册</a></div>
+        <div id="txz_dlh" style="display:none;"><span id="loginMsg"></span> <a id="logout" target="_self">退出</a></div>
+      </div>
+      <div class="p_login" id="p_login">
+            <div id="txz_dlq">
+            <p>登录人民网通行证 &nbsp;&nbsp;&nbsp;<a href="http://sso.people.com.cn/u/reg?appCode=ENw9NE44" class="red">立即注册</a></p>
+            <form name="loginForm" data-sso="loginForm" onssologin="loginSuccess()" onssoerror="alert(msg)">
+            <p><input type="text" value="请输入用户名" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" name="username" data-suggest="off" /></p>
+            <p><input type="password" value="" name="password"  /></p><span style="display:none;"><input type="checkbox" name="remember" checked="checked" value="1"/><label for="rememberMe">记住登录状态</label></span>
+            <p><a href="http://sso.people.com.cn/u/findpwd/user">忘记密码？</a></p>
+            <p class="tc"><input type="submit" name="" value="登录" class="people_button_sub"></p>
+            </form>
+            </div>
+        </div>
+   </div>
+</div>
+<script type="text/javascript" src="http://www.people.com.cn/img/2016wb/main_login.js" charset='utf-8'></script>
+<!--top end-->
+<!--banner-->
+<div class="clearfix w1000_320 banner"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W1_banner&db=people&border=0&local=yes&js=ie&kv=people|culture;third|69238;fourth|;newsid|30439038' charset='gbk'></script></div>
+<!--banner end-->
+<!--path-->
+<div class="clearfix w1000_320 path path2 pos_re_search">
+   <div class="fl">
+   <span id="rwb_logo"><em><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo01.png" width="112" height="46" /></a></em><i><a href="http://www.people.com.cn" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/logo2.png" width="112" height="46" /></a></i></span>
+   <span id="rwb_navpath"><a href="http://www.people.com.cn/" class="clink">人民网</a>&gt;&gt;<a href="http://culture.people.com.cn/" class="clink">文化</a></span>
+   </div>
+   <div class="fr"><img src="http://www.people.com.cn/img/2016wb/images/icon01.gif" width="29" height="29" id="search_button" /><span id="rwb_map"><a href="http://www.people.com.cn/GB/138812/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon02.gif" width="29" height="29" /></a></span></div>
+   <div class="p_search" id="p_search">
+            <form action="http://search.people.com.cn/cnpeople/peoplesearch.do" name="searchForm" method="post"  target="_blank">
+            <p><input class="people_input" name="keyword" Id="keyword" value="请输入检索内容" onFocus="this.value='';this.style.color='#000';" onBlur="if(!value){value=defaultValue;this.style.color='#d0d0d0';}" type="text" /></p>
+            <p class="tc"><input type="submit" name="" value="站内检索" class="people_button_sub"></p></form>
+       </div>
+</div>
+<!--path end-->
+
+<!--text_title-->
+<div class="clearfix w1000_320 text_title">
+	<h3 class="pre"></h3>
+	<h1>在长兴，探访“河长”（新时代之光）</h1>
+	<h4 class="sub"></h4>
+    <p class="author">董保存</p>
+   <div class="box01">
+      <div class="fl">2018年12月03日11:27&nbsp;&nbsp;来源：<a href="http://paper.people.com.cn/rmrb/html/2018-12/03/nw.D110000renmrb_20181203_1-24.htm" target="_blank">人民网－人民日报</a></div>
+      <div class="fr">
+         <div class="fx">
+         <div id="ops_share"></div>
+		 <script src="http://www.people.com.cn/img/2016wb/share_qr.min.js" charset="utf-8"></script>
+         </div>
+         <div class="message" id="rwb_bbstop"><a href="http://bbs1.people.com.cn/postLink.do?nid=30439038" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+   </div>
+</div>
+<!--text_title end-->
+<!--text_con-->
+<div class="clearfix w1000_320 text_con">
+   <!--text left-->
+   <div class="fl text_con_left">
+      <div class="box_con" id="rwb_zw">
+        <div class="box_pic"></div>
+        <P>　　曾经探寻过神秘的三江源，游览过美丽的珠江源，还梦想着走向母亲河黄河之源……没想到，最近却有机会探访了中国独有的“河长”之源。</P><P>　　记得第一次听到“河长”这个称谓的时候，我正在广西境内的湘江源头采访。同行者有几位长期生活在北京的朋友，有一位开玩笑说，我们的“长”够多的了，这咋又冒出来一个“河长”！</P><P>　　“河长”是干什么的？“河长”又是怎样产生的？他的职责是什么？大家都不甚了了。</P><P>　　随着时间的推移，“河长”这个称谓，在各种媒体上的曝光度越来越高：这里召开河长会议，那里对某某河长实行问责，甚至在中央文件上也出现了“河长制”三个字……</P><P>　　这次到湖州采风，到达的当晚，当地的同志说起湖州的特点，颇有几分自豪地说，“河长制”的发源地在我们这里！</P><P>　　“河长”源头在湖州？</P><P>　　得到的回答是，湖州市的长兴县是中国河长制的发源地。</P><P>　　这在我听来非常新鲜。“河长”为什么出现在湖州？为什么会出现在长兴？这个称谓是什么时候出现的？</P><P>　　这里的朋友看我对“河长”感兴趣，在安排采风地点时，就把我安排到了太湖之滨的长兴县。</P><P>　　前往长兴的路上，还有几分热辣的秋阳照在车窗上。当大巴进入长兴县境内，忽然乌云密布，很快便雨打车窗。江南的天气，大雨说来就来。</P><P>　　待风停雨住，抬眼望去，雨水淋洗过的山更绿，地上流淌的水也染上了山的绿色。沟渠纵横的水乡分外清新。</P><P>　　长兴的朋友说，这里是“吴根越角”，名副其实的江南鱼米之乡。长兴紧靠太湖，河网密布，水系发达。水多，河多，水塘水库多，多到什么程度呢？这个县有规模的河流五百四十七条，总长一千六百五十九公里，光是漾、山塘、水库就有两千五百多个，水域面积近八十九平方公里，约占县城面积的十四分之一。</P><P>　　说起河长制的由来，长兴的朋友会给你讲各种各样的故事。听着听着，我有了一个很特殊的感悟，“河长”这个词的出现和“绿水青山就是金山银山”的论断一脉相承，有着非常深刻的哲学意味——</P><P>　　两天前，我们到安吉县的余村参观，在他们的小礼堂里，看到了2005年时任浙江省委书记的习近平来这里考察时的一段视频。</P><P>　　习近平同志对余村的带头人说，“你们讲到，下决心要关掉矿山，这是高明之举，坚定不移走自己的路，有所得有所失，在熊掌和鱼不可兼得的时候，要知道放弃，要知道选择。”</P><P>　　习近平同志接着说，我们过去讲，既要绿水青山，又要金山银山，其实，绿水青山就是金山银山。</P><P>　　这讲的不正是一个哲学命题吗？</P><P>　　——得与失，成与败，取舍取舍，舍得舍得，有舍才能有得。</P><P>　　这话，很多人都会说，真正认识到、做到并不容易。</P><P>　　在建设美丽乡村的实践中，人们认识到绿水青山就是金山银山，这是辩证法的胜利。</P><P>　　长兴人之所以率先搞起河长制，也是经历了这样一个实践过程。</P><P>　　早在上个世纪末，长兴县也和长三角地区的大部分农村一样，人们发现仅靠土里刨食是很难致富奔小康的，“无粮不稳，无工不富”嘛！于是乡镇企业遍地开花，井喷一样飞速发展。夹浦镇是长兴县现代轻纺业发展最快的地方，全镇曾经拥有喷水织机三万多台，那时候夹浦镇流出来的水可以说是“牛奶水”。经济上去了，触目惊心的环境污染也上来了，要知道，污染的不是别的，可是各种生命须臾不可离开的水呀！</P><P>　　当时，长兴县城周边化工企业有二十多家，这鱼米之乡，这绿水青山之地，平添了许多的烟囱和若干条排污管道。蓬勃发展的长兴，生态环境严重恶化。治理污染达到国家环保标准要求的仅有4家……</P><P>　　1988年以来，长兴发生多起水污染事件。其中一件最典型。长桥村一户人家的鱼塘，紧靠着一家乡镇化工企业的废水池。下大雨时他们家养的鱼游进废水池中，过一会儿鱼就漂上来了。有一天，主人看着废水池中的水越来越多，毒水很快就会渗进自家的鱼塘，养的鱼就会被毒死。于是就转到了废水池的另一边儿，用铁锹在废水池的土坝上挖了一个缺口，废水流出去了，没有想到的是，废水池中的几百立方米毒水，因此流进了当时的长兴港。那里是很多长兴人用的自来水的取水地。这下可捅了大娄子，长兴县城居民不得不停水一周，导致很多企业停业、学校停课……</P><P>　　这个事件惊动了湖州市，也惊动了浙江省。水乡没有水吃，这是无法面对老祖宗，也无法面对子孙的事情。</P><P>　　这让我想起自己亲身经历的一件事。一天深夜，家中的电话铃骤然响起，是来自河北衡水老家的一个电话，希望我能够把他们写的一封控告信火速转给有关部门——</P><P>　　我的老家，本来水就不多的冀中大平原，也发生了类似长兴县这样的水事件。一个乡镇的化工厂排出大量的污水，把周边村子的土地和饮用水都污染了。工厂被罚款，老板赔钱了事，没过多久，再次出现污染水和土地的事件……</P><P>　　那个时候农村类似这样的事件，绝对不是个别现象。发展市场经济，到处在招商引资，人们还没有意识到，最初的经济腾飞是以牺牲环境为代价的。</P><P>　　长兴县也正是因为恶性水污染事件，懂得了有所得和有所失的道理。正是在这样的情况下，他们迈出了关键的一步。如同安吉县余村放弃开采石矿，而走绿水青山的路一样。</P><P>　　时光荏苒，十多年过去了。回首过去，几度风雨，几度春秋。“河长”是怎样迈出第一步的？他们又是怎样一步一步走过来的？</P><P>　　带着这样的问号，我走进了一栋二十多层的现代化大厦。在大厦的第十五层，有一个关于河长制的展示馆。</P><P>　　如果不到长兴来，你根本不会知道一个县级单位会有这样一栋特殊建筑。</P><P>　　在展示馆里，我们看到了关于“河长”的第一份红头文件——2003年10月8日，长兴县下发的时任水利、环卫处负责人被任命为城区河道“河长”的正式文字。他们对规定的河道水系，全面负责所有的整治行动。</P><P>　　从这个时候起，“河长”绝对不是一个挂名的官儿，更不是一个空头衔，而是“责任到人，完不成任务追责”。这一招对治理城区河道，起到了关键作用。饮用水源的品质有所提高。但当时长兴人也许并没有意识到这是一个非常重要的开端。</P><P>　　在这里，我们还看到了另一种醒目的蓝绿色——当年太湖蓝藻暴发时，长兴四大入湖河流——夹浦港、合溪新港、长兴港和杨家浦港入湖处的可怕颜色……</P><P>　　在这里，还可以看到“河长”这个称谓的演变过程——</P><P>　　2008年，长兴县围绕太湖流域水环境综合治理，成立由县长任组长的清水入湖行动领导小组，四名副县长分别担任四条流入太湖的主要河流及其支流的河长，相关部门和属地乡镇政府，为责任单位。相关部门，设立了镇级河长、村级河长，他们都是乡镇的一把手，也是治水的直接负责人。</P><P>　　展板上展示着各种规章制度：《长兴县基层河长巡查工作细则》《长兴县河长制工作制度》《关于全面深化落实河长制实施意见》，负责解说的工作人员告诉我，2008年夏天，长兴初步构建起了县、镇、村三级河长架构，形成了一整套的办法和制度，这时才正式形成了河长制。</P><P>　　这也标志着，长兴人以壮士断腕的决心和坚韧不拔的恒心，大刀阔斧进行产业整治，长兴开始凤凰涅槃般的再造。</P><P>　　在这里，我们可以看到各种各样的“河长”——“县长河长”“局长河长”“镇长河长”和“党员河长”“青年河长”“巾帼河长”“红领巾河长”“企业河长”等一批民间“河长”，他们每个人身上，都有一串串的故事。写他们治水故事的作品上了报纸，登了刊物，都赫然陈列在这里。</P><P>　　2013年，长兴提出口号——“把锦绣写在长兴大地上”！他们开展的活动是“让长兴的水秀起来”的水环境综合治理专项行动，对全县所有河道全面实行“河长制”，全面构建县、镇、村三级河长管理体系，开始走一条“凡水必治，凡治必清”的秀水之路。按照“洁、清、净”的目标，积极推进“五水共治”工程——重污染行业整治提升、农业水源污染治理、农村生活污水治理、河道综合整治和治污基础设施建设。</P><P>　　在这里，还展示了长兴在阵痛中发展、在阵痛中改变的画面，有摘掉的“省级环境保护重点监管区”的“帽子”，&nbsp;也有“全国重金属污染防治示范区”“经济明星”“国际花园城市”“全国生态县”“全国人居环境奖”等金光闪闪的牌匾和大红的荣誉证书。</P><P>　　最引人注目的，是国家主席习近平2017年新年贺词的视频。习主席在贺词中说，在生态环保领域“每条河流都要有‘河长’了”。</P><P>　　来到指挥大厅，我眼前一亮。巨大的高清屏幕上显示着长兴所有河流的运行情况。如果想看哪条河，哪个塘，鼠标一点，碧绿的水面就出现在了眼前，每条河道都清晰可见。点开另一个系统，长兴县的各种排污管线一清二楚，重点监控的污水处理厂可以看到每一个出水口的情况……展览大厅的负责人告诉我，当前最先进的大数据系统把原来很难做到的这一切都变成了可能。</P><P>　　指挥台上，有一部电话。旁边是一本所有河长的联系方式，我忍不住发问，这个系统能够和任何一个河长实时取得联系吗？这里的同志说，你可以试试。我提醒说，今天可是星期六，不会没有人吧？他们说，我们要求二十四小时有人值班。于是，我用指挥台上的电话，拨通了泗水塘河长的值班电话，响了三声之后，对方应答。</P><P>　　“你现在在什么地方？”</P><P>　　对方报告了准确位置。</P><P>　　“请你报告今天巡河情况。”</P><P>　　对方详细报告了巡河的情况后，我挂断了电话。……</P><P>　　我们常说这里是水网地带，现在看来，长兴除了水网还有一张无处不在的河长网。</P><P>　　从水利指挥中心出来，我对陪同的朋友说，还是要到村子里去看看，要耳听为虚，眼见为实。</P><P>　　出了县城，沿着公路往长兴城北方向驶去，坐在车上，我还在想，对于中国农村来说，污染问题是一个老大难问题。以我在农村生活的经历，深知治理会有多难。不用说别的，就是生活污水，老百姓还不是哪里用完哪里倒，哪里用完哪里泼。这些问题如果能解决，那可是天大的进步。</P><P>　　我们先到了一个小水库旁边的村子。到这里一看，我是“大失所望”。这哪里还是什么乡村呢，他们的房子全是典雅别致的三四层小楼，街面上的商店和城里也别无二致。走进一家做鱼的餐馆，和城里的餐馆没什么区别。多数的房子上都有“民宿”两个字，那里住着来自上海、杭州等大城市的休闲游客。其中一位头发花白的女士告诉我，她和老伴已退休，已经在这里住了一个月了，她说，这里山好，水好，空气好，人也好，比在上海老城区住着强多了。我问起食宿费用，她说两个人一天管吃管住两百元，我们其中一个的退休金就够了……</P><P>　　我问，长兴的农村都是这个样子？能不能到一个还像农村的农村去看看？他们都笑了。</P><P>　　我提出，这里不是有很多的专业村吗？比如说，种粮食的，种水果的，种蔬菜的，我就是想看看真正的农村是怎样治理污水的。</P><P>　　于是我们驱车继续向前，沿着绿色的马路长廊，来到一个岔路口，顺着左边一条路，看到了前面的一个村庄。还没进村，村口的一处建筑就吸引了我。</P><P>　　车停下来，眼前的建筑像是一个小小的气象站。白色的栅栏，中间有一座洁白的小房子。在绿树绿草绿色庄稼的掩映下，这个场地格外惹眼。小房子的屋门是上了锁的，只能听到里边机器均匀的嗡嗡声。朋友指着地上几个巨大的水泥盖板说，下面应该就是污水处理交换池……</P><P>　　旁边走过来一位五十多岁的戴草帽的人，我问，你是管理这个处理站的吗？他回答说不是，是下地干活的。我说这里处理的水流到哪里去了？他领我到了处理站的左角，那里有一个出水口，汩汩清流，缓缓流出。顺着沟渠，流到了长满荷花的塘里。我问，这水能喝吗？他说，一般的是不喝了，用来浇地没有问题。</P><P>　　我又问，村里的污水是怎么收集起来的？他说，现在每家每户都有下水道，脏水呀什么的，都流到了污水池里，&nbsp;我们再用水泵把污水池里的水抽到处理站来，统一进行处理……</P><P>　　我站在溪流旁边，不能不由衷地发出感叹：如果中华大地上的每一个村庄，都有了这样的污水处理设施，我们还愁村里的水不清吗？还愁地里的草不绿吗？还愁荷塘里的花不红吗？美丽乡村还遥远吗？</P><P>　　我们沿着静静流淌的小河，走进了村庄，街上不见人影，村委会大门敞开，办公室空无一人。隔壁的卫生站走来一个人，问我找谁？我说要找这条河的河长，来人说：</P><P>　　“找河长啊？河长巡河去了，他在巡河的路上！”</P>
+<br><span id='paper_num'>　　《 人民日报 》（ 2018年12月03日   24 版）</span>
+        <div class="box_pic"></div>
+        <div class="edit clearfix">(责编：冯粒、袁勃)</div>
+      </div>
+      <script type="text/javascript">
+		picbig();//小图恢复原有宽度
+		function picbig(){	
+		if($(window).width() < 415){
+			  if($(".sub").text().length == 0){
+			  	$(".sub").css("padding-top","0px")
+			  }
+			  if($(".author").text().length == 0){
+			  	$(".author").css("padding-top","0px")
+			  }
+			  $(".box_con p").each(function(index, element) {
+				/*if ($(this).is(':has(img)')) {*/
+				if ($(this).find('img').length > 0) {
+					//console.log( $(".box_con p").index(this))
+					$(".box_con p").eq($(".box_con p").index(this)).css("text-align","center");
+				}
+			  });
+			  $(".box_con p img").each(function(index, element) {
+				  var img = new Image();
+				  img.src=$(this).attr("src");
+				  $(this).load(function(){//图片加载完成
+					 if(img.width < $(".text_con_left").width() && img.width > 0 ){						
+						$(this).css("width","auto")
+					  }
+				  });				  
+			  });  
+		  }	
+		}
+	  </script>
+      <!--left-banner-->
+      <div class="banner02 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W4_diwen&db=people&border=0&local=yes&js=ie&kv=people|culture;third|69238;fourth|;newsid|30439038' charset='gbk'></script></div>
+      <!--left-banner end-->
+      <!--下载-->
+      <div class="box_down clearfix">
+        <div class="fl"><span id="rwb_khd"><a href="http://www.people.com.cn/GB/123231/365206/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon06.png" width="40" height="40" />人民日报客户端下载</a></span><span id="rwb_sj"><a href="http://www.people.com.cn/GB/123231/365208/index.html" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon07.png" width="40" height="40" />手机人民网</a></span></div>
+        <div class="fr" id="rwb_bbsbot"><a href="http://bbs1.people.com.cn/postLink.do?nid=30439038" target="_blank"><img src="http://www.people.com.cn/img/2016wb/images/icon04.jpg" width="29" height="23"></a>&nbsp;</div>
+      </div>
+       <!--下载 end-->
+       <!--相关专题-->
+       
+       <!--相关专题 end-->
+       <!--推荐阅读 -->
+       <div id="rwb_tjyd">
+       <div class="clearfix box_read">
+          <h2>推荐阅读</h2><div class="hdNews clearfix">
+<p><a href="http://culture.people.com.cn/n1/2018/0423/c1013-29942426.html" target="_blank"><img src="/NMediaFile/2018/0427/MAIN201804271349102016867006519.jpg" width="215" height="145" border="0" alt="阅来阅好——明星读经典,为你做海报&#13;习近平总书记曾多次谈到自己的读书爱好。我们从习总书记推荐过的书单中挑选了一些脍炙人口的经典名作，邀请王刚、王劲松、佟丽娅等为我们朗读其中的片段。&#13;【详细】&#13;名家诗会|文化名人|男神致敬父亲节|世界遗产大会"/></a></div>
+<div class="hdNews clearfix">
+<p><img src="/NMediaFile/2017/1013/MAIN201710131646342260358997005.jpg" width="215" height="145" border="0" alt="喜迎十九大，听这19位名家的文艺&quot;初心&quot;&#13;广大文艺工作者们不忘初心，思索、探索、行动，开启了从&quot;高原&quot;迈向&quot;高峰&quot;的旅程。五年来，一批文艺名家做客人民网，聊创作心路，话人生感悟。&#13;【详细】&#13;名家诗会|文化名人|男神致敬父亲节|世界遗产大会"/></div>
+</div>
+       </div>
+       <!--推荐阅读 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位07 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953433',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+       <!--相关新闻-->
+       <div id="rwb_xgxw">
+       <div class="clearfix box_news">
+          <h2>相关新闻</h2>
+          <ul><li><a href="http://travel.people.com.cn/n1/2018/1130/c422030-30434393.html" target="_blank">“文明旅游绿色出行”浙江启动仪式在湖州长兴拉开帷幕</a></li><li><a href="http://zj.people.com.cn/n2/2018/0926/c186806-32096642.html" target="_blank">湖州：长兴精准招商培育新兴产业</a></li><li><a href="http://zj.people.com.cn/n2/2018/0925/c186327-32095054.html" target="_blank">湖州长兴为青少年建立视力健康档案</a></li><li><a href="http://zj.people.com.cn/n2/2018/0903/c186327-32007265.html" target="_blank">湖州长兴残疾人享订单式培训</a></li><li><a href="http://zj.people.com.cn/n2/2018/0901/c186806-32003631.html" target="_blank">湖州长兴借“一带一路”东风走出“国际范”</a></li><li><a href="http://zj.people.com.cn/n2/2018/0830/c186327-31996149.html" target="_blank">湖州长兴成功处置一起消费投诉事件</a></li><li><a href="http://zj.people.com.cn/n2/2018/0810/c186938-31917085.html" target="_blank">湖州长兴治理不稳定斜坡</a></li><li><a href="http://zj.people.com.cn/n2/2018/0718/c186327-31831986.html" target="_blank">全国首份检察机关法治水平评估报告在湖州长兴发布</a></li></ul>
+       </div>
+       </div>
+       <!--相关新闻 end-->
+       <!--left-banner-->
+       <div class="banner02 clearfix"><!-- 广告位：PC-内页-包版位08 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953434',
+        container: s,
+        size: '660,90',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+       <!--left-banner end-->
+        <!--精彩图集-->
+       <div id="rwb_jctj">
+       <div class="clearfix box_piclist">
+          <h2>精彩图集</h2>
+          <ul><li><a href="http://culture.people.com.cn/n1/2018/1127/c1013-30428025.html" target="_blank"><img src="/NMediaFile/2018/1130/MAIN201811301306343610861698607.jpg" width="214" height="143" border="0" alt="《中国大百科全书》编撰国人自豪"/></a><a href="http://culture.people.com.cn/n1/2018/1127/c1013-30428025.html" target="_blank">《中国大百科全书》编撰国人自豪</a></li>
+<li><a href="http://culture.people.com.cn/n1/2018/1129/c1013-30432465.html" target="_blank"><img src="/NMediaFile/2018/1130/MAIN201811301306341361107585215.jpg" width="214" height="143" border="0" alt="《西南联大》带你读懂中国风骨"/></a><a href="http://culture.people.com.cn/n1/2018/1129/c1013-30432465.html" target="_blank">《西南联大》带你读懂中国风骨</a></li>
+<li><a href="http://ent.people.com.cn/n1/2018/1127/c1012-30425144.html" target="_blank"><img src="/NMediaFile/2018/1128/MAIN201811281038294380114093993.jpg" width="214" height="143" border="0" alt="电影&quot;网红&quot;鲜为人知的银幕传奇"/></a><a href="http://ent.people.com.cn/n1/2018/1127/c1012-30425144.html" target="_blank">电影"网红"鲜为人知的银幕传奇</a></li>
+<li><a href="http://ent.people.com.cn/n1/2018/1121/c1012-30413218.html" target="_blank"><img src="/NMediaFile/2018/1128/MAIN201811281038215740753707877.jpg" width="214" height="143" border="0" alt="张艺谋、黄渤等讲述中国电影往事"/></a><a href="http://ent.people.com.cn/n1/2018/1121/c1012-30413218.html" target="_blank">张艺谋、黄渤等讲述中国电影往事</a></li>
+<li><a href="http://culture.people.com.cn/n1/2018/1122/c1013-30415887.html" target="_blank"><img src="/NMediaFile/2018/1122/MAIN201811221427364919362003267.jpg" width="214" height="143" border="0" alt="陈建斌：好演员要把事业变成艺术"/></a><a href="http://culture.people.com.cn/n1/2018/1122/c1013-30415887.html" target="_blank">陈建斌：好演员要把事业变成艺术</a></li>
+<li><a href="http://culture.people.com.cn/n1/2018/1108/c1013-30389856.html" target="_blank"><img src="/NMediaFile/2018/1108/MAIN201811081535280431788751085.jpg" width="214" height="143" border="0" alt="又是一年金鸡百花时 电影人共述初心"/></a><a href="http://culture.people.com.cn/n1/2018/1108/c1013-30389856.html" target="_blank">又是一年金鸡百花时 电影人共述初心</a></li>
+</ul>
+       </div>
+       </div>
+       <!--精彩图集 end-->
+   </div>
+   <!--text left end-->
+   <!--text right-->
+   <div class="fr text_con_right">
+	  <!--ercode-->
+      <div class="clearfix box_ewm">
+      	<div class="pic"><img src="http://www.people.com.cn/img/2016wb/images/code_wx.jpg" width="115" height="115" /><span>关注人民网微信</span></div>
+        <p class="a1"><a href="https://mp.weixin.qq.com/mp/homepage?__biz=MjM5NzI3NDg4MA==&hid=3&sn=0d109387f1949a8206a9d835fe544937#wechat_redirect" target="_blank">微信</a></p>
+        <p class="a2"><a href="https://weibo.com/p/1002062286908003/home" target="_blank">微博</a></p>
+        <p class="a3"><a href="http://m.people.cn/" target="_blank">手机人民网</a></p>
+        <p class="a4"><a href="http://leaders.people.com.cn/GB/178291/218130/414212/index.html" target="_blank">地方领导留言板</a></p>
+      </div>
+      <!--ercode end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W2_PIP&db=people&border=0&local=yes&js=ie&kv=people|culture;third|69238;fourth|;newsid|30439038' charset='gbk'></script></div>
+      <!--banner end-->
+      <!--right热点推荐-->
+      <div class="clearfix box_hot" id="rwb_rdtj" >
+         <h2>热点推荐</h2>
+         <ul>
+            <li><a href='/n1/2018/1203/c1013-30438620.html' target="_blank">《中华善本百部经典再造》丛书面世 传…</a></li>
+<li><a href='/n1/2018/1203/c1013-30438615.html' target="_blank">《国风美少年》创新展现国风之美</a></li>
+<li><a href='/n1/2018/1203/c1013-30438613.html' target="_blank">《北部湾人家》致敬广西改革开放</a></li>
+<li><a href='/n1/2018/1203/c1013-30438608.html' target="_blank">长安大戏院都会举办票友联谊会 名角的…</a></li>
+<li><a href='/n1/2018/1203/c1013-30438563.html' target="_blank">央视播出18集纪录片 致敬改革开放4…</a></li>
+<li><a href='/n1/2018/1203/c1013-30438562.html' target="_blank">人民日报海外版：4K超高清频道为电视…</a></li>
+<li><a href='/n1/2018/1203/c1013-30438561.html' target="_blank">9部重点影片庆祝改革开放40年 现实…</a></li>
+<li><a href='/n1/2018/1203/c1013-30438560.html' target="_blank">"又穷又丑"成"2018年度汉字" …</a></li>
+
+
+         </ul>
+      </div>
+      <!--right热点推荐 end-->
+<div class="banner03 clearfix"><script type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W3_juxing&db=people&border=0&local=yes&js=ie&kv=people|culture;third|69238;fourth|;newsid|30439038' charset='gbk'></script>
+</div>
+      <!--banner-->
+
+      <div class="banner03 clearfix">
+<!-- 广告位：PC-内页-包版位01 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4952633',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+</div>
+      <!--banner end-->
+      <!--right精彩推荐-->
+      <div class="clearfix box_pic02" id="rwb_jctjr" >
+         <h2>精彩推荐</h2>
+         <ul class="clearfix">
+            <li><a href="http://culture.people.com.cn/n1/2018/1128/c1013-30429900.html" target="_blank"><img src="/NMediaFile/2018/1128/MAIN201811281100033671888358769.jpg" width="130" height="90" border="0" alt="《无名之辈》票房奇迹"/></a><a href="http://culture.people.com.cn/n1/2018/1128/c1013-30429900.html" target="_blank">《无名之辈》票房奇迹</a></li>
+<li><a href="http://culture.people.com.cn/n1/2018/1128/c1013-30428580.html" target="_blank"><img src="/NMediaFile/2018/1128/MAIN201811281059251555170251944.jpg" width="130" height="90" border="0" alt="北魏彩画漆屏风价值"/></a><a href="http://culture.people.com.cn/n1/2018/1128/c1013-30428580.html" target="_blank">北魏彩画漆屏风价值</a></li>
+<li><a href="http://culture.people.com.cn/n1/2018/1114/c1013-30400219.html" target="_blank"><img src="/NMediaFile/2018/1114/MAIN201811141051239677612863777.jpg" width="130" height="90" border="0" alt="《幸福一家人》暖心"/></a><a href="http://culture.people.com.cn/n1/2018/1114/c1013-30400219.html" target="_blank">《幸福一家人》暖心</a></li>
+<li><a href="http://culture.people.com.cn/n1/2018/1102/c1013-30378188.html" target="_blank"><img src="/NMediaFile/2018/1102/MAIN201811021028119944724306700.jpg" width="130" height="90" border="0" alt="&quot;神奇动物&quot;领军11月"/></a><a href="http://culture.people.com.cn/n1/2018/1102/c1013-30378188.html" target="_blank">"神奇动物"领军11月</a></li>
+
+         </ul>
+      </div>
+      <!--right精彩推荐 end-->
+      <!--right视频新闻-->
+      <div class="clearfix box_pic03" id="rwb_sptj">
+         <h2>视频新闻</h2>
+         <ul class="clearfix">
+            <li><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556370154308358381.jpg" width="125" height="95" border="0" alt="德云社首秀英伦"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c239891-30422305.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />德云社首秀英伦</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><img src="/NMediaFile/2018/1127/MAIN201811271556368515934810582.jpg" width="125" height="95" border="0" alt="洋女婿爱打太极"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/1126/c212783-30422489.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />洋女婿爱打太极</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081531396068490569310.jpg" width="125" height="95" border="0" alt="如何10秒种一棵树"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0723/c177969-30164234.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />如何10秒种一棵树</p></a></li>
+<li><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><img src="/NMediaFile/2018/0808/MAIN201808081528540500061713357.jpg" width="125" height="95" border="0" alt="首尔旅行攻略"/></a><i></i><a href="http://tv.people.com.cn/n1/2018/0808/c240648-30216870.html" target="_blank"><p class="white"><img src="/img/2016wb/images/tvicon.png" />首尔旅行攻略</p></a></li>
+
+          </ul>
+          <ol class="clearfix">
+             <li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424923.html' target="_blank">父母辅导孩子作业  数老虎数到发飙</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424929.html' target="_blank">研究表明  频发自拍照会加重自恋</a></li>
+<li><a href='http://tv.people.com.cn/n1/2018/1127/c39805-30424947.html' target="_blank">"卿本佳人,奈何为贼"  高颜值女嫌犯走红 </a></li>
+
+          </ol>
+      </div>
+      <!--right视频新闻  end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位02 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953269',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位03 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953330',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+      <!--right热点排行-->
+      <div class="clearfix box_ol" id="rwb_rdph">
+         <h2>热点排行</h2>
+         <ol class="ph_list">
+            <li><!--1--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436489.html" target="_blank">习近平同特朗普开始举行中美元首会晤</a></li><li><!--2--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30436905.html" title="习近平同特朗普会晤达成重要共识 停止加征新的关税" target="_blank">习近平同特朗普会晤达成重要共识&nbsp;停止加…</a></li><li><!--3--><a href="http://politics.people.com.cn/n1/2018/1203/c1001-30437258.html" title="2019年度中央机关公开遴选和公开选调公务员公告" target="_blank">2019年度中央机关公开遴选和公开选调…</a></li><li><!--4--><a href="http://politics.people.com.cn/n1/2018/1202/c1024-30437041.html" target="_blank">习近平同美国总统特朗普举行会晤</a></li><li><!--5--><a href="http://cpc.people.com.cn/n1/2018/1203/c419242-30437358.html" title="2019年度中央机关公开遴选和公开选调公务员公告" target="_blank">2019年度中央机关公开遴选和公开选调…</a></li>
+         </ol>
+      </div>
+      <!--right热点排行 end-->
+      <!--banner-->
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位04 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953394',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位05 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953395',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <div class="banner03 clearfix"><!-- 广告位：PC-内页-包版位06 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953414',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script></div>
+      <!--banner end-->
+   </div>
+   <!--text right end-->
+</div>
+<!--text_con end-->
+
+
+<!--copyright-->
+<div class="copyright clearfix w1000_320">
+人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved
+</div>
+
+<!-- 微信分享 -->
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+var str="在长兴，探访“河长”（新时代之光）--文化--人民网 ";
+var str1="在长兴，探访“河长”（新时代之光）";
+str=str.replace(/&nbsp;/g," ")
+str=str.replace(/&quot;/g,'"')
+str=str.replace(/<br>/g,"")
+str1=str1.replace(/&nbsp;/g," ")
+str1=str1.replace(/&quot;/g,'"')
+str1=str1.replace(/<br>/g,"")
+var wxData = {
+	"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg", // 200x200
+	"link": window.location.href,
+	"desc": "" + str + "",
+	"title": "" + str1 + ""
+};
+</script>
+<script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+
+<img src="http://counter.people.cn:8000/c.gif?id=30439038" width=0 height=0 style="display:none;">
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+
+<!--baidu cloud-->
+
+
+<script type='text/javascript' LANGUAGE="JavaScript">
+	if (window.screen.width > 1280){
+		document.write("<s"+"cript type='text/javascript' src='http://pmm.people.com.cn/main/s?user=people|2016passage|W5_duilian&db=people&border=0&local=yes&js=ie&kv=people|culture;third|69238;fourth|;newsid|30439038' charset='gbk'></script"+">");
+	}
+</script>
+
+<!-- 广告位：PC-内页-弹窗广告 -->
+<script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '4953436',
+        container: s,
+        size: '300,250',
+        display: 'inlay-fix'
+    });
+})();
+</script>
+
+<!--2017统计代码文章-->
+<!--2017统计代码-->
+<script language="javascript">
+var _paq = _paq || [];
+window['_paq'] = _paq;
+_paq.push(['appkey', 'UAR-000179_957']);
+_paq.push(['cata', '69238']);
+_paq.push(['attr', 'itemid='+30439038]);
+_paq.push(['trackPV']);
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+pa.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.people.cn/js/pa.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+
+</body>
+</html>

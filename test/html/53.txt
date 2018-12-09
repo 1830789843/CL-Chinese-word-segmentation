@@ -1,0 +1,496 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="utf-8">
+    <head>
+        <meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+        <meta http-equiv="content-language" content="utf-8" />
+        <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1, minimum-scale=0, maximum-scale=0.3, user-scalable=yes">
+
+        <title>庆祝改革开放40周年大型展览--图片频道--人民网</title>        
+        <meta name="renderer" content="webkit">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="keywords" content="" />
+        <meta name="description" content="" />
+        <meta name="catalogs" content="422421" />
+        <meta name="filetype" content="1" />
+        <meta name="publishedtype" content="1" />
+        <meta name="pagetype" content="2" />
+        <meta name="screen-orientation" content="portrait">
+        <meta name="x5-orientation" content="portrait">
+        <meta name="full-screen" content="yes">
+        <meta name="x5-fullscreen" content="true">
+        <meta name="browsermode" content="application">
+        <meta name="x5-page-mode" content="app">
+        <link charset="utf-8" rel="stylesheet" href="/img/MAIN/2018/11/118829/css/index.css">
+        <script charset="utf-8" src="http://tools.people.com.cn/libs/jquery/3.0.0/jquery-3.0.0.min.js"></script>
+        <script src="http://tools.people.com.cn/libs/swiper/3.3.1/swiper-3.3.1.jquery.min.js"></script>
+        <link rel="stylesheet" href="http://tools.people.com.cn/libs/swiper/3.3.1/swiper-3.3.1.min.css">
+        <style>
+			.news-list>ul>li{font:normal 14px/20px "Microsoft YaHei"}
+		</style>
+       </head>
+<body>
+ <script type="text/javascript">
+        $(document).ready(function(){
+            $('.list-main li').click(function(){
+                event.stopPropagation();
+                $(this).children('.toast').css({'visibility':'visible'})
+            })
+            $('.close-icon').click(function(){
+                event.stopPropagation();
+                $(this).parents('.toast').attr({'style':'visibility:hidden'});
+            })
+            $('.toast').click(function(){
+                event.stopPropagation();
+                $(this).attr({'style':'visibility:hidden'});
+            })
+            $('.toast-main').click(function(){
+                event.stopPropagation();
+            })
+        })
+    </script>
+    <!-- ???logo -->
+    <div class="top01">
+        <div class="w1000 center">
+            <a href="http://www.people.com.cn/" target="_blank" class="logo"><img src="/img/MAIN/2018/11/118829/images/logo.gif" width="79" height="40" /></a>
+        </div>
+    </div>
+    
+    
+    
+    <!-- ???? -->
+    <section class="body-main">
+        <main class="w1000 center">
+           <banner class="banner01">
+                <div class="swiper-container">
+                    <div class="swiper-wrapper"><div class="swiper-slide"><img src="/NMediaFile/2018/1123/MAIN201811231414273058228321952.jpg" width="1000" height="667" alt="观众在观看载人深潜支持母船以及蛟龙、海龙、潜龙“三龙”体系深海探测装备模型。（人民网记者 翁奇羽 摄）"/><div class="banneritem-info">观众在观看载人深潜支持母船以及蛟龙、海龙、潜龙“三龙”体系深海探测装备模型。（人民网记者 翁奇羽 摄）</div></div>
+<div class="swiper-slide"><a href="http://finance.people.com.cn/n1/2018/1129/c1004-30432676.html" class="banner-link" target="_blank"><img src="/NMediaFile/2018/1129/MAIN201811291522429090165821550.jpg" width="1000" height="667" alt="“庆祝改革开放40周年大型展览” 那些和经济改革相关的瞬间（杨曦 李楠桦）"/><div class="banneritem-info">“庆祝改革开放40周年大型展览” 那些和经济改革相关的瞬间（杨曦 李楠桦）</div></a></div>
+<div class="swiper-slide"><img src="/NMediaFile/2018/1123/MAIN201811231414273801881225168.jpg" width="1000" height="667" alt="首次展出十二届全国人大教科文卫委员会原副主任委员、甘肃省委原书记王三运和中央宣传部原副部长鲁炜的忏悔书。（人民网记者 翁奇羽 摄）"/><div class="banneritem-info">首次展出十二届全国人大教科文卫委员会原副主任委员、甘肃省委原书记王三运和中央宣传部原副部长鲁炜的忏悔书。（人民网记者 翁奇羽 摄）</div></div>
+<div class="swiper-slide"><img src="/NMediaFile/2018/1123/MAIN201811231417100839623388336.JPG" width="1000" height="667" alt="参观“大美中国”影像长廊。 （陈晓根/人民图片）"/><div class="banneritem-info">参观“大美中国”影像长廊。 （陈晓根/人民图片）</div></div>
+<div class="swiper-slide"><img src="/NMediaFile/2018/1123/MAIN201811231414272394408347986.jpg" width="1000" height="667" alt="北斗卫星导航系统模型。（人民网记者 翁奇羽 摄）"/><div class="banneritem-info">北斗卫星导航系统模型。（人民网记者 翁奇羽 摄）</div></div>
+<div class="swiper-slide"><img src="/NMediaFile/2018/1123/MAIN201811231414270589015288698.jpg" width="1000" height="667" alt="小朋友者认真浏览展览内容。（人民网记者 翁奇羽 摄）"/><div class="banneritem-info">小朋友者认真浏览展览内容。（人民网记者 翁奇羽 摄）</div></div>
+<div class="swiper-slide"><img src="/NMediaFile/2018/1123/MAIN201811231414271791654670942.jpg" width="1000" height="667" alt="展览现场，参观者对国产大飞机C919模型非常感兴趣。（人民网记者 翁奇羽 摄）"/><div class="banneritem-info">展览现场，参观者对国产大飞机C919模型非常感兴趣。（人民网记者 翁奇羽 摄）</div></div>
+</div>
+
+                    <!-- 如果需要导航按钮 -->
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-button-next"></div>
+
+                </div>
+            </banner>
+           
+            <!-- 聚焦新闻 -->
+            <section>
+                <div class="tittle-text">
+                    <span>////////////////////////////////////////</span>
+                    <span>新闻聚焦</span>
+                    <span>////////////////////////////////////////</span>
+                </div>
+                <div class="news-list">
+                    <ul class="w1000 center"><li><a href="http://industry.people.com.cn/n1/2018/1127/c413883-30424257.html" target="_blank">改革开放40年：那些年 那些个“首次”</a></li><li><a href="http://fanfu.people.com.cn/n1/2018/1127/c64371-30423472.html" target="_blank">“优良作风的生动示范”</a></li><li><a href="http://opinion.people.com.cn/n1/2018/1127/c1003-30422993.html" target="_blank">让伟大变革激发接续奋斗的力量（人民时评）</a></li><li><a href="http://scitech.people.com.cn/n1/2018/1127/c1007-30424274.html" target="_blank">
+互动体验，感知伟大成就</a></li><li><a href="http://pic.people.com.cn/n1/2018/1114/c1016-30399879.html" target="_blank">
+庆祝改革开放40周年大型展览在京开幕</a></li><li><a href="http://pic.people.com.cn/n1/2018/1115/c1016-30402259.html" target="_blank">
+庆祝改革开放40周年大型展览 中国航天宇航服、“深海一号”引围观</a></li><li><a href="http://pic.people.com.cn/n1/2018/1117/c1016-30406143.html" target="_blank">庆祝改革开放40周年大型展览开展 参观者络绎不绝</a></li><li><a href="http://pic.people.com.cn/n1/2018/1121/c1016-30413575.html" target="_blank">庆祝改革开放40周年大型展览吸引众多观众</a></li><li><a href="http://pic.people.com.cn/n1/2018/1125/c1016-30419690.html" target="_blank">“伟大的变革——庆祝改革开放40周年大型展览”周末观众多</a></li><li><a href="http://pic.people.com.cn/n1/2018/1126/c1016-30421358.html" target="_blank">“伟大的变革——庆祝改革开放40周年大型展览”观众参观体验</a></li></ul>
+                </div>
+            </section>
+            <!-- ??????? -->
+           <section>
+                <div class="tittle-text">
+                    <span>////////////////////////////////////////</span>
+                    <span>展览现场</span>
+                    <span>////////////////////////////////////////</span>
+                </div>
+                <ul class="list-main"><li><img src="/NMediaFile/2018/1126/MAIN201811260957157837714417587.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，智能画像机器人正在为观众画像。。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957157837714417587.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，智能画像机器人正在为观众画像。。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957156461428803418.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，小朋友认真参观航天服。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957156461428803418.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，小朋友认真参观航天服。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957155128719490205.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观众在观看时光博物馆。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957155128719490205.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观众在观看时光博物馆。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957153714649704787.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观众在观看上海外滩实景模型。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957153714649704787.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观众在观看上海外滩实景模型。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957152484040533620.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观众在观看南水北调模型。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957152484040533620.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观众在观看南水北调模型。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957151080589214358.JPG" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，家长带着孩子观看“东方红四号”通信卫星模型。（陈晓根/人民图片）&#13;&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957151080589214358.JPG"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，家长带着孩子观看“东方红四号”通信卫星模型。（陈晓根/人民图片）
+</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957150302554762173.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，集中展示了我国航天技术领域的成就。（杜建坡/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957150302554762173.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，集中展示了我国航天技术领域的成就。（杜建坡/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957149112649167005.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;展览现场，观众在观看载人深潜支持母船以及蛟龙、海龙、潜龙“三龙”体系深海探测装备模型。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957149112649167005.jpg"alt=""></a>
+<div class="toast-info">
+展览现场，观众在观看载人深潜支持母船以及蛟龙、海龙、潜龙“三龙”体系深海探测装备模型。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957147744149443198.JPG" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观众用手机拍摄 “复兴号”中国标准动车组模型。（陈晓根/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957147744149443198.JPG"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观众用手机拍摄 “复兴号”中国标准动车组模型。（陈晓根/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957146469093703311.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观众参观微缩老北京大杂院。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957146469093703311.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观众参观微缩老北京大杂院。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957145003580666141.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观众参观嫦娥三号月球探测器模型。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957145003580666141.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观众参观嫦娥三号月球探测器模型。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957143801367300285.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观众参观“中国天眼”射电望远镜。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957143801367300285.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观众参观“中国天眼”射电望远镜。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957142468115473125.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;改革强军主题模型展台重点展示了40年来我军主战装备创新发展的成果。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957142468115473125.jpg"alt=""></a>
+<div class="toast-info">
+改革强军主题模型展台重点展示了40年来我军主战装备创新发展的成果。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957141134621483667.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，参观者对国产大飞机C919模型非常感兴趣。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957141134621483667.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，参观者对国产大飞机C919模型非常感兴趣。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957139775223048112.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观众在深海勇士驾驶互动体验。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957139775223048112.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观众在深海勇士驾驶互动体验。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957138588673652490.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，展出的老物件吸引了众人目光。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957138588673652490.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，展出的老物件吸引了众人目光。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957137548819381611.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，一位父亲正在给女儿讲解航天服。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957137548819381611.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，一位父亲正在给女儿讲解航天服。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957135837047397848.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，观展的小朋友者认真浏览展览内容。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957135837047397848.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，观展的小朋友者认真浏览展览内容。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957134459702100204.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，参观者正在模拟驾驶“复兴号”动车。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957134459702100204.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，参观者正在模拟驾驶“复兴号”动车。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957133115197259021.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场，参观者正在参观衣着服饰的变迁。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957133115197259021.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场，参观者正在参观衣着服饰的变迁。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957131655264153420.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”11月13日在国家博物馆开幕。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957131655264153420.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”11月13日在国家博物馆开幕。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260957130571285411164.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“关键抉择——党中央推进改革开放的战略擘画”展区观众参观展览。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260957130571285411164.jpg"alt=""></a>
+<div class="toast-info">
+“关键抉择——党中央推进改革开放的战略擘画”展区观众参观展览。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260953373067933886133.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;展览现场，一位母亲正在给女儿讲述改革开放的故事。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260953373067933886133.jpg"alt=""></a>
+<div class="toast-info">
+展览现场，一位母亲正在给女儿讲述改革开放的故事。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811260947290074878064545.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“大美中国”影像长廊。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811260947290074878064545.jpg"alt=""></a>
+<div class="toast-info">
+“大美中国”影像长廊。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+</ul>
+            </section>
+
+           <section>
+                <div class="tittle-text">
+                    <span>////////////////////////////////////////</span>
+                    <span>展品一览</span>
+                    <span>////////////////////////////////////////</span>
+                </div>
+                <ul class="list-main"><li><img src="/NMediaFile/2018/1126/MAIN201811261122285014810961042.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的肯尼亚蒙内铁路沙盘。（刘宪国/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261122285014810961042.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的肯尼亚蒙内铁路沙盘。（刘宪国/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048148073409733737.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;在“时光博物馆”展厅内，一面墙上挂满了经典音乐磁带。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048148073409733737.jpg"alt=""></a>
+<div class="toast-info">
+在“时光博物馆”展厅内，一面墙上挂满了经典音乐磁带。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048147353943806512.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的外卖配送无人机。（杜建坡/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048147353943806512.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的外卖配送无人机。（杜建坡/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048146696781048056.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;现场展出的十二届全国人大教科文卫委员会原副主任委员、甘肃省委原书记王三运和中央宣传部原副部长鲁炜的忏悔书。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048146696781048056.jpg"alt=""></a>
+<div class="toast-info">
+现场展出的十二届全国人大教科文卫委员会原副主任委员、甘肃省委原书记王三运和中央宣传部原副部长鲁炜的忏悔书。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048145408331581732.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场的时光博物馆。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048145408331581732.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场的时光博物馆。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048144073978387286.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场的时光博物馆。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048144073978387286.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场的时光博物馆。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048142710654649901.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的深海探测装备模型。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048142710654649901.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的深海探测装备模型。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048140749382457843.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场集中展示了我国航天技术领域的成就。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048140749382457843.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场集中展示了我国航天技术领域的成就。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261122285908127361420.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的中国医用重离子加速器。（刘宪国/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261122285908127361420.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的中国医用重离子加速器。（刘宪国/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048139411396348674.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出了河北雄安新区规划沙盘。（东方ic）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048139411396348674.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出了河北雄安新区规划沙盘。（东方ic）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048138649953880766.JPG" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的中国空间站模型。（陈晓根/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048138649953880766.JPG"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的中国空间站模型。（陈晓根/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048137405405422489.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的改革强军主题模型展台。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048137405405422489.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的改革强军主题模型展台。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261118063359539759298.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的上海陆家嘴实景模型。（刘宪国/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261118063359539759298.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的上海陆家嘴实景模型。（刘宪国/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048136668581630002.JPG" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的“大美中国”影像长廊。（陈晓根/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048136668581630002.JPG"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的“大美中国”影像长廊。（陈晓根/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048135400066903865.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的北斗卫星导航系统模型。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048135400066903865.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的北斗卫星导航系统模型。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048134654434493159.JPG" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的500米口径球面射电望远镜。（陈晓根/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048134654434493159.JPG"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的500米口径球面射电望远镜。（陈晓根/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048133395361164759.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的3D微缩模型老北京大杂院。（人民网记者 翁奇羽 摄）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048133395361164759.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的3D微缩模型老北京大杂院。（人民网记者 翁奇羽 摄）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048132646170065505.JPG" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的“希望的田野”展品。（陈晓根/人民图片）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048132646170065505.JPG"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的“希望的田野”展品。（陈晓根/人民图片）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048131415808333653.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的富有年代感与回忆的“老物件”。（东方ic）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048131415808333653.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的富有年代感与回忆的“老物件”。（东方ic）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+<li><img src="/NMediaFile/2018/1126/MAIN201811261048129518229271505.jpg" width="228" height="152" alt="&#13;&#13;&#13;&#13;“伟大的变革——庆祝改革开放40周年大型展览”现场展出的“年代照相馆”，找回自己“出生那年”的照片。（东方ic）&#13;                                &#13;                            &#13;                        "/><div class="toast" id="one-p">
+<div class="toast-main">
+<a href="javascript:void(0)"target="_blank"><img src="/NMediaFile/2018/1126/MAIN201811261048129518229271505.jpg"alt=""></a>
+<div class="toast-info">
+“伟大的变革——庆祝改革开放40周年大型展览”现场展出的“年代照相馆”，找回自己“出生那年”的照片。（东方ic）</div>
+                                <div class="close-icon" id="one"></div>
+                            </div>
+                        </div></li>
+</ul>
+            </section>
+          
+        </main>
+        <footer class="footer-end">
+            <div id="copyright">
+                人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br>
+                Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved
+              </div>
+        </footer>
+    </section>
+    <script>        
+        var mySwiper = new Swiper ('.swiper-container', {
+            direction: 'horizontal',
+            autoplay:"3000",
+            loop: true,
+
+            nextButton: '.swiper-button-next',
+            prevButton: '.swiper-button-prev',
+        })        
+    </script>
+    <script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+    <script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script><script type="text/javascript">      
+	var wxData = {
+		"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg",
+		"link": window.location.href.split('?')[0],
+		"desc": "伟大的变革——庆祝改革开放40周年大型展览",
+		"title": "伟大的变革——庆祝改革开放40周年大型展览"
+	};
+</script><script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+</body>
+</html>

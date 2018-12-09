@@ -1,0 +1,268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="utf-8">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="content-language" content="utf-8" />
+<meta name="robots" content="all" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="421446" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link href="/img/MAIN/2013/05/113256/twzb20130513.css" type="text/css" rel="stylesheet" rev="stylesheet" media="all" />
+<script src="/img/MAIN/2013/05/113256/js_library/jquery-1.7.1.min.js" language="javascript" type="text/javascript" ></script>
+<script language="JavaScript"> 
+function myrefresh() 
+{ 
+window.location.reload(); 
+} 
+function zidong(time){
+	setTimeout('myrefresh()',time);
+}
+</script>
+<script type="text/javascript">
+  $(document).ready(function(e) {
+    var jiedian_c = $("#jiedian").html();
+	$("dl.one dt").each(function() {
+        $(this).html(jiedian_c);
+    });
+});
+</script> 
+<style type="text/css">
+
+.zb_title{background: none;padding-left:0px;}
+</style>
+<title>百城百县百企调研行--时政--人民网</title>
+
+</head>
+<body>
+<!--头部-->
+<div class="top_nav_c">
+<div class="top_nav m0 w980"><a href="http://www.people.com.cn" target="_blank"><img src="/img/2014peoplelogo/rmw_logo_bai.jpg" width="80" height="32"  alt="人民网首页" /></a><span></span></div>
+</div>
+<div class="wybj clearfix">
+<div class="top_ban"></div>
+<span id="jiedian" style="display:none"></span>
+<div style="width:980px;height:auto;margin:0 auto;"><img src="/NMediaFile/2018/0930/MAIN201809301526036786060276485.jpg" width="980" height="400" alt=""/>
+</div>
+
+<!--直播标题-->
+<div class="zb_title clearfix" style="display:block;">
+    <h1><font color="#800000">专题聚焦：百城百县百企调研行</font></h1>
+    <div class="fenxiang"></div>
+</div>
+
+<div class="content clearfix">
+   <!--左侧-->
+   <div class="c_left fl">
+       
+      <div class="zb_tools clearfix"  style="display:block;">
+           <span></span><b>自动刷新:<input type="radio" onclick="zidong(4000)" />40秒<input type="radio" onclick="zidong(6000)" />60秒<input type="radio" />手动&nbsp;<img src="/img/MAIN/2013/05/113256/images/shuaxin.jpg" onclick="myrefresh()" alt="" border="0" /></b>
+      </div>
+      
+      <dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1123/c1001-30416714.html' target=_blank>米林县的“旅游饭”，端得稳吃得香（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/23/nw.D110000renmrb_20181123_1-04.htm" target="_blank">人民网－人民日报</a>(2018-11-23 05:24)</p>
+           <p class="zb_c">　　西藏米林县南伊沟最深处的南伊珞巴民族乡琼林村，炊烟袅袅。57岁的珞巴族村民达久正忙着给竹条上色。…<a href='/n1/2018/1123/c1001-30416714.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1124/c1001-30418979.html' target=_blank>青海互助县：农旅结合 以旅富农（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/24/nw.D110000renmrb_20181124_7-04.htm" target="_blank">人民网－人民日报</a>(2018-11-24 08:29)</p>
+           <p class="zb_c">　　青海互助土族自治县丹麻镇文化站里，穿着土族服饰的妇女坐在一起，飞针走线，手下绽开一幅幅七彩“太阳花”…<a href='/n1/2018/1124/c1001-30418979.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1125/c1001-30419599.html' target=_blank>长沙县：求新求变谋长远（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/25/nw.D110000renmrb_20181125_6-01.htm" target="_blank">人民网－人民日报</a>(2018-11-25 04:53)</p>
+           <p class="zb_c">　　两年时间，湖南长沙县黄花镇“长”出第七个国家级临空经济示范区；一年时间，黄花综合保税区封关运行…<a href='/n1/2018/1125/c1001-30419599.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1126/c1001-30420252.html' target=_blank>湄潭：绿水青山好湄潭 金山银山成美谈（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/26/nw.D110000renmrb_20181126_2-09.htm" target="_blank">人民网－人民日报</a>(2018-11-26 04:36)</p>
+           <p class="zb_c">　　矿产资源贫乏、工业基础薄弱，又无大城市作依托，湄潭全县九成以上为农业人口。于是，“在农村谋出路、向土地要效益”成了湄潭一条取胜之道…<a href='/n1/2018/1126/c1001-30420252.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1127/c1001-30422984.html' target=_blank>顺德：为高质量发展腾空间（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/27/nw.D110000renmrb_20181127_6-02.htm" target="_blank">人民网－人民日报</a>(2018-11-27 04:35)</p>
+           <p class="zb_c">　　　2012年，800人；2017年，8120人——5年时间，广东省佛山市顺德区北滘镇的设计师数量增长了9倍
+…<a href='/n1/2018/1127/c1001-30422984.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1128/c1001-30428826.html' target=_blank>北京同仁堂：将中医药文化带到世界各地（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/28/nw.D110000renmrb_20181128_1-06.htm" target="_blank">人民网－人民日报</a>(2018-11-28 07:53)</p>
+           <p class="zb_c">　　金秋九月，2018年中非合作论坛北京峰会期间，来自40多个国家和地区的60余家媒体记者走进北京同仁堂…<a href='/n1/2018/1128/c1001-30428826.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1122/c1001-30414473.html' target=_blank>甘肃敦煌:文旅跨越升级 推动全面发展（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/22/nw.D110000renmrb_20181122_1-06.htm" target="_blank">人民网－人民日报</a>(2018-11-22 04:47)</p>
+           <p class="zb_c">　　鸣沙山月牙泉、世界文化遗产莫高窟……立冬时节，虽是旅游淡季，甘肃敦煌仍每天吸引大量游客，来感受厚重的历史和文化。…<a href='/n1/2018/1122/c1001-30414473.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1121/c1001-30412215.html' target=_blank>宁夏盐池：诚信拓宽脱贫路（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/21/nw.D110000renmrb_20181121_5-04.htm" target="_blank">人民网－人民日报</a>(2018-11-21 05:30)</p>
+           <p class="zb_c">　　金秋时节，盐池县在宁夏9个贫困县区中率先脱贫摘帽的消息，迅速传遍当地山区原野，沸腾了每个人的心窝窝。…<a href='/n1/2018/1121/c1001-30412215.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1120/c1001-30409705.html' target=_blank>满洲里：开放的道路越走越宽（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/20/nw.D110000renmrb_20181120_5-10.htm" target="_blank">人民网－人民日报</a>(2018-11-20 05:18)</p>
+           <p class="zb_c">　　近年来，以国家重点开发开放试验区建设为平台，满洲里外贸总额持续增长，经营主体数量逐年增加，外贸产业整体发展水平明显提升。…<a href='/n1/2018/1120/c1001-30409705.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1115/c1001-30401441.html' target=_blank>吉林延边：绿水青山富农家（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/15/nw.D110000renmrb_20181115_2-10.htm" target="_blank">人民网－人民日报</a>(2018-11-15 07:41)</p>
+           <p class="zb_c">　　金秋十月，吉林省延边朝鲜族自治州珲春市板石镇迎来丰收：山间果园内，个大、果圆、天然含硒的红苹果挂满枝头。…<a href='/n1/2018/1115/c1001-30401441.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1116/c1001-30403956.html' target=_blank>伊春：对待生态如生命（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/16/nw.D110000renmrb_20181116_1-10.htm" target="_blank">人民网－人民日报</a>(2018-11-16 08:16)</p>
+           <p class="zb_c">　　10月初，黑龙江省伊春市朗乡林业局辖区内出现疑似老虎足印。经专家勘察，确定脚印“主人”是一只身长2至3米的壮年雄性野生东北虎！…<a href='/n1/2018/1116/c1001-30403956.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1118/c1001-30407072.html' target=_blank>延安：山地增绿 群众致富（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://news.cctv.com/2018/11/18/ARTIQB0cRqs10D37dFVNJOcr181118.shtml" target="_blank">央视网</a>(2018-11-18 22:05)</p>
+           <p class="zb_c">　　延安曾经是黄河中上游水土流失最严重的地区之一，1999年，国家启动了退耕还林工程，延安的绿色界线向北推进了400公里。…<a href='/n1/2018/1118/c1001-30407072.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1114/c1001-30399086.html' target=_blank>南宁：再现百里秀美邕江（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/14/nw.D110000renmrb_20181114_1-03.htm" target="_blank">人民网－人民日报</a>(2018-11-14 07:51)</p>
+           <p class="zb_c">　　邕江是南宁的母亲河，南宁的简称“邕”便来源于此。南宁依江而建、缘水而兴、水城相依，为发挥水的优势、做好水的文章…<a href='/n1/2018/1114/c1001-30399086.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1117/c1001-30406029.html' target=_blank>湖北大冶：实打实成为国家园林城市（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/17/nw.D110000renmrb_20181117_1-06.htm" target="_blank">人民网－人民日报</a>(2018-11-17 10:08)</p>
+           <p class="zb_c">　　昔日矿坑处处、溪沟尽黑、鱼虾绝迹的千年古铜都湖北大冶，如今实打实成为国家园林城市、全国休闲农业和乡村旅游示范县市。…<a href='/n1/2018/1117/c1001-30406029.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+<dl class="clearfix one">
+         <dt>
+           
+         </dt>
+         <dd>
+           <h2><a href='/n1/2018/1119/c1001-30407149.html' target=_blank>山西长治：太行精神耀长治（庆祝改革开放40年·百城百县百企调研行）</a></h2>
+           <p class="blue">来源：<a href="http://paper.people.com.cn/rmrb/html/2018-11/19/nw.D110000renmrb_20181119_1-06.htm" target="_blank">人民网－人民日报</a>(2018-11-19 05:29)</p>
+           <p class="zb_c">　　山西省长治市，古称“潞州”。改革开放40年来，这里的生态从满目石山到林海莽莽，工业从兴盛到衰落再到奋起直追。…<a href='/n1/2018/1119/c1001-30407149.html' target=_blank>[详细]</a></p>
+           <p></p>
+         </dd>
+      </dl>
+
+      
+      
+      
+      
+      
+      
+   </div>
+   <!--右侧-->
+   <div class="c_right fr">
+     <div class="box clearfix">
+       <h3 class="clearfix"><span>编者按</span></h3>&nbsp;&nbsp;&nbsp;&nbsp; 从小岗村到深圳，从浦东到雄安，从经济体制改革到全面深化改革……40年砥砺前行，改革开放伟业波澜壮阔，成就辉煌。 <BR>&nbsp;&nbsp;&nbsp; “百城百县百企调研行”系列报道，聚焦一批具有代表性的地区和企业，报道其探索实践和经验，展现40年来特别是党的十八大以来改革开放的伟大征程。<embed src="http://tvplayer.people.com.cn/player.php/xml/L3B2c2VydmljZS94bWwvMjAxOC84LzE3LzVhY2JiYzgxLTIzOWEtNDc3OC04NTI1LWQyOWJlZGM1MzI3OS54bWw=/nologo/1/norecomm/1/nomenu/1/noad/1/autoplay/0/skin/2/playerByOsmf.swf" quality="high" width="250" height="188" align="middle" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" name="ptvplayer" id="ptvplayer"></embed><div class="playerActTitle"><a href="http://tv.people.com.cn/n1/2018/0817/c364580-30235999.html" target="_blank">改革印记：蛇口微波站的往事</a></div><embed src="http://tvplayer.people.com.cn/player.php/xml/L3B2c2VydmljZS94bWwvMjAxOC85LzEyL2IwMmVhMjNjLTgyMzktNDI3YS05ZTIzLTM4Njg2Mjc4NDQ1Yi54bWw=/norecomm/1/skin/2/noad/1/autoplay/0/nomenu/1/nologo/1/playerByOsmf.swf" quality="high" width="250" height="188" align="middle" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" name="ptvplayer" id="ptvplayer"></embed><div class="playerActTitle"><a href="http://tv.people.com.cn/n1/2018/0912/c61600-30289589.html" target="_blank">【改革开放看江西】“筑巢引凤”，助力科技创新大发展</a></div><embed src="http://tvplayer.people.com.cn/player.php/xml/L3B2c2VydmljZS94bWwvMjAxOC85LzE4L2EwYmI3YWRiLWU3NjYtNGM0MC05MGIzLTYzZDNjZWRiNWE2YS54bWw=/norecomm/1/skin/2/noad/1/autoplay/0/nomenu/1/nologo/1/playerByOsmf.swf" quality="high" width="250" height="188" align="middle" allowScriptAccess="always" allowFullScreen="true" type="application/x-shockwave-flash" name="ptvplayer" id="ptvplayer"></embed><div class="playerActTitle"><a href="http://tv.people.com.cn/n1/2018/0918/c150728-30300648.html" target="_blank">一分钟带你走进苏州改革开放四十年_2</a></div></div>
+      <div class="box clearfix">
+       <h3 class="clearfix"><span>相关专题</span></h3>
+        <ul class="list_12 clearfix"><a href="	 http://politics.people.com.cn/GB/8198/419587/index.html" target=_blank><img src="/NMediaFile/2018/0930/MAIN201809301556336396127791813.png" /></a>
+<a href="http://politics.people.com.cn/GB/8198/419587/420947/index.html" target=_blank><img src="/NMediaFile/2018/0930/MAIN201809301558026808356855358.jpg" /></a>
+</ul>
+       </div>
+      
+      
+      
+   </div>
+</div>
+
+
+<!--版权-->
+<div class="copyright clearfix m10">
+<style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved</div>
+</div>
+</div>
+
+<script src="/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"></script>
+</body>
+</html>

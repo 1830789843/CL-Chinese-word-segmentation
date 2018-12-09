@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>第三届“百名”网络正能量榜样评选--党建--人民网</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="417520" />
+<link href="/img/MAIN/2015/11/115984/page.css" type="text/css" rel="stylesheet" media="all" />
+<style type="text/css">
+.conbg {
+    background: url(/img/MAIN/2015/11/115984/images/conbg_2017.jpg) no-repeat top center;
+    height: 646px;
+}
+</style>
+
+</head>
+<body>
+<!--header-->
+<div class="header">
+    <div class="w980"><span><a href="http://www.people.com.cn" target="_blank"><img src="/img/MAIN/2015/11/115984/images/logo.png" alt="人民网首页" /></a></span><em><a href="http://www.people.com.cn/" target="_blank">人民网首页</a><a href="http://theory.people.com.cn/" target="_blank">理论频道</a>|<a href="http://cpc.people.com.cn/GB/67481/415067/index.html" target="_blank">学习贯彻党的十九大精神</a></em></div>
+</div>
+<!--conbg-->
+<div class="conbg clearfix">
+	<!--top-->
+	<div class="top">
+		指导单位：国家互联网信息办公室<br />
+主办单位：中国互联网发展基金会   承办单位：人民网
+	</div>
+	<!--p1-->
+	<div class="w980 p1_content clearfix">
+		<div class="p1con fl">
+			<div class="p1_1"><span class="s1"></span><h1>活动简介</h1><span class="s2"></span></div>
+			<div class="p1_2">&nbsp; &nbsp; “百名网络正能量榜样”评选活动作为“五个一百”重磅系列之一，主要评选对象是在重大政策、重大主题、重大活动、重大事件、热点问题和突发事件中积极发声传递正能量，在网上形成正面引导作用的榜样人物。参选对象为2017年1月1日至2018年1月31日期间已经创作完成的作品。</div>
+		</div>
+		<div class="p2con fl">
+			<div class="p1_1"><span class="s1"></span><h1>评选要求</h1><span class="s2"></span></div>
+			<div class="p1_2">&nbsp; &nbsp; 1、坚决拥护党的路线方针政策，遵守国家法律法规，无违法违纪记录。2、活跃于网络空间，自觉自发长期弘扬社会主义核心价值观，弘扬主旋律。3、在网上积极弘扬正义、激浊扬清，主动揭批谣言、还原真相，特别在重大政策、重大主题、重大活动、重大事件、热点问题和突发事件中积极发声传递正能量。</div>
+		</div>
+		<div class="p3con fl">
+			<div class="p1_1"><span class="s1"></span><h1>活动安排</h1><span class="s2"></span></div>
+			<div class="p1_2">&nbsp; &nbsp; ·外围征集（2018年2月7日19时起至2018年3月18日24时止）：采用评委会推荐、单位推荐、自荐等方式进行外围征集。<div><div>&nbsp; &nbsp; ·评委初评</div><div>&nbsp; &nbsp; ·网络展示投票</div><div>&nbsp; &nbsp; ·评委终审</div><div>&nbsp; &nbsp; ·榜单揭晓</div><div>&nbsp; &nbsp; ·颁奖典礼</div>
+</div></div>
+		</div>
+		<div class="p4con fr">
+			<div class="p1_1"><span class="s1"></span><h1>活动说明</h1><span class="s2"></span></div>
+			<div class="p1_2 p4_1">&nbsp; &nbsp; 本次活动由国家互联网信息办公室指导，中国互联网发展基金会主办，人民网、环球网、中国新闻网、央视网、中国青年网五家中央重点新闻网站承办，其他中央重点新闻网站、地方重点新闻网站及主要商业网站参与协办。</div>
+			<div class="p4_2"><a href="http://top100.youth.cn/login" target="_blank"><img src="/img/MAIN/2015/11/115984/images/icon1.gif" alt="点击参与" /></a></div>
+		</div>
+	</div>
+</div>
+<!--conbg2-->
+<div class="conbg2 clearfix">
+	<div class="bottom_con"><span>活动说明：</span> 1.为确保活动公信力，征集过程中填报单位及个人需对被推荐人选资料真实性负责。&nbsp;<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2.该活动最终解释权归中国互联网发展基金会所有。</div></div>
+</div>
+<!--copyright-->
+<style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved</div>
+
+<!--left-->
+<div id="left_top">
+	<div class="nav_ad"><img src="/NMediaFile/2018/0206/MAIN201802061529446919670315207.jpg" width="148" height="47" border="0"/>
+</div>
+	<div class="nav_txt">　“五个一百”网络正能量精品评选活动包括百名网络正能量榜样、百篇网络正能量文字作品、百幅网络正能量图片、百部网络正能量动漫音视频作品、百项网络正能量专题活动等五个项目。宣传口号：“网聚正能量，唱响新时代”。<A href="http://top100.youth.cn/login"  target='_blank'><FONT color=#ff0000>【点击参与】</FONT></A></div>
+	<ul><li><A href="http://news.cctv.com/special/dsjwlznl/dmysppx2017/index.shtml" target='_blank'>动漫音视频入口</A></li><li><a href="http://opinion.huanqiu.com/special/wgyb/index.html" target="_blank">文字作品入口</a></li><li><a href="http://www.chinanews.com/gn/z/zhengnengliang2017/index.shtml" target="_blank">图片入口</a></li><li><a href="http://news.youth.cn/zt/2018zthd/" target="_blank">专题活动入口</a></li></ul>
+
+</div>
+<!--right-->
+
+<!--微信分享-->
+
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" async></script>
+</body>
+</html>

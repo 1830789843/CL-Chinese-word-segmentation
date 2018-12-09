@@ -1,0 +1,617 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<title>女性之声——全国妇联</title>
+<meta name="description" content="" />
+<meta name="keywords" content="国务院妇儿工委,全国妇联,中国妇女报,中国妇女发展基金会,中国儿童少年基金会,母亲水窖,母亲邮包,健康快车,女声,女性维权,职场女性,女性之声,巾帼好网民,女性创新创业大赛" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="414256" />
+<!-- style -->
+<link rel="stylesheet"  href="/img/MAIN/2017/09/117683/page.css" type="text/css" media="all"  />
+<script type="text/javascript">
+	!function(_url){
+	var ua = navigator.userAgent.toLowerCase(),
+	isM = ua.indexOf("mobile")!==-1,
+	l = window.location.href,
+	stopPc = l.indexOf("f=pad") !== -1
+	;
+	//if(isM && !stopPc ) window.location.href = _url || "http://m.womenvoice.cn";
+	}("http://m.womenvoice.cn")
+</script>
+<script src="http://tools.people.cn/libs/jquery/1.11.1/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="http://tools.people.cn/libs/jdt/jquery.jdt.js" type="text/javascript"></script>
+<script>
+$(function(){
+	$("#box1").Tab({
+		ChangeTime:3000,//转播时间
+		Obutton : true // true：数字、圆点；false：缩略图
+	});
+})
+</script>
+<script type="text/javascript" src="/img/MAIN/2017/09/117683/js/jquery.tab_2013.js"></script>
+<script type="text/javascript">
+$("document").ready(function(){        
+  $(".qiehuan1 i").tab_2013({
+	$class_name:"one",
+	$clear_css:".qiehuan1 i",
+	$close_content:".qiehuan1_c",
+	$close_more:".qiehuan1_m"
+  });  
+  $(".qiehuan2 i").tab_2013({
+	$class_name:"one",
+	$clear_css:".qiehuan2 i",
+	$close_content:".qiehuan2_c"
+  });
+})
+</script>
+<script type="text/javascript"> 
+function displaySubMenu(li) { 
+var subMenu = li.getElementsByTagName("ul")[0]; 
+subMenu.style.display = "block"; 
+} 
+function hideSubMenu(li) { 
+var subMenu = li.getElementsByTagName("ul")[0]; 
+subMenu.style.display = "none"; 
+} 
+</script>
+</head>
+<body>
+<style type="text/css">
+.lrtk{ width:100%; height:auto; margin:0 auto; overflow:hidden; display:none; text-align:center; position:relative;}
+.lrtk{background-image: url(/NMediaFile/2018/1018/MAIN201810181704234421479650086.jpg); background-position: center top; background-repeat: no-repeat; background-size: cover;}/*展开的大图*/
+.lrtk a{ display:block; width:100%; height:100%;}
+</style>
+<script type="text/javascript">
+    $(document).ready(function(){    
+        $('body').prepend("<div class='lrtk'><a href='http://12th.womenvoice.cn/' target='_blank'></a></div>");    
+        var topHeight = $(window).width() * 1080 / 1920;
+        if(topHeight>1080){
+            topHeight = 1080
+        }
+        $(".lrtk").css({
+            "height": topHeight
+        });
+        $('.lrtk').slideDown(2000,function(){
+            $('.lrtk').append("<a href='javascript:;' class='up'></a>");									  
+        });	
+        function adsUp(){
+            $('.lrtk').animate({
+                height:'0px'						 
+            },1000);	
+        }
+        var t = setTimeout(adsUp,6000);	
+    });
+</script>
+<!--top1-->
+
+<!--top2-->
+<div class="top2 w1000 clearfix mt20">
+  <ul>
+   <li class="fl">
+     <img src="/img/MAIN/2017/09/117683/images/logo.png" width="179" height="81" />
+   </li>
+   <li class="fl center">
+     <img src="/NMediaFile/2017/1018/MAIN201710181605247997575066028.jpg" width="500" height="90"/>
+
+   </li>
+   <li class="fr sousuo">
+     <form action="http://search.womenvoice.cn/womenvoice/search.do" name="searchForm" method="post"  target="_blank">
+		<input type="hidden" name="pageNum" value="1" />
+		<input type="hidden" name="siteName" value="womenvoice" />
+		<input type="hidden" name="facetFlag" value="true" />
+		<input type="hidden" name="nodeType" value="nodeRId" />
+		<input type="hidden" name="nodeId" value="414256" />
+		<input type="hidden" name="pageCode" id="pageCode" value="" />
+		<input type="hidden" name="nodeRId" value="" />           
+      <input name="keyword" type="text" id="keyword" class="ss" /><input name="SearchSubmit" value="submit" type="image" src="/img/MAIN/2017/09/117683/images/sousuo.gif" />
+     </form>
+   </li>
+  </ul>
+</div>
+<!--nav-->
+<div class="nav clearfix">
+<ul id="navigation"><li class="one"><span><a href="/GB/index.html" target="blank">首页</a></span></li>
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"> 
+    <span><a href="/GB/414261/index.html" target="blank">新闻资讯</a></span>
+    <ul> 
+        <li><a href="/GB/414261/414269/index.html" target="blank">资讯</a></li>
+        <li><a href="/GB/414261/414270/index.html" target="blank">女声</a></li>
+        <li><a href="/GB/414261/414272/index.html"　target="blank">视频</a></li>
+        <li><a href="/GB/414261/414273/index.html"　target="blank">专题</a></li>
+    </ul> 
+</li>  
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"> 
+    <span><a href="/GB/414262/index.html" target="blank">追梦女性</a></span>
+    <ul> 
+        <li><a href="/GB/414262/414274/index.html" target="blank">活动</a></li>
+        <li><a href="/GB/414262/414275/index.html" target="blank">职场</a></li>
+        <li><a href="/GB/414262/414276/index.html" target="blank">创业</a></li> 
+        <li><a href="/GB/414262/414277/index.html" target="blank">公益</a></li>
+<li><a href="/GB/414262/420199/index.html" target="blank">乡村振兴</a></li> 
+    </ul> 
+</li>  
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"> 
+    <span><a href="/GB/414265/index.html" target="blank">出彩人生</a></span>
+    <ul> 
+        <li><a href="/GB/414265/414287/index.html" target="blank">榜样人物</a></li>
+        <li><a href="/GB/414265/414288/index.html" target="blank">三八红旗手</a></li>
+    </ul> 
+</li>  
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"> 
+    <span><a href="/GB/414263/index.html" target="blank">维权服务</a></span> 
+    <ul> 
+        <li><a href="http://www.womenvoice.cn/n1/2017/0922/c414278-29552023.html" target="blank">12338热线</a></li><li><a href="/GB/414263/414279/index.html" target="blank">聚焦维权</a></li> 
+        <li><a href="/GB/414263/414281/index.html" target="blank">以事说法</a></li>
+        <li><a href="/GB/414263/414282/index.html" target="blank">姐妹学法</a></li> 
+    </ul> 
+</li>  
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"> 
+    <span><a href="/GB/414264/index.html" target="blank">家风苑</a></span>
+    <ul> 
+        <li><a href="/GB/414264/414286/index.html" target="blank">家风家训</a></li> 
+        <li><a href="/GB/414264/414283/index.html" target="blank">好爸好妈</a></li> 
+        <li><a href="/GB/414264/414284/index.html" target="blank">我爱我家</a></li> 
+        <li><a href="/GB/414264/414285/index.html" target="blank">城里城外</a></li>
+        <li><a href="	
+http://www.womenvoice.cn/GB/414264/418421/index.html" target="blank">科学育儿</a></li> 
+    </ul> 
+</li> 
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"> 
+    <span><a href="/GB/414266/index.html" target="blank">尚生活</a> </span>
+    <ul> 
+        <li><a href="/GB/414266/414290/index.html" target="blank">我爱悦读</a></li> 
+        <li><a href="/GB/414266/414291/index.html" target="blank">健康养生</a></li>          
+        <li><a href="/GB/414266/414293/index.html" target="blank">心理氧吧</a></li> 
+    </ul> 
+</li>
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"> 
+    <span><a href="http://fulian.womenvoice.cn/question/map" target="blank">妇联直通车</a> </span>
+</li>
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)">
+    <span><a href="http://www.womenxiangxue8.com/" target="blank">享学吧</a></span>
+</li> 
+<li onmouseover="displaySubMenu(this)" onmouseout="hideSubMenu(this)"> 
+    <a href="http://www.women.org.cn/" target="blank">全国妇联</a>     
+</li></ul> 
+</div>
+<!--news-->
+<div class="news w1000">
+  <h1><a href='/n1/2018/1203/c414269-30439733.html' target=_blank><strong><font color="#e7182d">改革开放40年变迁系列述评经济篇：唤醒的力量 </font></strong></a></h1>
+
+  <p><a href="/n1/2018/1202/c414269-30437181.html
+"target="_blank">习近平同美国总统特朗普举行会晤</a>
+
+<a href="/n1/2018/1130/c414269-30435617.html"target="_blank">习近平：持续不懈推进三北工程建设 </a>
+
+
+<a href="/n1/2018/1203/c414269-30439036.html"target="_blank">礼物太别致！彭丽媛收到后都沉醉其中了</a>
+
+</p>
+</div>
+<!--p1-->
+<div class="p1_con w1000">
+  <div class="p1_left">  
+   <div id="box1">
+    <ul><li><a href="/n1/2018/1203/c414269-30438994.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812031641263327889908744.jpg" width="660" height="371" alt="习近平抵达巴拿马城开始对巴拿马共和国进行国事访问"/></a><div></div><span><a href="/n1/2018/1203/c414269-30438994.html" target=_blank>习近平抵达巴拿马城开始对巴拿马共和国进行国事访问</a></span></li>
+<li><a href="http://12th.womenvoice.cn/n1/2018/1102/c421813-30379412.html" target=_blank><img src="/NMediaFile/2018/1102/MAIN201811021951307450403565018.jpg" width="660" height="371" alt="习近平同全国妇联新一届领导班子成员集体谈话 "/></a><div></div><span><a href="http://12th.womenvoice.cn/n1/2018/1102/c421813-30379412.html" target=_blank>习近平同全国妇联新一届领导班子成员集体谈话 </a></span></li>
+<li><a href="/n1/2018/1126/c414269-30421676.html" target=_blank><img src="/NMediaFile/2018/1126/MAIN201811261003175653551884508.jpg" width="660" height="371" alt="全国妇联主席沈跃跃赴河南省郑州、驻马店、安阳等地调研"/></a><div></div><span><a href="/n1/2018/1126/c414269-30421676.html" target=_blank>全国妇联主席沈跃跃赴河南省郑州、驻马店、安阳等地调研</a></span></li>
+<li><a href="/n1/2018/1203/c414269-30437718.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812030841150066711777834.jpg" width="660" height="371" alt="2019年“国考”开考"/></a><div></div><span><a href="/n1/2018/1203/c414269-30437718.html" target=_blank>2019年“国考”开考</a></span></li>
+<li><a href="/n1/2018/1203/c414269-30437682.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812030840314175510334679.jpg" width="660" height="371" alt="你是我的手，我是你的脚——一对残疾夫妇的“手足情”"/></a><div></div><span><a href="/n1/2018/1203/c414269-30437682.html" target=_blank>你是我的手，我是你的脚——一对残疾夫妇的“手足情”</a></span></li>
+<li><a href="/n1/2018/1203/c414269-30439760.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812031655161418316385144.jpg" width="660" height="371" alt="千年“花灯”挑亮百年“喜气”——长江上游川黔边地一个脱贫村见闻"/></a><div></div><span><a href="/n1/2018/1203/c414269-30439760.html" target=_blank>千年“花灯”挑亮百年“喜气”——长江上游川黔边地一个脱贫村见闻</a></span></li>
+</ul>
+   </div>
+  </div>
+  <div class="p1_right">
+    <span class="red1">要闻<img src="/img/MAIN/2017/09/117683/images/news.png" width="27" height="13" /></span><strong><a href='/n1/2018/1126/c414269-30421676.html' target=_blank>沈跃跃：深入学习贯彻习近平总书记重要讲话精神  团结引领妇女坚定不移跟党走 奋力建功新时代</a></strong>
+    <p> 　　11月20日至23日，全国妇联主席沈跃跃赴河南省郑州、驻马店、安阳等地调研，深入农村、社区，向基层妇女面对面宣讲习近平总书记在同全国妇联新一届领导班子成员集体谈话时的重要讲话精神，一起学习贯彻习近平总书记重要讲话精神，一起研究进一步加强思想政治引领，团结引领妇女坚定跟党走、建功新时代。<a href='/n1/2018/1126/c414269-30421676.html' target=_blank><em class="red01">［更多］</em></a></p>
+
+    <ul class="list_14 clearfix"><li><a href='/n1/2018/1128/c414269-30429827.html' target=_blank>沈跃跃出席中国家庭教育学会在京举办学术年会</a></li>
+</ul>
+  </div>
+</div>
+<!--p2-->
+<div class="p2_con w1000 mt30">
+  <div class="p2_left">
+     <div class="p2_1 o_h">
+       <div class="w320 fl"><div class="img1"><a href="http://12th.womenvoice.cn/GB/422188/index.html" target=_blank><img src="/NMediaFile/2018/1121/MAIN201811211050172964991249384.png" width="320" height="180" alt="学习宣传贯彻中国妇女十二大精神专题"/></a><div></div><span><a href="http://12th.womenvoice.cn/GB/422188/index.html" target=_blank>学习宣传贯彻中国妇女十二大精神专题</a></span></div>
+           <ul class="list_14">
+<li><a href='/n1/2018/1203/c414269-30439280.html' target=_blank>送别！两天内两位94岁南京大屠杀幸存者相继去世</a></li>
+<li><a href='/n1/2018/1203/c414269-30439028.html' target=_blank>《关于组织开展“宪法进万家”活动的方案》通知</a></li>
+<li><a href='/n1/2018/1202/c414269-30437059.html' target=_blank>宁夏：父母住院 独生子女每年可享15天带薪陪护假</a></li>
+<li><a href='/n1/2018/1203/c414269-30438232.html' target=_blank>“女性之声”获澎湃“一周最佳政务影响力文章”</a></li>
+<li><a href='/n1/2018/1203/c414269-30438982.html' target=_blank>南宁市妇联强烈谴责房地产项目恶俗营销行为</a></li>
+</ul>
+</div>
+       <div class="w320 fr"><div class="img1"><a href="/n1/2018/1203/c414269-30438687.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812031012276437314706493.jpg" width="320" height="180" alt="国际残疾人日|重磅微视频 牵挂"/></a><div></div><span><a href="/n1/2018/1203/c414269-30438687.html" target=_blank>国际残疾人日|重磅微视频 牵挂</a></span></div>
+           <ul class="list_14">
+<li><a href='/GB/414261/414273/421063/index.html' target=_blank> <font color="#e7182d"><b>专题：纪念改革开放40周年</b></font></a></li>
+<li><a href='/n1/2018/1203/c414269-30439059.html' target=_blank>《中国青少年网络素养绿皮书（2017）》发布</a></li>
+<li><a href='/n1/2018/1202/c414287-30437061.html' target=_blank>广西老人的桂剧梦：坚守40载盼传承</a></li>
+<li><a href='/n1/2018/1203/c414269-30438355.html' target=_blank>23年与高铁一同奔跑 她让“中国速度”享誉世界</a></li>
+<li><a href='/n1/2018/1203/c414287-30439005.html' target=_blank>何丽娜：二十载风雨兼程，铸就人民好警察</a></li>
+</ul>
+</div>
+     </div>
+     <div class="p2_2 o_h mt5">     
+       <h2 class="tit1"><i><a href="/GB/414264/index.html" target="_blank"><img src="/img/MAIN/2017/09/117683/images/p2_tit.gif" width="144" height="19" /></a></i></h2>
+       <div class="w320 fl">
+          <div class="img1 mt10"><a href="/n1/2018/1125/c414284-30420212.html" target=_blank><img src="/NMediaFile/2018/1202/MAIN201812021518268920760033910.jpg" width="320" height="180" alt="那些没从家乡带走的东西变成记忆深藏"/><div></div><span>那些没从家乡带走的东西变成记忆深藏</span></a></div>
+
+          
+       </div>
+       <div class="w320 fr">
+          <ul class="list_14b"><li><a href='/n1/2018/1123/c414284-30418556.html' target=_blank>父亲母亲的“小美好”</a></li>
+<li><a href='/n1/2018/1123/c414283-30417767.html' target=_blank> 带家长走出焦虑</a></li>
+<li><a href='/n1/2018/1126/c414283-30421584.html' target=_blank>好爸爸要扮演四个角色</a></li>
+<li><a href='/n1/2018/1123/c414285-30418517.html' target=_blank>再婚家庭 沟通有道</a></li>
+<li><a href='/n1/2018/1127/c418421-30424214.html' target=_blank>拔苗种不出好“庄稼”</a></li>
+</ul>
+       </div>
+    </div>
+  </div>
+  <div class="p2_right">
+    <ul class="p2_3"><li>
+          <span><a href="/n1/2018/1126/c414272-30421641.html" target=_blank><img src="/NMediaFile/2018/1126/MAIN201811261449200759010167247.jpg" width="102" height="78" alt="海上丝路看今朝——2018年习近平主席亚太之行"/></a><i></i>
+          </span>
+          <p><a href="/n1/2018/1126/c414272-30421641.html" target=_blank>海上丝路看今朝——2018年习近平主席亚太之行</a></p></li>
+<li>
+          <span><a href="/n1/2018/1119/c414269-30409541.html" target=_blank><img src="/NMediaFile/2018/1119/MAIN201811192033382057813558330.jpg" width="102" height="78" alt="《女性之声新闻联播》中国妇女十二大特别报道 &#13;"/></a><i></i>
+          </span>
+          <p><a href="/n1/2018/1119/c414269-30409541.html" target=_blank>《女性之声新闻联播》中国妇女十二大特别报道 
+</a></p></li>
+<li>
+          <span><a href="/n1/2018/1126/c414272-30421029.html" target=_blank><img src="/NMediaFile/2018/1123/MAIN201811231645585345003533843.jpg" width="102" height="78" alt="三分钟读懂《反家庭暴力法》"/></a><i></i>
+          </span>
+          <p><a href="/n1/2018/1126/c414272-30421029.html" target=_blank>三分钟读懂《反家庭暴力法》</a></p></li>
+<li>
+          <span><a href="/n1/2018/1115/c414272-30402491.html" target=_blank><img src="/NMediaFile/2018/1115/MAIN201811151442238816866227839.jpg" width="102" height="78" alt="一分钟带你逛改革开放40年展览"/></a><i></i>
+          </span>
+          <p><a href="/n1/2018/1115/c414272-30402491.html" target=_blank>一分钟带你逛改革开放40年展览</a></p></li>
+<li>
+          <span><a href="/n1/2018/1109/c414269-30392503.html" target=_blank><img src="/NMediaFile/2018/1111/MAIN201811110952261485931129571.jpg" width="102" height="78" alt="央视《焦点访谈》报道：撑起“半边天” 建功新时代"/></a><i></i>
+          </span>
+          <p><a href="/n1/2018/1109/c414269-30392503.html" target=_blank>央视《焦点访谈》报道：撑起“半边天” 建功新时代</a></p></li>
+<li>
+          <span><a href="/n1/2018/1203/c414269-30439034.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812031413224972772540537.jpg" width="102" height="78" alt="扶贫微电影《靠山》"/></a><i></i>
+          </span>
+          <p><a href="/n1/2018/1203/c414269-30439034.html" target=_blank>扶贫微电影《靠山》</a></p></li>
+</ul>
+    
+  </div>
+</div>
+<div class="w1000 mt20"><a href="http://12th.womenvoice.cn/GB/index.html" target=_blank><img src="/NMediaFile/2018/1107/MAIN201811071448540534397369208.jpg" width="1000" height="90" border="0"/></a>
+</div>
+<!--p3-->
+<div class="p3_con w1000 mt10 clearfix">
+  <h2 class="tit1"><i><a href="/GB/414262/index.html" target="_blank"><img src="/img/MAIN/2017/09/117683/images/p3_tit.gif"  /></a></i></h2>
+  <div class="tit2 qiehuan1"><i id="q_ss0"><a href="/GB/414262/414274/index.html" target="_blank">活动</a></i><em>|</em><i><a href="/GB/414262/414275/index.html" target="_blank">职场</a></i><em>|</em><i><a href="/GB/414262/414276/index.html" target="_blank">创业</a></i><em>|</em><i><a href="/GB/414262/414277/index.html" target="_blank">公益</a></i>
+<script>
+//临时禁用切换
+var q_ss0=document.querySelector('#q_ss0');
+q_ss0.parentNode.classList.remove('qiehuan1');
+</script></div>
+  <div class="qiehuan1_c clearfix" style="display:block;">    
+   <div class="w320 fl">
+      <div class="img1"><a href="http://www.womenvoice.cn/GB/414262/420199/index.html" target=_blank><img src="/NMediaFile/2018/0705/MAIN201807051540148056389978698.jpg" width="320" height="180" alt=""/></a><div></div><span><a href="http://www.womenvoice.cn/GB/414262/420199/index.html" target=_blank></a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2018/1126/c414274-30421730.html' target=_blank>2018年马鞍山市“最美家庭”表彰大会</a></li>
+<li><a href='/n1/2018/1126/c414274-30421760.html' target=_blank>广西开展“消除对妇女的暴力”系列活动</a></li>
+</ul>
+   </div>
+   <div class="w320 fl ml20">
+      <div class="img1"><a href="/GB/414261/414273/421467/index.html" target=_blank><img src="/NMediaFile/2018/1019/MAIN201810190859274153291313971.jpg" width="320" height="180" alt="专题：百千万巾帼大宣讲网上展示活动"/></a><div></div><span><a href="/GB/414261/414273/421467/index.html" target=_blank>专题：百千万巾帼大宣讲网上展示活动</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2018/1125/c414274-30420207.html' target=_blank>山东青岛新区婚姻家庭辅导中心助力反家暴宣传</a></li>
+<li><a href='/n1/2018/1126/c414274-30421664.html' target=_blank>妇联馆精彩亮相2018浙江农博会 </a></li>
+</ul>
+   </div>
+   <div class="w320 fr">
+      <div class="img1"><a href="/n1/2018/1126/c414269-30421723.html" target=_blank><img src="/NMediaFile/2018/1127/MAIN201811271003514912389077659.jpg" width="320" height="180" alt="“寻找最美孝心少年” 树立时代孝行榜样"/></a><div></div><span><a href="/n1/2018/1126/c414269-30421723.html" target=_blank>“寻找最美孝心少年” 树立时代孝行榜样</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2018/1125/c414274-30420109.html' target=_blank>多地多形式宣传反家暴  为妇女儿童撑起保护伞</a></li>
+<li><a href='/n1/2018/1125/c414274-30420189.html' target=_blank>河南濮阳开发区妇联组织开展主题宣传活动</a></li>
+</ul>
+   </div>
+  </div>
+  <!--切换内容2-->
+  <div class="qiehuan1_c" style="display:none;">    
+   <div class="w320 fl">
+      <div class="img1"><a href="/n1/2018/0912/c414275-30288281.html" target=_blank><img src="/NMediaFile/2018/0912/MAIN201809120906352460497268885.jpg" width="320" height="180" alt="做好这几方面的铺垫，就能让员工对你说真话"/></a><div></div><span><a href="/n1/2018/0912/c414275-30288281.html" target=_blank>做好这几方面的铺垫，就能让员工对你说真话</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2018/0601/c414275-30028303.html' target=_blank>年轻人更焦虑吗？选择回击焦虑但“越努力、越焦虑”</a></li>
+<li><a href='/n1/2018/0606/c414275-30040115.html' target=_blank>上司批评下属的小技巧</a></li>
+</ul>
+   </div>
+   <div class="w320 fl ml20">
+      <div class="img1"><a href="/n1/2018/0424/c414275-29947489.html" target=_blank><img src="/NMediaFile/2018/0424/MAIN201804241658299188396107864.jpg" width="320" height="180" alt="如果这四个毛病你全占了，你的人生必败"/></a><div></div><span><a href="/n1/2018/0424/c414275-29947489.html" target=_blank>如果这四个毛病你全占了，你的人生必败</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2018/0116/c414275-29768341.html' target=_blank>我的职业有前途吗？知道了这3点，你就有答案了</a></li>
+<li><a href='/n1/2017/0927/c414275-29563378.html' target=_blank>“带娃上班”的关爱之举当推广</a></li>
+</ul>
+   </div>
+   <div class="w320 fr">
+      <div class="img1"><a href="/n1/2018/0509/c414275-29974838.html" target=_blank><img src="/NMediaFile/2018/0509/MAIN201805091354092281826699607.jpg" width="320" height="180" alt="聪明的人喜欢把这五句话挂在嘴边"/></a><div></div><span><a href="/n1/2018/0509/c414275-29974838.html" target=_blank>聪明的人喜欢把这五句话挂在嘴边</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2018/0104/c414275-29745765.html' target=_blank>@毕业生 今年找工作，这八大求职陷阱请绕行</a></li>
+<li><a href='/n1/2017/0927/c414275-29563362.html' target=_blank>女性文化学堂  促进女性成长</a></li>
+</ul>
+   </div>
+  </div>
+  <!--切换内容3-->
+  <div class="qiehuan1_c" style="display:none;">  
+   <div class="w320 fl">
+      <div class="img1"><a href="/n1/2018/0504/c414276-29966162.html" target=_blank><img src="/NMediaFile/2018/0505/MAIN201805051556136004084647573.jpg" width="320" height="180" alt="“金融支持妇女发展行动计划”启动"/></a><div></div><span><a href="/n1/2018/0504/c414276-29966162.html" target=_blank>“金融支持妇女发展行动计划”启动</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2017/1107/c414276-29631742.html' target=_blank>辽宁省女企业家走进高校分享创业故事</a></li>
+<li><a href='/n1/2017/1108/c414276-29634154.html' target=_blank>青海省妇女培训激活就业创业“一池春水”</a></li>
+</ul>
+   </div>
+   <div class="w320 fl ml20">
+      <div class="img1"><a href="/n1/2018/0402/c414276-29903190.html" target=_blank><img src="/NMediaFile/2018/0402/MAIN201804021512015842306793868.jpg" width="320" height="180" alt="“边城绣娘”计划打造绣娘手工艺品牌"/></a><div></div><span><a href="/n1/2018/0402/c414276-29903190.html" target=_blank>“边城绣娘”计划打造绣娘手工艺品牌</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2018/0227/c414276-29837026.html' target=_blank>青海鼓励事业单位人员通过挂职等形式创新创业</a></li>
+<li><a href='/n1/2017/1109/c414269-29636612.html' target=_blank>武汉为创业女性打造新“家”</a></li>
+</ul>
+   </div>
+   <div class="w320 fr">
+      <div class="img1"><a href="/n1/2018/0104/c414276-29745364.html" target=_blank><img src="/NMediaFile/2018/0104/MAIN201801041705466970108663449.jpg" width="320" height="180" alt="振兴乡村 妇女从“家门口”就业起步"/></a><div></div><span><a href="/n1/2018/0104/c414276-29745364.html" target=_blank>振兴乡村 妇女从“家门口”就业起步</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2017/1014/c414276-29587215.html' target=_blank>行业新风系统的引领者</a></li>
+<li><a href='/n1/2017/1013/c414276-29586149.html' target=_blank>央视创投公开课来袭</a></li>
+</ul>
+   </div>
+  </div>
+  <!--切换内容4-->
+  <div class="qiehuan1_c" style="display:none;">   
+   <div class="w320 fl">
+      <div class="img1"><a href="/n1/2018/0424/c414277-29946121.html" target=_blank><img src="/NMediaFile/2018/0424/MAIN201804241535225030159126320.jpg" width="320" height="180" alt="2018年金佰利关爱天使行动全面启动 "/></a><div></div><span><a href="/n1/2018/0424/c414277-29946121.html" target=_blank>2018年金佰利关爱天使行动全面启动 </a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2018/0416/c414277-29928704.html' target=_blank>上海：让公益成为小公民喜爱的生活方式</a></li>
+<li><a href='/n1/2017/1120/c414277-29657154.html' target=_blank>“为5加油-学前儿童营养改善计划”落户湖北襄阳</a></li>
+</ul>
+   </div>
+   <div class="w320 fl ml20">
+      <div class="img1"><a href="/n1/2018/0509/c414269-29974526.html" target=_blank><img src="/NMediaFile/2018/0509/MAIN201805091333268541092435053.jpg" width="320" height="180" alt="雀巢携手竹瓦小学欢庆艺术节"/></a><div></div><span><a href="/n1/2018/0509/c414269-29974526.html" target=_blank>雀巢携手竹瓦小学欢庆艺术节</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2017/1120/c414277-29657201.html' target=_blank>大众汽车儿童道路安全体验中心落户海滨城市青岛</a></li>
+<li><a href='/n1/2017/1121/c414277-29659793.html' target=_blank>“守护童年·关爱早产儿公益行动”在广州启动</a></li>
+</ul>
+   </div>
+   <div class="w320 fr">
+      <div class="img1"><a href="/n1/2018/0416/c414269-29928570.html" target=_blank><img src="/NMediaFile/2018/0416/MAIN201804160934280487786797876.jpg" width="320" height="180" alt="母乳公益项目专家论证研讨会在沪召开"/></a><div></div><span><a href="/n1/2018/0416/c414269-29928570.html" target=_blank>母乳公益项目专家论证研讨会在沪召开</a></span></div>
+
+      <ul class="list_14 mt10"><li><a href='/n1/2017/1109/c414277-29636711.html' target=_blank>“生命早期健康”专项基金在上海启动</a></li>
+<li><a href='/n1/2017/1116/c414269-29650321.html' target=_blank>“关爱启蒙者--流动课堂”走进滇西</a></li>
+</ul>
+   </div>
+  </div>
+</div>
+<!--p4-->
+<div class="p4_con w1000 clearfix mt10">
+  <h2 class="tit1"><i><a href="/GB/414263/index.html" target="_blank"><img src="/img/MAIN/2017/09/117683/images/p4_tit.gif" /></a></i></h2>
+  <div class="tit2 qiehuan2"><i id="q_ss"><a href="/GB/414263/414279/index.html" target="_blank">聚焦维权</a></i><em>|</em><i><a href="/GB/414263/414281/index.html" target="_blank">以事说法</a></i><em>|</em><i><a href="/GB/414263/414281/index.html" target="_blank">姐妹学法</a></i>
+<script>
+//临时禁用切换
+var q_ss=document.querySelector('#q_ss');
+q_ss.parentNode.classList.remove('qiehuan2');
+</script></div>
+  <!--切换内容1-->
+  <div class="qiehuan2_c" style="display:block;"> 
+    <div class="p4_1con clearfix">
+       <div class="w320 fl">
+          <div class="img2"><a href="/n1/2018/1203/c414281-30438003.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812030854042406542979708.jpg" width="320" height="180"/></a><div></div><span>丈夫举债妻子无合意 法院认定个债没商量</span></div>
+    
+       </div>
+       <div class="w320 fl ml25">
+          <div class="img3"><span>
+             <img src="/NMediaFile/2018/0726/MAIN201807261506340555314756779.jpg" width="52" height="52" />
+             <i>
+             <b>余婧</b>
+          婚姻家事律师
+             </i>
+             </span>
+             <p>　　私人财富律师，CCTV《法律讲堂》最高收视金牌主讲，公众号“谈谈情说说法”。余婧律师专注于婚姻家庭法律服务领域的研究和实践，钻研和办理过上千起婚姻家庭纠纷案件。<em class="red01"><a href="/n1/2018/0724/c414281-30167364.html" target="_blank">更多</a></em></p></div>
+       </div>
+       <div class="w320 fr">
+          <div class="img2"><a href="/n1/2018/1203/c414281-30438129.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812030854556804265738252.jpg" width="320" height="180"/></a><div></div><span>严打拐卖犯罪 拓展职能传递司法温暖</span></div>
+     
+       </div>
+    </div>
+    <!--p4_2con-->   
+    <div class="p4_2con clearfix mt30"> 
+      <div class="p4_a"><div class="img4"><a href="/n1/2018/1129/c414279-30432048.html" target=_blank><img src="/NMediaFile/2018/1203/MAIN201812030925459687207325900.jpg" width="235" height="132" alt="微信语音让女儿转钱，也被骗了"/></a><div></div><span><a href="/n1/2018/1129/c414279-30432048.html" target=_blank>微信语音让女儿转钱，也被骗了</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2018/1119/c414279-30408914.html' target=_blank>非直接身体接触可认定猥亵儿童罪</a></li>
+<li><a href='/n1/2018/1120/c414279-30410815.html' target=_blank>因“违规怀孕”受处分 被工会喊停</a></li>
+</ul>
+</div>
+      <div class="p4_a"><div class="img4"><a href="/n1/2018/1123/c414281-30418559.html" target=_blank><img src="/NMediaFile/2018/1127/MAIN201811271037256415369303985.jpg" width="235" height="132" alt="QQ传涉密邮件你可能被盯上了"/></a><div></div><span><a href="/n1/2018/1123/c414281-30418559.html" target=_blank>QQ传涉密邮件你可能被盯上了</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2018/1125/c414282-30420200.html' target=_blank>对家庭暴力中谩骂和恐吓的应对</a></li>
+<li><a href='/n1/2018/1121/c414279-30413418.html' target=_blank>妻子起诉丈夫借款合同无效</a></li>
+</ul>
+</div>
+      <div class="p4_a"><div class="img4"><a href="/n1/2018/1122/c414282-30416429.html" target=_blank><img src="/NMediaFile/2018/1122/MAIN201811221636489014788305347.jpg" width="235" height="132" alt="值班≠加班，关系你的工作报酬"/></a><div></div><span><a href="/n1/2018/1122/c414282-30416429.html" target=_blank>值班≠加班，关系你的工作报酬</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2018/1124/c414279-30419181.html' target=_blank>北京二中院对涉家暴案件进行通报</a></li>
+<li><a href='/n1/2018/1113/c414279-30397110.html' target=_blank> 职场“奇葩”规定应喊停</a></li>
+</ul>
+</div>
+      <div class="p4_b"><a href="http://www.womenvoice.cn/n1/2017/0922/c414278-29552023.html" target=_blank><img src="/NMediaFile/2017/1012/MAIN201710121318459473946269588.png" width="235" height="200"/></a>
+</div>
+    </div>
+  </div>
+  <!--切换内容2-->
+  <div class="qiehuan2_c" style="display:none;">  
+    <div class="p4_1con clearfix">
+       <div class="w320 fl">
+          <div class="img2"><a href="/n1/2018/0416/c414281-29929069.html" target=_blank><img src="/NMediaFile/2018/0416/MAIN201804161445407046324779155.jpg" width="320" height="180"/></a><div></div><span>这样算不算裁员？</span></div>
+
+       </div>
+       <div class="w320 fl ml25">
+          <div class="img3"><span>
+             <img src="/NMediaFile/2018/0110/MAIN201801101507186184745407241.jpg"width="52" height="52" />
+             <i>
+             <b>魏绍玲</b>
+             婚姻家事财富传承领域专家
+             </i>
+             </span>
+             <p>　　魏绍玲律师为“名律2000私人律师联盟“发起人，与国内著名刑事律师兰和、资本市场律师邵雷雷组成”铿锵三人行“律师巡讲团，在全国各省市开展刑事、投融资、婚姻家事财富传承巡回讲座。魏律师为新浪大型公益活动“保护女童”防止性侵公益讲师团讲师，《青年律师的品牌建设》栏目主讲人。<em class="red01"><a href="/n1/2018/0110/c414281-29757049.html" target="_blank">更多</a></em></p></div>
+       </div>
+       <div class="w320 fr">
+          <div class="img2"><a href="/n1/2018/0416/c414281-29929023.html" target=_blank><img src="/NMediaFile/2018/0416/MAIN201804161447574430348876105.jpg" width="320" height="180"/></a><div></div><span>患病、工伤、复工……我该怎么证明？</span></div>
+
+       </div>
+    </div>
+    <div class="p4_2con clearfix mt30"> 
+       <div class="p4_a"><div class="img4"><a href="/n1/2018/0410/c414281-29917122.html" target=_blank><img src="/NMediaFile/2018/0410/MAIN201804101335278147555743030.jpg" width="235" height="132" alt="无痛引产存过失 医院补偿"/></a><div></div><span><a href="/n1/2018/0410/c414281-29917122.html" target=_blank>无痛引产存过失 医院补偿</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2018/0203/c414281-29804154.html' target=_blank>妇女离婚之后 有权分割土地</a></li>
+<li><a href='/n1/2018/0404/c414281-29907401.html' target=_blank>网购仿真枪被判无期 </a></li>
+</ul>
+</div>
+       <div class="p4_a"><div class="img4"><a href="/n1/2018/0418/c414281-29934360.html" target=_blank><img src="/NMediaFile/2018/0418/MAIN201804181139465251411666048.jpg" width="235" height="132" alt="“假离婚”背后的法律雷区"/></a><div></div><span><a href="/n1/2018/0418/c414281-29934360.html" target=_blank>“假离婚”背后的法律雷区</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2018/0309/c414281-29858107.html' target=_blank>经济控制也是家暴 </a></li>
+<li><a href='/n1/2018/0309/c414281-29858117.html' target=_blank>怀孕员工遭试用期辞退 公司被判违法</a></li>
+</ul>
+</div>
+       <div class="p4_a"><div class="img4"><a href="/n1/2018/0328/c414281-29893983.html" target=_blank><img src="/NMediaFile/2018/0410/MAIN201804101343316847828165162.jpg" width="235" height="132" alt="“再外嫁”能分到土地补偿费？"/></a><div></div><span><a href="/n1/2018/0328/c414281-29893983.html" target=_blank>“再外嫁”能分到土地补偿费？</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2017/1220/c414281-29718833.html' target=_blank>丈夫生前借钱，妻子应帮还款吗？</a></li>
+<li><a href='/n1/2017/0927/c414281-29562744.html' target=_blank>虐童，严重要被撤销监护权</a></li>
+</ul>
+</div>
+       <div class="p4_b"><a href="http://www.womenvoice.cn/n1/2017/0922/c414278-29552023.html" target=_blank><img src="/NMediaFile/2017/1012/MAIN201710121318459473946269588.png" width="235" height="200"/></a>
+</div>
+    </div>
+  </div>
+  <!--切换内容3-->
+  <div class="qiehuan2_c" style="display:none;">  
+    <div class="p4_1con clearfix">
+       <div class="w320 fl">
+          <div class="img2"><a href="/n1/2018/0523/c414282-30008225.html" target=_blank><img src="/NMediaFile/2018/0523/MAIN201805231116114138837385023.jpg" width="320" height="180"/></a><div></div><span>员工请假，哪些必须批？哪些可协商？</span></div>
+
+       </div>
+       <div class="w320 fl ml25">
+          <div class="img3"><span>
+             <img src="/NMediaFile/2018/0110/MAIN201801101528292230687401353.jpg" width="52" height="52" />
+             <i>
+             <b>聂晓杰</b>
+            文化创意产业专业律师
+             </i>
+             </span>
+             <p>　　北京群科律师事务所合伙人，2004年取得律师执业证。现为北京群科律师事务所创始合伙人律师。聂晓杰律师曾担任多家银行的常年法律顾问，负责法律文件的拟定、审查、谈判及其他工作。作为文化创意产业专业律师，熟悉知识产权领域的相关法律，参与了多家影视文化公司影视合同的草拟、制定、修改等多项法律工作。<em class="red01"><a href="/n1/2018/0110/c414281-29757066.html" target="_blank">更多</a></em></p></div>
+       </div>
+       <div class="w320 fr">
+          <div class="img2"><a href="/n1/2018/0523/c414282-30008177.html" target=_blank><img src="/NMediaFile/2018/0523/MAIN201805231118193771562399544.jpg" width="320" height="180"/></a><div></div><span>公积金政策近期有哪些新变化？</span></div>
+
+       </div>
+    </div>
+    <div class="p4_2con clearfix mt30"> 
+      <div class="p4_a"><div class="img4"><a href="/n1/2018/0408/c414282-29911604.html" target=_blank><img src="/NMediaFile/2018/0410/MAIN201804101354401825525795632.jpg" width="235" height="132" alt="没有单位的个人怎么交社保?"/></a><div></div><span><a href="/n1/2018/0408/c414282-29911604.html" target=_blank>没有单位的个人怎么交社保?</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2017/0925/c414282-29557718.html' target=_blank>什么情况离婚无过错方可请求赔偿</a></li>
+<li><a href='/n1/2017/0925/c414282-29557724.html' target=_blank>离婚时提出损害赔偿的注意事项</a></li>
+</ul>
+</div>
+      <div class="p4_a"><div class="img4"><a href="/n1/2018/0408/c414282-29911594.html" target=_blank><img src="/NMediaFile/2018/0410/MAIN201804101356022436306449654.jpg" width="235" height="132" alt="社保费有变化 工资可能受影响"/></a><div></div><span><a href="/n1/2018/0408/c414282-29911594.html" target=_blank>社保费有变化 工资可能受影响</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2017/0925/c414282-29557709.html' target=_blank>离婚时债务如何清偿？</a></li>
+<li><a href='/n1/2017/0925/c414282-29557727.html' target=_blank>不办理复婚手续而同居的法律后果</a></li>
+</ul>
+</div>
+      <div class="p4_a"><div class="img4"><a href="/n1/2018/0408/c414269-29911792.html" target=_blank><img src="/NMediaFile/2018/0410/MAIN201804101357599913151900292.jpg" width="235" height="132" alt="中介费也许不用你交了"/></a><div></div><span><a href="/n1/2018/0408/c414269-29911792.html" target=_blank>中介费也许不用你交了</a></span></div>
+               <ul class="list_14">
+<li><a href='/n1/2017/0925/c414282-29557624.html' target=_blank>女职工有月经假吗？</a></li>
+<li><a href='/n1/2017/0925/c414282-29557636.html' target=_blank>诉讼离婚应向何处法院提起？</a></li>
+</ul>
+</div>
+      <div class="p4_b"><a href="http://www.womenvoice.cn/n1/2017/0922/c414278-29552023.html" target=_blank><img src="/NMediaFile/2017/1012/MAIN201710121318459473946269588.png" width="235" height="200"/></a>
+</div>
+    </div>
+  </div>
+</div>
+<!--尚生活-->
+<div class="p3_con w1000 mt10 clearfix"  style="display:none;">
+  <h2 class="tit1"><i><img src="/NMediaFile/2018/1130/MAIN201811301810010001127528895.png" />
+</i></h2>
+  
+<div class="clearfix" style="display:block;">    
+   <div class="w320 fl">
+      
+	   
+   </div>
+   <div class="w320 fl ml20">
+      
+	   
+   </div>
+   <div class="w320 fr">
+      
+	   
+   </div>
+  </div>
+</div>
+<!--尚生活结束-->
+<!--妇联直通车-->
+<div class="p3_con w1000 mt10 clearfix"  style="display:none;">
+  <h2 class="tit1"><i><img src="/NMediaFile/2018/1130/MAIN201811301810142158929147833.png" />
+</i></h2>
+  
+<div class="clearfix" style="display:block;">    
+   <div class="w320 fl">
+      
+	   
+   </div>
+   <div class="w320 fl ml20">
+      
+	   
+   </div>
+   <div class="w320 fr">
+      
+   </div>
+  </div>
+</div>
+<!--妇联直通车结束-->
+<!--p5-->
+<div class="p5_bg">
+  <div class="youqing w1000">
+    <h2><i class="red">友情链接</i></h2>
+    <div class="fl"><a href="http://www.nwccw.gov.cn" target="_blank">国务院妇儿工委</a><a href="http://www.women.org.cn/"_blank">全国妇联</a><a href="http://www.clady.cn" target="_blank">中国妇女报</a>
+<a href="http://www.cwdf.org.cn/index.html" target="_blank">中国妇女发展基金会</a><a href="http://www.cctf.org.cn" target="_blank">中国儿童少年基金会</a><br></br>
+<a href="http://www.cwu.edu.cn" target="_blank">中华女子学院</a><a href="http://www.womenofchina.com/" target="_blank">中国妇女杂志社</a><a href="http://www.womenofchina.cn/" target="_blank">中国妇女英文网</a>
+<a href="http://www.haomahaoba.com/" target="_blank">全国网上家长学校</a>
+<a href="http://feedback.womenvoice.cn/replay/edit" target="_blank" style="color:red">我和妇联说句话</a></div>
+    <div class="fr">
+       <ul><li><img src="/NMediaFile/2017/1012/MAIN201710121433277021415016006.jpg" width="106" height="106" alt="女性之声APP"/>女性之声APP</li>
+<li><img src="/NMediaFile/2017/1012/MAIN201710121436097602966362090.jpg" width="106" height="106" alt="女性之声公众号"/>女性之声公众号</li>
+<li><img src="/NMediaFile/2017/1012/MAIN201710121437069940343942601.png" width="106" height="106" alt="享学吧APP"/>享学吧APP</li>
+</ul>
+    </div>
+  </div>
+</div>
+<!--p6-->
+<div class="p6_bg">
+  <div class="copyright w1000">全国妇联主管主办 全国妇联网络信息传播中心承办   版权所有@女性之声  备案序号：京ICP备17053745号   <a href="/n1/2018/0530/c414267-30023402.html"__blank">关于我们</a>
+<a href="/n1/2018/0530/c414267-30023419.html"target="_blank">联系我们</a>
+<p><a href="http://www.12377.cn/" target="_blank"><img src="/img/MAIN/2017/09/117683/images/icon_jubao.png"></a><span>举报电话：010-65103422　邮箱：website@womenofchina.cn</span></p></div>
+</div>
+<script src="/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?51e4cd4d8ecd70dd6ca4e4270856cef7";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</body>
+</html>

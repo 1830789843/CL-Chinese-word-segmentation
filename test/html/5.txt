@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" yxsrc="http://www.people.com.cn/"/>
+<meta name="renderer" content="webkit">
+<link href="css/head.css?v=164022" rel="stylesheet" type="text/css" />
+<link href="favicon.ico" type="image/x-icon" rel="shortcut icon" />
+<script type="text/javascript" src="scripts/jquery.js"></script>
+<script type="text/javascript" src="scripts/YHCore.js?v=164022"></script>
+<title>信息无障碍公益平台</title>
+</head>
+<body  scroll="no">
+<div id="yx_focus"><a href="#" id="yx_focus_link">&nbsp;</a><a href="#" target="_blank" id="yx_pop">pop</a></div>
+<div class="system_div" isclosed="true"><iframe class="system_iframe" src="about:blank" id="yx_frame_90" name="yx_frame_90" frameborder="0" scrolling="auto" onload="YX.page.SystemLoadedCompleteTask(this);"></iframe></div>
+<div class="system_div" isclosed="true"><iframe class="system_iframe" src="about:blank" id="yx_frame_110" name="yx_frame_110" frameborder="0" scrolling="auto" onload="YX.page.SystemLoadedCompleteTask(this);"></iframe></div>
+<div class="system_div" isclosed="true"><iframe class="system_iframe" src="about:blank" yxver="51" id="yx_frame_51" name="yx_frame_51" frameborder="0" scrolling="auto" onload="YX.page.SystemLoadedCompleteTask(this);"></iframe></div>
+<div class="system_div" isclosed="true"><iframe class="system_iframe" src="about:blank" yxver="52" id="yx_frame_52" name="yx_frame_52" frameborder="0" scrolling="auto" onload="YX.page.SystemLoadedCompleteTask(this);"></iframe></div>
+<div class="system_div" isclosed="true"><iframe class="system_iframe" src="about:blank" yxver="53" id="yx_frame_53" name="yx_frame_53" frameborder="0" scrolling="auto" onload="YX.page.SystemLoadedCompleteTask(this);"></iframe></div>
+<div id="yx_logo"></div>
+<div id="yx_bar">
+	<div id="yx_top">
+	<div id="yx_system"  title="无障碍平台，快捷键ctrl加alt加0" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon icon"></span><span class="title">平台</span></div>
+	<div id="yx_guide" title="系统导航，快捷键ctrl加alt加1" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon icon"></span><span class="title">导航</span></div>
+	<div id="yx_wza_52" title="老人版，通过配色、放大和播报等功能为老人、儿童浏览网页信息提高了舒适感，快捷键ctrl加alt加2" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon icon"></span><span class="title">老人</span></div>
+	<div id="yx_wza_53" title="盲人版，通过智能盲道、便捷按键和实时帮助为盲人朋友获取信息带来了便捷，快捷键ctrl加alt加3" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon icon"></span><span class="title">盲人</span></div>
+	<div id="yx_wza_51" title="标准读屏，通过网页标准化改造以满足各种辅助软件的使用，快捷键ctrl加alt加4" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon icon"></span><span class="title">读屏</span></div>
+	<div id="yx_recoswitch" title="语音操作，您可以用说话的方式来浏览网页，快捷键ctrl加alt加5" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon disicon"></span><span class="title">语音</span></div>
+	</div>
+	<div id="yx_bottom">
+	<div id="yx_voiceswitch" title="声音开关，快捷键ctrl加alt加6" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon icon"></span></div>
+	<div id="yx_client" title="下载语音操作客户端，快捷键ctrl加alt加7" style="display:none;" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon icon"></span></div>
+	<div id="yx_help" title="系统介绍，快捷键ctrl加alt加8" class="bar_item bar_item_icon bar_item_unselected"><span class="yx_icon icon"></span></div>
+	</div>
+</div>
+
+
+<div id="reco_mask"></div>
+<div id="yx_reco_public" style="display:none;">
+	<span class="reco_close yx_icon"></span>
+	<div class="reco_title"></div>
+	<div class="reco_cmds"><label style="color:white;width:320px;">本面板控制语音命令:</label><label>语音帮助</label><label>退出帮助</label></div>
+	<div class="reco_line"></div>
+	<div class="reco_title">系统操作语音命令:</div>
+	<div class="reco_cmds"><label>系统导航</label><label>标准读屏</label><label>在线语音</label><label>盲人在线</label><label>说明</label></div>
+</div>
+<div class="yx_reco" id="yx_reco_1"></div>
+<div class="yx_reco" id="yx_reco_51"><div class="reco_cmds"><label>后退</label><label>刷新</label><label>向上</label><label>向下</label><label>帮助</label></div></div>
+<div class="yx_reco" id="yx_reco_52"><div class="reco_cmds"><label>后退</label><label>刷新</label><label>向上</label><label>向下</label><label>向左</label><label>向右</label><label>开启朗读</label><label>停止朗读</label><label>配色</label><label>还原</label><label>加快语速</label><label>减慢语速</label><label>增大音量</label><label>降低音量</label><label>打开</label><label>关闭</label></div></div>
+<div class="yx_reco" id="yx_reco_53"><div class="reco_cmds"><label>后退</label><label>刷新</label><label>向上</label><label>向下</label><label>加快语速</label><label>减慢语速</label><label>增大音量</label><label>降低音量</label><label>设为连读</label><label>设为指读</label><label>打开</label><label>返回</label></div></div>
+<div class="yx_reco" id="yx_reco_90"><div class="reco_cmds"><label>向上</label><label>向下</label><label>向左</label><label>向右</label><label>上一页</label><label>下一页</label><label>配色</label><label>还原</label><label>放大</label><label>缩小</label><label>打开</label></div></div>
+<div class="yx_reco" id="yx_reco_110"><div class="reco_cmds"><label>向左</label><label>向右</label><label>向上</label><label>向下</label><label>打开</label></div></div>
+
+
+
+<div id="help_area">
+	<div id="help_intro">
+		<div id="help_intro_wrap">
+			<p>让<b>中国梦想</b>照亮人民群众共享信息的<b>现实</b></p>
+			<p>消除<b>数字鸿沟</b> 让社会更加<b>公平正义</b></p>
+			<p>促进<b>信息文明</b> 让更多人分享<b>社会进步</b></p>
+		</div>
+	</div>
+	<div id="help_rights"><span class="rights_units">人民网信息公共服务公益平台</span><span class="rights_teco"><a href="http://wza.people.com.cn/wza2013/" style="color:white;" target="_blank">中国政务信息无障碍公益行动</a></span></div>
+	<div id="help_bg"></div>
+	<div id="welcome_words"><span style="display:none;">欢迎体验</span>人民网网站无障碍系统<span style="display:none;">。</span></div>
+	<div id="help_mask"></div>
+	<div class="help_card" id="card-guide" idx="1">
+		<div class="card_header"><span class="card_num">①</span><span class="card_words">导航服务</span></div>
+		<div class="card_content"><p class="card_object">在这里集中了人民网主要的栏目和服务，为用户提供了无障碍快捷通道。</p></div>
+		<div class="card_footer"><span class="card_next card_button">下一步&nbsp;[1/5]</span></div>
+	</div>
+	<div class="help_card"  id="card-wza_52" idx="2">
+		<div class="card_header"><span class="card_num">②</span><span class="card_words">老人服务</span></div>
+		<div class="card_content"><p class="card_object">适用于视力退化的老年人，以及阅读能力低下的儿童和少数民族同胞。</p></div>
+		<div class="card_footer"><span class="card_next card_button">下一步&nbsp;[2/5]</span></div>
+	</div>
+	<div class="help_card"  id="card-wza_53" idx="3">
+		<div class="card_header"><span class="card_num">③</span><span class="card_words">盲人服务</span></div>
+		<div class="card_content"><p class="card_object">适用于视力严重障碍的盲人、高度近视群体，以及无法操作鼠标的弱势人群。</p></div>
+		<div class="card_footer"><span class="card_next card_button">下一步&nbsp;[3/5]</span></div>
+	</div>
+	<div class="help_card" id="card-wza_51" idx="4">
+		<div class="card_header"><span class="card_num">④</span><span class="card_words">读屏服务</span></div>
+		<div class="card_content"><p class="card_object">适用于拥有读屏软件、屏幕放大器和光栅控制等辅助工具的障碍人群。</p></div>
+		<div class="card_footer"><span class="card_next card_button">下一步&nbsp;[4/5]</span></div>
+	</div>
+	<div class="help_card"  id="card-recoswitch" idx="5">
+		<div class="card_header"><span class="card_num">⑤</span><span class="card_words">语音服务</span></div>
+		<div class="card_content"><p class="card_object">全程支持用户以说话方式浏览网站，适用于无法用手操作计算机的人群。</p></div>
+		<div class="card_footer"><span id="enter_tip"><i>盲人朋友在线浏览请按回车键，使用读屏用户请按空格键</i></span><span class="card_ok card_button">进入浏览</span></div>
+	</div>
+</div>
+
+<div id="yx_config" style="display:none;">
+	<a href="http://wza.people.com.cn/client/人民网网站无障碍客户端_Setup.exe" id="yx_recodownload">yx_recodownload</a>
+    <a href="#" id="yx_lid"></a>
+    <a href="#" id="yx_tid">425</a>
+    <a href="#" id="yx_sid">2716</a>
+	<a href="/yxsm/cache/voices/voices1/" id="yx_voicespath">voices</a>
+	<a href="/yxsm/index.php?m=socket&a=get" id="yx_socketpath">socket</a>
+	<a href="/yxsm/index.php?m=translate&a=get" id="yx_translatepath">translate</a>
+	<a href="/yxsm/index.php?m=logger&a=struct" id="yx_logpath">logger</a>
+    <a href="/yxsm/index.php?m=proxy&a=show&q_url=" id="yx_proxyurl">proxyurl</a>
+    <a href="/yxsm/index.php?m=api&a=wcag&sid=" id="yx_pagedatapath">pagedata</a>
+    <a href="/yxsm/index.php?m=data&a=allow&domain=" id="yx_pageallowpath">pageallow</a>
+</div>
+</body>
+</html>

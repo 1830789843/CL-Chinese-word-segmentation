@@ -1,0 +1,397 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script>
+<!--
+var cururl=document.URL;
+var curlocation=cururl.indexOf('?')+1
+var curparam=cururl.substring(curlocation,curlocation+6);
+if(curparam!="from_m"){
+var sUserAgent = navigator.userAgent.toLowerCase();	
+var IsTC = sUserAgent.match(/transcoder/i) == "transcoder";
+var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";  
+var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+var bIsAndroid = sUserAgent.match(/android/i) == "android";
+var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+var bIsWP = sUserAgent.match(/windows phone/i) == "windows phone";
+var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";	
+var bIsSYB = sUserAgent.match(/symbian/i) == "symbian";
+var bIsSER = sUserAgent.match(/series/i) == "series";
+if(IsTC || bIsIphoneOs || bIsAndroid || bIsWP || bIsCE || bIsWM || bIsSYB || bIsSER){
+window.location.href="http://unn.people.com.cn/difang/GB/387273/index.html";}
+}
+-->
+</script>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<title>2018人民网记者遍神州--各地新闻--人民网_网上的人民日报</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="L_387272" />
+<!-- 调用样式表 -->
+<link rel="stylesheet" href="/img/LOCAL/2018/07/113190/page.css" type="text/css" media="all"  charset="utf-8" />
+<script type="text/javascript" src="http://tools.people.com.cn/libs/jquery/1.7.1/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="/img/LOCAL/2018/07/113190/echarts-all.js" charset="utf-8"></script>
+</head>
+<body>
+<!--header-->
+<div class="header">
+<span><img src="/img/LOCAL/2018/07/113190/images/logo01.png" width="140" height="47" /><a href="http://www.people.com.cn" target="_blank"><img src="/img/LOCAL/2018/07/113190/images/logo02.png" width="117" height="44" /></a></span><em class="white"><a href="https://www.hubpd.com/" target="_blank">党媒平台</a>|<a href="http://liuyan.people.com.cn/" target="_blank">地方领导留言板</a>|<a href="http://data.people.com.cn/rmrb/20180716/1?code=2" target="_blank">人民日报数据库</a></em>
+</div>
+<div class="clearfix p1_bg">
+  <div class="clearfix p1_con w1000">
+      <h1><img src="/img/LOCAL/2018/07/113190/images/logo03.png" width="253" height="64" /></h1>
+      <div class="fl">
+      	<div class="chart-1" style="width:734px;height:599px;" id="chart-1"></div>
+      	<!--<img src="/img/LOCAL/2018/07/113190/images/t01.png" width="734" height="599" />-->
+      </div>
+      <div class="fr">
+         <ul class="clearfix"><li><a href="http://bj.people.com.cn/GB/387357/index.html" target="_blank">北京</a></li><li><a href="http://tj.people.com.cn/GB/387518/index.html" target="_blank">天津</a></li><li><a href="http://he.people.com.cn/GB/387249/index.html" target="_blank">河北</a></li>
+              <li><a href="http://sx.people.com.cn/GB/189721/index.html" target="_blank">山西</a></li><li><a href="http://nm.people.com.cn/GB/387405/index.html" target="_blank" >内蒙古</a></li><li><a href="http://ln.people.com.cn/GB/387462/index.html" target="_blank"">辽宁</a></li>
+              <li><a href="http://jl.people.com.cn/GB/387890/index.html" target="_blank">吉林</a></li><li><a href="http://hlj.people.com.cn/GB/387298/index.html" target="_blank">黑龙江</a></li><li><a href="http://sh.people.com.cn/GB/387296/index.html" target="_blank">上海</a></li>
+              <li><a href="http://js.people.com.cn/GB/387570/index.html " target="_blank">江苏</a></li><li><a href="http://zj.people.com.cn/GB/387289/index.html" target="_blank">浙江</a></li><li><a href="http://ah.people.com.cn/GB/387274/index.html" target="_blank">安徽</a></li>
+              <li><a href="http://fj.people.com.cn/GB/387281/index.html" target="_blank">福建</a></li><li><a href="http://jx.people.com.cn/GB/387260/index.html" target="_blank">江西</a></li><li><a href="http://sd.people.com.cn/GB/387302/index.html" target="_blank">山东</a></li>
+              <li><a href="http://henan.people.com.cn/GB/387292/index.html" target="_blank">河南</a></li><li><a href="http://hb.people.com.cn/GB/387400/387401/index.html" target="_blank">湖北</a></li><li><a href="http://hn.people.com.cn/GB/387394/index.html" target="_blank">湖南</a></li>
+              <li><a href="http://gd.people.com.cn/GB/387331/index.html" target="_blank">广东</a></li><li><a href="http://gx.people.com.cn/GB/387449/index.html" target="_blank">广西</a></li><li><a href="http://hi.people.com.cn/people/GB/336741/index.html" target="_blank">海南</a></li>
+              <li><a href="
+http://cq.people.com.cn/GB/365425/index.html" target="_blank">重庆</a></li><li><a href="http://sc.people.com.cn/GB/387373/index.html" target="_blank">四川</a></li><li><a href="http://gz.people.com.cn/GB/194831/index.html" target="_blank">贵州</a></li>
+              <li><a href="http://yn.people.com.cn/GB/387914/index.html" target="_blank">云南</a></li><li><a href="http://xz.people.com.cn/GB/387841/index.html" target="_blank">西藏</a></li><li><a href="http://sn.people.com.cn/GB/387251/index.html" target="_blank">陕西</a></li>
+              <li><a href="http://gs.people.com.cn/GB/387382/index.html" target="_blank">甘肃</a></li><li><a href="http://qh.people.com.cn/GB/387483/index.html" target="_blank">青海</a></li><li><a href="http://nx.people.com.cn/GB/387546/index.html" target="_blank">宁夏</a></li>
+              <li><a href="http://xj.people.com.cn/GB/387311/index.html" target="_blank">新疆</a></li><li><a href="#">香港</a></li><li><a href="#">澳门</a></li>
+      		  <li><a href="#">台湾</a></li></ul>
+      </div>
+  </div>
+</div>
+
+
+<div class="p2_con clearfix w1000">
+   <div class="box01">
+      <ul class="gray clearfix"><li><a href="http://www.people.com.cn/GB/1018/22259/index.html" target="_blank">人民日报社概况</a></li>
+         <li><a href="http://www.people.com.cn/GB/50142/420117/index.html" target="_blank">关于人民网</a></li>
+         <li><a href="http://hr.peopledaily.com.cn/" target="_blank">报社招聘</a></li>
+         <li><a href="http://www.people.com.cn/GB/1018/245490/index.html" target="_blank">招聘英才</a></li>
+         <li><a href="http://www.people.com.cn/GB/208743/403202/index.html" target="_blank">广告服务</a></li>
+         <li><a href="http://www.people.com.cn/GB/208743/403202/403212/index.html" target="_blank">合作加盟</a></li>
+         <li><a href="http://gonggao.people.com.cn/" target="_blank">供稿服务</a></li>
+         <li><a href="http://www.people.com.cn/n/2013/1227/c373005-23961344.html" target="_blank">网站声明</a></li>
+         <li><a href="http://www.people.com.cn/n/2013/1227/c373006-23961372.html" target="_blank">网站律师</a></li>
+         <li><a href="http://sso.people.com.cn/resource/html/userInforPro.html" target="_blank">信息保护</a></li>
+         <li><a href="http://kf.people.com.cn/" target="_blank">呼叫中心</a></li>
+         <li><a href="http://english.peopledaily.com.cn/" target="_blank">ENGLISH</a></li></ul>
+   </div>
+   <div class="box02">
+       <ul class="clearfix gray"><li>镜像:<br /><a href="http://www.people.com.cn/" target="_blank">日本</a>&nbsp;&nbsp;<a href="http://www.peopledaily.edu.cn/" target="_blank">教育网</a>&nbsp;&nbsp;<a href="http://www.peopledaily.ac.cn/">科技网</a>  </li>
+          <li>呼叫热线<br />4008-100-300</li>
+          <li>服务邮箱<br /><a href="mailto:kf@people.cn" target="_blank">kf@people.cn</a> </li>
+          <li>违法和不良信息举报电话<br />010-65368339</li>
+          <li>举报邮箱<br /><a href="mailto:jubao@people.cn" target="_blank">jubao@people.cn</a></li></ul>
+   </div>
+   <div class="box03">
+      <ul class="gray clearfix"><li><a href="http://www.people.com.cn/img/2014xuke/2018hlwxw.html" target="_blank">互联网新闻信息服务许可证10120170001</a></li>
+         <li><a href="http://www.people.com.cn/img/2014xuke/2018zzdxxkz.html" target="_blank">增值电信业务经营许可证B1-20060139</a></li>
+         <li><a href="http://www.people.com.cn/img/2011zzzs/2018xxwlcb.htm" target="_blank">信息网络传播视听节目许可证0104065</a></li>
+         <li><a href="http://www.people.com.cn/img/2014xuke/2018gbds.htm" target="_blank">广播电视节目制作经营许可证（广媒）字第172号</a></li>
+         <li><a href="http://www.people.com.cn/img/2014xuke/2018wlwh.html" target="_blank">网络文化经营许可证 京网文[2017]9786-1126号</a></li>
+         <li><a href="http://www.people.com.cn/img/2014xuke/2018wlcb.html" target="_blank">网络出版服务许可证（京）字258号</a></li>
+         <li><a href="http://www.people.com.cn/img/2014xuke/2018icp.html" target="_blank">京ICP证000006号</a></li>
+         <li><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000008" target="_blank">京公网安备11000002000008号</a></li></ul>
+   </div>
+</div>
+<div class="copyright gray clearfix"><div id="copyright"  class="copyright clearfix">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved</div></div>
+<script src="http://www.people.com.cn/img/2016wb/jweixin-1.0.0.js" type="text/javascript"></script><script type="text/javascript">      
+	var wxData = {
+		"imgUrl": "http://www.people.com.cn/img/2016wb/images/logo_share.jpg",
+		"link": window.location.href,
+		"desc": "分享在朋友圈时带的描述分享在朋友圈时带的描述40字以内",
+		"title": "分享给朋友时带的标题20字以内"
+	};
+</script>
+<script src="http://www.people.com.cn/img/2016wb/WeiXinData.js" type="text/javascript"></script>
+<script type="text/javascript">
+var datas = [
+	{
+		 "name": "北京",
+		 "value": "0",
+		 "urlvalue": "http://bj.people.com.cn/GB/387357/index.html"
+	 },
+	 {
+		 "name": "上海",
+		 "value": "0",
+		 "urlvalue": "http://sh.people.com.cn/GB/387296/index.html"
+	 },
+	 {
+		 "name": "新疆",
+		 "value": "0",
+		 "urlvalue": "http://xj.people.com.cn/GB/387311/index.html"
+	 },
+	 {
+		 "name": "浙江",
+		 "value": "0",
+		 "urlvalue": "http://zj.people.com.cn/GB/387289/index.html"
+	 },
+	 {
+		 "name": "广东",
+		 "value": "0",
+		 "urlvalue": "http://gd.people.com.cn/GB/387331/index.html"
+	 },
+	 {
+		 "name": "山东",
+		 "value": "0",
+		 "urlvalue": "http://sd.people.com.cn/GB/387302/index.html"
+	 },
+	 {
+		 "name": "天津",
+		 "value": "0",
+		 "urlvalue": "http://tj.people.com.cn/GB/387518/index.html"
+	 },
+	 {
+		 "name": "四川",
+		 "value": "0",
+		 "urlvalue": "http://sc.people.com.cn/GB/387373/index.html"
+	 },
+	 {
+		 "name": "西藏",
+		 "value": "0",
+		 "urlvalue": "http://xz.people.com.cn/GB/387841/index.html"
+	 },
+	 {
+		 "name": "湖北",
+		 "value": "0",
+		 "urlvalue": "http://hb.people.com.cn/GB/387400/387401/index.html"
+	 },
+	 {
+		 "name": "安徽",
+		 "value": "0",
+		 "urlvalue": "http://ah.people.com.cn/GB/387274/index.html"
+	 },
+	 {
+		 "name": "河北",
+		 "value": "7",
+		 "urlvalue": "http://he.people.com.cn/GB/387249/index.html"
+	 },
+	 {
+		 "name": "福建",
+		 "value": "0",
+		 "urlvalue": "http://fj.people.com.cn/GB/387281/index.html"
+	 },
+	 {
+		 "name": "河南",
+		 "value": "0",
+		 "urlvalue": "http://henan.people.com.cn/GB/387292/index.html"
+	 },
+	 {
+		 "name": "江苏",
+		 "value": "0",
+		 "urlvalue": "http://js.people.com.cn/GB/387570/index.html"
+	 },
+	 {
+		 "name": "湖南",
+		 "value": "0",
+		 "urlvalue": "http://hn.people.com.cn/GB/387394/index.html"
+	 },
+	 {
+		 "name": "香港",
+		 "value": "0",
+		 "urlvalue": "http://www.people.com.cn"
+	 },
+	 {
+		 "name": "贵州",
+		 "value": "0",
+		 "urlvalue": "http://gz.people.com.cn/GB/194831/index.html"
+	 },
+	 {
+		 "name": "重庆",
+		 "value": "0",
+
+	 "urlvalue": "http://cq.people.com.cn/GB/365425/index.html"
+	 },
+	 {
+		 "name": "云南",
+		 "value": "0",
+		 "urlvalue": "http://yn.people.com.cn/GB/387914/index.html"
+	 },
+	 {
+		 "name": "辽宁",
+		 "value": "0",
+		 "urlvalue": "http://ln.people.com.cn/GB/387462/index.html"
+	 },
+	 {
+		 "name": "台湾",
+		 "value": "0",
+		 "urlvalue": "http://www.people.com.cn"
+	 },
+	 {
+		 "name": "吉林",
+		 "value": "0",
+		 "urlvalue": "http://jl.people.com.cn/GB/387890/index.html"
+	 },
+	 {
+		 "name": "内蒙古",
+		 "value": "0",
+		 "urlvalue": "http://nm.people.com.cn/GB/387405/index.html"
+	 },
+	 {
+		 "name": "陕西",
+		 "value": "0",
+		 "urlvalue": "http://sn.people.com.cn/GB/387251/index.html"
+	 },
+	 {
+		 "name": "广西",
+		 "value": "0",
+		 "urlvalue": "http://gx.people.com.cn/GB/387449/index.html"
+	 },
+	 {
+		 "name": "江西",
+		 "value": "0",
+		 "urlvalue": "http://jx.people.com.cn/GB/387260/index.html"
+	 },
+	 {
+		 "name": "海南",
+		 "value": "0",
+		 "urlvalue": "http://hi.people.com.cn/people/GB/336741/index.html"
+	 },
+	 {
+		 "name": "黑龙江",
+		 "value": "0",
+		 "urlvalue": "http://hlj.people.com.cn/GB/387298/index.html"
+	 },
+	 {
+		 "name": "甘肃",
+		 "value": "0",
+		 "urlvalue": "http://gs.people.com.cn/GB/387382/index.html"
+	 },
+	 {
+		 "name": "青海",
+		 "value": "0",
+		 "urlvalue": "http://qh.people.com.cn/GB/387483/index.html"
+	 },
+	 {
+		 "name": "山西",
+		 "value": "0",
+		 "urlvalue": "http://sx.people.com.cn/GB/189721/index.html"
+	 },
+	 {
+		 "name": "澳门",
+		 "value": "0",
+		 "urlvalue": "http://www.people.com.cn"
+	 },
+	 {
+		 "name": "宁夏",
+		 "value": "0",
+		 "urlvalue": "http://nx.people.com.cn/GB/387546/index.html"
+	 }
+ ];
+</script>
+<script type="text/javascript">
+"use strict";
+$(document).ready(function(){
+    var sectionName = location.href.split("#")[1];
+    var initIndex = sectionName == "1"?1:0;
+	setFocus(initIndex);
+
+	var $buttons = $(".chart-switch-button");
+	$buttons.click(function(){
+		var idx = $buttons.index($(this));
+		setFocus(idx);
+	});
+});
+
+function setFocus() {	
+   var chartData = datas;
+   var seriesNames = ["人民网记者遍神州"];
+   var options = setupOptions(chartData, seriesNames);
+   var myChart = echarts.init($("#chart-1")[0]);
+   myChart.setOption(options);
+   /*mapclick*/
+   //console.log(chartData);
+	myChart.on('click', function (params) {
+		var city = params.name;
+        //console.log(params.name);
+		for(var i=0;i<chartData.length;i++){
+			if(chartData[i].name == params.name){
+				if(chartData[i].urlvalue){
+				window.open(chartData[i].urlvalue);
+				}
+				break;
+			}
+		}
+	});
+   /*mapclickend*/
+}
+
+function getMaxData(datas){
+	var max = 0;
+	for (var i = 0; i < datas.length; i++) {
+		if (parseInt(datas[i].value) > max) {
+			max = parseInt(datas[i].value);
+		}
+	}
+	return Math.ceil(max/5)*5;
+}
+
+function setupOptions(datas, seriesName) {
+	return {
+	    	tooltip : {
+				show: false,
+	        	trigger: 'item',
+				triggerOn: 'click',
+				borderColor: '#ffffff',
+				backgroundColor: 'rgba(0,0,0,0.6)',
+				enterable: true,
+				confine: true,
+				//position: function (pos, params, dom, rect, size) {
+      			//	return [pos[0] + 10, pos[1] + 50];
+					// 鼠标在左侧时 tooltip 显示到右侧，鼠标在右侧时 tooltip 显示到左侧。
+      				//var obj = {top: 60};
+      				//obj[['left', 'right'][+(pos[0] < 500 / 2)]] = 5;
+      				//return obj;
+				//},
+				/*formatter:function (params,ticket,callback) {
+					if(params.data.wenzi){
+						var res ='<div class=eBg>'+params.data.wenzi+'</div>'
+						setTimeout(function (){callback(ticket, res);}, 1500);
+						return 'loading...';
+					}else{
+						return '暂无内容'
+					}
+				}*/
+	    	},
+	    	dataRange: {
+				show: false,
+	        	min: 0,
+	        	max: getMaxData(datas),
+	        	x: 'left',
+	        	y: 'bottom',
+	        	text:['高','低'],
+				formatter:function(v){
+        			return Math.round(v);
+			    },
+	        	calculable : true,
+	      		color:['#9fc1ed', '#9fc1ed'],
+	      		precision:0
+	    	},
+	    	series : [
+	        	{
+	            	name: seriesName,
+	            	type: 'map',
+	            	mapType: 'china',
+	            	roam: false,
+	            	itemStyle:{
+	                	normal:{label:{show:true, textStyle:{color:"#333"}}},
+	                	emphasis:{label:{show:true}}
+	            	},
+	            	data:datas
+	        	}
+	    	]
+		};
+}
+</script>
+<script src="http://tools.people.com.cn/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript" sync></script>
+</body>
+</html>

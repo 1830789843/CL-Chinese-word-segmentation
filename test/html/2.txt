@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="2">
+<meta name="catalogs" content="198819">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>《国家人文历史》杂志专区——人文家国 历久弥新--文史--人民网</title>
+<link href="/img/2012wenshick/page.css" type="text/css" rel="stylesheet" media="all" />
+<script src="/img/2012wenshick/js/effect.js" language="javascript" type="text/javascript"></script>
+<script src="/img/2012wenshick/js/swfobject.js" language="javascript" type="text/javascript"></script>
+<style type="text/css">
+
+
+
+
+.top{background:url(/NMediaFile/2013/1231/MAIN201312310954260769063648565.jpg);}
+</style>
+</head>
+<body>
+<!--header-->
+<div class="header clear"><p><span><a href="http://www.people.com.cn/" target="_blank"><img src="/img/2012wenshick/images/logo.gif" alt="人民网" /></a></span><em>
+<a href="http://www.people.com.cn/" target="_blank">人民网首页</a>|<a href="http://history.people.com.cn/" target="_blank">文史频道</a>|<a href="http://www.people.com.cn/GB/138812/index.html" target="_blank">网站地图</a></em></p></div>
+<!--top-->
+<div class="top clear">2018年10月9日&nbsp;&nbsp;星期二</div>
+<!--nav-->
+<div class="w980 nav clear"><a href="http://history.people.com.cn/" target="_blank" target='_blank'>文史频道首页</a>|<a href="/GB/198819/233678/index.html" target="_blank" target='_blank'>往期杂志</a>|<a href="/GB/236757/index.html" target="_blank" target='_blank'>精华选读</a>|<a href="#meiti" target="_blank" target='_blank'>新媒体</a>|<a href="/n/2015/0108/c353282-26351929.html" target="_blank" target='_blank'>广告·合作</a>|<a href="/GB/211632/index.html" target="_blank" target='_blank'>公告·资讯</a>|<a href="http://historyreference.taobao.com/" target="_blank" target='_blank'>在线购买</a>|<a href="/n/2012/0726/c198819-18606918.html" target="_blank" target='_blank'>版权声明</a>|<a href="/n/2012/0726/c198819-18606934.html" target='_blank'>关于我们</a></div>
+<!--container-->
+<div class="w980 container oh clear">
+	<h6 class="nav2 clear"><a href="http://www.people.com.cn/">人民网</a> &gt;&gt; <a href="http://history.people.com.cn/">文史</a> &gt;&gt; <a href="http://history.people.com.cn/GB/198819/">《国家人文历史》杂志专区——人文家国 历久弥新</a></h6>
+	<!--p1-->
+    <div class="w971 p1_content clearfix">
+    	<div class="p1_left fl">
+        	<div class="p1_c fl">
+            	<h1><img src="/img/2012wenshick/images/icon1.gif" alt="精彩推荐" /></h1><h2><a href='/n1/2018/1009/c198819-30330966.html' target=_blank>大国小康 庆祝改革开放40周年</a>  <span>2018-10-09 17:25:00</span></h2>
+         <p>&nbsp;&nbsp;&nbsp;&nbsp;1978年12月，党的十一届三中全会开启了改革开放的新时期,至今已经走过了40年的风雨岁月。在这40年中，我国发生了翻天覆地的变化，GDP总量从1978年的3650亿元跃升到2017年的82万亿元，稳居世界第二，经济实力、科技实力、国防实力、国际影响力不断提升。从改革开放40年来的各项数据看，无论是经济增长还是国民生活，中国都取得了令世界惊叹的成就，正在以不可阻挡之势，迈向发达国家行列。<br>不同于小国，在中国这样一个十多亿人口的大国，面临的问题非常复杂，要实现党的十八大报告提出的全面建成小康社会的目标绝非易事。40年的强国之路有着太多重要节点，我们有选择地讲述四十件与每个中国人都息息相关，每个老百姓都感同身受，每个过来人都似曾相识的故事。在关注强国、强军、经济体制改革等一系列重大决策的同时，聚焦十多亿普通人的生活方式是如何伴随着改革开放进程而发生变化的：第一次选美、港台风、快餐和大片引进、外语热、出境游、移动支付等，事关普通百姓生活的方方面面。从中可以看到，改革开放以来，我们的成就不仅是数据上的小康，普通人生活的进步改善更是真真切切体现了时代的变迁和社会经济的发展。</p>
+
+                
+                
+            </div>
+       	  	<div class="p1_t fr">
+				<div class="flash290 clear">
+                	<div id="wzdiva"></div>
+					<script language="javascript" type="text/javascript">
+                    var pic_arr = new Array(); 
+                    var url_arr = new Array(); 
+                    var title_arr = new Array();
+
+                    pic_arr.push("/NMediaFile/2018/0816/MAIN201808161055194547165805884.jpg");
+                    url_arr.push("/n1/2018/0816/c198819-30232811.html");
+                    title_arr.push("日记 民国部分军政人物心灵史");
+
+pic_arr.push("/NMediaFile/2018/0509/MAIN201805090952066892100272378.jpg");
+                    url_arr.push("/n1/2018/0330/c198819-29899890.html");
+                    title_arr.push("最美大学 在国宝建筑中读书是怎样的体验");
+
+pic_arr.push("/NMediaFile/2018/0416/MAIN201804161731295622041266107.jpg");
+                    url_arr.push("/n1/2018/0416/c198819-29929808.html");
+                    title_arr.push("苏联军工 黑科技与傻大粗");
+
+                    
+                    var p = pic_arr.join("|");
+                    var u = url_arr.join("|");
+                    var t = title_arr.join("|");
+                    
+                    var wzvars = {pic: p,url: u,title:t};
+                    swfobject.embedSWF("/img/2012wenshick/main.swf?"+Math.random(), "wzdiva", "290", "408", "9.0.0", "",wzvars,{wmode:'opaque'},false);
+                    </script>
+                </div>
+       	  	</div>
+        </div>
+      	<div class="p1_right fr">
+        	<div class="clear"><img src="/NMediaFile/2016/0715/MAIN201607151533216751596219008.jpg" width="242" height="255" border="0"/>
+</div>
+        	<h3 class="p1_1 clear">旗下部分品牌</h3>
+          	<ul class="p1_2 clear"><li><a href="http://history.people.com.cn/" target="_blank"><img src="/NMediaFile/2012/0918/MAIN201209181008557496298006724.jpg" width="90" height="50" border="0" alt=" "/></a></li>
+<li><a href="https://historyreference.taobao.com/?spm=2013.1.0.0.TmjotZ" target="_blank"><img src="/NMediaFile/2016/0715/MAIN201607151536203848042411965.jpg" width="90" height="50" border="0"/></a></li>
+<li><a href="/peoplevision/GB/index.html" target="_blank"><img src="/NMediaFile/2016/0810/MAIN201608101700503563511739414.jpg" width="90" height="50" border="0"/></a></li>
+<li><a href="/GB/198449/347036/index.html" target="_blank"><img src="/NMediaFile/2012/0918/MAIN201209180955200252523871337.jpg" width="90" height="50" border="0" alt=" "/></a></li>
+</ul>
+        </div>
+        <div class="w971 p1line oh clear"></div>
+    </div>
+    <!--p2-->
+    <div class="w969 p2_content mt10 oh clear">
+    	<h1 class="p2_1 clear"><span>杂志封面</span><a href="/GB/198819/233678/index.html" target="_blank">进入专题&gt;&gt;</h1>
+        <ul class="p2_2 clear"><li><img src="/NMediaFile/2018/1009/MAIN201810091731139921125559569.jpg" width="160" height="208" border="0"/></li>
+<li><img src="/NMediaFile/2018/1009/MAIN201810091730592802095889261.jpg" width="160" height="208" border="0"/></li>
+<li><img src="/NMediaFile/2018/1009/MAIN201810091730393479048275189.jpg" width="160" height="208" border="0"/></li>
+<li><img src="/NMediaFile/2018/0509/MAIN201805091003003194278930373.jpg" width="160" height="208" border="0"/></li>
+<li><img src="/NMediaFile/2018/0509/MAIN201805091002426721837343616.jpg" width="160" height="208" border="0"/></li>
+</ul>
+    </div>
+    <!--p3-->
+    <div class="w969 p2_content mt10 oh clear" >
+    	<h1 class="p2_1 clear"><span><A href="http://history.people.com.cn/" target='_blank'>文史频道</A></span></h1>
+      	<div class="p3_content oh clear">
+        	<div class="p3_left fl">
+            	<h3 class="p3_1 clear"><span>热历史</span><a href="http://history.people.com.cn/GB/372326/index.html" target="_blank">更多&gt;&gt;</a></h3>
+                <ul class="list_14 clear"><h3>     </h3>
+                <div class="p3_3 clear"><img src="/NMediaFile/2016/0715/MAIN201607151420466633642494545.jpg" width="120" height="80" border="0"/><B><FONT class=Apple-style-span color=#800000><A href="http://history.people.com.cn/n/2012/1119/c352119-19624029.html"  target='_blank'>历史上北京城是如何防汛的？</A><BR></FONT></B>说到防汛，北京历史上曾采取过多种措施，如设置水务管理机构，疏浚河道、沟渠，设置水关泄洪等，并对水务督察及防汛不力的官员予以问责……<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
+<div class="p3_3 clear"><img src="/NMediaFile/2016/0715/MAIN201607151432134062378326581.jpg" width="120" height="80" border="0"/><b><font class="Apple-style-span" color="#800000"><a href="http://history.people.com.cn/n/2012/1119/c352119-19624029.html" target="_blank" target='_blank'>揭秘英国18世纪最大政治成就：与苏格兰“联姻”</a><br></font></b>历史上英格兰和苏格兰曾经是两个国家，直到1707年才合并。有人说，英格兰与苏格兰之间的联姻，“婚前”磕磕碰碰，“婚后”也不算恩爱。那么人们不禁要问，他们当年为何要结合？</div>
+
+       		</div>
+            <div class="p3_center fl">
+            	<h3 class="p3_1 clear"><span>史海钩沉</span><a href="http://history.people.com.cn/GB/372327/" target="_blank">更多&gt;&gt;</a></h3>
+                <ul class="list_14 clear"><li><a href='/n1/2017/0313/c372326-29142483.html' target="_blank">凤凰、永久、二八车，那些年满街的自行车，您还记得吗？</a></li>
+<li><a href='/n1/2017/0302/c372327-29119477.html' target="_blank">紫禁城角楼，如此精巧复杂的建筑在600年前是如何设计出来的？</a></li>
+<li><a href='/n1/2017/0313/c372327-29142500.html' target="_blank">胡耀邦与我的一段诗词交往</a></li>
+<li><a href='/n1/2017/0316/c372327-29150054.html' target="_blank">400年来旷日持久的一桩公案：《西游记》作者真的是吴承恩吗？</a></li>
+<li><a href='/n1/2017/0317/c372327-29152621.html' target="_blank">那些追洋快餐的日子： “两鸡相斗”何必要胜负</a></li>
+<li><a href='/n1/2017/0313/c372327-29142515.html' target="_blank">蔡锷为何称“梁启超与杨度人各有志不相强”？</a></li>
+<li><a href='/n1/2017/0313/c372327-29142507.html' target="_blank">女子有才也是德，京城何时有女子学校？</a></li>
+</ul>
+        	</div>
+            <div class="p3_right fr">
+       	  	  	<h3 class="p3_1 clear"><span>重回历史现场</span><a href="http://history.people.com.cn/GB/372332/index.html" target="_blank">更多&gt;&gt;</a></h3><p class="p3_4 clear"><a href="/n1/2016/0624/c372332-28477109.html" target=_blank><img src="/NMediaFile/2016/0715/MAIN201607151515054726956592391.jpg" width="288" height="100" border="0"/></a></p>
+                <ul class="list_14 clear">
+<li><a href='/n1/2016/0624/c372332-28477109.html' target=_blank>女摄影家侯波镜头中的新中国领导人</a></li>
+<p class="p3_4 clear"><a href="/n1/2016/0503/c372332-28321392.html" target=_blank><img src="/NMediaFile/2016/0715/MAIN201607151511160599293499972.jpg" width="288" height="100" border="0" alt="敦煌壁画中的古代劳动者：三教九流各显神通"/></a></p>
+                <ul class="list_14 clear">
+<li><a href='/n1/2016/0503/c372332-28321392.html' target=_blank>敦煌壁画中的古代劳动者：三教九流各显神通</a></li>
+<li><a href='/n1/2016/0225/c398789-28150391.html' target=_blank>盘点流入日本的中国十大稀世珍宝（组图）</a></li>
+<li><a href='/n1/2016/0225/c398789-28150403.html' target=_blank>蒋介石家族的历代媳妇大盘点 个个倾城绝色</a></li>
+</ul>
+            </div>
+        </div>
+    </div>
+    <!--p4-->
+  	<div class="w969 p2_content p4_content mt10 oh clear" >
+    	
+   	  	
+        <div class="p4_3 clear" id="b_1" style="display:block;">
+          	
+            
+      	</div>
+        <div class="p4_3 clear" id="b_2" style="display:none;">
+          	
+            
+      	</div>
+        <div class="p4_3 clear" id="b_3" style="display:none;">
+          	<div class="p4_3c">
+<h1><img src="/img/2012wenshick/images/zi3.jpg" alt="" /></h1><p><span class="Apple-style-span" style="font-size: 12px;">文史参考手机客户端是人民日报社《文史参考》杂志专为手机用户打造的人文资讯阅读平台。立足时事热点，钩沉历史秘闻，立志为学术界搭建话语平台，为新锐者提供思想阵地，为文史爱好者打造一个高品质的精神家园。
+</span><br><span class="Apple-style-span" style="font-size: 12px;">&nbsp; &nbsp; 1、全面、独家的人文历史资讯
+
+</span><br><span class="Apple-style-span" style="font-size: 12px;">&nbsp; &nbsp; 最新娱乐资讯、书情书讯，挖掘历史秘闻，集图志、往事、人物、电影、军事、财富和专栏等于一体。
+
+</span><br><span class="Apple-style-span" style="font-size: 12px;">&nbsp; &nbsp; 2、高清大图，视觉呈现
+</span><br><span class="Apple-style-span" style="font-size: 12px;">&nbsp; &nbsp; 独家首发老照片展现经典历史瞬间，带来别样视觉盛宴。
+</span><br><span class="Apple-style-span" style="font-size: 12px;">&nbsp; &nbsp; 3、一键分享，便捷互动
+</span><br><span class="Apple-style-span" style="font-size: 12px;">&nbsp; &nbsp; 随时随地了解人文资讯，分享图文；内容实时更新，一次安装，尽享所有内容！<br></span><a href="/img/2012wenshick/android.sj.apk" target="_blank" style="font-size: 24px; font-weight: bold; " target='_blank'><img src="/img/2012wenshick/images/icon3.gif" width="232" height="78" alt=""></a></p></div>
+            
+      	</div>
+        <div class="p4_3 clear" id="b_4" style="display:none;">
+          	<div class="p4_3d">
+<h1><img src="/img/2012wenshick/images/zi4.jpg" alt="" /></h1><p>已经推出，欢迎下载</p>  <h1><a href="/img/2012wenshick/android.pad.apk"><img src="/img/2012wenshick/images/icon3.gif" width="232" height="78" alt="" /></a></h1></div>
+            
+      	</div>
+    </div>
+    <!--p5-->
+    <div class="w969 p2_content mt10 oh clear">
+    	<h1 class="p2_1 clear"><span>国历图书</span><a href="/GB/198449/347036/index.html" target="_blank">进入专题&gt;&gt;</a></h1>
+      <ul class="p2_2 p5_1 clear"><li><a href="/n/2012/0725/c347036-18597086.html" target="_blank"><img src="/NMediaFile/2012/0726/MAIN201207261428053718875749004.jpg" width="160" height="210" border="0"/></a><b>《私信@他们》</b>
+		<span>推荐语：</span>这是一场特殊的思想对话，邀请二十多位文化界人士，以给历史先人写信的方式，借以提出一点疑问、表达一份敬仰、实现一次精神穿越……</li>
+<li><a href="/n/2012/0725/c347036-18597109.html" target="_blank"><img src="/NMediaFile/2012/0725/MAIN201207251518413848030744690.jpg" width="160" height="210" border="0"/></a><b>《那些有伤的读书人》</b>
+		<span>推荐语：</span>谢志浩常年从事中国近代学人代际研究，对中国百年学术史上的几代学人做了深入的观察和剖析，描绘出一幅传承脉络清晰的中国学术地图。</li>
+<li><a href="/n/2012/0725/c347036-18597102.html" target="_blank"><img src="/NMediaFile/2012/0725/MAIN201207251541008935732574667.jpg" width="160" height="210" border="0"/></a><b>《电影狙击历史》</b>
+		<span>推荐语：</span>影像是记录历史的有效载体之一，本书借经典史诗电影所展现的真实历史故事，深入电影背后的历史解读，让电影和史实在文本间形成光影的交错</li>
+<li><a href="/n/2012/0725/c347036-18597113.html" target="_blank"><img src="/NMediaFile/2012/0725/MAIN201207251519140460980756300.jpg" width="160" height="210" border="0"/></a><b>《争议圆明园》</b>
+		<span>推荐语：</span>作为一部浓缩的中国近代史，圆明园留给我们太多伤痛的记忆，150多年过去了，关于圆明园保存与重建，依然争议不断。本书带我们面对争议，全景展示这个园子的300年前世今生。</li>
+<li><a href="/n/2012/0725/c347036-18597098.html" target="_blank"><img src="/NMediaFile/2012/0725/MAIN201207251518512062122294548.jpg" width="160" height="210" border="0"/></a><b>《散落的历史》</b>
+		<span>推荐语：</span>在历史长河中，很多坚硬的细节令人过目难忘。本书从海量的信息中，梳理出这些历史故事的耐人寻味之处，引发我们通过这些细节，描划历史人物的鲜明个性、探寻历史事件的真实侧面。</li>
+</ul>
+    </div>
+    <!--p6-->
+  	<div class="w969 p2_content mt10 oh clear">
+   		<h1 class="p2_1 p6_1 clear"><span>关注《国家人文历史》</span></h1>
+      	<p class="p6_2 clear"><a href="/n1/2018/0306/c353282-29851240.html" target="_blank"><img src="/NMediaFile/2018/0306/MAIN201803061344514279302247932.jpg" width="110" height="34" border="0"/></a>
+<a href="http://weibo.com/inhh" target="_blank"><img src="/NMediaFile/2012/0918/MAIN201209181002541447307135091.jpg" width="110" height="34" border="0" alt=" "/></a>
+<a href="http://t.people.com.cn/openhistory" target="_blank"><img src="/NMediaFile/2012/0918/MAIN201209181003331447242578112.jpg" width="110" height="34" border="0"/></a>
+<a href="http://blog.sina.com.cn/openhistory" target="_blank"><img src="/NMediaFile/2012/0918/MAIN201209181004207604653658330.jpg" width="110" height="34" border="0"/></a>
+<a href="http://site.douban.com/120780" target="_blank"><img src="/NMediaFile/2012/0918/MAIN201209181002175116439747605.jpg" width="110" height="34" border="0" alt=" "/></a>
+<a href="http://historyreference.taobao.com/" target="_blank"><img src="/NMediaFile/2012/0918/MAIN201209181005347120635244979.jpg" width="110" height="34" border="0"/></a>
+<a href="http://history.people.com.cn/" target="_blank"><img src="/NMediaFile/2012/0918/MAIN201209181006336580327019042.jpg" width="110" height="34" border="0"/></a>
+</p>
+    </div>
+</div>
+<!--copyright-->
+<div id="copyright">
+  <style type="text/css">
+#copyright{width:980px; margin:0px auto; font-size:12px; text-align:center; padding:20px 0; line-height:180%; clear:both;}
+</style>
+<div id="copyright">人 民 网 版 权 所 有 ，未 经 书 面 授 权 禁 止 使 用<br />
+Copyright &copy; 1997-2018 by www.people.com.cn. all rights reserved</div>
+</div>
+<script src="/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"></script>
+</body>
+</html>

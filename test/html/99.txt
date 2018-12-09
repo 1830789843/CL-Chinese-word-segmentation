@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>人民日报客户端宣传页--手机媒体--人民网</title>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8"/>
+<meta content="all" name="robots"/>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1"/>
+<meta name="publishedtype" content="1"/>
+<meta name="pagetype" content="2"/>
+<meta name="catalogs" content="365206"/>
+<link href="/img/MAIN/2015/10/115883/page.css" type="text/css" rel="stylesheet" media="all"/>
+<!--[if lte IE 6]>
+<script src="/img/2013lh/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
+<script type="text/javascript">
+DD_belatedPNG.fix('div,ul,img,li,input,a,td,em,h1,h2,h3,h4,h5,h6,em,i,p,span');
+</script>
+<![endif]-->
+</head>
+<body>
+	<div class="w900">
+		<div class="logn clearfix">
+			<div class="icon"></div>
+			<div class="sign">
+				人民日报客户端
+			</div>
+		</div>
+		<div class="explain">
+			<h1>人民日报客户端</h1>
+			<p>2015年10月，人民日报客户端全新改版，推出“政务服务”、“生活服务”等新功能，支持城市定位，根据用户所在城市，提供对应的政务信息、便民缴费、文化娱乐、生活休闲等服务。</p>
+			<p>推出音频、视频、3D动画、直播、话题等多形态产品，呈现形式更加丰富，让权威新闻更立体，即时资讯更“好玩”。</p>
+			<p>“听”“视”频道推出一系列重量级的音视频栏目；“帮”频道增加调查、投票等功能，您只需奉献一“点”爱心，就能汇聚成公益洪流。</p>
+		</div>
+	</div>
+	<!--activity-->
+	<div class="w900">
+		<div class="btn clearfix">
+			<a class="apple" href="http://t.cn/RvaaOrn" alt="Apple下载" title="Apple下载"></a>
+            <a class="android" href="http://rmrbdata.people.com.cn/soft/rmrb.apk" alt="Android下载" title="Android下载"></a>
+		</div>
+		<div class="gift">
+			<h2>欢迎加入人民日报客户端互动交流群</h2>
+			
+            <p class="wx clearfix">
+            <em>客户端用户体验建议、问题反馈、互动交流……<br />请加入人民日报客户端互动交流QQ群：490838935<br /></em>
+
+            </p>
+		</div>
+	</div>
+	<!--copyright-->
+	<div class="copyright">
+	  Copyright &copy; 2015, peoplesdaily,lnc. All Right Reserved
+	</div>
+	<!--QR code-->
+	<div class="fixed">
+		<div class="fixed">
+		<img src="/NMediaFile/2017/0712/MAIN201707121542250668212377525.png" width="109" height="270" border="0"/>
+	</div>
+	</div>
+    
+<script src="/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"></script>
+</body>
+</html>

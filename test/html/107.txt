@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>人民网记者遍全球--人民网</title>
+<meta http-equiv="content-type" content="text/html;charset=GB2312"/>
+<meta http-equiv="Content-Language" content="utf-8" />
+<meta content="all" name="robots" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="filetype" content="1" />
+<meta name="publishedtype" content="1" />
+<meta name="pagetype" content="2" />
+<meta name="catalogs" content="8722" />
+<link href="/img/MAIN/2014/11/114953/page.css" type="text/css" rel="stylesheet" media="all" />
+<script src="/img/MAIN/2013/05/113227/js/swfobject.js" type="text/javascript"></script>
+</head>
+<body>
+<!--header-->
+<div class="header">
+	<div class="w980 clear"><span><a href="http://www.people.com.cn" target="_blank"><img src="/img/MAIN/2014/11/114953/images/logo.jpg" alt="人民网首页" /></a></span><em></em></div>
+</div>
+<!--top-->
+<div class="top clearfix"></div>
+<!--flash-->
+<div class="content">
+	<div class ="w980">
+    <img src="/img/MAIN/2014/11/114953/images/wap.gif" width="980" height="590" usemap="#Map" border="0" />
+    <map name="Map" id="Map">
+      <area shape="rect" coords="155,245,228,275" target="_blank" href="http://www.people.com.cn/GB/8722/11148/index.html" />
+      <area shape="rect" coords="153,285,222,313" target="_blank" href="http://www.people.com.cn/GB/8722/11164/index.html" />
+      <area shape="rect" coords="273,201,334,222" target="_blank" href="http://www.people.com.cn/GB/other3983/4027/index.html" />
+      <area shape="rect" coords="283,224,345,241" target="_blank" href="http://www.people.com.cn/GB/8722/11147/index.html" />
+      <area shape="rect" coords="264,241,330,259" target="_blank" href="http://www.people.com.cn/GB/8722/11148/index.html" />
+      <area shape="rect" coords="265,326,343,359" target="_blank" href="http://www.people.com.cn/GB/other3983/4028/index.html" />
+      <area shape="rect" coords="313,375,371,416" target="_blank" href="http://www.people.com.cn/GB/8722/11152/index.html" />
+      <area shape="rect" coords="274,434,338,470" target="_blank" href="http://www.people.com.cn/GB/other3983/4029/index.html" />
+      <area shape="rect" coords="472,136,532,174" target="_blank" href="http://www.people.com.cn/GB/8722/11154/index.html" />
+      <area shape="poly" coords="421,196,453,197,465,196,469,206,453,213,428,215,422,215" target="_blank" href="http://www.people.com.cn/GB/8722/11157/index.html" />
+      <area shape="poly" coords="450,175,496,175,486,193,484,205,473,206,461,193,455,190" target="_blank" href="http://www.people.com.cn/GB/8722/11156/index.html" />
+      <area shape="rect" coords="505,182,538,205" target="_blank" href="http://www.people.com.cn/GB/8722/11158/index.html" />
+      <area shape="poly" coords="488,195,501,194,502,206,517,211,515,222,496,223,486,223,484,210" target="_blank" href="http://www.people.com.cn/GB/8722/11155/index.html" />
+      <area shape="poly" coords="454,213,454,235,483,236,478,215" target="_blank" href="http://www.people.com.cn/GB/8722/11163/index.html" />
+      <area shape="rect" coords="405,233,459,258" target="_blank" href="http://www.people.com.cn/GB/8722/53911/index.html" />
+      <area shape="rect" coords="491,230,541,261" target="_blank" href="http://www.people.com.cn/GB/other3983/4042/index.html" />
+      <area shape="poly" coords="435,269,436,294,507,293,503,269" target="_blank" href="http://www.people.com.cn/GB/8722/405531/index.html" />
+      <area shape="rect" coords="518,267,554,301" target="_blank" href="http://www.people.com.cn/GB/8722/11144/index.html" />
+      <area shape="rect" coords="505,303,555,329" target="_blank" href="http://www.people.com.cn/GB/8722/212609/index.html" />
+      <area shape="rect" coords="471,326,554,360" target="_blank" href="http://www.people.com.cn/GB/8722/103722/index.html" />
+      <area shape="rect" coords="501,432,566,464" target="_blank" href="http://www.people.com.cn/GB/other3983/4024/index.html" />
+      <area shape="rect" coords="556,151,622,184" target="_blank" href="http://www.people.com.cn/GB/8722/11153/index.html" />
+      <area shape="rect" coords="530,205,592,228" target="_blank" href="http://www.people.com.cn/GB/8722/11159/index.html" />
+      <area shape="rect" coords="553,256,606,277" target="_blank" href="http://www.people.com.cn/GB/other3983/4021/index.html" />
+      <area shape="poly" coords="624,258,624,277,588,277,589,295,645,293,646,259" target="_blank" href="http://www.people.com.cn/GB/8722/11139/index.html" />
+      <area shape="rect" coords="596,198,680,230" target="_blank" href="http://www.people.com.cn/GB/other3983/4018/index.html" />
+      <area shape="rect" coords="697,208,744,230" target="_blank" href="http://www.people.com.cn/GB/other3983/4010/index.html" />
+      <area shape="rect" coords="652,279,693,304" target="_blank" href="http://www.people.com.cn/GB/8722/11138/index.html" />
+      <area shape="rect" coords="772,229,811,252" target="_blank" href="http://www.people.com.cn/GB/8722/11133/index.html" />
+      <area shape="rect" coords="768,252,805,272" target="_blank" href="http://www.people.com.cn/GB/8722/11134/index.html" />
+      <area shape="rect" coords="811,242,856,265" target="_blank" href="http://www.people.com.cn/GB/8722/11135/index.html" />
+      <area shape="rect" coords="685,307,724,342" target="_blank" href="http://www.people.com.cn/GB/8722/11136/index.html" />
+      <area shape="rect" coords="724,304,765,343" target="_blank" href="http://www.people.com.cn/GB/8722/158957/index.html" />
+      <area shape="rect" coords="704,366,753,400" target="_blank" href="http://www.people.com.cn/GB/8722/34110/index.html" />
+      <area shape="rect" coords="776,424,847,464" target="_blank" href="http://www.people.com.cn/GB/8722/11141/index.html" />
+      <area shape="poly" coords="675,271,667,260,661,248,670,233,683,220,685,217,690,228,705,242,714,240,733,241,747,238,753,232,761,225,767,222,767,215,768,203,775,201,781,211,787,218,791,221,766,235,759,248,761,258,764,272,767,281,762,286,754,294,743,297,738,298,724,294,718,300,712,287,711,279" target="_blank" href="http://www.people.com.cn/GB/8196/index.html" />
+    </map>
+
+       <!--<div id="wwdiv"></div>
+        <script type="text/javascript">
+          swfobject.embedSWF("/img/MAIN/2014/11/114953/MyApp.swf?"+Math.random(), "wwdiv", "980", "590", "9.0.0", "",false,{wmode:'transparent'},false);
+          //{wmode:'transparent'}
+        </script>-->
+	</div>
+</div>
+<!--copyright-->
+<div id="copyright">人&nbsp;民&nbsp;网&nbsp;<a href="http://www.people.com.cn/GB/1018/22259/6138836.html" target="_blank">版&nbsp;权&nbsp;所&nbsp;有</a>,&nbsp;未&nbsp;经&nbsp;书&nbsp;面&nbsp;授&nbsp;权&nbsp;禁&nbsp;止&nbsp;使&nbsp;用<br />Copyright &copy; 1997-2018 by www.people.com.cn all rights reserved</div>
+<script src="/css/2010tianrun/webdig_test.js" language="javascript" type="text/javascript"></script>
+</body>
+</html>
