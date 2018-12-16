@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ab298a-6b6c-48b0-8e08-fa8b1b15e8d0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Scrapy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CL-Chinese word segmentation_old.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/wordProbability.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/wordProbability.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ws-a/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/ws-a/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ws-a/testMP.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/ws-a/testMP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ws-a/testMP_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/ws-a/testMP_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,53 +20,17 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/CL_Chinese_word_segmentation$run.coverage" NAME="run Coverage Results" MODIFIED="1543830675099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spiders" />
     <SUITE FILE_PATH="coverage/Scrapy$wordCount.coverage" NAME="wordCount Coverage Results" MODIFIED="1543997454859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/ws-a" />
-    <SUITE FILE_PATH="coverage/Scrapy$testMP.coverage" NAME="testMP Coverage Results" MODIFIED="1544357637240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/ws-a" />
+    <SUITE FILE_PATH="coverage/Scrapy$testMP.coverage" NAME="testMP Coverage Results" MODIFIED="1544714596931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/ws-a" />
     <SUITE FILE_PATH="coverage/CL_Chinese_word_segmentation$testFile.coverage" NAME="testFile Coverage Results" MODIFIED="1543836613267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/scrapy" />
+    <SUITE FILE_PATH="coverage/Scrapy$testMP_2.coverage" NAME="testMP_2 Coverage Results" MODIFIED="1544776092370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/ws-a" />
     <SUITE FILE_PATH="coverage/CL_Chinese_word_segmentation$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1543840144914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testScrapy/spiders" />
     <SUITE FILE_PATH="coverage/CL_Chinese_word_segmentation$testImg.coverage" NAME="testImg Coverage Results" MODIFIED="1543805643749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/scrapy" />
     <SUITE FILE_PATH="coverage/CL_Chinese_word_segmentation$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1543805171816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/scrapy" />
-    <SUITE FILE_PATH="coverage/Scrapy$test.coverage" NAME="test Coverage Results" MODIFIED="1544359254093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/ws-a" />
     <SUITE FILE_PATH="coverage/Scrapy$testTrie.coverage" NAME="testTrie Coverage Results" MODIFIED="1544360563200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/ws-a" />
+    <SUITE FILE_PATH="coverage/Scrapy$test.coverage" NAME="test Coverage Results" MODIFIED="1544700115501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/ws-a" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="process_doc.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql/spiders/process_doc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/ws-a/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testTrie.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/ws-a/testTrie.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testWordCount.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/testWordCount.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,15 +41,35 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>class=&quot;fl text_con_left</find>
+      <find />
       <find>index.txt</find>
       <find>doc_preprocess</find>
       <find>是</find>
       <find>他</find>
-      <find>他</find>
       <find>viterbi</find>
       <find>print</find>
+      <find>今天</find>
+      <find>见</find>
+      <find>有意</find>
+      <find>意见</find>
+      <find>本报讯春节临近</find>
+      <find>春节</find>
+      <find>两次</find>
+      <find>次</find>
+      <find>央</find>
+      <find>两</find>
+      <find>预备费</find>
+      <find>中央</find>
+      <find>平滑</find>
+      <find>两</find>
+      <find>从</find>
+      <find>从:</find>
+      <find>candidate_word_list</find>
+      <find>从中</find>
     </findStrings>
+    <replaceStrings>
+      <replace>candidate_word_dic</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -113,10 +103,12 @@
         <option value="$PROJECT_DIR$/test/wordCount.txt" />
         <option value="$PROJECT_DIR$/test/ws-a/wordCount.py" />
         <option value="$PROJECT_DIR$/test/ws-a/t" />
-        <option value="$PROJECT_DIR$/test/ws-a/testMP.py" />
         <option value="$PROJECT_DIR$/test/ws-a/MP.py" />
-        <option value="$PROJECT_DIR$/test/ws-a/test.py" />
         <option value="$PROJECT_DIR$/test/ws-a/testTrie.py" />
+        <option value="$PROJECT_DIR$/test/ws-a/test.py" />
+        <option value="$PROJECT_DIR$/test/wordProbability.txt" />
+        <option value="$PROJECT_DIR$/test/ws-a/testMP.py" />
+        <option value="$PROJECT_DIR$/test/ws-a/testMP_2.py" />
       </list>
     </option>
   </component>
@@ -129,8 +121,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="760" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-103" />
+    <option name="y" value="-3" />
     <option name="width" value="1022" />
     <option name="height" value="721" />
   </component>
@@ -140,28 +133,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CL-Chinese word segmentation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Scrapy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CL-Chinese word segmentation" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="CL-Chinese word segmentation_old" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CL-Chinese word segmentation_old" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spiders/data/raw/0351.txt" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -189,28 +177,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testTrie">
-    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Scrapy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testScrapy/spiders" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testScrapy/spiders/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.testMP_2">
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Scrapy" />
+      <module name="CL-Chinese word segmentation_old" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -229,7 +198,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="testMP" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Scrapy" />
+      <module name="CL-Chinese word segmentation_old" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -247,8 +216,27 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="testMP_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CL-Chinese word segmentation_old" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/ws-a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/ws-a/testMP_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="testTrie" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Scrapy" />
+      <module name="CL-Chinese word segmentation_old" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -267,7 +255,7 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="wordCount" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Scrapy" />
+      <module name="CL-Chinese word segmentation_old" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -286,19 +274,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.run (1)" />
       <item itemvalue="Python.wordCount" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.testMP" />
       <item itemvalue="Python.testTrie" />
+      <item itemvalue="Python.testMP_2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.testTrie" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.testMP_2" />
         <item itemvalue="Python.testMP" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.testTrie" />
         <item itemvalue="Python.wordCount" />
-        <item itemvalue="Python.run (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -325,29 +313,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50075644" side_tool="true" weight="0.39314845" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.074257426" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.30995107" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.44607842" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32952693" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952693" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -358,26 +346,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="14" />
+      <option name="time" value="15" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testScrapy/spiders/index.txt" />
-    <entry file="file://$PROJECT_DIR$/testScrapy/spiders/doc_model.txt" />
-    <entry file="file://$PROJECT_DIR$/testScrapy/spiders/data/date.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testScrapy/spiders/data/editor.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testScrapy/spiders/word_segment.py" />
-    <entry file="file://D:/MGS_S/python/python3.6.2/Lib/site-packages/twisted/internet/_win32stdio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testScrapy/spiders/data/raw/0000.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -482,16 +454,7 @@
     <entry file="file://$PROJECT_DIR$/mysql/spiders/doc_model.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/ws-a/a.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ws-a/a.py" />
     <entry file="file://$PROJECT_DIR$/mysql/spiders/contentspider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -506,20 +469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/wordProbability.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ACMR_demo-master/models/adv_crossmodal_simple_nuswide.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1292">
           <caret line="244" column="32" lean-forward="true" selection-start-line="244" selection-start-column="32" selection-end-line="244" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -527,9 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1355">
           <caret line="240" column="28" lean-forward="true" selection-start-line="240" selection-start-column="28" selection-end-line="240" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -537,76 +487,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-627">
           <caret line="429" column="48" lean-forward="true" selection-start-line="429" selection-start-column="48" selection-end-line="429" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/adv_crossmodal_simple_wiki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1298">
-          <caret line="517" column="36" lean-forward="true" selection-start-line="517" selection-start-column="36" selection-end-line="517" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/adv_crossmodal_simple_wiki.py" />
     <entry file="file://$USER_HOME$/Desktop/wxx/0-1,2,3,4/待学习文献资料/Adversarial Cross-Modal Retrieval代码（MM2017）/ACMR_demo-master（实现代码）/ACMR_demo-master/models/adv_crossmodal_simple_wiki.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="243" column="49" lean-forward="true" selection-start-line="243" selection-start-column="49" selection-end-line="243" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://H:/实验室/ACMR_demo-master/models/adv_crossmodal_simple_nuswide.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/实验室/ACMR_demo-master/models/adv_crossmodal_simple_wiki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="435" column="37" lean-forward="true" selection-start-line="435" selection-start-column="37" selection-end-line="435" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Yinxiang Biji/Databases/Attachments/adv_crossmodal_triplet_wiki[1].py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Yinxiang Biji/Databases/Attachments/adv_crossmodal_triplet_wiki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7182">
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/wordCount.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="1699" column="6" lean-forward="true" selection-start-line="1699" selection-start-column="6" selection-end-line="1699" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://H:/实验室/ACMR_demo-master/models/adv_crossmodal_simple_nuswide.py" />
+    <entry file="file://H:/实验室/ACMR_demo-master/models/adv_crossmodal_simple_wiki.py" />
+    <entry file="file://$USER_HOME$/Yinxiang Biji/Databases/Attachments/adv_crossmodal_triplet_wiki[1].py" />
+    <entry file="file://$USER_HOME$/Yinxiang Biji/Databases/Attachments/adv_crossmodal_triplet_wiki.py" />
     <entry file="file://$PROJECT_DIR$/test/词性标注%40人民日报199801.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-235">
@@ -614,24 +509,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/ws-a/t">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1501">
-          <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ws-a/t" />
     <entry file="file://$PROJECT_DIR$/test/ws-a/wordCount.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/ws-a/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -642,10 +524,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/ws-a/testMP.py">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testWordCount.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="23" />
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ws-a/testTrie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="116" column="30" selection-start-line="116" selection-start-column="30" selection-end-line="116" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -656,20 +548,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/ws-a/testTrie.py">
+    <entry file="file://$PROJECT_DIR$/test/ws-a/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="72" column="42" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
+        <state relative-caret-position="236">
+          <caret line="152" column="115" selection-start-line="152" selection-start-column="115" selection-end-line="152" selection-end-column="115" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-2016891612/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="481" column="12" lean-forward="true" selection-start-line="481" selection-start-column="12" selection-end-line="481" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/testWordCount.txt">
+    <entry file="file://$PROJECT_DIR$/test/wordProbability.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="20015" column="13" selection-start-line="20015" selection-start-column="13" selection-end-line="20015" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ws-a/testMP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="101" column="16" selection-start-line="101" selection-start-column="16" selection-end-line="101" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/wordCount.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="327" column="2" selection-start-line="327" selection-end-line="327" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/word_dic0.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1443188" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ws-a/testMP_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="294" column="15" lean-forward="true" selection-start-line="294" selection-start-column="15" selection-end-line="294" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/train%40人民日报199801.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="12053" column="44" lean-forward="true" selection-start-line="12053" selection-start-column="44" selection-end-line="12053" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/word_dic.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <caret line="3637" column="26" lean-forward="true" selection-start-line="3637" selection-start-column="26" selection-end-line="3637" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/result_4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="55" column="10" lean-forward="true" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
         </state>
       </provider>
     </entry>

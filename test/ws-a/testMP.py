@@ -144,6 +144,7 @@ def find_best_left_word(left_word_list, word_list):
 					max_probability = float(word_list[key]) * float(word_list[cur_left_word])
 					best_left_word = cur_left_word
 			best_left_word_list[key] = str(max_probability) + "++" + best_left_word
+	print(best_left_word_list)
 	return best_left_word_list
 
 
@@ -184,28 +185,28 @@ get_word_dic()
 # 使用正则表达式。将所有句子根据各种标点符号划分。有可能句子前后都有标点。则判断整行前有没有标点，剩下的在句子后判断
 pattern = r',|\.|/|;|\'|`|\[|\]|<|>|\?|:|"|\{|\}|\~|!|@|#|\$|%|\^|&|\(|\)|-|=|\_|\+|，|。|、|；|‘|’|【|】|！| |…|（|）|●'
 
-with open("../test.txt", "r", encoding="gbk") as file:
-	with open("../result_3.txt", 'w') as result_file:
-		test_text = file.read()
-		# 按照每一行处理
-		for line in test_text.split("\n"):
-			# 如果该行不为空，且第一位为标点，则写入文件
-			if line != "" and pattern.find(line[0]) != -1:
-				result_file.write(line[0] + " ")
-			sentence_list = re.split(pattern, line[0: line.__len__()])
-			for sentence in sentence_list:
-				if sentence == "" or sentence == "\n":
-					continue
-				result_file.write(segmentation(sentence))
-				index = line.find(sentence)
-				len = sentence.__len__()
-				punctuation = line[index+len:index+len+1]
-				if punctuation != " ":
-					result_file.write(" ")
-					result_file.write(punctuation)
-				result_file.write(" ")
-			result_file.write("\n")
+# with open("../test.txt", "r", encoding="gbk") as file:
+# 	with open("../result_3.txt", 'w') as result_file:
+# 		test_text = file.read()
+# 		# 按照每一行处理
+# 		for line in test_text.split("\n"):
+# 			# 如果该行不为空，且第一位为标点，则写入文件
+# 			if line != "" and pattern.find(line[0]) != -1:
+# 				result_file.write(line[0] + " ")
+# 			sentence_list = re.split(pattern, line[0: line.__len__()])
+# 			for sentence in sentence_list:
+# 				if sentence == "" or sentence == "\n":
+# 					continue
+# 				result_file.write(segmentation(sentence))
+# 				index = line.find(sentence)
+# 				len = sentence.__len__()
+# 				punctuation = line[index+len:index+len+1]
+# 				if punctuation != " ":
+# 					result_file.write(" ")
+# 					result_file.write(punctuation)
+# 				result_file.write(" ")
+# 			result_file.write("\n")
 
 # print(segmentation("认真汲取东南亚金融风波教训"))
-# print(segmentation("他们有意见分歧"))
+print(segmentation("他们有意见分歧"))
 # print(segmentation("这次会议是１２日召开的。"))

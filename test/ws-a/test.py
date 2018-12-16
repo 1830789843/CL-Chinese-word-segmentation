@@ -128,23 +128,28 @@ print(dic.keys())
 
 # 获取所有标点符号等
 # 定义标点符号列表
-punctuation_list = []
-with open("../词性标注%40人民日报199801.txt", 'r', encoding='utf-8') as file:
-	content = file.read()
-	for line in content.split("\n"):
-		index = line.find("/w")
-		part = line[index-1: index]
-		if part not in punctuation_list:
-			punctuation_list.append(part)
-		print(part)
+# punctuation_list = []
+# with open("../词性标注%40人民日报199801.txt", 'r', encoding='utf-8') as file:
+# 	content = file.read()
+# 	for line in content.split("\n"):
+# 		index = line.find("/w")
+# 		part = line[index-1: index]
+# 		if part not in punctuation_list:
+# 			punctuation_list.append(part)
+# 		print(part)
+#
+# print(punctuation_list)
 
-print(punctuation_list)
+# 测试global的用法
+# s = 7
+#
+# def test():
+# 	global s
+# 	print(s)
+#
+# test()
 
-s = 7
-
-
-def test():
-	global s
-	print(s)
-
-test()
+# 对字典按键排序
+candidate_word_list = {'0 他们': [], '2 有意': ['0 他们'], '4 见': ['2 有意'], '5 分歧': ['4 见', '3 意见'], '3 意见': ['2 有'], '2 有': ['0 他们']}
+sorted(candidate_word_list.keys())
+print(sorted(candidate_word_list.keys()))
